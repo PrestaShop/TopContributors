@@ -1,0 +1,42 @@
+@import '~bourbon/app/assets/stylesheets/_bourbon.scss';
+
+$grid-columns: 10;
+
+$brand-primary: #df0067;
+$brand-info: #23b9d6;
+
+$container-max-widths: (
+  sm: rem(780px),
+  md: rem(782px),
+  lg: rem(784px),
+  xl: rem(786px)
+);
+
+@import '~bootstrap/scss/bootstrap.scss';
+
+@font-face {
+  font-family: 'MontserratLight';
+  src: url(resources/Montserrat-Hairline.otf);
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  background: #353535;
+  color: #000;
+}
+
+@import 'titles';
+@import 'header';
+@import 'footer';
+@import 'components';
+
+.main-content {
+  border-radius: 5px;
+  background-color: #ffffff;
+  box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.53);
+}
+
+@import 'section_1';
+@import 'transition';
+@import 'section_2';

@@ -1,0 +1,32 @@
+h1, h2, h3, h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  color: #ffffff;
+  text-shadow: rem(1px) rem(1px) rem(3px) rgba(0, 0, 0, 0.56);
+  font-size: rem(36px);
+  margin: {
+    top: rem(114px);
+    bottom: 0;
+  }
+}
+
+h2, h3, h4 {
+  letter-spacing: rem(0.2px);
+  padding: rem(42px) 0;
+
+  &.small-margin {
+    padding: rem(30px) 0;
+  }
+}
+
+h2 {
+  font-size: rem(20px);
+}
+h3 {
+  font-size: rem(16px);
+}
+h4 {
+  font-size: rem(22px);
+}

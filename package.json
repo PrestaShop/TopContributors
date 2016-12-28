@@ -9,6 +9,10 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "bootstrap": "^4.0.0-alpha.4",
+    "bourbon": "^4.2.7",
+    "node-sass": "^4.1.1",
+    "sass-loader": "^4.1.1",
     "vue": "^2.1.0"
   },
   "devDependencies": {

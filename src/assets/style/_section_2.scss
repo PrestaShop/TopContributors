@@ -1,0 +1,105 @@
+@mixin progress {
+  .progress {
+    width: auto;
+    background: #d0d0d0;
+    height: rem(4px);
+    border-radius: rem(4px);
+    margin: {
+      top: rem(11px);
+      bottom: 0;
+    }
+
+    > .value {
+      height: 100%;
+      @include linear-gradient(to right, rgba(35, 184, 214, 0.6), $brand-info);
+      border-radius: rem(4px);
+    }
+  }
+}
+
+.translation-progress {
+  margin-bottom: rem(30px);
+
+  .position {
+    font-family: 'Montserrat', sans-serif;
+    font-size: rem(20px);
+    color: $brand-primary;
+  }
+
+  .flag-line {
+    > .flag {
+      width: rem(30px);
+      margin: {
+        top: rem(-5px);
+        right: rem(8px);
+      }
+    }
+
+    > .name {
+      font-size: rem(16px);
+      letter-spacing: rem(0.2px);
+      color: #2f2f2f;
+      font-weight: 600;
+      vertical-align: bottom;
+    }
+
+    > .percent {
+      font-family: 'MontserratLight', sans-serif;
+      font-size: rem(22px);
+      color: #191919;
+      float: right;
+      margin-top: rem(-4px);
+    }
+  }
+
+  @include progress;
+}
+
+.small-flag, .full-flag {
+  margin-top: rem(31px);
+
+  > img {
+    width: rem(44px);
+  }
+  > .name {
+    font-size: rem(14px);
+    font-weight: 600;
+  }
+  > .percent {
+    font-family: 'MontserratLight', sans-serif;
+    font-size: rem(18px);
+    color: #191919;
+  }
+}
+
+.full-flag {
+  position: relative;
+  margin: {
+    top: 0;
+    bottom: rem(31px);
+  }
+
+  > img {
+    width: rem(60px);
+  }
+  > .percent {
+    font-size: rem(20px);
+    font-weight: 300;
+  }
+
+  @include progress;
+  .progress {
+    margin: rem(4px) rem(13px);
+  }
+
+  &:after {
+    position: absolute;
+    top: rem(-8px);
+    right: rem(30px);
+    display: block;
+    content: '';
+    background: url('resources/tick.png');
+    width: rem(36px);
+    height: rem(36px);
+  }
+}

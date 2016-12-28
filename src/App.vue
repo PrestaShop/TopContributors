@@ -1,28 +1,18 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <hello></hello>
+    <topContributors></topContributors>
   </div>
 </template>
 
 <script>
-import Hello from './components/Hello'
+import TopContributors from './components/TopContributors'
 
 export default {
   name: 'app',
   components: {
-    Hello
+    TopContributors
   }
 }
 </script>
 
-<style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
+<style lang="scss" src="./assets/style/theme.scss"></style>
