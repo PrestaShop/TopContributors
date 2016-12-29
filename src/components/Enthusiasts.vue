@@ -1,8 +1,6 @@
 <template>
     <div>
-        <header-component/>
         <div>this is "Enthusiasts" template body</div>
-        <other-component/>
     </div>
 </template>
 

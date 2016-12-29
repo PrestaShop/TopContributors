@@ -1,6 +1,5 @@
 <template>
     <div>
-        <header-component/>
         <div>this is "Experts" template body</div>
     </div>
 </template>
