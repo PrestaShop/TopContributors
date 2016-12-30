@@ -15,11 +15,9 @@
                 <top-avatar v-for="contributor in rightContributors" v-bind:contributor="contributor"></top-avatar>
             </div>
         </div>
+        <see-more></see-more>
     </div>
 </template>
-
-<style>
-</style>
 
 <script>
     // Main components
@@ -30,6 +28,7 @@
     // UI components
     import ArrowComponent from './ui/Arrow.vue'
     import TopAvatarComponent from './ui/TopAvatar.vue'
+    import SeeMoreComponent from './ui/SeeMore.vue'
 
     export default{
         name: 'topContributors',
@@ -408,7 +407,8 @@
             'Enthusiasts': EnthusiastsComponent,
             'Beginners': BeginnersComponent,
             'arrow': ArrowComponent,
-            'top-avatar': TopAvatarComponent
+            'top-avatar': TopAvatarComponent,
+            'see-more': SeeMoreComponent
         }
     }
 </script>

@@ -4,11 +4,9 @@
     </div>
 </template>
 
-<style>
-</style>
-
 <script>
     export default{
+        name: 'Experts',
         data(){
             return{
                 msg:'hello vue'
