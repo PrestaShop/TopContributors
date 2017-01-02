@@ -37,7 +37,7 @@ export default{
             return this.contributor.blog !== '' ? this.contributor.blog : false;
         },
         contributorGitHubLink: function() {
-            return this.contributor.url !== '' ? this.contributor.url : false;
+            return this.contributor.html_url !== '' ? this.contributor.html_url : false;
         }
     }
 }
