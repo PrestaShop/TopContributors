@@ -1,5 +1,5 @@
 <template>
-    <div id="top-translators" class="row main-content">
+    <div id="top-contributors" class="row main-content">
         <div>
             <div class="col-md-10">
                 <h2 class="text-md-center">Top contributors:</h2>
@@ -15,17 +15,11 @@
                 <top-avatar v-for="contributor in rightContributors" v-bind:contributor="contributor"></top-avatar>
             </div>
         </div>
-        <see-more></see-more>
+        <see-more v-bind:contributors="contributors"></see-more>
     </div>
 </template>
 
 <script>
-    // Main components
-    import ExpertsComponent from './Experts.vue'
-    import EnthusiastsComponent from './Enthusiasts.vue'
-    import BeginnersComponent from './Beginners.vue'
-
-    // UI components
     import ArrowComponent from './ui/Arrow.vue'
     import TopAvatarComponent from './ui/TopAvatar.vue'
     import SeeMoreComponent from './ui/SeeMore.vue'
@@ -59,7 +53,6 @@
                     if (index % 2) {
                         return;
                     }
-                    contributor.rank = index+1;
                     leftContributors.push(contributor);
                 });
 
@@ -69,7 +62,6 @@
                 let rightContributors = [];
                 this.topContributors.forEach((contributor, index) => {
                     if (index % 2) {
-                        contributor.rank = index+1;
                         rightContributors.push(contributor);
                     }
                 });
@@ -78,22 +70,23 @@
             },
         },
         components:{
-            'Experts':ExpertsComponent,
-            'Enthusiasts': EnthusiastsComponent,
-            'Beginners': BeginnersComponent,
             'arrow': ArrowComponent,
             'top-avatar': TopAvatarComponent,
             'see-more': SeeMoreComponent
         },
         methods: {
             fetchData: function () {
-                var self = this;
-                var req = new XMLHttpRequest();
+                let self = this;
+                let req = new XMLHttpRequest();
                 req.open('GET', 'http://localhost:9615', true);
 
                 req.onreadystatechange = function () {
                     if (req.status >= 200 && req.status < 400 && req.readyState == 4) {
-                        self.contributors = JSON.parse(req.responseText);
+                        let contributors = JSON.parse(req.responseText);
+                        contributors.forEach((contributor, index) => {
+                            contributor.rank = ++index;
+                            self.contributors.push(contributor);
+                        });
                     }
                 }
 

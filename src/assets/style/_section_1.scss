@@ -50,7 +50,7 @@
   }
 }
 
-#top-translators {
+#top-contributors {
   h2 {
     padding-bottom: 0;
     margin-bottom: rem(4px);
@@ -67,9 +67,9 @@
   }
 }
 
-$color-pionner: #df0067;
-$color-explorer: #280f44;
-$color-adventurer: #23b9d6;
+$color-expert: #df0067;
+$color-enthusiasts: #280f44;
+$color-beginners: #23b9d6;
 $color-backpacker: #fbbb21;
 $color-traveler: #b29cd8;
 
@@ -235,7 +235,7 @@ $color-traveler: #b29cd8;
   }
 }
 
-#all-translators {
+#all-contributors {
   .title {
     font-family: 'Montserrat', sans-serif;
     height: rem(34px);
@@ -260,9 +260,9 @@ $color-traveler: #b29cd8;
     margin-top: rem(30px);
   }
 
-  .pioneer { background: $color-pionner; .position { color: $color-pionner; } }
-  .explorer { background: $color-explorer; .position { color: $color-explorer; } }
-  .adventurer { background: $color-adventurer; .position { color: $color-adventurer; } }
+  .enthusiasts { background: $color-enthusiasts; .position { color: $color-enthusiasts; } }
+  .experts { background: $color-expert; .position { color: $color-expert; } }
+  .beginners { background: $color-beginners; .position { color: $color-beginners; } }
   .backpacker { background: $color-backpacker; .position { color: $color-backpacker; } }
   .traveler { background: $color-traveler; .position { color: $color-traveler; } }
 }
