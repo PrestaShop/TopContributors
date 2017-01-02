@@ -3,7 +3,7 @@
         <div>
             <div class="col-md-10">
                 <h2 class="text-md-center">Top contributors:</h2>
-                <div class="text-md-center date">Last update: <strong>{{ date }}</strong></div>
+                <div class="text-md-center date">Last update: <strong>{{ today }}</strong></div>
             </div>
             <div class="col-md-4">
                 <top-avatar v-for="contributor in leftContributors" v-bind:contributor="contributor"></top-avatar>
@@ -28,7 +28,6 @@
         name: 'topContributors',
         data(){
             return{
-                date:'1st fo January, 2017',
                 contributors: []
             }
         },
@@ -68,6 +67,12 @@
 
                 return rightContributors;
             },
+            today: function() {
+                let date = new Date();
+                let options = { year: 'numeric', month: 'long', day: 'numeric' };
+
+                return date.toLocaleDateString('en-US', options);
+            }
         },
         components:{
             'arrow': ArrowComponent,
