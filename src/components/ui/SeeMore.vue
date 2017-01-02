@@ -33,13 +33,21 @@
         },
         computed: {
             experts: function () {
-                return this.contributors.slice(11, 15);
+                return this.contributors.filter((contributor) => {
+                    return contributor.rank > 10 & contributor.contributions > 25;
+                });
             },
             enthusiasts: function () {
-                return this.contributors.slice(16, 30);
+                return this.contributors.filter((contributor) => {
+                    return contributor.rank > 10 &
+                    contributor.contributions <= 25 &
+                    contributor.contributions > 5;
+                });
             },
             beginners: function () {
-                return this.contributors.slice(31);
+                return this.contributors.filter((contributor) => {
+                    return contributor.rank > 10 & contributor.contributions <= 5;
+                });
             }
         },
         props: [

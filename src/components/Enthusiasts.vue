@@ -1,6 +1,6 @@
 <template>
     <div>
-        <section-header category="enthusiasts" title="Enthusiasts (5 to 30 contrib.)" v-bind:stars="2"></section-header>
+        <section-header category="enthusiasts" title="Enthusiasts (5 to 25 contrib.)" v-bind:stars="2"></section-header>
         <avatar v-for="contributor in contributors" v-bind:contributor="contributor"></avatar>
     </div>
 </template>
