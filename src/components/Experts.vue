@@ -1,7 +1,9 @@
 <template>
     <div>
         <section-header category="experts" title="Experts (More than 25 contrib.)" v-bind:stars="3"></section-header>
-        <avatar v-for="contributor in contributors" v-bind:contributor="contributor"></avatar>
+        <div class="col-md-10">
+            <avatar v-for="contributor in contributors" v-bind:contributor="contributor" category="rank-experts"></avatar>
+        </div>
     </div>
 </template>
 

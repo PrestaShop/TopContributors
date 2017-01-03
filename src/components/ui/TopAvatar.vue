@@ -5,8 +5,8 @@
         </div>
         <div class="details">
             <div class="position">#{{ contributor.rank }}</div>
-            <div class="name">{{ contributor.name }}</div>
-            <div class="info">{{ contributor.login }}</div>
+            <div class="name">{{ contributorName }}</div>
+            <div class="info"><a :href="contributorBlogLink">{{ contributor.login }}</a></div>
             <div class="links">
                 <a v-if="contributorBlogLink" :href="contributorBlogLink">
                     <svg class="icon icon-link" fill="#000000" height="24" viewBox="0 0 24 24" width="24" transform="rotate(-45)">
@@ -29,10 +29,19 @@
 </template>
 
 <script>
+import TopAvatar from './TopAvatar.vue'
 export default{
+
     name: 'top-avatar',
     props: ['contributor'],
     computed: {
+        contributorName: function() {
+            let name = this.contributor.name ? this.contributor.name : this.contributor.login;
+            if (name.length >= 21) {
+                return name.substr(0, 21) +' (..)';
+            }
+            return name;
+        },
         contributorBlogLink: function() {
             return this.contributor.blog !== '' ? this.contributor.blog : false;
         },

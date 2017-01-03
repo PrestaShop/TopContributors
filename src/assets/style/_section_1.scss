@@ -70,8 +70,6 @@
 $color-expert: #df0067;
 $color-enthusiasts: #280f44;
 $color-beginners: #23b9d6;
-$color-backpacker: #fbbb21;
-$color-traveler: #b29cd8;
 
 .contributor {
   .avatar {
@@ -125,6 +123,47 @@ $color-traveler: #b29cd8;
   }
 }
 
+#newbie-contributors-list {
+  column-count: 2;
+  margin-top: rem(20px);
+  margin-bottom: rem(20px);
+  padding-left: rem(20px);
+  padding-right: rem(20px);
+  column-rule: 1px solid #353535;
+  column-gap : 3rem;
+}
+
+.newbie-contributor {
+  font-size: rem(13px);
+  list-style-type: none;
+  margin-bottom: rem(15px);
+  .avatar {
+    > img {
+      width: rem(25px);
+      height: rem(25px);
+      border-radius: rem(25px);
+      box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.5);
+    }
+    display: inline;
+    margin-right: rem(10px);
+    padding-top: rem(48px);
+  }
+  .name {
+    display: inline;
+  }
+  .position {
+    display: inline-block;
+    width: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: rem(13px);
+  }
+  .contributions {
+    display: inline;
+    float: right;
+  }
+}
+
 .top-contributor {
   position: relative;
   margin-top: rem(74px);
@@ -134,16 +173,6 @@ $color-traveler: #b29cd8;
     display: block;
     content: " ";
     height: 0;
-  }
-
-  .flag {
-    position: relative;
-    width: rem(18px);
-    margin: {
-      top: rem(-2px);
-      left: rem(4px);
-      right: rem(4px);
-    }
   }
 
   &:first-child {
@@ -260,9 +289,10 @@ $color-traveler: #b29cd8;
     margin-top: rem(30px);
   }
 
+  .rank-experts { color: $color-expert;}
+  .rank-enthusiasts { color: $color-enthusiasts;}
+  .rank-beginners { color: $color-beginners;}
   .enthusiasts { background: $color-enthusiasts; .position { color: $color-enthusiasts; } }
   .experts { background: $color-expert; .position { color: $color-expert; } }
   .beginners { background: $color-beginners; .position { color: $color-beginners; } }
-  .backpacker { background: $color-backpacker; .position { color: $color-backpacker; } }
-  .traveler { background: $color-traveler; .position { color: $color-traveler; } }
 }
