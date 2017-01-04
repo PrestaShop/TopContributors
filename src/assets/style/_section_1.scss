@@ -264,6 +264,18 @@ $color-beginners: #23b9d6;
   }
 }
 
+.beginners-pagination {
+  margin-bottom: rem(15px);
+  span {
+    display: inline-block;
+    margin-left: rem(8px);
+    margin-right: rem(8px);
+    a:visited {
+      color: #000;
+    }
+  }
+}
+
 #all-contributors {
   .title {
     font-family: 'Montserrat', sans-serif;
