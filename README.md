@@ -1,6 +1,6 @@
-# top-contributors
+# TopContributors
 
-> A website to thank every PrestaShop contributor
+A website to thank every PrestaShop contributor
 
 ## Build Setup
 
@@ -13,6 +13,16 @@ npm run dev
 
 # build for production with minification
 npm run build
+
+# launch server to get the contributors list
+node server.js
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+To generate the required ``contributors.js`` use **traces** project:
+
+```
+composer create-project prestashop/traces
+./traces/traces PrestaShop/PrestaShop GitHubLogin GitHubPassword --config="./traces/config.yml.dist"
+```
+
+
