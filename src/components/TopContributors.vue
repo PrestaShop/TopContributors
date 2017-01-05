@@ -5,7 +5,7 @@
                 <h2 class="text-md-center">Top contributors:</h2>
                 <div class="text-md-center date">Last update: <strong>{{ today }}</strong></div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 left-column">
                 <top-avatar v-for="contributor in leftContributors" v-bind:contributor="contributor"></top-avatar>
             </div>
             <div class="col-md-2">

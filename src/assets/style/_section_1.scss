@@ -204,7 +204,10 @@ $color-beginners: #23b9d6;
 
     .links {
       margin-top: rem(10px);
-
+      a {
+        display: inline-block;
+        width: rem(24px);
+      }
       .icon {
         margin-left: rem(9px);
 
@@ -219,9 +222,10 @@ $color-beginners: #23b9d6;
   }
 
   .dots {
+    width:rem(50px);
     position: absolute;
     top: rem(60px);
-    right: rem(-26px);
+    right: rem(-40px);
 
     .dot {
       display: inline-block;
@@ -255,9 +259,18 @@ $color-beginners: #23b9d6;
     }
     .links {
       .icon {
-        margin: {
+        float: left;
+        text-align: left;
+        position: relative;
+        width: rem(24px);
+        &.icon-github {
+          margin-left: rem(-3px);
+        }
+        &.icon-link {
           left: 0;
-          right: rem(9px);
+          top: rem(3px);
+          margin-top: rem(-6px);
+          margin-left: 0;
         }
       }
     }
