@@ -13,9 +13,6 @@ npm run dev
 
 # build for production with minification
 npm run build
-
-# launch server to get the contributors list
-node server.js
 ```
 
 To generate the required ``contributors.js`` use **traces** project:
