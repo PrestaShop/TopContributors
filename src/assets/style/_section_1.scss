@@ -166,7 +166,7 @@ $color-beginners: #23b9d6;
 
 .top-contributor {
   position: relative;
-  margin-top: rem(74px);
+  margin-top: 3.625rem;
 
   &:after {
     clear: both;
@@ -270,6 +270,8 @@ $color-beginners: #23b9d6;
     display: inline-block;
     margin-left: rem(8px);
     margin-right: rem(8px);
+    font-weight: 600;
+    font-size: rem(14px);
     a:visited {
       color: #000;
     }

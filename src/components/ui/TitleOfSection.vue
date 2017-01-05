@@ -1,5 +1,6 @@
 <template>
-    <div :class="renderClasses">{{ title }}</div>
+    <div :class="renderClasses">
+        <img v-for="i in stars" src="./../../assets/img/star.png"> {{ title }} <img v-for="i in stars" src="./../../assets/img/star.png"></div>
 </template>
 <style>
 
