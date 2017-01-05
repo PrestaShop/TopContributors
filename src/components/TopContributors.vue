@@ -83,7 +83,7 @@
             fetchData: function () {
                 let self = this;
                 let req = new XMLHttpRequest();
-                req.open('GET', 'http://localhost:9615', true);
+                req.open('GET', './static/contributors.js', true);
 
                 req.onreadystatechange = function () {
                     if (req.status >= 200 && req.status < 400 && req.readyState == 4) {
