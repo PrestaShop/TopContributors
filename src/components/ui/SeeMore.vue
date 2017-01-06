@@ -58,7 +58,8 @@
                 let sees = document.querySelectorAll('.see-more');
                 let contributorsBlock = document.querySelector('#all-contributors');
 
-                sees.map((see) => {
+                for (var i = 0; i < sees.length; i++) {
+                    let see = sees[i];
                     if (see.classList.contains('open')) {
                         contributorsBlock.classList.add('collapse');
                         see.classList.remove('open');
@@ -66,9 +67,7 @@
                         contributorsBlock.classList.remove('collapse');
                         see.classList.add('open');
                     }
-                });
-
-
+                }
             }
         }
     }
