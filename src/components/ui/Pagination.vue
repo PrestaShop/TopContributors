@@ -3,6 +3,7 @@
         <span v-for="(page, index) in pages"><a v-on:click.prevent="select(index)" href="#" :class="isActive(index)">{{ index +1 }}</a></span>
     </div>
 </template>
+
 <script>
     export default{
         name: 'pagination',

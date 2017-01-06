@@ -19,7 +19,6 @@
 </template>
 
 <script>
-    // Main components
     import ExpertsComponent from './../Experts.vue'
     import EnthusiastsComponent from './../Enthusiasts.vue'
     import BeginnersComponent from './../Beginners.vue'

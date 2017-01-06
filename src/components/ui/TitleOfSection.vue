@@ -2,9 +2,7 @@
     <div :class="renderClasses">
         <img v-for="i in stars" src="./../../assets/img/star.png"> {{ title }} <img v-for="i in stars" src="./../../assets/img/star.png"></div>
 </template>
-<style>
 
-</style>
 <script>
     export default{
         name: 'section-header',
