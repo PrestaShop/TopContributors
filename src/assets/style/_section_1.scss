@@ -286,8 +286,11 @@ $color-beginners: #23b9d6;
     margin-right: rem(8px);
     font-weight: 600;
     font-size: rem(14px);
-    a:visited {
+    a, a:visited, a:hover {
       color: #000;
+      &.active {
+        color: $color-beginners;
+      }
     }
   }
 }
