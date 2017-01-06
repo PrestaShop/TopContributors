@@ -315,6 +315,13 @@ $color-beginners: #23b9d6;
       }
     }
   }
+  .links {
+    display: inline;
+    font-size: rem(12px);
+    img {
+      width: rem(10px);
+    }
+  }
 
   &:after {
     margin-top: rem(30px);
