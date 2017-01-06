@@ -58,7 +58,7 @@
                 let sees = document.querySelectorAll('.see-more');
                 let contributorsBlock = document.querySelector('#all-contributors');
 
-                sees.forEach((see) => {
+                sees.map((see) => {
                     if (see.classList.contains('open')) {
                         contributorsBlock.classList.add('collapse');
                         see.classList.remove('open');

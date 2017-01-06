@@ -37,7 +37,7 @@
         computed: {
             counts: function () {
                 let counts = [];
-                this.topContributors.forEach((contributor) => {
+                this.topContributors.map((contributor) => {
                    counts.push(contributor.contributions);
                 });
 
@@ -48,7 +48,7 @@
             },
             leftContributors: function() {
                 let leftContributors = [];
-                this.topContributors.forEach((contributor, index) => {
+                this.topContributors.map((contributor, index) => {
                     if (index % 2) {
                         return;
                     }
@@ -59,7 +59,7 @@
             },
             rightContributors: function() {
                 let rightContributors = [];
-                this.topContributors.forEach((contributor, index) => {
+                this.topContributors.map((contributor, index) => {
                     if (index % 2) {
                         rightContributors.push(contributor);
                     }
@@ -88,7 +88,7 @@
                 req.onreadystatechange = function () {
                     if (req.status >= 200 && req.status < 400 && req.readyState == 4) {
                         let contributors = JSON.parse(req.responseText);
-                        contributors.forEach((contributor, index) => {
+                        contributors.map((contributor, index) => {
                             contributor.rank = ++index;
                             self.contributors.push(contributor);
                         });
