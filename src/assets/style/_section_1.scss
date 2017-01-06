@@ -145,7 +145,7 @@ $color-beginners: #23b9d6;
       box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.5);
     }
     display: inline;
-    margin-right: rem(10px);
+    margin-right: rem(12px);
     padding-top: rem(48px);
   }
   .name {
@@ -182,8 +182,9 @@ $color-beginners: #23b9d6;
   .avatar {
     float: right;
     margin-left: rem(20px);
-    margin-right: rem(10px);
+    margin-right: rem(15px);
     padding-top: rem(48px);
+    padding-left: rem(5px);
   }
 
   .details {
