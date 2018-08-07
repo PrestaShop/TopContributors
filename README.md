@@ -19,7 +19,8 @@ To generate the required ``contributors.js`` use **traces** project:
 
 ```
 composer create-project prestashop/traces
-./traces/traces PrestaShop/PrestaShop GitHubLogin GitHubPassword --config="./traces/config.yml.dist"
+./traces/traces PrestaShop/PrestaShop GitHubLogin GitHubPassword --config="./traces/config.dist.yml"
 ```
 
+Then place the file `contributors.js` into the folder named `static`.
 

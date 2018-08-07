@@ -1,6 +1,15 @@
 <template>
     <div :class="renderClasses">
-        <img v-for="i in stars" src="./../../assets/img/star.png"> {{ title }} <img v-for="i in stars" src="./../../assets/img/star.png"></div>
+        <img
+            v-for="i in stars"
+            :key="i.title"
+            src="./../../assets/img/star.png"
+        > {{ title }}
+        <img
+            v-for="i in stars"
+            :key="i.title"
+            src="./../../assets/img/star.png"
+        ></div>
 </template>
 
 <script>
@@ -22,7 +31,7 @@
         },
         computed: {
             renderClasses: function() {
-                return 'col-md-10 title '+ this.category;
+                return 'col-md-12 title '+ this.category;
             }
         }
     }

@@ -12,20 +12,20 @@ header {
   box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.5);
 
   .white-text {
-    font-size: rem(16px);
+    font-size: 18px;
     margin: {
-      top: rem(18px);
-      bottom: rem(18px);
+      top: 18px;
+      bottom: 18px;
     }
   }
 
   .btn {
-    margin-top: rem(12px);
+    margin-top: 12px;
   }
 }
 
 .main-content:first-child {
-  margin-top: rem(-85px);
+  margin-top: -85px;
 }
 .gray-text {
   color: #797979;

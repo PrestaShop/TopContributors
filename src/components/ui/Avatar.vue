@@ -1,5 +1,5 @@
 <template>
-    <div class="col-md-2 contributor simple-contributor">
+    <div class="col-2 contributor simple-contributor">
         <div class="avatar">
             <img :src="contributor.avatar_url" />
         </div>

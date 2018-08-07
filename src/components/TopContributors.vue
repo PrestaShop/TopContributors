@@ -1,18 +1,26 @@
 <template>
-    <div id="top-contributors" class="row main-content">
-        <div>
-            <div class="col-md-10">
-                <h2 class="text-md-center">Top contributors:</h2>
-                <div class="text-md-center date">Last update: <strong>{{ today }}</strong></div>
+    <div id="top-contributors" class="main-content">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="text-center">Top contributors:</h2>
+                <div class="text-center date">Last update: <strong>{{ today }}</strong></div>
             </div>
-            <div class="col-md-4 left-column">
-                <top-avatar v-for="contributor in leftContributors" v-bind:contributor="contributor"></top-avatar>
+            <div class="col-5 left-column">
+                <top-avatar
+                    v-for="contributor in leftContributors"
+                    v-bind:contributor="contributor"
+                    :key="contributor.login"
+                ></top-avatar>
             </div>
             <div class="col-md-2">
                 <arrow v-bind:counts="counts"></arrow>
             </div>
-            <div class="col-md-4 right-column">
-                <top-avatar v-for="contributor in rightContributors" v-bind:contributor="contributor"></top-avatar>
+            <div class="col-md-5 right-column">
+                <top-avatar
+                    v-for="contributor in rightContributors"
+                    v-bind:contributor="contributor"
+                    :key="contributor.login"
+                ></top-avatar>
             </div>
         </div>
         <see-more v-bind:contributors="contributors"></see-more>

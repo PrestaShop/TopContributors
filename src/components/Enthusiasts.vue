@@ -1,8 +1,13 @@
 <template>
     <div>
         <section-header category="enthusiasts" title="Enthusiasts (6 to 25 contrib.)" v-bind:stars="2"></section-header>
-        <div class="col-md-10">
-            <avatar v-for="contributor in contributors" v-bind:contributor="contributor" category="rank-enthusiasts"></avatar>
+        <div class="row col-10 offset-1">
+            <avatar
+                v-for="contributor in contributors"
+                v-bind:contributor="contributor"
+                category="rank-enthusiasts"
+                :key="contributor.login"
+            ></avatar>
         </div>
     </div>
 </template>
