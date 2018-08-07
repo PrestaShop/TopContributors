@@ -1,15 +1,15 @@
 footer {
-  padding-bottom: rem(95px);
+  padding-bottom: 95px;
 
   .white-title {
-    margin-top: rem(45px);
-    line-height: rem(30px);
+    margin-top: 45px;
+    line-height: 30px;
   }
   .white-text {
-    margin-top: rem(18px);
+    margin-top: 18px;
   }
   .btn {
-    margin-top: rem(25px);
+    margin-top: 25px;
 
     &.large-padding {
       padding: {
@@ -22,19 +22,19 @@ footer {
   .share, .build-link {
     font-family: 'MontserratLight', sans-serif;
     font-weight: 300;
-    font-size: rem(16px);
+    font-size: 16px;
     color: #fff;
   }
 
   .share {
     > span {
-      margin-right: rem(10px);
+      margin-right: 10px;
     }
 
     > a {
       margin: {
-        left: rem(3px);
-        right: rem(3px);
+        left: 3px;
+        right: 3px;
       }
     }
   }
@@ -55,15 +55,15 @@ footer {
     > img {
       position: absolute;
       left: 50%;
-      margin-left: rem(-95px);
-      top: rem(75px);
+      margin-left: -95px;
+      top: 75px;
       z-index: 1;
     }
 
     > hr {
       margin: {
-        top: rem(190px);
-        bottom: rem(105px);
+        top: 190px;
+        bottom: 105px;
       }
       opacity: 0.7;
       border-top: solid 1px #ffffff;

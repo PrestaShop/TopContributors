@@ -1,4 +1,5 @@
 @import '~bourbon/app/assets/stylesheets/_bourbon.scss';
+@import '~bootstrap/scss/bootstrap.scss';
 
 $grid-columns: 10;
 
@@ -11,8 +12,6 @@ $container-max-widths: (
   lg: rem(784px),
   xl: rem(786px)
 );
-
-@import '~bootstrap/scss/bootstrap.scss';
 
 @font-face {
   font-family: 'MontserratLight';
