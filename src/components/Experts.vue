@@ -1,7 +1,7 @@
 <template>
     <div>
         <section-header category="experts" title="Experts (More than 25 contrib.)" v-bind:stars="3"></section-header>
-        <div class="row col-10 offset-1">
+        <div class="row col-10 offset-1 pb-4">
             <avatar
                 v-for="contributor in contributors"
                 v-bind:contributor="contributor"

@@ -23,14 +23,14 @@
                 ></top-avatar>
             </div>
         </div>
-        <see-more v-bind:contributors="contributors"></see-more>
+        <all-contributors v-bind:contributors="contributors"></all-contributors>
     </div>
 </template>
 
 <script>
     import ArrowComponent from './ui/Arrow.vue'
     import TopAvatarComponent from './ui/TopAvatar.vue'
-    import SeeMoreComponent from './ui/SeeMore.vue'
+    import AllContributorsComponent from './AllContributors.vue';
 
     export default{
         name: 'topContributors',
@@ -85,7 +85,7 @@
         components:{
             'arrow': ArrowComponent,
             'top-avatar': TopAvatarComponent,
-            'see-more': SeeMoreComponent
+            'all-contributors': AllContributorsComponent
         },
         methods: {
             fetchData: function () {
@@ -94,14 +94,14 @@
                 req.open('GET', './static/contributors.js', true);
 
                 req.onreadystatechange = function () {
-                    if (req.status >= 200 && req.status < 400 && req.readyState == 4) {
+                    if (req.status >= 200 && req.status < 400 && req.readyState === 4) {
                         let contributors = JSON.parse(req.responseText);
                         contributors.map((contributor, index) => {
                             contributor.rank = ++index;
                             self.contributors.push(contributor);
                         });
                     }
-                }
+                };
 
                 req.send();
             }
