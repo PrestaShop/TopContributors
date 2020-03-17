@@ -126,7 +126,7 @@ $color-beginners: #23b9d6;
 #newbie-contributors-list {
   column-count: 2;
   margin-top: 20px;
-  margin-bottom: 20px;
+  padding-bottom: 20px;
   padding-left: 20px;
   padding-right: 20px;
   column-rule: 1px solid #353535;
@@ -282,23 +282,6 @@ $color-beginners: #23b9d6;
   }
 }
 
-.beginners-pagination {
-  margin-bottom: 15px;
-  span {
-    display: inline-block;
-    margin-left: 8px;
-    margin-right: 8px;
-    font-weight: 600;
-    font-size: 14px;
-    a, a:visited, a:hover {
-      color: #000;
-      &.active {
-        color: $color-beginners;
-      }
-    }
-  }
-}
-
 #all-contributors {
   .title {
     font-family: 'Montserrat', sans-serif;
@@ -310,7 +293,6 @@ $color-beginners: #23b9d6;
     color: #fff;
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.25);
     margin-bottom: 10px;
-    margin-top: 30px;
   }
   .step {
     &:first-child {

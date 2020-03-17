@@ -1,50 +1,6 @@
 .star {
   background-image: url(resources/arrow.png);
 }
-.see-more {
-  border-top: 1px solid rgba(151, 151, 151, 0.7);
-  padding: {
-    top: 16px;
-    bottom: 16px;
-  }
-  font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
-  font-weight: bold;
-  text-transform: uppercase;
-  cursor: pointer;
-
-  &:after {
-    content: '';
-    display: inline-block;
-    width: 12px;
-    height: 7.5px;
-    background-image: url(resources/arrow.png);
-    background-size: 100%;
-    margin: {
-      left: 10px;
-      bottom: 2px;
-    }
-    transition: all 0.2s ease-in-out;
-    @include transform(rotate(180deg));
-  }
-
-  .less {
-    display: none;
-  }
-
-  &.open {
-    .less {
-      display: inline-block;
-    }
-    .more {
-      display: none;
-    }
-
-    &:after {
-      @include transform(rotate(0deg));
-    }
-  }
-}
 
 .btn {
   font-size: 16px;
