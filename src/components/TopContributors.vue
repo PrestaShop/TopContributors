@@ -8,29 +8,29 @@
             <div class="col-5 left-column">
                 <top-avatar
                     v-for="contributor in leftContributors"
-                    v-bind:contributor="contributor"
+                    :contributor="contributor"
                     :key="contributor.login"
                 ></top-avatar>
             </div>
             <div class="col-md-2">
-                <arrow v-bind:counts="counts"></arrow>
+                <arrow :counts="counts"></arrow>
             </div>
             <div class="col-md-5 right-column">
                 <top-avatar
                     v-for="contributor in rightContributors"
-                    v-bind:contributor="contributor"
+                    :contributor="contributor"
                     :key="contributor.login"
                 ></top-avatar>
             </div>
         </div>
-        <all-contributors v-bind:contributors="contributors"></all-contributors>
+        <all-contributors :contributors="contributors"></all-contributors>
     </div>
 </template>
 
 <script>
     import ArrowComponent from './ui/Arrow.vue'
     import TopAvatarComponent from './ui/TopAvatar.vue'
-    import AllContributorsComponent from './AllContributors.vue';
+    import AllContributors from './AllContributors.vue'
 
     export default{
         name: 'topContributors',
@@ -85,7 +85,7 @@
         components:{
             'arrow': ArrowComponent,
             'top-avatar': TopAvatarComponent,
-            'all-contributors': AllContributorsComponent
+            'all-contributors': AllContributors
         },
         methods: {
             fetchData: function () {
