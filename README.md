@@ -38,9 +38,9 @@ docker build --no-cache -t top-contributors --build-arg USER_LOGIN={{GITHUB_USER
 
 Where :
 
- - GITHUB_USER: is the user that will be passes to retrieves the repository informations.
+ - GITHUB_USER: is the user that will be passed to retrieve the repository informations.
 
- - GITHUB_PASSWORD: is either the token or user's password, to authenticate with github.
+ - GITHUB_PASSWORD: is either a token or your github user password, to authenticate with github.
 
 Please advise that with Two Factor Authentication activated, the password authentication method will likely fail and using a token is much preferable.
 
