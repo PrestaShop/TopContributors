@@ -42,7 +42,7 @@ Where :
 
  - GITHUB_PASSWORD: is either a token or your github user password, to authenticate with github.
 
-Please advise that with Two Factor Authentication activated, the password authentication method will likely fail and using a token is much preferable.
+Please advise that with Two Factor Authentication currently being activated, the password authentication method will likely fail and using a token is much preferable.
 
 Then, if you want to locally **run** this image:
 
