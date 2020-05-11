@@ -4,14 +4,12 @@ COPY . /app/
 WORKDIR /app/
 
 RUN apt-get update && \
-    apt-get install -y zip && \
-    apt-get clean
-
+    apt-get install -y zip
 
 RUN npm install && \
     npm run build
 
-FROM php AS builder2
+FROM composer AS builder2
 ARG USER_PASS
 ENV ENV_USER_PASS=$USER_PASS
 ARG USER_LOGIN
@@ -20,17 +18,9 @@ ENV ENV_USER_LOGIN=$USER_LOGIN
 WORKDIR /app/
 COPY --from=builder1 /app /app
 
-RUN php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"  && \
-    php composer-setup.php && \
-    php -r "unlink('composer-setup.php');"
+RUN composer create-project prestashop/traces
 
-RUN apt-get update && \
-    apt-get install -y git && \
-    apt-get clean
-    
-RUN ./composer.phar create-project prestashop/traces
-
-RUN ./traces/traces PrestaShop/PrestaShop $ENV_USER_LOGIN $ENV_USER_PASS --config="./traces/config.dist.yml"
+RUN ./traces/traces $ENV_USER_LOGIN $ENV_USER_PASS -o PrestaShop --config="./traces/config.dist.yml"
 
 FROM httpd:2.4.41-alpine
 
