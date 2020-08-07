@@ -96,7 +96,8 @@
                 req.onreadystatechange = function () {
                     if (req.status >= 200 && req.status < 400 && req.readyState === 4) {
                         let contributors = JSON.parse(req.responseText);
-                        contributors.map((contributor, index) => {
+                        delete contributors.updatedAt;
+                        Object.values(contributors).map((contributor, index) => {
                             contributor.rank = ++index;
                             self.contributors.push(contributor);
                         });
