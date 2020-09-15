@@ -1,5 +1,5 @@
 <template>
-    <div class="contributor top-contributor">
+    <div class="contributor top-contributor" :id="contributor.login">
         <div class="avatar">
             <img :src="contributor.avatar_url" />
         </div>
