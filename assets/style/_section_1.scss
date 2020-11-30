@@ -98,6 +98,7 @@ $color-beginners: #23b9d6;
       a {
         color: #000;
         text-decoration: underline;
+        font-weight: 600;
       }
     }
   }
@@ -107,6 +108,14 @@ $color-beginners: #23b9d6;
   text-align: center;
   font-size: 13px;
   margin-top: 38px;
+  transition: 0.25s ease-out;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 4px;
+
+  &:hover {
+    box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.2);
+  }
 
   .avatar {
     margin-bottom: 7px;
@@ -139,6 +148,8 @@ $color-beginners: #23b9d6;
   font-size: 13px;
   list-style-type: none;
   margin-bottom: 15px;
+  cursor: pointer;
+
   .avatar {
     > img {
       width: 25px;
@@ -167,7 +178,35 @@ $color-beginners: #23b9d6;
 
 .top-contributor {
   position: relative;
-  margin-top: 3.625rem;
+  margin-top: 3rem;
+
+  &-content {
+    display: inline-flex;
+    border-radius: 5px;
+    transition: 0.25s ease-out;
+    cursor: pointer;
+    padding: 10px;
+    align-items: center;
+
+    &:hover {
+      box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.2);
+    }
+
+    @at-root .left-column & {
+      justify-content: flex-start;
+      flex-direction: row-reverse;
+      float: right;
+      padding-right: 0;
+      margin-right: 10px;
+    }
+
+    @at-root .right-column & {
+      justify-content: flex-start;
+      float: left;
+      padding-left: 0;
+      margin-left: 10px;
+    }
+  }
 
   &:after {
     clear: both;
@@ -177,14 +216,13 @@ $color-beginners: #23b9d6;
   }
 
   &:first-child {
-    margin-top: 35px;
+    margin-top: 45px;
   }
 
   .avatar {
     float: right;
     margin-left: 20px;
     margin-right: 15px;
-    padding-top: 48px;
     padding-left: 5px;
 
     img {
@@ -200,6 +238,7 @@ $color-beginners: #23b9d6;
     .position {
       color: #df0067;
       font-size: 24px;
+      margin-top: 0;
     }
     .name {
       font-size: 16px;
@@ -207,6 +246,7 @@ $color-beginners: #23b9d6;
     }
     .info {
       font-size: 14px;
+      font-weight: 600;
     }
 
     .links {
@@ -229,10 +269,11 @@ $color-beginners: #23b9d6;
   }
 
   .dots {
-    width: 50px;
+    width: 30px;
     position: absolute;
-    top: 60px;
-    right: -40px;
+    top: 50%;
+    right: -25px;
+    transform: translateY(-50%);
 
     .dot {
       display: inline-block;
@@ -240,7 +281,6 @@ $color-beginners: #23b9d6;
       height: 5px;
       border-radius: 5px;
       background: #565656;
-      margin: 0 2.5px;
     }
   }
 }
@@ -248,7 +288,7 @@ $color-beginners: #23b9d6;
 .right-column {
   > .top-contributor {
     &:first-child {
-      margin-top: 118px;
+      margin-top: 130px;
     }
 
     .avatar {
@@ -261,7 +301,7 @@ $color-beginners: #23b9d6;
       text-align: left;
     }
     .dots {
-      left: -26px;
+      left: -20px;
     }
     .links {
       .icon {

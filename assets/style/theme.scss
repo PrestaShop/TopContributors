@@ -5,6 +5,7 @@ $grid-columns: 10;
 
 $brand-primary: #df0067;
 $brand-info: #23b9d6;
+$primary: #011738;
 
 $container-max-widths: (
   sm: rem(780px),
@@ -16,7 +17,7 @@ $container-max-widths: (
 body {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
-  background: #353535;
+  background: $primary;
   color: #000;
 }
 
