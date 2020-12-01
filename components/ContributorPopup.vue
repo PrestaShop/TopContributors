@@ -14,8 +14,8 @@
         </div>
 
         <contributor-roles
+          v-if="contributor.company"
           :contributor="contributor"
-          v-if="contributor.company && contributor.email_domain"
         />
       </div>
 
@@ -117,9 +117,6 @@
         selectContent(contentId) {
           this.contentId = contentId;
         }
-      },
-      mounted() {
-        console.log(this.contributor)
       }
     }
 </script>
