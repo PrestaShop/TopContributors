@@ -40,7 +40,7 @@
       hide-footer
       hide-header
     >
-      <contributor-modal
+      <contributor-popup
         :contributor="selectedContributor"
         @close-modal="closeModal"
       />
