@@ -38,8 +38,12 @@
       id="selectedContributorModal"
       ref="selected-contributor-modal"
       hide-footer
+      hide-header
     >
-      test
+      <contributor-modal
+        :contributor="selectedContributor"
+        @close-modal="closeModal"
+      />
     </b-modal>
   </div>
 </template>
@@ -49,6 +53,7 @@
   import ArrowComponent from './ui/Arrow.vue'
   import TopAvatarComponent from './ui/TopAvatar.vue'
   import AllContributors from './AllContributors.vue'
+  import ContributorModal from './ContributorModal.vue'
   import EventBus from './utils/EventBus'
 
   export default {
@@ -60,22 +65,22 @@
         selectedContributor: {}
       }
     },
-    created: function() {
+    created: function () {
       this.fetchData()
     },
     computed: {
-      counts: function() {
+      counts: function () {
         let counts = []
-        this.topContributors.map(contributor => {
+        this.topContributors.map((contributor) => {
           counts.push(contributor.contributions)
         })
 
         return counts
       },
-      topContributors: function() {
+      topContributors: function () {
         return this.contributors.slice(0, 10)
       },
-      leftContributors: function() {
+      leftContributors: function () {
         let leftContributors = []
         this.topContributors.map((contributor, index) => {
           if (index % 2) {
@@ -86,7 +91,7 @@
 
         return leftContributors
       },
-      rightContributors: function() {
+      rightContributors: function () {
         let rightContributors = []
         this.topContributors.map((contributor, index) => {
           if (index % 2) {
@@ -96,7 +101,7 @@
 
         return rightContributors
       },
-      today: function() {
+      today: function () {
         let date = new Date()
         let options = { year: 'numeric', month: 'long', day: 'numeric' }
 
@@ -107,15 +112,16 @@
       arrow: ArrowComponent,
       'top-avatar': TopAvatarComponent,
       'all-contributors': AllContributors,
-      BModal
+      BModal,
+      ContributorModal
     },
     methods: {
-      fetchData: function() {
+      fetchData: function () {
         let self = this
         let req = new XMLHttpRequest()
         req.open('GET', './contributors.js', true)
 
-        req.onreadystatechange = function() {
+        req.onreadystatechange = function () {
           if (req.status >= 200 && req.status < 400 && req.readyState === 4) {
             let contributors = JSON.parse(req.responseText)
             delete contributors.updatedAt
@@ -130,6 +136,9 @@
         }
 
         req.send()
+      },
+      closeModal() {
+        this.$refs['selected-contributor-modal'].hide()
       }
     },
     mounted() {

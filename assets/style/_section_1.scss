@@ -197,14 +197,14 @@ $color-beginners: #23b9d6;
       flex-direction: row-reverse;
       float: right;
       padding-right: 0;
-      margin-right: 10px;
+      margin-right: 15px;
     }
 
     @at-root .right-column & {
       justify-content: flex-start;
       float: left;
       padding-left: 0;
-      margin-left: 10px;
+      margin-left: 15px;
     }
   }
 
