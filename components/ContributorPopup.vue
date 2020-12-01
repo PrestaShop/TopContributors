@@ -13,7 +13,10 @@
           </p>
         </div>
 
-        <contributor-roles :contributor="contributor" />
+        <contributor-roles
+          :contributor="contributor"
+          v-if="contributor.company && contributor.email_domain"
+        />
       </div>
 
       <contributor-links :contributor="contributor" />
@@ -114,6 +117,9 @@
         selectContent(contentId) {
           this.contentId = contentId;
         }
+      },
+      mounted() {
+        console.log(this.contributor)
       }
     }
 </script>
