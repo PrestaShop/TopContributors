@@ -13,7 +13,10 @@
           </p>
         </div>
 
-        <contributor-roles :contributor="contributor" />
+        <contributor-roles
+          v-if="contributor.company"
+          :contributor="contributor"
+        />
       </div>
 
       <contributor-links :contributor="contributor" />

@@ -6,9 +6,9 @@
       {{ contributor.company }}
     </p>
 
-    <p v-if="contributor.email_domain !== ''" class="contributor-roles-email">
+    <!-- <p v-if="contributor.email_domain !== ''" class="contributor-roles-email">
       {{ contributor.email_domain }}
-    </p>
+    </p> -->
   </div>
 </template>
 
