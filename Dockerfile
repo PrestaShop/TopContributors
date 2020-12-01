@@ -1,4 +1,4 @@
-FROM node:8 AS builder1
+FROM node:12 AS builder1
 
 COPY . /app/
 WORKDIR /app/
@@ -7,7 +7,8 @@ RUN apt-get update && \
     apt-get install -y zip
 
 RUN npm install && \
-    npm run build
+    npm run build && \
+    npm run generate
 
 FROM composer AS builder2
 ARG USER_PASS
