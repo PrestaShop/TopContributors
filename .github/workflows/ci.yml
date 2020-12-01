@@ -1,4 +1,4 @@
-name: ci
+name: ESLint JavaScript Linter
 
 on:
   push:
@@ -41,6 +41,3 @@ jobs:
 
       - name: Run linter 👀
         run: npm run lint
-
-      - name: Run tests 🧪
-        run: npm run test
