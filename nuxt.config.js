@@ -1,7 +1,6 @@
 export default {
   // Disable server-side rendering (https://go.nuxtjs.dev/ssr-mode)
   ssr: false,
-  mode: 'spa',
   // Target (https://go.nuxtjs.dev/config-target)
   target: 'static',
 
@@ -9,8 +8,8 @@ export default {
   head: {
     title: 'PrestaShop Top Contributors',
     meta: [
-      {charset: 'utf-8'},
-      {name: 'viewport', content: 'width=device-width, initial-scale=1'},
+      { charset: 'utf-8' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
         hid: 'description',
         name: 'description',
@@ -25,7 +24,8 @@ export default {
       },
       {
         rel: 'stylesheet',
-        href: 'https://fonts.googleapis.com/css?family=Montserrat:300,400|Open+Sans:300,600,700'
+        href:
+          'https://fonts.googleapis.com/css?family=Montserrat:300,400|Open+Sans:300,600,700'
       }
     ]
   },

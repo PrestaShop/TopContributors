@@ -7,26 +7,26 @@
 </template>
 
 <script>
-export default {
-  name: 'section-header',
-  props: {
-    title: {
-      type: String,
-      required: true
+  export default {
+    name: 'SectionHeader',
+    props: {
+      title: {
+        type: String,
+        required: true
+      },
+      category: {
+        type: String,
+        required: true
+      },
+      stars: {
+        type: Number,
+        required: true
+      }
     },
-    category: {
-      type: String,
-      required: true
-    },
-    stars: {
-      type: Number,
-      required: true
-    }
-  },
-  computed: {
-    renderClasses: function() {
-      return 'col-md-12 title ' + this.category
+    computed: {
+      renderClasses() {
+        return 'col-md-12 title ' + this.category
+      }
     }
   }
-}
 </script>

@@ -1,8 +1,8 @@
 <template>
   <div
+    :id="contributor.login"
     class="col-2 contributor simple-contributor"
     @click="showSelectedContributor"
-    :id="contributor.login"
   >
     <div class="avatar">
       <img :src="contributor.avatar_url" loading="lazy" />
@@ -46,15 +46,24 @@
 </template>
 
 <script>
-  import TopAvatar from './TopAvatar.vue'
   import EventBus from '../utils/EventBus'
+  import TopAvatar from './TopAvatar.vue'
 
   export default {
+    name: 'Avatar',
     extends: TopAvatar,
-    name: 'avatar',
-    props: ['contributor', 'category'],
+    props: {
+      contributor: {
+        type: Object,
+        default: () => {}
+      },
+      category: {
+        type: String,
+        default: ''
+      }
+    },
     computed: {
-      renderClasses: function() {
+      renderClasses() {
         return `position ${this.category}`
       }
     },
