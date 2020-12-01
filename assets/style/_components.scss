@@ -1,0 +1,60 @@
+.star {
+  background-image: url(resources/arrow.png);
+}
+
+.btn {
+  font-size: 16px;
+  box-shadow: 1px 2px 3px 0 rgba(0, 0, 0, 0.5);
+  text-transform: uppercase;
+
+  &.btn-primary {
+    width: 284px;
+    height: 54px;
+    line-height: 54px;
+    padding: 0;
+    vertical-align: middle;
+    background: #df0067;
+    border-color: #df0067;
+
+    &:hover,
+    &:active,
+    &:focus {
+      background: #ff3a95;
+      border-color: #ff3a95;
+    }
+  }
+
+  &.btn-outline-info {
+    font-size: 14px;
+    border-width: 2px;
+    box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.5),
+      inset 1px 1px 3px 0 rgba(0, 0, 0, 0.5);
+
+    &:hover,
+    &:active,
+    &:focus {
+      box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.5);
+      background: #23b9d6;
+      border-color: #23b9d6;
+    }
+  }
+}
+
+.white-text {
+  color: #fff;
+  font-size: 14px;
+  line-height: 23px;
+  letter-spacing: rem(0.3px);
+}
+
+.white-title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  color: white;
+  letter-spacing: 0.2px;
+}
+
+.loader {
+  padding: 20px;
+  color: $primary;
+}

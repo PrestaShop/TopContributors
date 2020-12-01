@@ -1,0 +1,384 @@
+#arrow {
+  @include gradient-y(#f100a0, #23b9d6);
+  position: relative;
+  height: 1000px;
+
+  .mask {
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    height: 30px;
+    top: 0;
+  }
+
+  .dot {
+    display: block;
+    width: 4px;
+    height: 4px;
+    border-radius: 4px;
+    background: #fff;
+    margin: 18px auto;
+  }
+
+  .words-count {
+    position: absolute;
+    z-index: 3;
+    top: 50px;
+    width: 100%;
+  }
+
+  .count,
+  .words {
+    color: #fff;
+  }
+  .count {
+    font-size: 24px;
+  }
+  .words {
+    margin-top: -8px;
+    font-size: 12px;
+  }
+
+  &:after {
+    position: absolute;
+    z-index: 1;
+    content: ' ';
+    height: 100%;
+    width: 50%;
+    top: 0;
+    right: 0;
+    background-color: rgba(55, 55, 55, 0.11);
+  }
+}
+
+#top-contributors {
+  h2 {
+    padding-bottom: 0;
+    margin-bottom: 4px;
+  }
+  .date {
+    margin-bottom: 23px;
+    color: #797979;
+    letter-spacing: 0.2px;
+    font-size: 14px;
+
+    strong {
+      font-weight: 600;
+    }
+  }
+}
+
+$color-expert: #df0067;
+$color-enthusiasts: #280f44;
+$color-beginners: #23b9d6;
+
+.contributor {
+  .avatar {
+    > img {
+      width: 50px;
+      height: 50px;
+      border-radius: 50px;
+      box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.5);
+    }
+  }
+  .details {
+    .name {
+      font-weight: bold;
+    }
+
+    .position {
+      font-family: 'Montserrat', sans-serif;
+      font-weight: bold;
+      font-size: 16px;
+      margin-top: 10px;
+    }
+
+    .info,
+    .username {
+      a {
+        color: #000;
+        text-decoration: underline;
+        font-weight: 600;
+      }
+    }
+  }
+}
+
+.simple-contributor {
+  text-align: center;
+  font-size: 13px;
+  margin-top: 38px;
+  transition: 0.25s ease-out;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 4px;
+
+  &:hover {
+    box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.2);
+  }
+
+  .avatar {
+    margin-bottom: 7px;
+  }
+
+  .details {
+    .fixed-height {
+      height: 64px;
+    }
+    .name {
+      font-size: 15px;
+    }
+    .position {
+      font-size: 22px;
+    }
+  }
+}
+
+#newbie-contributors-list {
+  column-count: 2;
+  margin-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  column-rule: 1px solid #353535;
+  column-gap: 3rem;
+}
+
+.newbie-contributor {
+  font-size: 13px;
+  list-style-type: none;
+  margin-bottom: 15px;
+  cursor: pointer;
+
+  .avatar {
+    > img {
+      width: 25px;
+      height: 25px;
+      border-radius: 25px;
+      box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.5);
+    }
+    display: inline;
+    margin-right: 12px;
+    padding-top: 48px;
+  }
+  .name {
+    display: inline;
+  }
+  .position {
+    display: inline-block;
+    width: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+  }
+  .contributions {
+    display: inline;
+  }
+}
+
+.top-contributor {
+  position: relative;
+  margin-top: 3rem;
+
+  &-content {
+    display: inline-flex;
+    border-radius: 5px;
+    transition: 0.25s ease-out;
+    cursor: pointer;
+    padding: 10px;
+    align-items: center;
+
+    &:hover {
+      box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.2);
+    }
+
+    @at-root .left-column & {
+      justify-content: flex-start;
+      flex-direction: row-reverse;
+      float: right;
+      padding-right: 0;
+      margin-right: 15px;
+    }
+
+    @at-root .right-column & {
+      justify-content: flex-start;
+      float: left;
+      padding-left: 0;
+      margin-left: 15px;
+    }
+  }
+
+  &:after {
+    clear: both;
+    display: block;
+    content: ' ';
+    height: 0;
+  }
+
+  &:first-child {
+    margin-top: 45px;
+  }
+
+  .avatar {
+    float: right;
+    margin-left: 20px;
+    margin-right: 15px;
+    padding-left: 5px;
+
+    img {
+      width: 60px;
+      height: 60px;
+    }
+  }
+
+  .details {
+    float: right;
+    text-align: right;
+
+    .position {
+      color: #df0067;
+      font-size: 24px;
+      margin-top: 0;
+    }
+    .name {
+      font-size: 16px;
+      margin-top: -8px;
+    }
+    .info {
+      font-size: 14px;
+      font-weight: 600;
+    }
+
+    .links {
+      margin-top: 10px;
+      a {
+        display: inline-block;
+        width: 24px;
+      }
+      .icon {
+        margin-left: 9px;
+
+        &.icon-link {
+          position: relative;
+          top: 3px;
+          left: 3px;
+          margin-top: -6px;
+        }
+      }
+    }
+  }
+
+  .dots {
+    width: 30px;
+    position: absolute;
+    top: 50%;
+    right: -25px;
+    transform: translateY(-50%);
+
+    .dot {
+      display: inline-block;
+      width: 5px;
+      height: 5px;
+      border-radius: 5px;
+      background: #565656;
+    }
+  }
+}
+
+.right-column {
+  > .top-contributor {
+    &:first-child {
+      margin-top: 130px;
+    }
+
+    .avatar {
+      float: left;
+      margin-left: 10px;
+      margin-right: 20px;
+    }
+    .details {
+      float: left;
+      text-align: left;
+    }
+    .dots {
+      left: -20px;
+    }
+    .links {
+      .icon {
+        float: left;
+        text-align: left;
+        position: relative;
+        width: 24px;
+        &.icon-github {
+          margin-left: -3px;
+        }
+        &.icon-link {
+          left: 0;
+          top: 3px;
+          margin-top: -6px;
+          margin-left: 0;
+        }
+      }
+    }
+  }
+}
+
+#all-contributors {
+  .title {
+    font-family: 'Montserrat', sans-serif;
+    height: 34px;
+    line-height: 34px;
+    vertical-align: middle;
+    font-size: 16px;
+    text-align: center;
+    color: #fff;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.25);
+    margin-bottom: 10px;
+  }
+  .step {
+    &:first-child {
+      .title {
+        margin-top: 0;
+      }
+    }
+  }
+  .links {
+    display: inline;
+    font-size: 12px;
+    img {
+      width: 10px;
+    }
+  }
+
+  &:after {
+    margin-top: 30px;
+  }
+
+  .rank-experts {
+    color: $color-expert;
+  }
+  .rank-enthusiasts {
+    color: $color-enthusiasts;
+  }
+  .rank-beginners {
+    color: $color-beginners;
+  }
+  .enthusiasts {
+    background: $color-enthusiasts;
+    .position {
+      color: $color-enthusiasts;
+    }
+  }
+  .experts {
+    background: $color-expert;
+    .position {
+      color: $color-expert;
+    }
+  }
+  .beginners {
+    background: $color-beginners;
+    .position {
+      color: $color-beginners;
+    }
+  }
+}
