@@ -55,6 +55,7 @@
               class="contributions-item repository"
             >
               <p class="contribution-number">{{ number }}</p>
+
               <p class="contribution-name">
                 {{ key.replace('PrestaShop/', '') }}
               </p>
@@ -79,7 +80,7 @@
   import ContributorLinks from './ContributorLinks'
 
     export default {
-      name: 'ContributorModal',
+      name: 'ContributorPopup',
       components: {
         BIconGeoAltFill,
         BAvatar,

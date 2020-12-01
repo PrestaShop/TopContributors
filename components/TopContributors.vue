@@ -40,7 +40,7 @@
       hide-footer
       hide-header
     >
-      <contributor-modal
+      <contributor-popup
         :contributor="selectedContributor"
         @close-modal="closeModal"
       />
@@ -50,10 +50,10 @@
 
 <script>
   import { BSpinner, BModal } from 'bootstrap-vue'
-  import ArrowComponent from './ui/Arrow.vue'
-  import TopAvatarComponent from './ui/TopAvatar.vue'
-  import AllContributors from './AllContributors.vue'
-  import ContributorModal from './ContributorModal.vue'
+  import ArrowComponent from './ui/Arrow'
+  import TopAvatarComponent from './ui/TopAvatar'
+  import AllContributors from './AllContributors'
+  import ContributorPopup from './ContributorPopup'
   import EventBus from './utils/EventBus'
 
   export default {
@@ -64,7 +64,7 @@
       'all-contributors': AllContributors,
       BModal,
       BSpinner,
-      ContributorModal
+      ContributorPopup
     },
     data() {
       return {
