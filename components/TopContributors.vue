@@ -50,10 +50,10 @@
 
 <script>
   import { BSpinner, BModal } from 'bootstrap-vue'
-  import ArrowComponent from './ui/Arrow.vue'
-  import TopAvatarComponent from './ui/TopAvatar.vue'
-  import AllContributors from './AllContributors.vue'
-  import ContributorModal from './ContributorModal.vue'
+  import ArrowComponent from './ui/Arrow'
+  import TopAvatarComponent from './ui/TopAvatar'
+  import AllContributors from './AllContributors'
+  import ContributorModal from './ContributorModal'
   import EventBus from './utils/EventBus'
 
   export default {
