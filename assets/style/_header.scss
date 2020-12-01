@@ -1,0 +1,28 @@
+header {
+  height: 32.5rem;
+
+  .gradient {
+    width: 100%;
+    height: 100%;
+    background: $primary;
+  }
+
+  .white-text {
+    font-size: 18px;
+    margin: {
+      top: 18px;
+      bottom: 18px;
+    }
+  }
+
+  .btn {
+    margin-top: 12px;
+  }
+}
+
+.main-content:first-child {
+  margin-top: -85px;
+}
+.gray-text {
+  color: #797979;
+}
