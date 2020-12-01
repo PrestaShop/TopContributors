@@ -1,9 +1,11 @@
 <template>
   <div class="contributor-roles">
     <p class="contributor-roles-title">Current role(s):</p>
+
     <p v-if="contributor.company" class="contributor-roles-company">
       {{ contributor.company }}
     </p>
+
     <p v-if="contributor.email_domain !== ''" class="contributor-roles-email">
       {{ contributor.email_domain }}
     </p>

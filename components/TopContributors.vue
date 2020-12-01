@@ -53,7 +53,7 @@
   import ArrowComponent from './ui/Arrow'
   import TopAvatarComponent from './ui/TopAvatar'
   import AllContributors from './AllContributors'
-  import ContributorModal from './ContributorModal'
+  import ContributorPopup from './ContributorPopup'
   import EventBus from './utils/EventBus'
 
   export default {
@@ -64,7 +64,7 @@
       'all-contributors': AllContributors,
       BModal,
       BSpinner,
-      ContributorModal
+      ContributorPopup
     },
     data() {
       return {
