@@ -1,6 +1,6 @@
 <template>
   <div id="top-contributors" class="main-content">
-    <div class="row contributors-container" v-if="!loading">
+    <div v-if="!loading" class="row contributors-container">
       <div class="col-12">
         <h2 class="text-center">Top contributors:</h2>
         <div class="text-center date">
@@ -11,8 +11,8 @@
       <div class="col-5 left-column">
         <top-avatar
           v-for="contributor in leftContributors"
-          :contributor="contributor"
           :key="contributor.login"
+          :contributor="contributor"
         ></top-avatar>
       </div>
       <div class="contributors-center">
@@ -21,16 +21,16 @@
       <div class="col-md-5 right-column">
         <top-avatar
           v-for="contributor in rightContributors"
-          :contributor="contributor"
           :key="contributor.login"
+          :contributor="contributor"
         ></top-avatar>
       </div>
     </div>
     <all-contributors
-      :contributors="contributors"
       v-if="!loading"
+      :contributors="contributors"
     ></all-contributors>
-    <div class="loader d-flex justify-content-center mb-3" v-if="loading">
+    <div v-if="loading" class="loader d-flex justify-content-center mb-3">
       <b-spinner label="Loading..."></b-spinner>
     </div>
 
@@ -57,7 +57,15 @@
   import EventBus from './utils/EventBus'
 
   export default {
-    name: 'topContributors',
+    name: 'TopContributors',
+    components: {
+      arrow: ArrowComponent,
+      'top-avatar': TopAvatarComponent,
+      'all-contributors': AllContributors,
+      BModal,
+      BSpinner,
+      ContributorModal
+    },
     data() {
       return {
         contributors: [],
@@ -65,23 +73,20 @@
         selectedContributor: {}
       }
     },
-    created: function () {
-      this.fetchData()
-    },
     computed: {
-      counts: function () {
-        let counts = []
+      counts() {
+        const counts = []
         this.topContributors.map((contributor) => {
           counts.push(contributor.contributions)
         })
 
         return counts
       },
-      topContributors: function () {
+      topContributors() {
         return this.contributors.slice(0, 10)
       },
-      leftContributors: function () {
-        let leftContributors = []
+      leftContributors() {
+        const leftContributors = []
         this.topContributors.map((contributor, index) => {
           if (index % 2) {
             return
@@ -91,8 +96,8 @@
 
         return leftContributors
       },
-      rightContributors: function () {
-        let rightContributors = []
+      rightContributors() {
+        const rightContributors = []
         this.topContributors.map((contributor, index) => {
           if (index % 2) {
             rightContributors.push(contributor)
@@ -101,29 +106,31 @@
 
         return rightContributors
       },
-      today: function () {
-        let date = new Date()
-        let options = { year: 'numeric', month: 'long', day: 'numeric' }
+      today() {
+        const date = new Date()
+        const options = { year: 'numeric', month: 'long', day: 'numeric' }
 
         return date.toLocaleDateString('en-US', options)
       }
     },
-    components: {
-      arrow: ArrowComponent,
-      'top-avatar': TopAvatarComponent,
-      'all-contributors': AllContributors,
-      BModal,
-      ContributorModal
+    created() {
+      this.fetchData()
+    },
+    mounted() {
+      EventBus.$on('showSelectedContributor', ({ selectedContributor }) => {
+        this.selectedContributor = selectedContributor
+        this.$refs['selected-contributor-modal'].show()
+      })
     },
     methods: {
-      fetchData: function () {
-        let self = this
-        let req = new XMLHttpRequest()
+      fetchData() {
+        const self = this
+        const req = new XMLHttpRequest()
         req.open('GET', './contributors.js', true)
 
         req.onreadystatechange = function () {
           if (req.status >= 200 && req.status < 400 && req.readyState === 4) {
-            let contributors = JSON.parse(req.responseText)
+            const contributors = JSON.parse(req.responseText)
             delete contributors.updatedAt
 
             Object.values(contributors).map((contributor, index) => {
@@ -140,12 +147,6 @@
       closeModal() {
         this.$refs['selected-contributor-modal'].hide()
       }
-    },
-    mounted() {
-      EventBus.$on('showSelectedContributor', ({ selectedContributor }) => {
-        this.selectedContributor = selectedContributor
-        this.$refs['selected-contributor-modal'].show()
-      })
     }
   }
 </script>

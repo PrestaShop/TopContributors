@@ -14,20 +14,26 @@
   import Beginners from './Beginners.vue'
 
   export default {
-    name: 'allContributors',
+    name: 'AllContributors',
     components: {
-      Experts: Experts,
-      Enthusiasts: Enthusiasts,
-      Beginners: Beginners
+      Experts,
+      Enthusiasts,
+      Beginners
+    },
+    props: {
+      contributors: {
+        type: Array,
+        default: () => []
+      }
     },
     computed: {
-      experts: function() {
-        return this.contributors.filter(contributor => {
+      experts() {
+        return this.contributors.filter((contributor) => {
           return contributor.rank > 10 && contributor.contributions > 25
         })
       },
-      enthusiasts: function() {
-        return this.contributors.filter(contributor => {
+      enthusiasts() {
+        return this.contributors.filter((contributor) => {
           return (
             contributor.rank > 10 &&
             contributor.contributions <= 25 &&
@@ -35,16 +41,10 @@
           )
         })
       },
-      beginners: function() {
-        return this.contributors.filter(contributor => {
+      beginners() {
+        return this.contributors.filter((contributor) => {
           return contributor.rank > 10 && contributor.contributions <= 5
         })
-      }
-    },
-    props: {
-      contributors: {
-        type: Array,
-        default: () => []
       }
     }
   }

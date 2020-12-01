@@ -1,7 +1,7 @@
 <template>
   <div
-    class="contributor top-contributor"
     :id="contributor.login"
+    class="contributor top-contributor"
     @click="showSelectedContributor"
   >
     <div class="top-contributor-content">
@@ -67,15 +67,19 @@
 </template>
 
 <script>
-  import TopAvatar from './TopAvatar.vue'
   import EventBus from '../utils/EventBus'
 
   export default {
-    name: 'top-avatar',
-    props: ['contributor'],
+    name: 'TopAvatar',
+    props: {
+      contributor: {
+        type: Object,
+        default: () => {}
+      }
+    },
     computed: {
-      contributorName: function() {
-        let name = this.contributor.name
+      contributorName() {
+        const name = this.contributor.name
           ? this.contributor.name
           : this.contributor.login
         if (name.length >= 21) {
@@ -83,10 +87,10 @@
         }
         return name
       },
-      contributorBlogLink: function() {
+      contributorBlogLink() {
         return this.contributor.blog !== '' ? this.contributor.blog : false
       },
-      contributorGitHubLink: function() {
+      contributorGitHubLink() {
         return this.contributor.html_url !== ''
           ? this.contributor.html_url
           : false

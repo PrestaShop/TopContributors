@@ -7,7 +7,7 @@
 
           <p class="contributor-name">{{ contributorName }}</p>
 
-          <p class="contributor-location" v-if="contributor.location">
+          <p v-if="contributor.location" class="contributor-location">
             <b-icon-geo-alt-fill></b-icon-geo-alt-fill>
             {{ contributor.location }}
           </p>
@@ -24,17 +24,17 @@
         <div class="contributor-modal-choices">
           <button
             class="contributor-modal-choice"
-            @click="selectContent('contributions')"
             :class="{ active: contentId === 'contributions' }"
+            @click="selectContent('contributions')"
           >
             CONTRIBUTIONS ({{ contributor.contributions }})
           </button>
 
           <button
-            class="contributor-modal-choice"
-            @click="selectContent('about')"
-            :class="{ active: contentId === 'about' }"
             v-if="contributor.bio && contributor.bio !== ''"
+            class="contributor-modal-choice"
+            :class="{ active: contentId === 'about' }"
+            @click="selectContent('about')"
           >
             ABOUT
           </button>
@@ -45,12 +45,13 @@
 
       <div class="contributor-modal-content">
         <div
-          class="contributor-modal-content-contributions"
           v-if="contentId === 'contributions'"
+          class="contributor-modal-content-contributions"
         >
           <ul>
             <li
               v-for="(number, key) of contributor.repositories"
+              :key="key"
               class="contributions-item repository"
             >
               <p class="contribution-number">{{ number }}</p>
@@ -62,8 +63,8 @@
         </div>
 
         <div
-          class="contributor-modal-content-about"
           v-if="contentId === 'about'"
+          class="contributor-modal-content-about"
         >
           {{ contributor.bio }}
         </div>
@@ -79,11 +80,6 @@
 
     export default {
       name: 'ContributorModal',
-      data() {
-        return {
-          contentId: 'contributions'
-        }
-      },
       components: {
         BIconGeoAltFill,
         BAvatar,
@@ -97,9 +93,14 @@
           required: true,
         }
       },
+      data() {
+        return {
+          contentId: 'contributions'
+        }
+      },
       computed: {
-        contributorName: function () {
-          let name = this.contributor.name
+        contributorName () {
+          const name = this.contributor.name
             ? this.contributor.name
             : this.contributor.login
           if (name.length >= 21) {
@@ -107,9 +108,6 @@
           }
           return name
         }
-      },
-      mounted() {
-        console.log(this.contributor)
       },
       methods: {
         selectContent(contentId) {

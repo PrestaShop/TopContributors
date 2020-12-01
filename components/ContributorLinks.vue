@@ -1,8 +1,8 @@
 <template>
   <div class="contributor-links">
     <a
-      class="contributor-links-github"
       v-if="contributor.html_url"
+      class="contributor-links-github"
       :href="contributor.html_url"
       target="_blank"
     >
@@ -10,8 +10,8 @@
     </a>
 
     <a
-      class="contributor-links-github"
       v-if="contributor.blog !== ''"
+      class="contributor-links-github"
       :href="contributor.blog"
       target="_blank"
     >

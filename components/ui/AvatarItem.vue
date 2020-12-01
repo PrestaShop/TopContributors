@@ -15,8 +15,17 @@
   import Avatar from './Avatar.vue'
 
   export default {
-    name: 'avatar-item',
+    name: 'AvatarItem',
     extends: Avatar,
-    props: ['contributor', 'category']
+    props: {
+      contributor: {
+        type: Object,
+        default: () => {}
+      },
+      category: {
+        type: String,
+        default: ''
+      }
+    }
   }
 </script>
