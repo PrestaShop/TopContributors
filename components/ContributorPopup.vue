@@ -43,7 +43,11 @@
           </button>
         </div>
 
-        <b-icon-x class="icon-close" @click="$emit('close-modal')"></b-icon-x>
+        <div class="contributor-modal-content-header-right">
+          <copy-button :contributor="contributor" />
+
+          <b-icon-x class="icon-close" @click="$emit('close-modal')"></b-icon-x>
+        </div>
       </div>
 
       <div class="contributor-modal-content">
@@ -53,15 +57,20 @@
         >
           <ul>
             <li
-              v-for="(number, key) of contributor.repositories"
-              :key="key"
-              class="contributions-item repository"
+              v-for="repository of contributor.repositories"
+              :key="repository.repositoryName"
             >
-              <p class="contribution-number">{{ number }}</p>
+              <a
+                :href="`https://github.com/${repository.repositoryName}`"
+                target="_blank"
+                class="contributions-item repository"
+              >
+                <p class="contribution-number">{{ repository.number }}</p>
 
-              <p class="contribution-name">
-                {{ key.replace('PrestaShop/', '') }}
-              </p>
+                <p class="contribution-name">
+                  {{ repository.repositoryName.replace('PrestaShop/', '') }}
+                </p>
+              </a>
             </li>
           </ul>
         </div>
@@ -81,6 +90,7 @@
   import {BAvatar, BIconGeoAltFill, BIconX} from 'bootstrap-vue'
   import ContributorRoles from './ContributorRoles'
   import ContributorLinks from './ContributorLinks'
+  import CopyButton from './CopyButton'
 
     export default {
       name: 'ContributorPopup',
@@ -89,7 +99,8 @@
         BAvatar,
         BIconX,
         ContributorRoles,
-        ContributorLinks
+        ContributorLinks,
+        CopyButton
       },
       props: {
         contributor: {
@@ -117,7 +128,7 @@
         selectContent(contentId) {
           this.contentId = contentId;
         }
-      }
+      },
     }
 </script>
 
@@ -166,6 +177,11 @@
         padding: 0 10px;
         padding-bottom: 20px;
 
+        &-header-right {
+          display: flex;
+          align-items: center;
+        }
+
         &-contributions {
           ul {
             padding: 0;
@@ -177,7 +193,7 @@
             li {
               list-style-type: none;
 
-              &.contributions-item {
+              .contributions-item {
                 height: 121px;
                 width: 231px;
                 border-radius: 4px;
@@ -188,6 +204,14 @@
                 transform: translateY(-20px);
                 opacity: 0;
                 transition: 0.25s ease-out;
+                text-decoration: none;
+                display: block;
+                box-shadow: 0 0 0 0 rgba(#000, 0.4);
+
+                &:hover {
+                  box-shadow: 0 0 10px 1px rgba(#000, 0.6);
+                  transform: translateY(-20px);
+                }
 
                 @for $i from 1 through 30 {
                   &:nth-child(#{$i}) {
