@@ -33,7 +33,7 @@
       copyLink() {
         const self = this;
 
-        navigator.clipboard.writeText(`https://${window.location.hostname}/contributor/${self.contributor.id}`).then(function() {
+        navigator.clipboard.writeText(`https://${window.location.hostname}?name=${self.contributor.login}`).then(function() {
           self.text = 'Copied!';
 
           setTimeout(() => {

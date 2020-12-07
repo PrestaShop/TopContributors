@@ -143,10 +143,20 @@
         }
       })
     },
-    validate({ params }) {
-      return /^\d+$/.test(params.id)
-    },
     methods: {
+      findGetParameter(parameterName) {
+        let result = null
+        let tmp = []
+
+        location.search
+          .substr(1)
+          .split('&')
+          .forEach(function (item) {
+            tmp = item.split('=')
+            if (tmp[0] === parameterName) result = decodeURIComponent(tmp[1])
+          })
+        return result
+      },
       fetchData() {
         const self = this
         const req = new XMLHttpRequest()
@@ -162,9 +172,11 @@
               self.contributors.push(contributor)
             })
 
-            if (self.$route.params.id) {
+            const nameParam = self.findGetParameter('name')
+
+            if (nameParam) {
               self.contributors.forEach((contributor) => {
-                if (contributor.id === parseInt(self.$route.params.id)) {
+                if (contributor.login === nameParam) {
                   let repositoriesArray = []
                   const tempArray = Object.keys(contributor.repositories)
                   repositoriesArray = tempArray.map((e) => {
