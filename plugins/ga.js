@@ -1,4 +1,4 @@
-export default ({app}) => {
+export default ({ app }) => {
   /*
    ** Only run on client-side and only in production mode
    */
@@ -18,7 +18,13 @@ export default ({app}) => {
     a.async = 1
     a.src = g
     m.parentNode.insertBefore(a, m)
-  })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga')
+  })(
+    window,
+    document,
+    'script',
+    'https://www.google-analytics.com/analytics.js',
+    'ga'
+  )
   /*
    ** Set the current page
    */
@@ -26,7 +32,7 @@ export default ({app}) => {
   /*
    ** Every time the route changes (fired on initialization too)
    */
-  app.router.afterEach((to, from) => {
+  app.router.afterEach((to) => {
     /*
      ** We tell Google Analytics to add a `pageview`
      */

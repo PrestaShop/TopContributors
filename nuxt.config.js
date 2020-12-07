@@ -8,8 +8,8 @@ export default {
   head: {
     title: 'PrestaShop Top Contributors',
     meta: [
-      {charset: 'utf-8'},
-      {name: 'viewport', content: 'width=device-width, initial-scale=1'},
+      { charset: 'utf-8' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
         hid: 'description',
         name: 'description',
@@ -24,7 +24,8 @@ export default {
       },
       {
         rel: 'stylesheet',
-        href: 'https://fonts.googleapis.com/css?family=Montserrat:300,400|Open+Sans:300,600,700'
+        href:
+          'https://fonts.googleapis.com/css?family=Montserrat:300,400|Open+Sans:300,600,700'
       }
     ]
   },
@@ -33,7 +34,7 @@ export default {
   css: [],
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
-  plugins: [{src: '~plugins/ga.js', mode: 'client'}],
+  plugins: [{ src: '~plugins/ga.js', mode: 'client' }],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
   components: true,

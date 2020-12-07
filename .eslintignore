@@ -1,0 +1,5 @@
+# GA plugin
+plugins/ga.js
+
+# Contributors static datas
+static/contributors.js
