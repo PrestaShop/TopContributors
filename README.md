@@ -1,6 +1,6 @@
 # TopContributors
 
-A website to thank every PrestaShop contributor.
+A website to thank every PrestaShop contributors.
 
 ## Build Setup
 
