@@ -1,18 +1,22 @@
 <template>
-  <button class="copy-button" @click="copyLink">
-    {{ text }}
+  <div class="copy-container">
+    <button class="copy-button" @click="copyLink">
+      {{ text }}
 
-    <svg
-      xmlns="http://www.w3.org/2000/svg"
-      width="24"
-      height="24"
-      viewBox="0 0 24 24"
-    >
-      <path
-        d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"
-      />
-    </svg>
-  </button>
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="24"
+        height="24"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"
+        />
+      </svg>
+    </button>
+
+    <textarea :value="shareUrl" />
+  </div>
 </template>
 
 <script lang="typescript">
@@ -29,20 +33,44 @@
         text: 'Copy this link'
       }
     },
+    computed: {
+      shareUrl() {
+        return `https://${window.location.hostname}#${this.contributor.login}`;
+      }
+    },
     methods: {
       copyLink() {
         const self = this;
 
-        navigator.clipboard.writeText(`https://${window.location.hostname}?name=${self.contributor.login}`).then(function() {
-          self.text = 'Copied!';
+        if(!navigator.clipboard) {
+          navigator.clipboard.writeText(this.shareUrl).then(function() {
+            self.text = 'Copied!';
 
-          setTimeout(() => {
-            self.text = 'Copy this link';
-          }, 2000)
-        }, function(err) {
-          // eslint-disable-next-line
-          console.error('Error while copying', err);
-        });
+            setTimeout(() => {
+              self.text = 'Copy this link';
+            }, 2000)
+          }, function(err) {
+            // eslint-disable-next-line
+            console.error('Error while copying', err);
+          });
+        } else {
+          const textArea = document.querySelector('.copy-container textarea');
+          textArea.focus();
+          textArea.select();
+
+          try {
+            document.execCommand('copy');
+            self.text = 'Copied!';
+
+            setTimeout(() => {
+              self.text = 'Copy this link';
+            }, 2000)
+          } catch (err) {
+            // eslint-disable-next-line
+            console.error('Fallback: Oops, unable to copy', err);
+          }
+
+        }
       }
     }
   }
@@ -83,6 +111,15 @@
       height: 18px;
       width: 18px;
       margin-left: 12px;
+    }
+  }
+
+  .copy-container {
+    textarea {
+      width: 0;
+      height: 0;
+      opacity: 0;
+      position: absolute;
     }
   }
 </style>

@@ -144,23 +144,15 @@
       })
     },
     methods: {
-      findGetParameter(parameterName) {
-        let result = null
-        let tmp = []
+      findAnchor() {
+        const result = location.href.split('#')
 
-        location.search
-          .substr(1)
-          .split('&')
-          .forEach(function (item) {
-            tmp = item.split('=')
-            if (tmp[0] === parameterName) result = decodeURIComponent(tmp[1])
-          })
-        return result
+        return result[1]
       },
       fetchData() {
         const self = this
         const req = new XMLHttpRequest()
-        req.open('GET', '/static/contributors.js', true)
+        req.open('GET', '/contributors.js', true)
 
         req.onreadystatechange = function () {
           if (req.status >= 200 && req.status < 400 && req.readyState === 4) {
@@ -172,7 +164,7 @@
               self.contributors.push(contributor)
             })
 
-            const nameParam = self.findGetParameter('name')
+            const nameParam = self.findAnchor()
 
             if (nameParam) {
               self.contributors.forEach((contributor) => {
