@@ -35,7 +35,7 @@
     },
     computed: {
       shareUrl() {
-        return `https://${window.location.hostname}#${this.contributor.login}`;
+        return `${window.location.origin}/#${this.contributor.login}`;
       }
     },
     methods: {

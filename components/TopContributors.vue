@@ -145,7 +145,7 @@
     },
     methods: {
       findAnchor() {
-        const result = location.href.split('#')
+        const result = window.location.href.split('#')
 
         return result[1]
       },
