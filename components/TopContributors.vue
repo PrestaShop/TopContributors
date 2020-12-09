@@ -144,18 +144,10 @@
       })
     },
     methods: {
-      findGetParameter(parameterName) {
-        let result = null
-        let tmp = []
+      findAnchor() {
+        const result = window.location.href.split('#')
 
-        location.search
-          .substr(1)
-          .split('&')
-          .forEach(function (item) {
-            tmp = item.split('=')
-            if (tmp[0] === parameterName) result = decodeURIComponent(tmp[1])
-          })
-        return result
+        return result[1]
       },
       fetchData() {
         const self = this
@@ -172,7 +164,7 @@
               self.contributors.push(contributor)
             })
 
-            const nameParam = self.findGetParameter('name')
+            const nameParam = self.findAnchor()
 
             if (nameParam) {
               self.contributors.forEach((contributor) => {
