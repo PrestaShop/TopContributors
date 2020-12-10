@@ -212,19 +212,11 @@
 
     &-center {
       width: 100%;
-      max-width: 126px;
+      max-width: 100px;
     }
   }
 
   .modal-header {
     height: auto;
-  }
-
-  @media screen and (max-width: 900px) {
-    .contributors {
-      &-center {
-        max-width: 100px;
-      }
-    }
   }
 </style>
