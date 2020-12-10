@@ -42,7 +42,7 @@
       copyLink() {
         const self = this;
 
-        if(!navigator.clipboard) {
+        if(navigator.clipboard) {
           navigator.clipboard.writeText(this.shareUrl).then(function() {
             self.text = 'Copied!';
 
