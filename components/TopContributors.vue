@@ -219,4 +219,12 @@
   .modal-header {
     height: auto;
   }
+
+  @media screen and (max-width: 900px) {
+    .contributors {
+      &-center {
+        max-width: 100px;
+      }
+    }
+  }
 </style>
