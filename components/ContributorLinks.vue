@@ -11,11 +11,11 @@
 
     <a
       v-if="contributor.blog !== ''"
-      class="contributor-links-github"
+      class="contributor-links-blog"
       :href="contributor.blog"
       target="_blank"
     >
-      {{ contributor.blog }}
+      {{ blogText }}
     </a>
   </div>
 </template>
@@ -29,6 +29,17 @@
         required: true,
       }
     },
+    computed: {
+      blogText() {
+        let url = this.contributor.blog.substr(this.contributor.blog.indexOf('://') + 3)
+
+        if(url.length > 22) {
+          url = `${url.substring(0, 22)}...`;
+        }
+
+        return url;
+      }
+    }
   }
 </script>
 
