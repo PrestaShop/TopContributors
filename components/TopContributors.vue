@@ -39,6 +39,7 @@
       ref="selected-contributor-modal"
       hide-footer
       hide-header
+      @hidden="resetUrl"
     >
       <contributor-popup
         :contributor="selectedContributor"
@@ -140,8 +141,18 @@
 
         if (this.$refs['selected-contributor-modal']) {
           this.$refs['selected-contributor-modal'].show()
+
+          window.history.pushState(
+            this.selectedContributor.login,
+            'PrestaShop Contributors',
+            `/#${this.selectedContributor.login}`
+          )
         }
       })
+
+      window.onpopstate = () => {
+        this.showSelectedContributor()
+      }
     },
     methods: {
       findAnchor() {
@@ -152,7 +163,7 @@
       fetchData() {
         const self = this
         const req = new XMLHttpRequest()
-        req.open('GET', '/static/contributors.js', true)
+        req.open('GET', '/contributors.js', true)
 
         req.onreadystatechange = function () {
           if (req.status >= 200 && req.status < 400 && req.readyState === 4) {
@@ -164,32 +175,7 @@
               self.contributors.push(contributor)
             })
 
-            const nameParam = self.findAnchor()
-
-            if (nameParam) {
-              self.contributors.forEach((contributor) => {
-                if (contributor.login === nameParam) {
-                  let repositoriesArray = []
-                  const tempArray = Object.keys(contributor.repositories)
-                  repositoriesArray = tempArray.map((e) => {
-                    repositoriesArray[e] = contributor.repositories[e]
-
-                    return {
-                      number: contributor.repositories[e],
-                      repositoryName: e
-                    }
-                  })
-
-                  repositoriesArray.sort((a, b) => b.number - a.number)
-
-                  contributor.repositories = repositoriesArray
-                  contributor.sortedRepositories = true
-
-                  self.selectedContributor = contributor
-                  self.$refs['selected-contributor-modal'].show()
-                }
-              })
-            }
+            self.showSelectedContributor()
 
             self.loading = false
           }
@@ -199,6 +185,44 @@
       },
       closeModal() {
         this.$refs['selected-contributor-modal'].hide()
+        this.resetUrl()
+      },
+      resetUrl() {
+        window.history.pushState('index', 'PrestaShop Contributors', `/`)
+      },
+      showSelectedContributor() {
+        const self = this
+        const nameParam = self.findAnchor()
+
+        if (!nameParam) {
+          self.$refs['selected-contributor-modal'].hide()
+          return
+        }
+
+        self.contributors.forEach((contributor) => {
+          if (contributor.login === nameParam) {
+            if (!contributor.sortedRepositories) {
+              let repositoriesArray = []
+              const tempArray = Object.keys(contributor.repositories)
+              repositoriesArray = tempArray.map((e) => {
+                repositoriesArray[e] = contributor.repositories[e]
+
+                return {
+                  number: contributor.repositories[e],
+                  repositoryName: e
+                }
+              })
+
+              repositoriesArray.sort((a, b) => b.number - a.number)
+
+              contributor.repositories = repositoriesArray
+              contributor.sortedRepositories = true
+            }
+
+            self.selectedContributor = contributor
+            self.$refs['selected-contributor-modal'].show()
+          }
+        })
       }
     }
   }

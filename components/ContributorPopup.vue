@@ -61,7 +61,7 @@
               :key="repository.repositoryName"
             >
               <a
-                :href="`https://github.com/${repository.repositoryName}`"
+                :href="`https://github.com/${repository.repositoryName}/commits?author=${contributor.login}`"
                 target="_blank"
                 class="contributions-item repository"
               >
@@ -137,8 +137,6 @@
     .modal-dialog {
       max-width: 1036px;
       width: 100%;
-      border-radius: 5px;
-      overflow: hidden;
 
       .modal-header {
         border-bottom: 0;
@@ -146,6 +144,8 @@
 
       .modal-content {
         background-color: #f8f8f8;
+        overflow: hidden;
+        border-radius: 5px;
       }
 
       .modal-body {
