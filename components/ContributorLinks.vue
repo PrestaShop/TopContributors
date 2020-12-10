@@ -33,7 +33,7 @@
       blogText() {
         let url = this.contributor.blog.substr(this.contributor.blog.indexOf('://') + 3)
 
-        if(url.length > 22) {
+        if (url.length > 22) {
           url = `${url.substring(0, 22)}...`;
         }
 
