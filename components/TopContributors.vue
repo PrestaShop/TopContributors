@@ -163,7 +163,7 @@
       fetchData() {
         const self = this
         const req = new XMLHttpRequest()
-        req.open('GET', '/static/contributors.js', true)
+        req.open('GET', '/contributors.js', true)
 
         req.onreadystatechange = function () {
           if (req.status >= 200 && req.status < 400 && req.readyState === 4) {
@@ -194,34 +194,35 @@
         const self = this
         const nameParam = self.findAnchor()
 
-        if (nameParam) {
-          self.contributors.forEach((contributor) => {
-            if (contributor.login === nameParam) {
-              if (!contributor.sortedRepositories) {
-                let repositoriesArray = []
-                const tempArray = Object.keys(contributor.repositories)
-                repositoriesArray = tempArray.map((e) => {
-                  repositoriesArray[e] = contributor.repositories[e]
-
-                  return {
-                    number: contributor.repositories[e],
-                    repositoryName: e
-                  }
-                })
-
-                repositoriesArray.sort((a, b) => b.number - a.number)
-
-                contributor.repositories = repositoriesArray
-                contributor.sortedRepositories = true
-              }
-
-              self.selectedContributor = contributor
-              self.$refs['selected-contributor-modal'].show()
-            }
-          })
-        } else {
+        if (!nameParam) {
           self.$refs['selected-contributor-modal'].hide()
+          return
         }
+
+        self.contributors.forEach((contributor) => {
+          if (contributor.login === nameParam) {
+            if (!contributor.sortedRepositories) {
+              let repositoriesArray = []
+              const tempArray = Object.keys(contributor.repositories)
+              repositoriesArray = tempArray.map((e) => {
+                repositoriesArray[e] = contributor.repositories[e]
+
+                return {
+                  number: contributor.repositories[e],
+                  repositoryName: e
+                }
+              })
+
+              repositoriesArray.sort((a, b) => b.number - a.number)
+
+              contributor.repositories = repositoriesArray
+              contributor.sortedRepositories = true
+            }
+
+            self.selectedContributor = contributor
+            self.$refs['selected-contributor-modal'].show()
+          }
+        })
       }
     }
   }
