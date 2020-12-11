@@ -26,4 +26,4 @@ RUN ./traces/traces -u $ENV_USER_LOGIN -p $ENV_USER_PASS -o PrestaShop --config=
 FROM httpd:2.4.41-alpine
 
 COPY --from=builder2 /app/dist/ /usr/local/apache2/htdocs/
-COPY --from=builder2 /app/contributors.js /usr/local/apache2/htdocs/static/
+COPY --from=builder2 /app/contributors.js /usr/local/apache2/htdocs/

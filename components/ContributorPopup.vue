@@ -5,7 +5,9 @@
         <div class="contributor-informations">
           <b-avatar size="75px" :src="contributor.avatar_url" />
 
-          <p class="contributor-name">{{ contributorName }}</p>
+          <p class="contributor-name">
+            {{ contributorName }} (#{{ contributor.rank }})
+          </p>
 
           <p v-if="contributor.location" class="contributor-location">
             <b-icon-geo-alt-fill></b-icon-geo-alt-fill>
@@ -307,7 +309,6 @@
         height: 100%;
         display: flex;
         flex-direction: column;
-        justify-content: space-between;
         border-top-left-radius: 5px;
         border-bottom-left-radius: 5px;
         position: relative;
