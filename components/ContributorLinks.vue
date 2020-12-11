@@ -31,7 +31,7 @@
     },
     computed: {
       blogText() {
-        let url = this.contributor.blog.substr(this.contributor.blog.indexOf('://') + 3)
+        let url = this.contributor.blog.replace(/^https?:\/\//, '');
 
         if (url.length > 22) {
           url = `${url.substring(0, 22)}...`;
@@ -45,12 +45,15 @@
 
 <style lang="scss">
   .contributor-links {
+    margin-top: 30px;
+
     a {
       color: #25b9d7;
       font-size: 14px;
       letter-spacing: 0;
       line-height: 19px;
       font-weight: 600;
+      display: block;
     }
   }
 </style>
