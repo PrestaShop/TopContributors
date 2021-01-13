@@ -53,25 +53,32 @@
       </div>
 
       <div class="contributor-modal-content">
+        <p
+          v-if="contentId === 'category'"
+          class="contributor-modal-back"
+          @click="selectContent('contributions')"
+        >
+          <b-icon-arrow-left-short class="icon-close"></b-icon-arrow-left-short>
+          Back
+        </p>
+
         <div
           v-if="contentId === 'contributions'"
           class="contributor-modal-content-contributions"
         >
           <ul>
-            <li
-              v-for="repository of contributor.repositories"
-              :key="repository.repositoryName"
-            >
+            <li v-for="(category, key) of contributor.categories" :key="key">
               <a
-                :href="`https://github.com/${repository.repositoryName}/commits?author=${contributor.login}`"
                 target="_blank"
                 class="contributions-item repository"
+                @click="selectCategory(category)"
               >
-                <p class="contribution-number">{{ repository.number }}</p>
+                <p class="contribution-number">{{ category.total }}</p>
 
-                <p class="contribution-name">
-                  {{ repository.repositoryName.replace('PrestaShop/', '') }}
-                </p>
+                <p
+                  class="contribution-name"
+                  v-html="categoriesDatas[key].text"
+                ></p>
               </a>
             </li>
           </ul>
@@ -83,16 +90,61 @@
         >
           {{ contributor.bio }}
         </div>
+
+        <div
+          v-if="contentId === 'category' && selectedCategory"
+          class="contributor-modal-content-contributions"
+        >
+          <ul>
+            <li
+              v-for="(repository, key) of selectedCategory.repositories"
+              :key="key"
+            >
+              <a
+                :href="`https://github.com/${key}/commits?author=${contributor.login}`"
+                target="_blank"
+                class="contributions-item repository"
+              >
+                <p class="contribution-number">{{ repository }}</p>
+
+                <p class="contribution-name">
+                  {{ key.replace('PrestaShop/', '') }}
+                </p>
+              </a>
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
   </div>
 </template>
 
 <script lang="typescript">
-  import {BAvatar, BIconGeoAltFill, BIconX} from 'bootstrap-vue'
+  import {BAvatar, BIconGeoAltFill, BIconX, BIconArrowLeftShort} from 'bootstrap-vue'
   import ContributorRoles from './ContributorRoles'
   import ContributorLinks from './ContributorLinks'
   import CopyButton from './CopyButton'
+
+  const categoriesDatas = {
+    core: {
+      text: 'Code contributions to the <strong>core</strong>'
+    },
+    documentation: {
+      text: 'Contributions to the <strong>documentation</strong>'
+    },
+    modules: {
+      text: 'Contributions to the <strong>modules</strong>'
+    },
+    others: {
+      text: 'Code contributions to the <strong>others</strong>'
+    },
+    specs: {
+      text: 'Code contributions to the <strong>specs</strong>'
+    },
+    tools: {
+      text: 'Contributions to the <strong>tools</strong>'
+    }
+  }
 
     export default {
       name: 'ContributorPopup',
@@ -100,6 +152,7 @@
         BIconGeoAltFill,
         BAvatar,
         BIconX,
+        BIconArrowLeftShort,
         ContributorRoles,
         ContributorLinks,
         CopyButton
@@ -112,7 +165,9 @@
       },
       data() {
         return {
-          contentId: 'contributions'
+          contentId: 'contributions',
+          selectedCategory: null,
+          categoriesDatas
         }
       },
       computed: {
@@ -129,6 +184,10 @@
       methods: {
         selectContent(contentId) {
           this.contentId = contentId;
+        },
+        selectCategory(category) {
+          this.selectedCategory = category;
+          this.contentId = "category";
         }
       },
     }
@@ -175,9 +234,33 @@
         z-index: 0;
       }
 
+      &-back {
+        font-size: 12px;
+        position: absolute;
+        top: -25px;
+        display: flex;
+        align-items: center;
+        font-weight: 600;
+        color: #7d7d7d;
+        text-transform: uppercase;
+        transition: 0.25s ease-out;
+        cursor: pointer;
+
+        &:hover {
+          opacity: 0.6;
+        }
+
+        svg {
+          width: 20px;
+          height: 15px;
+          margin-bottom: 1px;
+        }
+      }
+
       &-content {
         padding: 0 10px;
         padding-bottom: 20px;
+        position: relative;
 
         &-header-right {
           display: flex;
@@ -209,6 +292,7 @@
                 text-decoration: none;
                 display: block;
                 box-shadow: 0 0 0 0 rgba(#000, 0.4);
+                cursor: pointer;
 
                 &:hover {
                   box-shadow: 0 0 10px 1px rgba(#000, 0.6);
