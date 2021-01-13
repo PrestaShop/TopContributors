@@ -127,7 +127,7 @@
 
   const categoriesDatas = {
     core: {
-      text: 'Code contributions to the <strong>core</strong>'
+      text: 'Contributions to the <strong>core</strong>'
     },
     documentation: {
       text: 'Contributions to the <strong>documentation</strong>'
@@ -136,10 +136,10 @@
       text: 'Contributions to the <strong>modules</strong>'
     },
     others: {
-      text: 'Code contributions to the <strong>others</strong>'
+      text: 'Contributions to the <strong>others</strong>'
     },
     specs: {
-      text: 'Code contributions to the <strong>specs</strong>'
+      text: 'Contributions to the <strong>specs</strong>'
     },
     tools: {
       text: 'Contributions to the <strong>tools</strong>'
