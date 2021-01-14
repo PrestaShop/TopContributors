@@ -146,51 +146,51 @@
     }
   }
 
-    export default {
-      name: 'ContributorPopup',
-      components: {
-        BIconGeoAltFill,
-        BAvatar,
-        BIconX,
-        BIconArrowLeftShort,
-        ContributorRoles,
-        ContributorLinks,
-        CopyButton
-      },
-      props: {
-        contributor: {
-          type: Object,
-          required: true,
+  export default {
+    name: 'ContributorPopup',
+    components: {
+      BIconGeoAltFill,
+      BAvatar,
+      BIconX,
+      BIconArrowLeftShort,
+      ContributorRoles,
+      ContributorLinks,
+      CopyButton
+    },
+    props: {
+      contributor: {
+        type: Object,
+        required: true,
+      }
+    },
+    data() {
+      return {
+        contentId: 'contributions',
+        selectedCategory: null,
+        categoriesDatas
+      }
+    },
+    computed: {
+      contributorName () {
+        const name = this.contributor.name
+          ? this.contributor.name
+          : this.contributor.login
+        if (name.length >= 21) {
+          return name.substr(0, 21) + ' (..)'
         }
+        return name
+      }
+    },
+    methods: {
+      selectContent(contentId) {
+        this.contentId = contentId;
       },
-      data() {
-        return {
-          contentId: 'contributions',
-          selectedCategory: null,
-          categoriesDatas
-        }
-      },
-      computed: {
-        contributorName () {
-          const name = this.contributor.name
-            ? this.contributor.name
-            : this.contributor.login
-          if (name.length >= 21) {
-            return name.substr(0, 21) + ' (..)'
-          }
-          return name
-        }
-      },
-      methods: {
-        selectContent(contentId) {
-          this.contentId = contentId;
-        },
-        selectCategory(category) {
-          this.selectedCategory = category;
-          this.contentId = "category";
-        }
-      },
-    }
+      selectCategory(category) {
+        this.selectedCategory = category;
+        this.contentId = "category";
+      }
+    },
+  }
 </script>
 
 <style lang="scss">
