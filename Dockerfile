@@ -21,7 +21,7 @@ COPY --from=builder1 /app /app
 
 RUN composer create-project prestashop/traces
 
-RUN ./traces/traces -u $ENV_USER_LOGIN -p $ENV_USER_PASS -o PrestaShop --config="./traces/config.dist.yml"
+RUN ./traces/traces -u $ENV_USER_LOGIN -p $ENV_USER_PASS -o PrestaShop --config="./traces/config.dist.yml"  --timeout 30
 
 FROM httpd:2.4.41-alpine
 
