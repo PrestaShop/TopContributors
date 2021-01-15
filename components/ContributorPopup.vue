@@ -68,18 +68,13 @@
         >
           <ul>
             <li v-for="(category, key) of contributor.categories" :key="key">
-              <a
-                target="_blank"
-                class="contributions-item repository"
-                @click="selectCategory(category)"
-              >
-                <p class="contribution-number">{{ category.total }}</p>
-
-                <p
-                  class="contribution-name"
-                  v-html="categoriesDatas[key].text"
-                ></p>
-              </a>
+              <category
+                :text="categoriesDatas[key].text"
+                :category="category"
+                :contributor="contributor"
+                :type="'category'"
+                @select="selectCategory(category)"
+              />
             </li>
           </ul>
         </div>
@@ -100,17 +95,12 @@
               v-for="(repository, key) of selectedCategory.repositories"
               :key="key"
             >
-              <a
-                :href="`https://github.com/${key}/commits?author=${contributor.login}`"
-                target="_blank"
-                class="contributions-item repository"
-              >
-                <p class="contribution-number">{{ repository }}</p>
-
-                <p class="contribution-name">
-                  {{ key.replace('PrestaShop/', '') }}
-                </p>
-              </a>
+              <category
+                :text="key"
+                :contributor="contributor"
+                :type="'repository'"
+                :number="repository"
+              />
             </li>
           </ul>
         </div>
@@ -124,27 +114,7 @@
   import ContributorRoles from './ContributorRoles'
   import ContributorLinks from './ContributorLinks'
   import CopyButton from './CopyButton'
-
-  const categoriesDatas = {
-    core: {
-      text: 'Contributions to the <strong>core</strong>'
-    },
-    documentation: {
-      text: 'Contributions to the <strong>documentation</strong>'
-    },
-    modules: {
-      text: 'Contributions to the <strong>modules</strong>'
-    },
-    others: {
-      text: 'Contributions to the <strong>others</strong>'
-    },
-    specs: {
-      text: 'Contributions to the <strong>specs</strong>'
-    },
-    tools: {
-      text: 'Contributions to the <strong>tools</strong>'
-    }
-  }
+  import categoriesDatas from '~/constants/categories';
 
   export default {
     name: 'ContributorPopup',
@@ -176,8 +146,9 @@
           ? this.contributor.name
           : this.contributor.login
         if (name.length >= 21) {
-          return name.substr(0, 21) + ' (..)'
+          return  `${name.substr(0, 21)} (..)`
         }
+
         return name
       }
     },
@@ -187,7 +158,7 @@
       },
       selectCategory(category) {
         this.selectedCategory = category;
-        this.contentId = "category";
+        this.contentId = 'category';
       }
     },
   }
@@ -277,57 +248,6 @@
 
             li {
               list-style-type: none;
-
-              .contributions-item {
-                height: 121px;
-                width: 231px;
-                border-radius: 4px;
-                box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.2);
-                color: #fff;
-                padding: 16px 30px;
-                margin: 7.5px;
-                transform: translateY(-20px);
-                opacity: 0;
-                transition: 0.25s ease-out;
-                text-decoration: none;
-                display: block;
-                box-shadow: 0 0 0 0 rgba(#000, 0.4);
-                cursor: pointer;
-
-                &:hover {
-                  box-shadow: 0 0 10px 1px rgba(#000, 0.6);
-                  transform: translateY(-20px);
-                }
-
-                @for $i from 1 through 30 {
-                  &:nth-child(#{$i}) {
-                    transition-delay: 0.05s * $i;
-                  }
-                }
-
-                @at-root .show & {
-                  opacity: 1;
-                  transform: translateY(0);
-                }
-
-                .contribution-name {
-                  font-size: 13px;
-                  font-weight: bold;
-                  letter-spacing: 0;
-                  line-height: 18px;
-                }
-
-                .contribution-number {
-                  font-size: 24px;
-                  font-weight: bold;
-                  letter-spacing: 0;
-                  line-height: 33px;
-                }
-
-                &.repository {
-                  background-color: #011738;
-                }
-              }
             }
           }
         }
