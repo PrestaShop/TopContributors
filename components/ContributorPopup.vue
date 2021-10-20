@@ -53,26 +53,28 @@
       </div>
 
       <div class="contributor-modal-content">
+        <p
+          v-if="contentId === 'category'"
+          class="contributor-modal-back"
+          @click="selectContent('contributions')"
+        >
+          <b-icon-arrow-left-short class="icon-close"></b-icon-arrow-left-short>
+          Back
+        </p>
+
         <div
           v-if="contentId === 'contributions'"
           class="contributor-modal-content-contributions"
         >
           <ul>
-            <li
-              v-for="repository of contributor.repositories"
-              :key="repository.repositoryName"
-            >
-              <a
-                :href="`https://github.com/${repository.repositoryName}/commits?author=${contributor.login}`"
-                target="_blank"
-                class="contributions-item repository"
-              >
-                <p class="contribution-number">{{ repository.number }}</p>
-
-                <p class="contribution-name">
-                  {{ repository.repositoryName.replace('PrestaShop/', '') }}
-                </p>
-              </a>
+            <li v-for="(category, key) of contributor.categories" :key="key">
+              <category
+                :text="categoriesDatas[key].text"
+                :category="category"
+                :contributor="contributor"
+                :type="'category'"
+                @select="selectCategory(category)"
+              />
             </li>
           </ul>
         </div>
@@ -83,55 +85,83 @@
         >
           {{ contributor.bio }}
         </div>
+
+        <div
+          v-if="contentId === 'category' && selectedCategory"
+          class="contributor-modal-content-contributions"
+        >
+          <ul>
+            <li
+              v-for="(repository, key) of selectedCategory.repositories"
+              :key="key"
+            >
+              <category
+                :text="key"
+                :contributor="contributor"
+                :type="'repository'"
+                :number="repository"
+              />
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
   </div>
 </template>
 
 <script lang="typescript">
-  import {BAvatar, BIconGeoAltFill, BIconX} from 'bootstrap-vue'
+  import {BAvatar, BIconGeoAltFill, BIconX, BIconArrowLeftShort} from 'bootstrap-vue'
   import ContributorRoles from './ContributorRoles'
   import ContributorLinks from './ContributorLinks'
   import CopyButton from './CopyButton'
+  import categoriesDatas from '~/constants/categories';
 
-    export default {
-      name: 'ContributorPopup',
-      components: {
-        BIconGeoAltFill,
-        BAvatar,
-        BIconX,
-        ContributorRoles,
-        ContributorLinks,
-        CopyButton
-      },
-      props: {
-        contributor: {
-          type: Object,
-          required: true,
+  export default {
+    name: 'ContributorPopup',
+    components: {
+      BIconGeoAltFill,
+      BAvatar,
+      BIconX,
+      BIconArrowLeftShort,
+      ContributorRoles,
+      ContributorLinks,
+      CopyButton
+    },
+    props: {
+      contributor: {
+        type: Object,
+        required: true,
+      }
+    },
+    data() {
+      return {
+        contentId: 'contributions',
+        selectedCategory: null,
+        categoriesDatas
+      }
+    },
+    computed: {
+      contributorName () {
+        const name = this.contributor.name
+          ? this.contributor.name
+          : this.contributor.login
+        if (name.length >= 21) {
+          return  `${name.substr(0, 21)} (..)`
         }
+
+        return name
+      }
+    },
+    methods: {
+      selectContent(contentId) {
+        this.contentId = contentId;
       },
-      data() {
-        return {
-          contentId: 'contributions'
-        }
-      },
-      computed: {
-        contributorName () {
-          const name = this.contributor.name
-            ? this.contributor.name
-            : this.contributor.login
-          if (name.length >= 21) {
-            return name.substr(0, 21) + ' (..)'
-          }
-          return name
-        }
-      },
-      methods: {
-        selectContent(contentId) {
-          this.contentId = contentId;
-        }
-      },
-    }
+      selectCategory(category) {
+        this.selectedCategory = category;
+        this.contentId = 'category';
+      }
+    },
+  }
 </script>
 
 <style lang="scss">
@@ -175,9 +205,33 @@
         z-index: 0;
       }
 
+      &-back {
+        font-size: 12px;
+        position: absolute;
+        top: -25px;
+        display: flex;
+        align-items: center;
+        font-weight: 600;
+        color: #7d7d7d;
+        text-transform: uppercase;
+        transition: 0.25s ease-out;
+        cursor: pointer;
+
+        &:hover {
+          opacity: 0.6;
+        }
+
+        svg {
+          width: 20px;
+          height: 15px;
+          margin-bottom: 1px;
+        }
+      }
+
       &-content {
         padding: 0 10px;
         padding-bottom: 20px;
+        position: relative;
 
         &-header-right {
           display: flex;
@@ -194,56 +248,6 @@
 
             li {
               list-style-type: none;
-
-              .contributions-item {
-                height: 121px;
-                width: 231px;
-                border-radius: 4px;
-                box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.2);
-                color: #fff;
-                padding: 16px 30px;
-                margin: 7.5px;
-                transform: translateY(-20px);
-                opacity: 0;
-                transition: 0.25s ease-out;
-                text-decoration: none;
-                display: block;
-                box-shadow: 0 0 0 0 rgba(#000, 0.4);
-
-                &:hover {
-                  box-shadow: 0 0 10px 1px rgba(#000, 0.6);
-                  transform: translateY(-20px);
-                }
-
-                @for $i from 1 through 30 {
-                  &:nth-child(#{$i}) {
-                    transition-delay: 0.05s * $i;
-                  }
-                }
-
-                @at-root .show & {
-                  opacity: 1;
-                  transform: translateY(0);
-                }
-
-                .contribution-name {
-                  font-size: 13px;
-                  font-weight: bold;
-                  letter-spacing: 0;
-                  line-height: 18px;
-                }
-
-                .contribution-number {
-                  font-size: 24px;
-                  font-weight: bold;
-                  letter-spacing: 0;
-                  line-height: 33px;
-                }
-
-                &.repository {
-                  background-color: #011738;
-                }
-              }
             }
           }
         }
