@@ -1,20 +1,20 @@
 export default {
   core: {
-    text: 'Contributions to the <strong>core</strong>'
+    text: 'Contributions to <strong>Core</strong>'
   },
   documentation: {
-    text: 'Contributions to the <strong>documentation</strong>'
+    text: 'Contributions to <strong>Documentation</strong>'
   },
   modules: {
-    text: 'Contributions to the <strong>modules</strong>'
+    text: 'Contributions to <strong>Modules</strong>'
   },
   others: {
-    text: 'Contributions to the <strong>others</strong>'
+    text: 'Contributions to <strong>Other projects</strong>'
   },
   specs: {
-    text: 'Contributions to the <strong>specs</strong>'
+    text: 'Contributions to <strong>Specification</strong>'
   },
   tools: {
-    text: 'Contributions to the <strong>tools</strong>'
+    text: 'Contributions to <strong>Tooling</strong>'
   }
 }
