@@ -69,7 +69,7 @@
           <ul>
             <li v-for="(category, key) of contributor.categories" :key="key">
               <category
-                :text="key"
+                :text="categoriesDatas[key].text"
                 :category="category"
                 :contributor="contributor"
                 :type="'category'"
