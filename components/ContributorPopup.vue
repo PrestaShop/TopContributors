@@ -13,6 +13,12 @@
             <b-icon-geo-alt-fill></b-icon-geo-alt-fill>
             {{ contributor.location }}
           </p>
+          <p v-if="projectMembersDatas[contributor.login]" class="contributor-member-project">
+            <a href="https://www.prestashop-project.org/maintainers-guide/project-organization/" target="_blank">
+              <megaphone-icon height="1rem" width="1rem" view-box="0 0 16 16" />
+              Project Member
+            </a>
+          </p>
         </div>
 
         <contributor-roles
@@ -115,6 +121,7 @@
   import ContributorLinks from './ContributorLinks'
   import CopyButton from './CopyButton'
   import categoriesDatas from '~/constants/categories';
+  import projectMembersDatas from '~/constants/projectMembers';
 
   export default {
     name: 'ContributorPopup',
@@ -137,7 +144,8 @@
       return {
         contentId: 'contributions',
         selectedCategory: null,
-        categoriesDatas
+        categoriesDatas,
+        projectMembersDatas
       }
     },
     computed: {
@@ -354,13 +362,16 @@
       margin-bottom: 30px;
     }
 
-    &-location {
+    &-location, &-member-project {
       margin: 0;
       color: #2e2e2e;
       font-size: 14px;
       letter-spacing: 0;
       line-height: 19px;
       font-weight: 600;
+      text-align: left;
+
+      a {color: #25b9d7;}
 
       svg {
         fill: #4d4d4d;
