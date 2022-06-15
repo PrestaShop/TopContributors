@@ -14,6 +14,9 @@ export default {
   specs: {
     text: 'Contributions to <strong>Specification</strong>'
   },
+  themes: {
+    text: 'Contributions to <strong>Themes</strong>'
+  },
   tools: {
     text: 'Contributions to <strong>Tooling</strong>'
   }
