@@ -2,9 +2,6 @@ export default {
   core: {
     text: 'Contributions to <strong>Core</strong>'
   },
-  themes: {
-    text: 'Contributions to <strong>Themes</strong>'
-  },
   documentation: {
     text: 'Contributions to <strong>Documentation</strong>'
   },
@@ -16,6 +13,9 @@ export default {
   },
   specs: {
     text: 'Contributions to <strong>Specification</strong>'
+  },
+  themes: {
+    text: 'Contributions to <strong>Themes</strong>'
   },
   tools: {
     text: 'Contributions to <strong>Tooling</strong>'
