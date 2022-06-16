@@ -28,7 +28,7 @@
             <github-icon />
           </a>
           <a
-            v-if="projectMembersDatas[contributor.login]" href="https://www.prestashop-project.org/maintainers-guide/project-organization/" target="_blank"
+            v-if="organizationMembersDatas[contributor.login]" href="https://www.prestashop-project.org/maintainers-guide/project-organization/" target="_blank"
           >
             <megaphone-icon />
           </a>
@@ -49,7 +49,7 @@
   import GithubIcon from './GithubIcon'
   import LinkIcon from './LinkIcon'
   import MegaphoneIcon from './MegaphoneIcon'
-  import projectMembersDatas from '~/constants/projectMembers';
+  import organizationMembersDatas from '~/constants/organizationMembers';
 
   export default {
     name: 'TopAvatar',
@@ -65,7 +65,7 @@
     },
     data() {
       return {
-        projectMembersDatas
+        organizationMembersDatas
       }
     },
     computed: {
