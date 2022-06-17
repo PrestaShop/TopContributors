@@ -13,8 +13,14 @@
             <b-icon-geo-alt-fill></b-icon-geo-alt-fill>
             {{ contributor.location }}
           </p>
-          <p v-if="organizationMembersDatas[contributor.login]" class="contributor-organization-member">
-            <a href="https://www.prestashop-project.org/maintainers-guide/project-organization/" target="_blank">
+          <p
+            v-if="organizationMembersDatas[contributor.login]"
+            class="contributor-organization-member"
+          >
+            <a
+              href="https://www.prestashop-project.org/maintainers-guide/project-organization/"
+              target="_blank"
+            >
               <megaphone-icon height="1rem" width="1rem" view-box="0 0 16 16" />
               Organization Member
             </a>
@@ -362,7 +368,8 @@
       margin-bottom: 30px;
     }
 
-    &-location, &-organization-member {
+    &-location,
+    &-organization-member {
       margin: 0;
       color: #2e2e2e;
       font-size: 14px;
@@ -371,7 +378,9 @@
       font-weight: 600;
       text-align: left;
 
-      a {color: #25b9d7;}
+      a {
+        color: #25b9d7;
+      }
 
       svg {
         fill: #4d4d4d;

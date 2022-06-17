@@ -28,11 +28,12 @@
             <github-icon />
           </a>
           <a
-            v-if="organizationMembersDatas[contributor.login]" href="https://www.prestashop-project.org/maintainers-guide/project-organization/" target="_blank"
+            v-if="organizationMembersDatas[contributor.login]"
+            href="https://www.prestashop-project.org/maintainers-guide/project-organization/"
+            target="_blank"
           >
             <megaphone-icon />
           </a>
-
         </div>
       </div>
       <div class="dots">
@@ -49,13 +50,14 @@
   import GithubIcon from './GithubIcon'
   import LinkIcon from './LinkIcon'
   import MegaphoneIcon from './MegaphoneIcon'
-  import organizationMembersDatas from '~/constants/organizationMembers';
+  import organizationMembersDatas from '~/constants/organizationMembers'
 
   export default {
     name: 'TopAvatar',
     components: {
       LinkIcon,
       GithubIcon,
+      MegaphoneIcon
     },
     props: {
       contributor: {
