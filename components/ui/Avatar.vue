@@ -24,6 +24,12 @@
               <link-icon height="12" width="12" view-box="0 0 24 24" />
             </a>
           </div>
+          <div v-if="organizationMembersDatas[contributor.login]" class="links">
+            |
+            <a href="https://www.prestashop-project.org/maintainers-guide/project-organization/">
+              <megaphone-icon height="12" width="12" view-box="0 0 16 16" />
+            </a>
+          </div>
         </div>
       </div>
       <div class="info">{{ contributor.contributions }} contrib.</div>

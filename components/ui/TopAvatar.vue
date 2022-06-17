@@ -27,6 +27,12 @@
           <a v-if="contributorGitHubLink" :href="contributorGitHubLink">
             <github-icon />
           </a>
+          <a
+            v-if="organizationMembersDatas[contributor.login]" href="https://www.prestashop-project.org/maintainers-guide/project-organization/" target="_blank"
+          >
+            <megaphone-icon />
+          </a>
+
         </div>
       </div>
       <div class="dots">
@@ -42,17 +48,24 @@
   import EventBus from '../utils/EventBus'
   import GithubIcon from './GithubIcon'
   import LinkIcon from './LinkIcon'
+  import MegaphoneIcon from './MegaphoneIcon'
+  import organizationMembersDatas from '~/constants/organizationMembers';
 
   export default {
     name: 'TopAvatar',
     components: {
       LinkIcon,
-      GithubIcon
+      GithubIcon,
     },
     props: {
       contributor: {
         type: Object,
         default: () => {}
+      }
+    },
+    data() {
+      return {
+        organizationMembersDatas
       }
     },
     computed: {
