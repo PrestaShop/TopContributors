@@ -2,7 +2,6 @@ export default {
   fabienvallon: {},
   MatShir: {},
 
-  Progi1984: {},
   sowbiba: {},
   jolelievre: {},
   kpodemski: {},
