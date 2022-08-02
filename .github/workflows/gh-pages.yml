@@ -1,0 +1,75 @@
+name: Build & Deploy
+
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      ENV_USER_LOGIN: ${{ secrets.ENV_USER_LOGIN }}
+      ENV_USER_PASS: ${{ secrets.ENV_USER_PASS }}
+
+    steps:
+      - name: Checkout 🛎
+        uses: actions/checkout@master
+
+      - name: Setup PHP env 🏗
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: 8.1
+
+      - name: Setup node env 🏗
+        uses: actions/setup-node@v2.1.2
+        with:
+          node-version: 14
+
+      - name: Get Composer Cache Directory
+        id: composer-cache
+        run: echo "::set-output name=dir::$(composer config cache-files-dir)"
+
+      - name: Cache Composer Directory 📦
+        uses: actions/cache@v2
+        with:
+          path: ${{ steps.composer-cache.outputs.dir }}
+          key: ubuntu-latest-composer-${{ hashFiles('**/composer.lock') }}
+          restore-keys: |
+            ubuntu-latest-composer-
+            
+      - name: Cache node_modules 📦
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ubuntu-latest-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ubuntu-latest-node-
+
+      - name: Install Contributors dependencies 💚
+        run: npm install
+
+      - name: Build Contributors Site 👷
+        run: npm run build && npm run generate
+
+      - name: Install Traces project 💚
+        if: ${{ (github.event_name == 'push' && github.ref == 'refs/heads/master') || github.event_name == 'schedule' }}
+        run: composer create-project prestashop/traces
+
+      - name: Execute Traces 🔧
+        if: ${{ (github.event_name == 'push' && github.ref == 'refs/heads/master') || github.event_name == 'schedule' }}
+        run: ./traces/traces -u ${ENV_USER_LOGIN} -p ${ENV_USER_PASS} -o PrestaShop --config="./traces/config.dist.yml" --timeout 30
+
+      - name: Move file 📁
+        if: ${{ (github.event_name == 'push' && github.ref == 'refs/heads/master') || github.event_name == 'schedule' }}
+        run: mv contributors.js ./dist
+
+      - name: Deploy 🚀
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ (github.event_name == 'push' && github.ref == 'refs/heads/master') || github.event_name == 'schedule' }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist

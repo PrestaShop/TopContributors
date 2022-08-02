@@ -3,15 +3,11 @@ name: ESLint JavaScript Linter
 on:
   push:
     branches:
-      - main
       - master
   pull_request:
-    branches:
-      - main
-      - master
 
 jobs:
-  ci:
+  eslint:
     runs-on: ${{ matrix.os }}
 
     strategy:
