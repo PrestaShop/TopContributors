@@ -5,6 +5,8 @@ on:
   push:
     branches:
       - master
+  release:
+    types: [released]
   schedule:
     - cron: '0 6 * * *'
 
@@ -56,20 +58,20 @@ jobs:
         run: npm run build && npm run generate
 
       - name: Install Traces project 💚
-        if: ${{ (github.event_name == 'push' && github.ref == 'refs/heads/master') || github.event_name == 'schedule' }}
+        if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         run: composer create-project prestashop/traces
 
       - name: Execute Traces 🔧
-        if: ${{ (github.event_name == 'push' && github.ref == 'refs/heads/master') || github.event_name == 'schedule' }}
+        if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         run: ./traces/traces -u ${ENV_USER_LOGIN} -p ${ENV_USER_PASS} -o PrestaShop --config="./traces/config.dist.yml" --timeout 30
 
       - name: Move file 📁
-        if: ${{ (github.event_name == 'push' && github.ref == 'refs/heads/master') || github.event_name == 'schedule' }}
+        if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         run: mv contributors.js ./dist
 
       - name: Deploy 🚀
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ (github.event_name == 'push' && github.ref == 'refs/heads/master') || github.event_name == 'schedule' }}
+        if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
