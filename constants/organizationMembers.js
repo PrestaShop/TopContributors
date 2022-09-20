@@ -2,7 +2,6 @@ export default {
   fabienvallon: {},
   MatShir: {},
 
-  Progi1984: {},
   sowbiba: {},
   jolelievre: {},
   kpodemski: {},
@@ -14,6 +13,12 @@ export default {
   NeOMakinG: {},
 
   Hlavtox: {},
+
+  zuk3975: {},
+  mparvazi: {},
+  marsaldev: {},
+  okom3pom: {},
+  SharakPL: {},
 
   TristanLDD: {},
 
