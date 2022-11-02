@@ -251,7 +251,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 4859,
+        "contributions": 4860,
         "repositories": {
             "PrestaShop\/PrestaShop": 2419,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -364,7 +364,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 224,
+            "PrestaShop\/test-scenarios": 225,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-landing": 3,
             "PrestaShop\/user-documentation-en": 1,
@@ -399,12 +399,12 @@
                 }
             },
             "documentation": {
-                "total": 386,
+                "total": 387,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 224,
+                    "PrestaShop\/test-scenarios": 225,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 6,
                     "PrestaShop\/example_module_mailtheme": 4
@@ -1747,9 +1747,9 @@
         "location": "Remote",
         "bio": "Front-end developer",
         "email_domain": "",
-        "contributions": 3845,
+        "contributions": 3849,
         "repositories": {
-            "PrestaShop\/PrestaShop": 1380,
+            "PrestaShop\/PrestaShop": 1384,
             "PrestaShop\/statslive": 1,
             "PrestaShop\/blockwishlist": 267,
             "PrestaShop\/productcomments": 7,
@@ -1801,9 +1801,9 @@
         },
         "categories": {
             "core": {
-                "total": 1766,
+                "total": 1770,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 1380,
+                    "PrestaShop\/PrestaShop": 1384,
                     "PrestaShop\/prestashop-ui-kit": 312,
                     "PrestaShop\/stylelint-config": 47,
                     "PrestaShop\/stylelint-browser-compatibility": 15,
@@ -40313,5 +40313,5 @@
             }
         }
     },
-    "updatedAt": "2022-11-01 06:11:18"
+    "updatedAt": "2022-11-02 06:13:42"
 }
