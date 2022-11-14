@@ -26587,10 +26587,10 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10360649?v=4",
         "html_url": "https:\/\/github.com\/PedroRendeiro",
         "name": "Pedro Rendeiro",
-        "company": null,
+        "company": "Bosch Thermotechnik GmbH",
         "blog": "",
         "location": "Aveiro, Portugal",
-        "bio": null,
+        "bio": "Industry 4.0 Software Engineer",
         "email_domain": "",
         "contributions": 2,
         "repositories": {
@@ -36805,5 +36805,5 @@
             }
         }
     },
-    "updatedAt": "2022-11-13 06:06:53"
+    "updatedAt": "2022-11-14 06:07:03"
 }
