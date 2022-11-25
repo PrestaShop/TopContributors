@@ -68,6 +68,9 @@ jobs:
       - name: Move file 📁
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         run: mv contributors.js ./dist
+        
+      - name: Write CNAME file
+        run: echo 'contributors.prestashop-project.org' > ./dist/CNAME
 
       - name: Deploy 🚀
         uses: peaceiris/actions-gh-pages@v3
