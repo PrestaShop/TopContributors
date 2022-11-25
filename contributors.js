@@ -952,9 +952,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 4456,
+        "contributions": 4467,
         "repositories": {
-            "PrestaShop\/PrestaShop": 3841,
+            "PrestaShop\/PrestaShop": 3852,
             "PrestaShop\/dashproducts": 2,
             "PrestaShop\/statscarrier": 1,
             "PrestaShop\/statspersonalinfos": 1,
@@ -998,9 +998,9 @@
         },
         "categories": {
             "core": {
-                "total": 3897,
+                "total": 3908,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 3841,
+                    "PrestaShop\/PrestaShop": 3852,
                     "PrestaShop\/prestashop-ui-kit": 7,
                     "PrestaShop\/TranslationToolsBundle": 4,
                     "PrestaShop\/circuit-breaker": 31,
@@ -1440,9 +1440,9 @@
         "location": "Lithuania",
         "bio": null,
         "email_domain": "",
-        "contributions": 3583,
+        "contributions": 3584,
         "repositories": {
-            "PrestaShop\/PrestaShop": 3461,
+            "PrestaShop\/PrestaShop": 3462,
             "PrestaShop\/autoupgrade": 1,
             "PrestaShop\/docs": 77,
             "PrestaShop\/ps_facetedsearch": 17,
@@ -1450,9 +1450,9 @@
         },
         "categories": {
             "core": {
-                "total": 3461,
+                "total": 3462,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 3461
+                    "PrestaShop\/PrestaShop": 3462
                 }
             },
             "specs": {
@@ -4261,10 +4261,10 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 724,
+        "contributions": 725,
         "repositories": {
             "PrestaShop\/prestashop-specs": 721,
-            "PrestaShop\/functional-documentation": 3
+            "PrestaShop\/functional-documentation": 4
         },
         "categories": {
             "core": {
@@ -4294,9 +4294,9 @@
                 "repositories": []
             },
             "others": {
-                "total": 3,
+                "total": 4,
                 "repositories": {
-                    "PrestaShop\/functional-documentation": 3
+                    "PrestaShop\/functional-documentation": 4
                 }
             }
         }
@@ -36838,5 +36838,5 @@
             }
         }
     },
-    "updatedAt": "2022-11-25 13:13:51"
+    "updatedAt": "2022-11-25 14:18:16"
 }
