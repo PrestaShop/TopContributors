@@ -3301,7 +3301,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 1183,
+        "contributions": 1184,
         "repositories": {
             "PrestaShop\/PrestaShop": 388,
             "PrestaShop\/PrestaShop-modules": 3,
@@ -3368,7 +3368,7 @@
             "PrestaShop\/ps-docs-theme": 11,
             "PrestaShop\/devdocs-site": 5,
             "PrestaShop\/ps-project-metrics": 1,
-            "PrestaShop\/classic-theme": 24,
+            "PrestaShop\/classic-theme": 25,
             "PrestaShop\/ps-monitor-module-releases": 1
         },
         "categories": {
@@ -3393,9 +3393,9 @@
                 }
             },
             "themes": {
-                "total": 33,
+                "total": 34,
                 "repositories": {
-                    "PrestaShop\/classic-theme": 24,
+                    "PrestaShop\/classic-theme": 25,
                     "PrestaShop\/hummingbird": 9
                 }
             },
@@ -4363,7 +4363,7 @@
         "location": "127.0.0.1:666",
         "bio": "Software Engineer & Open source lover | @PrestaShop contributor & maintainer | Lazy hard worker | Simplicity is too complex...\r\n\r\n",
         "email_domain": "hotmail.com",
-        "contributions": 708,
+        "contributions": 709,
         "repositories": {
             "PrestaShop\/PrestaShop": 597,
             "PrestaShop\/statsproduct": 3,
@@ -4377,7 +4377,7 @@
             "PrestaShop\/psgdpr": 2,
             "PrestaShop\/example-modules": 4,
             "PrestaShop\/hummingbird": 2,
-            "PrestaShop\/classic-theme": 13
+            "PrestaShop\/classic-theme": 14
         },
         "categories": {
             "core": {
@@ -4398,9 +4398,9 @@
                 }
             },
             "themes": {
-                "total": 15,
+                "total": 16,
                 "repositories": {
-                    "PrestaShop\/classic-theme": 13,
+                    "PrestaShop\/classic-theme": 14,
                     "PrestaShop\/hummingbird": 2
                 }
             },
@@ -36921,5 +36921,5 @@
             }
         }
     },
-    "updatedAt": "2022-12-24 06:07:46"
+    "updatedAt": "2022-12-25 06:06:17"
 }
