@@ -29154,7 +29154,7 @@
         "company": null,
         "blog": "",
         "location": "Paris",
-        "bio": "Lead Developer (formerly @holbertonschool, @Veepee_Fr, @car360inc)",
+        "bio": "Road and Trail Runner but Senior Software Engineer avant tout",
         "email_domain": "gmail.com",
         "contributions": 1,
         "repositories": {
@@ -31266,7 +31266,7 @@
         "company": null,
         "blog": "https:\/\/shef-er.ru",
         "location": "Yekaterinburg",
-        "bio": "Software Dev \u00b7 Linux lover \u00b7 OSS Enthusiast",
+        "bio": "Software Dev \u00b7 Linux lover \u00b7 FOSS Fan",
         "email_domain": "",
         "contributions": 1,
         "repositories": {
@@ -36921,5 +36921,5 @@
             }
         }
     },
-    "updatedAt": "2022-12-25 06:06:17"
+    "updatedAt": "2022-12-26 06:05:51"
 }
