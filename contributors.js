@@ -132,7 +132,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 4990,
+        "contributions": 4991,
         "repositories": {
             "PrestaShop\/PrestaShop": 2538,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -231,7 +231,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 249,
+            "PrestaShop\/test-scenarios": 250,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 4,
@@ -267,12 +267,12 @@
                 }
             },
             "documentation": {
-                "total": 407,
+                "total": 408,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 249,
+                    "PrestaShop\/test-scenarios": 250,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 6
                 }
@@ -5094,9 +5094,9 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 444,
+        "contributions": 447,
         "repositories": {
-            "PrestaShop\/PrestaShop": 182,
+            "PrestaShop\/PrestaShop": 185,
             "PrestaShop\/dashproducts": 2,
             "PrestaShop\/dashtrends": 2,
             "PrestaShop\/gridhtml": 1,
@@ -5135,9 +5135,9 @@
         },
         "categories": {
             "core": {
-                "total": 185,
+                "total": 188,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 182,
+                    "PrestaShop\/PrestaShop": 185,
                     "PrestaShop\/prestashop-ui-kit": 3
                 }
             },
@@ -8607,6 +8607,69 @@
         }
     },
     "98": {
+        "login": "FabienPapet",
+        "id": 1446265,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1446265?v=4",
+        "html_url": "https:\/\/github.com\/FabienPapet",
+        "name": "Fabien Papet",
+        "company": "SYMETRY",
+        "blog": "",
+        "location": "Grenoble",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 71,
+        "repositories": {
+            "PrestaShop\/PrestaShop": 55,
+            "PrestaShop\/autoupgrade": 2,
+            "PrestaShop\/ps_crossselling": 1,
+            "PrestaShop\/decimal": 1,
+            "PrestaShop\/ADR": 5,
+            "PrestaShop\/open-source": 4,
+            "PrestaShop\/autoload": 3
+        },
+        "categories": {
+            "core": {
+                "total": 56,
+                "repositories": {
+                    "PrestaShop\/PrestaShop": 55,
+                    "PrestaShop\/decimal": 1
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 9,
+                "repositories": {
+                    "PrestaShop\/ADR": 5,
+                    "PrestaShop\/open-source": 4
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 3,
+                "repositories": {
+                    "PrestaShop\/autoupgrade": 2,
+                    "PrestaShop\/ps_crossselling": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 3,
+                "repositories": {
+                    "PrestaShop\/autoload": 3
+                }
+            }
+        }
+    },
+    "99": {
         "login": "Prestaworks",
         "id": 2902272,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2902272?v=4",
@@ -8661,69 +8724,6 @@
             "others": {
                 "total": 0,
                 "repositories": []
-            }
-        }
-    },
-    "99": {
-        "login": "FabienPapet",
-        "id": 1446265,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1446265?v=4",
-        "html_url": "https:\/\/github.com\/FabienPapet",
-        "name": "Fabien Papet",
-        "company": "SYMETRY",
-        "blog": "",
-        "location": "Grenoble",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 70,
-        "repositories": {
-            "PrestaShop\/PrestaShop": 54,
-            "PrestaShop\/autoupgrade": 2,
-            "PrestaShop\/ps_crossselling": 1,
-            "PrestaShop\/decimal": 1,
-            "PrestaShop\/ADR": 5,
-            "PrestaShop\/open-source": 4,
-            "PrestaShop\/autoload": 3
-        },
-        "categories": {
-            "core": {
-                "total": 55,
-                "repositories": {
-                    "PrestaShop\/PrestaShop": 54,
-                    "PrestaShop\/decimal": 1
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 9,
-                "repositories": {
-                    "PrestaShop\/ADR": 5,
-                    "PrestaShop\/open-source": 4
-                }
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 3,
-                "repositories": {
-                    "PrestaShop\/autoupgrade": 2,
-                    "PrestaShop\/ps_crossselling": 1
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 3,
-                "repositories": {
-                    "PrestaShop\/autoload": 3
-                }
             }
         }
     },
@@ -36974,5 +36974,5 @@
             }
         }
     },
-    "updatedAt": "2022-12-30 06:08:17"
+    "updatedAt": "2022-12-31 06:06:53"
 }
