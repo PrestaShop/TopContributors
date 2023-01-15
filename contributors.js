@@ -1585,9 +1585,9 @@
         "location": "Paris, France",
         "bio": "VP Open Source at PrestaShop",
         "email_domain": "",
-        "contributions": 3077,
+        "contributions": 3079,
         "repositories": {
-            "PrestaShop\/PrestaShop": 1319,
+            "PrestaShop\/PrestaShop": 1321,
             "PrestaShop\/PrestaShop-modules": 6,
             "PrestaShop\/PrestaShop-webservice-lib": 12,
             "PrestaShop\/dashactivity": 5,
@@ -1691,9 +1691,9 @@
         },
         "categories": {
             "core": {
-                "total": 1567,
+                "total": 1569,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 1319,
+                    "PrestaShop\/PrestaShop": 1321,
                     "PrestaShop\/prestashop-ui-kit": 100,
                     "PrestaShop\/TranslationToolsBundle": 44,
                     "PrestaShop\/LocalizationFiles": 8,
@@ -2313,6 +2313,57 @@
         }
     },
     "14": {
+        "login": "nesrineabdmouleh",
+        "id": 24647495,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/24647495?v=4",
+        "html_url": "https:\/\/github.com\/nesrineabdmouleh",
+        "name": "Nesrine Abdmouleh",
+        "company": "Prestashop",
+        "blog": "",
+        "location": "Paris, France",
+        "bio": "QA Automation Engineer",
+        "email_domain": "gmail.com",
+        "contributions": 1802,
+        "repositories": {
+            "PrestaShop\/PrestaShop": 1794,
+            "PrestaShop\/classic-theme": 8
+        },
+        "categories": {
+            "core": {
+                "total": 1794,
+                "repositories": {
+                    "PrestaShop\/PrestaShop": 1794
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 8,
+                "repositories": {
+                    "PrestaShop\/classic-theme": 8
+                }
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "15": {
         "login": "aleeks",
         "id": 9074610,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9074610?v=4",
@@ -2469,57 +2520,6 @@
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 10
                 }
-            }
-        }
-    },
-    "15": {
-        "login": "nesrineabdmouleh",
-        "id": 24647495,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/24647495?v=4",
-        "html_url": "https:\/\/github.com\/nesrineabdmouleh",
-        "name": "Nesrine Abdmouleh",
-        "company": "Prestashop",
-        "blog": "",
-        "location": "Paris, France",
-        "bio": "QA Automation Engineer",
-        "email_domain": "gmail.com",
-        "contributions": 1798,
-        "repositories": {
-            "PrestaShop\/PrestaShop": 1790,
-            "PrestaShop\/classic-theme": 8
-        },
-        "categories": {
-            "core": {
-                "total": 1790,
-                "repositories": {
-                    "PrestaShop\/PrestaShop": 1790
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 8,
-                "repositories": {
-                    "PrestaShop\/classic-theme": 8
-                }
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
             }
         }
     },
@@ -3217,9 +3217,9 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 1277,
+        "contributions": 1279,
         "repositories": {
-            "PrestaShop\/PrestaShop": 398,
+            "PrestaShop\/PrestaShop": 400,
             "PrestaShop\/PrestaShop-modules": 3,
             "PrestaShop\/dashgoals": 2,
             "PrestaShop\/dashproducts": 1,
@@ -3291,9 +3291,9 @@
         },
         "categories": {
             "core": {
-                "total": 398,
+                "total": 400,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 398
+                    "PrestaShop\/PrestaShop": 400
                 }
             },
             "specs": {
@@ -33387,11 +33387,11 @@
         }
     },
     "595": {
-        "login": "xhuljanoduli",
+        "login": "antonisntoulis",
         "id": 60512956,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/60512956?v=4",
-        "html_url": "https:\/\/github.com\/xhuljanoduli",
-        "name": "Xhuljano Duli",
+        "html_url": "https:\/\/github.com\/antonisntoulis",
+        "name": "Antonis Ntoulis",
         "company": null,
         "blog": "",
         "location": "Athens",
@@ -35168,7 +35168,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/254875?v=4",
         "html_url": "https:\/\/github.com\/johnnypeck",
         "name": "Johnny Peck",
-        "company": "AmalgamatonAI",
+        "company": "Amalgamaton",
         "blog": "youtube.com\/@steampunkcircus",
         "location": "Washington, DC",
         "bio": "Interneting circa bbs & the beauty of the baud. Odd spaces, happy faces & calm conversations. acion#2403 #aimfriende #amalgamaton",
@@ -37082,5 +37082,5 @@
             }
         }
     },
-    "updatedAt": "2023-01-14 06:08:43"
+    "updatedAt": "2023-01-15 06:07:54"
 }
