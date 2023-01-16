@@ -402,7 +402,7 @@
         "location": "Paris - France",
         "bio": "PHP developer - love Symfony, CI & DevOps. Also tech manager",
         "email_domain": "",
-        "contributions": 4824,
+        "contributions": 4825,
         "repositories": {
             "PrestaShop\/PrestaShop": 1977,
             "PrestaShop\/PrestaShop-modules": 2,
@@ -509,7 +509,7 @@
             "PrestaShop\/ps-project-metrics": 111,
             "PrestaShop\/classic-theme": 112,
             "PrestaShop\/ps_distributionapiclient": 4,
-            "PrestaShop\/ps-monitor-module-releases": 29,
+            "PrestaShop\/ps-monitor-module-releases": 30,
             "PrestaShop\/autoload": 1
         },
         "categories": {
@@ -622,7 +622,7 @@
                 }
             },
             "tools": {
-                "total": 123,
+                "total": 124,
                 "repositories": {
                     "PrestaShop\/docker": 28,
                     "PrestaShop\/docker-ci": 1,
@@ -633,7 +633,7 @@
                     "PrestaShop\/prestashop-shop-creator": 4,
                     "PrestaShop\/presthubot": 19,
                     "PrestaShop\/prestonbot": 12,
-                    "PrestaShop\/ps-monitor-module-releases": 29,
+                    "PrestaShop\/ps-monitor-module-releases": 30,
                     "PrestaShop\/TopContributors": 4,
                     "PrestaShop\/traces": 7
                 }
@@ -5049,7 +5049,7 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 491,
+        "contributions": 493,
         "repositories": {
             "PrestaShop\/PrestaShop": 188,
             "PrestaShop\/dashgoals": 1,
@@ -5101,7 +5101,8 @@
             "PrestaShop\/ps_faviconnotificationbo": 1,
             "PrestaShop\/open-source": 1,
             "PrestaShop\/hummingbird": 103,
-            "PrestaShop\/classic-theme": 28
+            "PrestaShop\/classic-theme": 28,
+            "PrestaShop\/ps-monitor-module-releases": 2
         },
         "categories": {
             "core": {
@@ -5180,8 +5181,10 @@
                 }
             },
             "tools": {
-                "total": 0,
-                "repositories": []
+                "total": 2,
+                "repositories": {
+                    "PrestaShop\/ps-monitor-module-releases": 2
+                }
             },
             "others": {
                 "total": 0,
@@ -37082,5 +37085,5 @@
             }
         }
     },
-    "updatedAt": "2023-01-15 06:07:54"
+    "updatedAt": "2023-01-16 06:08:28"
 }
