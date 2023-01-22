@@ -132,7 +132,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 5146,
+        "contributions": 5147,
         "repositories": {
             "PrestaShop\/PrestaShop": 2675,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -230,7 +230,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 259,
+            "PrestaShop\/test-scenarios": 260,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 4,
@@ -266,12 +266,12 @@
                 }
             },
             "documentation": {
-                "total": 417,
+                "total": 418,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 259,
+                    "PrestaShop\/test-scenarios": 260,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 6
                 }
@@ -33397,7 +33397,7 @@
         "company": null,
         "blog": "",
         "location": "Athens",
-        "bio": "Software Engineer",
+        "bio": "Frontend Software Engineer",
         "email_domain": "",
         "contributions": 1,
         "repositories": {
@@ -37132,5 +37132,5 @@
             }
         }
     },
-    "updatedAt": "2023-01-21 06:07:29"
+    "updatedAt": "2023-01-22 06:06:01"
 }
