@@ -35,7 +35,7 @@
             the 8 version, the current major version of PrestaShop.
           </div>
           <a
-            href="https://www.prestashop-project.org/releases/prestashop80/"
+            href="https://www.prestashop-project.org/releases/"
             class="btn btn-outline-info large-padding"
           >
             Discover
