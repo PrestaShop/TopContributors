@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 5276,
+        "contributions": 5277,
         "repositories": {
             "PrestaShop\/PrestaShop": 2788,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 269,
+            "PrestaShop\/test-scenarios": 270,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -144,12 +144,12 @@
                 }
             },
             "documentation": {
-                "total": 427,
+                "total": 428,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 269,
+                    "PrestaShop\/test-scenarios": 270,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 6
                 }
@@ -29822,7 +29822,7 @@
         "id": 6468893,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6468893?v=4",
         "html_url": "https:\/\/github.com\/the-ge",
-        "name": "Gabriel \"The G\" Tenita",
+        "name": "Gabriel \"The Ge\" Tenita",
         "company": null,
         "blog": "https:\/\/www.tenita.eu\/",
         "location": "Bucharest, Romania",
@@ -37209,5 +37209,5 @@
             }
         }
     },
-    "updatedAt": "2023-02-04 06:05:41"
+    "updatedAt": "2023-02-05 06:05:42"
 }
