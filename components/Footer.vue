@@ -22,20 +22,20 @@
             follow when you contribute to PrestaShop.
           </div>
           <a
-            href="https://devdocs.prestashop.com/1.7/contribute/"
+            href="https://devdocs.prestashop-project.org/8/contribute/"
             class="btn btn-outline-info large-padding"
           >
             Read the docs
           </a>
         </div>
         <div class="col-4">
-          <div class="white-title">DISCOVER PRESTASHOP 1.7</div>
+          <div class="white-title">DISCOVER PRESTASHOP 8</div>
           <div class="white-text">
             Check the latest additions and the more significant improvements of
-            the 1.7 version, the next major version of PrestaShop.
+            the 8 version, the current major version of PrestaShop.
           </div>
           <a
-            href="https://www.prestashop.com/en/1.7"
+            href="https://www.prestashop-project.org/releases/"
             class="btn btn-outline-info large-padding"
           >
             Discover
@@ -52,7 +52,7 @@
 
       <div class="row">
         <div class="col-md-6">
-          <a class="build-link" href="https://build.prestashop.com">
+          <a class="build-link" href="https://build.prestashop-project.org">
             Follow the blog of our Product &amp; Dev team
           </a>
         </div>
