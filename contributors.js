@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 5369,
+        "contributions": 5372,
         "repositories": {
             "PrestaShop\/PrestaShop": 2825,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 276,
+            "PrestaShop\/test-scenarios": 277,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -117,7 +117,7 @@
             "PrestaShop\/ga.tests.ui.pr": 10,
             "PrestaShop\/ps-project-metrics": 4,
             "PrestaShop\/user-documentation-v8-en": 1,
-            "PrestaShop\/classic-theme": 171,
+            "PrestaShop\/classic-theme": 173,
             "PrestaShop\/ps_distributionapiclient": 1,
             "PrestaShop\/functional-documentation": 2
         },
@@ -144,20 +144,20 @@
                 }
             },
             "documentation": {
-                "total": 434,
+                "total": 435,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 276,
+                    "PrestaShop\/test-scenarios": 277,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 6
                 }
             },
             "themes": {
-                "total": 177,
+                "total": 179,
                 "repositories": {
-                    "PrestaShop\/classic-theme": 171,
+                    "PrestaShop\/classic-theme": 173,
                     "PrestaShop\/hummingbird": 6
                 }
             },
@@ -2964,7 +2964,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 1448,
+        "contributions": 1450,
         "repositories": {
             "PrestaShop\/PrestaShop": 451,
             "PrestaShop\/PrestaShop-modules": 3,
@@ -2993,7 +2993,7 @@
             "PrestaShop\/statssales": 3,
             "PrestaShop\/statssearch": 1,
             "PrestaShop\/statsstock": 3,
-            "PrestaShop\/blockwishlist": 16,
+            "PrestaShop\/blockwishlist": 17,
             "PrestaShop\/productcomments": 12,
             "PrestaShop\/autoupgrade": 14,
             "PrestaShop\/gsitemap": 3,
@@ -3021,7 +3021,7 @@
             "PrestaShop\/ps_customeraccountlinks": 1,
             "PrestaShop\/ps_searchbar": 1,
             "PrestaShop\/ps_checkpayment": 2,
-            "PrestaShop\/ps_emailalerts": 20,
+            "PrestaShop\/ps_emailalerts": 21,
             "PrestaShop\/ps_bestsellers": 3,
             "PrestaShop\/ps_categoryproducts": 1,
             "PrestaShop\/ps_crossselling": 2,
@@ -3079,7 +3079,7 @@
                 }
             },
             "modules": {
-                "total": 351,
+                "total": 353,
                 "repositories": {
                     "PrestaShop\/PrestaShop-modules": 3,
                     "PrestaShop\/dashactivity": 1,
@@ -3107,7 +3107,7 @@
                     "PrestaShop\/statssales": 3,
                     "PrestaShop\/statssearch": 1,
                     "PrestaShop\/statsstock": 3,
-                    "PrestaShop\/blockwishlist": 16,
+                    "PrestaShop\/blockwishlist": 17,
                     "PrestaShop\/productcomments": 12,
                     "PrestaShop\/autoupgrade": 14,
                     "PrestaShop\/gsitemap": 3,
@@ -3132,7 +3132,7 @@
                     "PrestaShop\/ps_customeraccountlinks": 1,
                     "PrestaShop\/ps_searchbar": 1,
                     "PrestaShop\/ps_checkpayment": 2,
-                    "PrestaShop\/ps_emailalerts": 20,
+                    "PrestaShop\/ps_emailalerts": 21,
                     "PrestaShop\/ps_bestsellers": 3,
                     "PrestaShop\/ps_categoryproducts": 1,
                     "PrestaShop\/ps_crossselling": 2,
@@ -6544,8 +6544,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 222,
+        "contributions": 223,
         "repositories": {
+            "PrestaShop\/blockwishlist": 1,
             "PrestaShop\/productcomments": 38,
             "PrestaShop\/blockreassurance": 28,
             "PrestaShop\/ps_sharebuttons": 5,
@@ -6585,8 +6586,9 @@
                 }
             },
             "modules": {
-                "total": 98,
+                "total": 99,
                 "repositories": {
+                    "PrestaShop\/blockwishlist": 1,
                     "PrestaShop\/productcomments": 38,
                     "PrestaShop\/blockreassurance": 28,
                     "PrestaShop\/ps_sharebuttons": 5,
@@ -7419,7 +7421,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 145,
+        "contributions": 146,
         "repositories": {
             "PrestaShop\/PrestaShop": 109,
             "PrestaShop\/dashproducts": 1,
@@ -7441,7 +7443,7 @@
             "PrestaShop\/open-source": 3,
             "PrestaShop\/presthubot": 2,
             "PrestaShop\/hummingbird": 3,
-            "PrestaShop\/classic-theme": 3
+            "PrestaShop\/classic-theme": 4
         },
         "categories": {
             "core": {
@@ -7462,9 +7464,9 @@
                 }
             },
             "themes": {
-                "total": 6,
+                "total": 7,
                 "repositories": {
-                    "PrestaShop\/classic-theme": 3,
+                    "PrestaShop\/classic-theme": 4,
                     "PrestaShop\/hummingbird": 3
                 }
             },
@@ -31341,7 +31343,7 @@
         "company": null,
         "blog": "https:\/\/shef-er.ru",
         "location": "Yekaterinburg",
-        "bio": "Software Dev \u00b7 Linux lover \u00b7 OSS Fan",
+        "bio": "Software Dev \u00b7 Linux lover \u00b7 F\/OSS Fan",
         "email_domain": "",
         "contributions": 1,
         "repositories": {
@@ -31579,7 +31581,7 @@
         "html_url": "https:\/\/github.com\/cernekj",
         "name": "J. Cernek",
         "company": null,
-        "blog": "http:\/\/www.cernek.cz",
+        "blog": "",
         "location": null,
         "bio": null,
         "email_domain": "",
@@ -37188,5 +37190,5 @@
             }
         }
     },
-    "updatedAt": "2023-02-18 06:07:48"
+    "updatedAt": "2023-02-19 06:06:01"
 }
