@@ -666,7 +666,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 4686,
+        "contributions": 4692,
         "repositories": {
             "PrestaShop\/PrestaShop": 4068,
             "PrestaShop\/dashproducts": 2,
@@ -703,7 +703,7 @@
             "PrestaShop\/open-source": 2,
             "PrestaShop\/mjml-theme-converter": 38,
             "PrestaShop\/presthubot": 2,
-            "PrestaShop\/example-modules": 37,
+            "PrestaShop\/example-modules": 43,
             "PrestaShop\/.github": 1,
             "PrestaShop\/DocToolsBundle": 34,
             "PrestaShop\/ga.tests.ui.pr": 3,
@@ -726,10 +726,10 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 153,
+                "total": 159,
                 "repositories": {
                     "PrestaShop\/docs": 114,
-                    "PrestaShop\/example-modules": 37,
+                    "PrestaShop\/example-modules": 43,
                     "PrestaShop\/open-source": 2
                 }
             },
@@ -2717,7 +2717,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 1470,
+        "contributions": 1474,
         "repositories": {
             "PrestaShop\/PrestaShop": 455,
             "PrestaShop\/PrestaShop-modules": 4,
@@ -2790,7 +2790,7 @@
             "PrestaShop\/mjml-theme-converter": 1,
             "PrestaShop\/presthubot": 8,
             "PrestaShop\/stylelint-browser-compatibility": 1,
-            "PrestaShop\/example-modules": 19,
+            "PrestaShop\/example-modules": 23,
             "PrestaShop\/.github": 1,
             "PrestaShop\/phpstan-prestashop": 1,
             "PrestaShop\/ps-org-theme": 7,
@@ -2815,12 +2815,12 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 305,
+                "total": 309,
                 "repositories": {
                     "PrestaShop\/paymentexample": 1,
                     "PrestaShop\/docs": 245,
                     "PrestaShop\/ADR": 6,
-                    "PrestaShop\/example-modules": 19,
+                    "PrestaShop\/example-modules": 23,
                     "PrestaShop\/open-source": 34
                 }
             },
@@ -37346,5 +37346,5 @@
             }
         }
     },
-    "updatedAt": "2023-02-26 06:05:50"
+    "updatedAt": "2023-02-27 06:20:43"
 }
