@@ -35446,7 +35446,7 @@
         "company": "Amalgamaton",
         "blog": "https:\/\/johnnypeck.com",
         "location": "Washington, DC",
-        "bio": "Interneting and such. AI enthralled. Odd spaces, happy faces & calm conversations. acion#2403 #aimfriende Amalgamaton",
+        "bio": "Interneting circa BBS. AI enthralled. Odd spaces, happy faces & calm conversations. acion#2403 #aimfriende Amalgamaton",
         "email_domain": "",
         "contributions": 1,
         "repositories": {
@@ -37453,5 +37453,5 @@
             }
         }
     },
-    "updatedAt": "2023-03-05 06:06:02"
+    "updatedAt": "2023-03-06 06:06:54"
 }
