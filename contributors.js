@@ -5962,9 +5962,9 @@
         "html_url": "https:\/\/github.com\/MathiasReker",
         "name": "Mathias Reker \u26a1\ufe0f",
         "company": null,
-        "blog": "https:\/\/dk.linkedin.com\/in\/mathiasreker",
+        "blog": "",
         "location": "Copenhagen, Denmark",
-        "bio": "Full-stack web developer. \ud83d\udcbb I love IT Security. I believe in sharing knowledge, tools and value open source software development. \ud83d\ude80 (He\/Him)",
+        "bio": "Full-stack web developer. \ud83d\udcbb I love IT Security. I believe in sharing knowledge, tools and value open source software development. \ud83d\ude80",
         "email_domain": "reker.dk",
         "contributions": 321,
         "repositories": {
@@ -22469,7 +22469,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/557933?v=4",
         "html_url": "https:\/\/github.com\/akerouanton",
         "name": "Albin Kerouanton",
-        "company": "@KnpLabs ",
+        "company": "@docker",
         "blog": "",
         "location": "Nantes, France",
         "bio": null,
@@ -37587,5 +37587,5 @@
             }
         }
     },
-    "updatedAt": "2023-03-18 06:06:36"
+    "updatedAt": "2023-03-19 06:07:29"
 }
