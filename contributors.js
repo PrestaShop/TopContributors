@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 5430,
+        "contributions": 5431,
         "repositories": {
             "PrestaShop\/PrestaShop": 2862,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 295,
+            "PrestaShop\/test-scenarios": 296,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -143,12 +143,12 @@
                 }
             },
             "documentation": {
-                "total": 453,
+                "total": 454,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 295,
+                    "PrestaShop\/test-scenarios": 296,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 6
                 }
@@ -11035,7 +11035,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12545404?v=4",
         "html_url": "https:\/\/github.com\/tegbessou",
         "name": "Tegbessou",
-        "company": "ProwebCE",
+        "company": "Teg Corp",
         "blog": "",
         "location": "Grenoble",
         "bio": "Symfony fan, PHP fan, Docker fan",
@@ -37647,5 +37647,5 @@
             }
         }
     },
-    "updatedAt": "2023-03-25 06:05:43"
+    "updatedAt": "2023-03-26 06:06:26"
 }
