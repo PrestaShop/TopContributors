@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 5484,
+        "contributions": 5485,
         "repositories": {
             "PrestaShop\/PrestaShop": 2908,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 299,
+            "PrestaShop\/test-scenarios": 300,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -143,12 +143,12 @@
                 }
             },
             "documentation": {
-                "total": 457,
+                "total": 458,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 299,
+                    "PrestaShop\/test-scenarios": 300,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 6
                 }
@@ -2667,9 +2667,9 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 1592,
+        "contributions": 1593,
         "repositories": {
-            "PrestaShop\/PrestaShop": 491,
+            "PrestaShop\/PrestaShop": 492,
             "PrestaShop\/PrestaShop-modules": 4,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
             "PrestaShop\/dashactivity": 1,
@@ -2757,9 +2757,9 @@
         },
         "categories": {
             "core": {
-                "total": 493,
+                "total": 494,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 491,
+                    "PrestaShop\/PrestaShop": 492,
                     "PrestaShop\/prestashop-ui-kit": 1,
                     "PrestaShop\/stylelint-browser-compatibility": 1
                 }
@@ -8949,9 +8949,9 @@
         "location": "Finland",
         "bio": "Computers make me happy",
         "email_domain": "",
-        "contributions": 76,
+        "contributions": 77,
         "repositories": {
-            "PrestaShop\/PrestaShop": 43,
+            "PrestaShop\/PrestaShop": 44,
             "PrestaShop\/blockwishlist": 1,
             "PrestaShop\/productcomments": 3,
             "PrestaShop\/ps_linklist": 5,
@@ -8963,9 +8963,9 @@
         },
         "categories": {
             "core": {
-                "total": 43,
+                "total": 44,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 43
+                    "PrestaShop\/PrestaShop": 44
                 }
             },
             "specs": {
@@ -37779,5 +37779,5 @@
             }
         }
     },
-    "updatedAt": "2023-04-01 06:05:47"
+    "updatedAt": "2023-04-02 06:06:07"
 }
