@@ -26707,10 +26707,10 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/749025?v=4",
         "html_url": "https:\/\/github.com\/wouterj",
         "name": "Wouter de Jong",
-        "company": "Amber",
+        "company": "MyWheels",
         "blog": "http:\/\/wouterj.nl",
         "location": "Netherlands",
-        "bio": "Part of @symfony docs and core team & all-round Symfony enthusiast.\r\n\r\nLead software Engineer at @driveamber ",
+        "bio": "Part of @symfony docs and core team & all-round Symfony enthusiast.\r\n\r\nDevOps Engineer at @MyWheels ",
         "email_domain": "",
         "contributions": 2,
         "repositories": {
@@ -33911,7 +33911,7 @@
         "html_url": "https:\/\/github.com\/antonisntoulis",
         "name": "Antonis Ntoulis",
         "company": null,
-        "blog": "",
+        "blog": "https:\/\/duli.gr",
         "location": "Athens",
         "bio": "Frontend Software Engineer",
         "email_domain": "",
@@ -37792,5 +37792,5 @@
             }
         }
     },
-    "updatedAt": "2023-04-08 06:06:06"
+    "updatedAt": "2023-04-09 06:05:35"
 }
