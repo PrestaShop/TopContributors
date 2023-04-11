@@ -5977,7 +5977,7 @@
         "html_url": "https:\/\/github.com\/MathiasReker",
         "name": "Mathias Reker \u26a1\ufe0f",
         "company": null,
-        "blog": "",
+        "blog": "https:\/\/reker.dk",
         "location": "Copenhagen, Denmark",
         "bio": "Full-stack web developer. \ud83d\udcbb I love IT Security. I believe in sharing knowledge, tools and value open source software development. \ud83d\ude80",
         "email_domain": "reker.dk",
@@ -27049,7 +27049,7 @@
         "company": "Be***** T***** P*****  Y***** \u015e***** ",
         "blog": "crossduck.gq",
         "location": null,
-        "bio": "Anime karakterlerinin modellenirken kedi suratlar\u0131n\u0131n \u015femas\u0131 kullan\u0131ld\u0131\u011f\u0131n\u0131 biliyor muydun?",
+        "bio": "Anime karakterlerinin modellenirken kedi suratlar\u0131n\u0131n \u015femas\u0131 kullan\u0131ld\u0131\u011f\u0131n\u0131 biliyor muydun?\r\n\r\n+1 531 204 5450",
         "email_domain": "",
         "contributions": 2,
         "repositories": {
@@ -37792,5 +37792,5 @@
             }
         }
     },
-    "updatedAt": "2023-04-10 06:14:03"
+    "updatedAt": "2023-04-11 06:08:13"
 }
