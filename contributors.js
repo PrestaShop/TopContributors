@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 5542,
+        "contributions": 5543,
         "repositories": {
             "PrestaShop\/PrestaShop": 2933,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 310,
+            "PrestaShop\/test-scenarios": 311,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -144,12 +144,12 @@
                 }
             },
             "documentation": {
-                "total": 469,
+                "total": 470,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 310,
+                    "PrestaShop\/test-scenarios": 311,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 7
                 }
@@ -16872,11 +16872,11 @@
         }
     },
     "252": {
-        "login": "EliphazBouye",
+        "login": "Sophoniiee",
         "id": 53824344,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/53824344?v=4",
-        "html_url": "https:\/\/github.com\/EliphazBouye",
-        "name": "Eliphaz Bouye",
+        "html_url": "https:\/\/github.com\/Sophoniiee",
+        "name": "Sophonie Bouye",
         "company": null,
         "blog": "",
         "location": "Abidjan",
@@ -37955,5 +37955,5 @@
             }
         }
     },
-    "updatedAt": "2023-04-15 06:06:15"
+    "updatedAt": "2023-04-16 06:07:44"
 }
