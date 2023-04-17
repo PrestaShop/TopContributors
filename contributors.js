@@ -30139,7 +30139,7 @@
         "name": "Sergio Regueira",
         "company": "@arengu ",
         "blog": "https:\/\/sergioregueira.com",
-        "location": "A Coru\u00f1a, Spain",
+        "location": "A Coru\u00f1a, ES",
         "bio": "Backend engineer",
         "email_domain": "",
         "contributions": 1,
@@ -37955,5 +37955,5 @@
             }
         }
     },
-    "updatedAt": "2023-04-16 06:07:44"
+    "updatedAt": "2023-04-17 06:06:44"
 }
