@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 5543,
+        "contributions": 5544,
         "repositories": {
             "PrestaShop\/PrestaShop": 2933,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -103,7 +103,7 @@
             "PrestaShop\/php-dev-tools": 4,
             "PrestaShop\/QANightlyResults": 6,
             "PrestaShop\/LocalizationFiles": 9,
-            "PrestaShop\/presthubot": 235,
+            "PrestaShop\/presthubot": 236,
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
@@ -235,7 +235,7 @@
                 }
             },
             "tools": {
-                "total": 363,
+                "total": 364,
                 "repositories": {
                     "PrestaShop\/docker": 13,
                     "PrestaShop\/docker-ci": 3,
@@ -244,7 +244,7 @@
                     "PrestaShop\/mjml-theme-converter": 1,
                     "PrestaShop\/nightly-board": 30,
                     "PrestaShop\/PrestaShop-webservice-lib": 4,
-                    "PrestaShop\/presthubot": 235,
+                    "PrestaShop\/presthubot": 236,
                     "PrestaShop\/prestonbot": 10,
                     "PrestaShop\/QANightlyResults": 6,
                     "PrestaShop\/TopContributors": 33,
@@ -2086,16 +2086,16 @@
         "location": "Paris, France",
         "bio": "QA Automation Engineer",
         "email_domain": "gmail.com",
-        "contributions": 1983,
+        "contributions": 1984,
         "repositories": {
-            "PrestaShop\/PrestaShop": 1975,
+            "PrestaShop\/PrestaShop": 1976,
             "PrestaShop\/classic-theme": 8
         },
         "categories": {
             "core": {
-                "total": 1975,
+                "total": 1976,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 1975
+                    "PrestaShop\/PrestaShop": 1976
                 }
             },
             "specs": {
@@ -2574,7 +2574,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 1632,
+        "contributions": 1636,
         "repositories": {
             "PrestaShop\/PrestaShop": 496,
             "PrestaShop\/PrestaShop-modules": 4,
@@ -2608,7 +2608,7 @@
             "PrestaShop\/productcomments": 13,
             "PrestaShop\/autoupgrade": 23,
             "PrestaShop\/gsitemap": 3,
-            "PrestaShop\/prestashop.github.io": 303,
+            "PrestaShop\/prestashop.github.io": 307,
             "PrestaShop\/contactform": 7,
             "PrestaShop\/paymentexample": 1,
             "PrestaShop\/prestashop-ui-kit": 1,
@@ -2772,9 +2772,9 @@
                 }
             },
             "others": {
-                "total": 344,
+                "total": 348,
                 "repositories": {
-                    "PrestaShop\/prestashop.github.io": 303,
+                    "PrestaShop\/prestashop.github.io": 307,
                     "PrestaShop\/.github": 1,
                     "PrestaShop\/ps-org-theme": 7,
                     "PrestaShop\/phpstan-prestashop": 1,
@@ -37955,5 +37955,5 @@
             }
         }
     },
-    "updatedAt": "2023-04-17 06:06:44"
+    "updatedAt": "2023-04-18 06:07:38"
 }
