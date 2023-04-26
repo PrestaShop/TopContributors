@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 5579,
+        "contributions": 5584,
         "repositories": {
             "PrestaShop\/PrestaShop": 2958,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -119,7 +119,7 @@
             "PrestaShop\/classic-theme": 173,
             "PrestaShop\/ps_distributionapiclient": 1,
             "PrestaShop\/functional-documentation": 2,
-            "PrestaShop\/keycloak_connector_demo": 9
+            "PrestaShop\/keycloak_connector_demo": 14
         },
         "categories": {
             "core": {
@@ -252,7 +252,7 @@
                 }
             },
             "others": {
-                "total": 113,
+                "total": 118,
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 68,
                     "PrestaShop\/ps-docs-theme": 3,
@@ -262,7 +262,7 @@
                     "PrestaShop\/user-documentation-v8-en": 1,
                     "PrestaShop\/ps_distributionapiclient": 1,
                     "PrestaShop\/functional-documentation": 2,
-                    "PrestaShop\/keycloak_connector_demo": 9
+                    "PrestaShop\/keycloak_connector_demo": 14
                 }
             }
         }
@@ -400,7 +400,7 @@
         "location": "Paris - France",
         "bio": "PHP developer - love Symfony, CI & DevOps. Also tech manager",
         "email_domain": "",
-        "contributions": 4858,
+        "contributions": 4864,
         "repositories": {
             "PrestaShop\/PrestaShop": 1984,
             "PrestaShop\/PrestaShop-modules": 3,
@@ -434,7 +434,7 @@
             "PrestaShop\/productcomments": 76,
             "PrestaShop\/autoupgrade": 50,
             "PrestaShop\/gsitemap": 29,
-            "PrestaShop\/prestashop.github.io": 629,
+            "PrestaShop\/prestashop.github.io": 633,
             "PrestaShop\/docker": 29,
             "PrestaShop\/contactform": 30,
             "PrestaShop\/paymentexample": 1,
@@ -507,7 +507,8 @@
             "PrestaShop\/classic-theme": 114,
             "PrestaShop\/ps_distributionapiclient": 5,
             "PrestaShop\/ps-monitor-module-releases": 32,
-            "PrestaShop\/autoload": 1
+            "PrestaShop\/autoload": 1,
+            "PrestaShop\/PsFixturesCreator": 2
         },
         "categories": {
             "core": {
@@ -635,9 +636,9 @@
                 }
             },
             "others": {
-                "total": 837,
+                "total": 843,
                 "repositories": {
-                    "PrestaShop\/prestashop.github.io": 629,
+                    "PrestaShop\/prestashop.github.io": 633,
                     "PrestaShop\/.github": 5,
                     "PrestaShop\/psssst": 1,
                     "PrestaShop\/phpstan-prestashop": 58,
@@ -648,7 +649,8 @@
                     "PrestaShop\/distribution-api": 1,
                     "PrestaShop\/ps-project-metrics": 111,
                     "PrestaShop\/ps_distributionapiclient": 5,
-                    "PrestaShop\/autoload": 1
+                    "PrestaShop\/autoload": 1,
+                    "PrestaShop\/PsFixturesCreator": 2
                 }
             }
         }
@@ -1449,9 +1451,9 @@
         "location": "Paris, France",
         "bio": "VP Open Source at PrestaShop",
         "email_domain": "",
-        "contributions": 3127,
+        "contributions": 3128,
         "repositories": {
-            "PrestaShop\/PrestaShop": 1360,
+            "PrestaShop\/PrestaShop": 1361,
             "PrestaShop\/PrestaShop-modules": 6,
             "PrestaShop\/PrestaShop-webservice-lib": 12,
             "PrestaShop\/dashactivity": 5,
@@ -1553,9 +1555,9 @@
         },
         "categories": {
             "core": {
-                "total": 1609,
+                "total": 1610,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 1360,
+                    "PrestaShop\/PrestaShop": 1361,
                     "PrestaShop\/prestashop-ui-kit": 100,
                     "PrestaShop\/TranslationToolsBundle": 44,
                     "PrestaShop\/LocalizationFiles": 9,
@@ -2576,7 +2578,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 1659,
+        "contributions": 1664,
         "repositories": {
             "PrestaShop\/PrestaShop": 499,
             "PrestaShop\/PrestaShop-modules": 4,
@@ -2610,7 +2612,7 @@
             "PrestaShop\/productcomments": 14,
             "PrestaShop\/autoupgrade": 24,
             "PrestaShop\/gsitemap": 3,
-            "PrestaShop\/prestashop.github.io": 309,
+            "PrestaShop\/prestashop.github.io": 314,
             "PrestaShop\/contactform": 7,
             "PrestaShop\/paymentexample": 1,
             "PrestaShop\/prestashop-ui-kit": 1,
@@ -2774,9 +2776,9 @@
                 }
             },
             "others": {
-                "total": 351,
+                "total": 356,
                 "repositories": {
-                    "PrestaShop\/prestashop.github.io": 309,
+                    "PrestaShop\/prestashop.github.io": 314,
                     "PrestaShop\/.github": 1,
                     "PrestaShop\/ps-org-theme": 7,
                     "PrestaShop\/phpstan-prestashop": 1,
@@ -6749,9 +6751,9 @@
         "location": "Grenoble",
         "bio": null,
         "email_domain": "",
-        "contributions": 213,
+        "contributions": 214,
         "repositories": {
-            "PrestaShop\/PrestaShop": 181,
+            "PrestaShop\/PrestaShop": 182,
             "PrestaShop\/blockwishlist": 1,
             "PrestaShop\/autoupgrade": 3,
             "PrestaShop\/gsitemap": 3,
@@ -6768,9 +6770,9 @@
         },
         "categories": {
             "core": {
-                "total": 182,
+                "total": 183,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 181,
+                    "PrestaShop\/PrestaShop": 182,
                     "PrestaShop\/decimal": 1
                 }
             },
@@ -34043,7 +34045,7 @@
         "company": null,
         "blog": "https:\/\/duli.gr",
         "location": "Athens",
-        "bio": "Frontend Software Engineer",
+        "bio": "Software Engineer",
         "email_domain": "",
         "contributions": 1,
         "repositories": {
@@ -37970,5 +37972,5 @@
             }
         }
     },
-    "updatedAt": "2023-04-25 06:06:38"
+    "updatedAt": "2023-04-26 06:05:45"
 }
