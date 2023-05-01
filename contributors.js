@@ -36023,7 +36023,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/254875?v=4",
         "html_url": "https:\/\/github.com\/johnnypeck",
         "name": "Johnny Peck",
-        "company": "Amalgamaton",
+        "company": "Carnivai",
         "blog": "https:\/\/johnnypeck.com",
         "location": "Washington, DC",
         "bio": "Odd spaces, happy faces & calm conversations.",
@@ -38177,5 +38177,5 @@
             }
         }
     },
-    "updatedAt": "2023-04-30 06:08:02"
+    "updatedAt": "2023-05-01 06:07:43"
 }
