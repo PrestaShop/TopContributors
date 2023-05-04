@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 5598,
+        "contributions": 5599,
         "repositories": {
             "PrestaShop\/PrestaShop": 2967,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 317,
+            "PrestaShop\/test-scenarios": 318,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -144,12 +144,12 @@
                 }
             },
             "documentation": {
-                "total": 476,
+                "total": 477,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 317,
+                    "PrestaShop\/test-scenarios": 318,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 7
                 }
@@ -400,9 +400,9 @@
         "location": "Paris - France",
         "bio": "PHP developer - love Symfony, CI & DevOps. Also tech manager",
         "email_domain": "",
-        "contributions": 4866,
+        "contributions": 4867,
         "repositories": {
-            "PrestaShop\/PrestaShop": 1986,
+            "PrestaShop\/PrestaShop": 1987,
             "PrestaShop\/PrestaShop-modules": 3,
             "PrestaShop\/PrestaShop-webservice-lib": 5,
             "PrestaShop\/dashactivity": 27,
@@ -512,9 +512,9 @@
         },
         "categories": {
             "core": {
-                "total": 2021,
+                "total": 2022,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 1986,
+                    "PrestaShop\/PrestaShop": 1987,
                     "PrestaShop\/prestashop-ui-kit": 7,
                     "PrestaShop\/TranslationToolsBundle": 14,
                     "PrestaShop\/LocalizationFiles": 2,
@@ -2092,16 +2092,16 @@
         "location": "Paris, France",
         "bio": "QA Automation Engineer",
         "email_domain": "gmail.com",
-        "contributions": 1999,
+        "contributions": 2000,
         "repositories": {
-            "PrestaShop\/PrestaShop": 1991,
+            "PrestaShop\/PrestaShop": 1992,
             "PrestaShop\/classic-theme": 8
         },
         "categories": {
             "core": {
-                "total": 1991,
+                "total": 1992,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 1991
+                    "PrestaShop\/PrestaShop": 1992
                 }
             },
             "specs": {
@@ -2947,11 +2947,11 @@
         "id": 2168836,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2168836?v=4",
         "html_url": "https:\/\/github.com\/atomiix",
-        "name": null,
-        "company": "@PrestaShop",
+        "name": "Thomas Baccelli",
+        "company": "@Tabesto",
         "blog": "",
-        "location": "France",
-        "bio": null,
+        "location": "Paris, France",
+        "bio": "PHP Developer @Tabesto | ex-@PrestaShop | Free-time developer @Sonerezh ",
         "email_domain": "",
         "contributions": 1459,
         "repositories": {
@@ -6478,9 +6478,9 @@
         "location": "Toulouse \/ France",
         "bio": "e-commerce, dev, founder of Creabilis Agency",
         "email_domain": "",
-        "contributions": 266,
+        "contributions": 267,
         "repositories": {
-            "PrestaShop\/PrestaShop": 141,
+            "PrestaShop\/PrestaShop": 142,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
             "PrestaShop\/statsbestcustomers": 2,
             "PrestaShop\/statscatalog": 1,
@@ -6513,9 +6513,9 @@
         },
         "categories": {
             "core": {
-                "total": 143,
+                "total": 144,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 141,
+                    "PrestaShop\/PrestaShop": 142,
                     "PrestaShop\/php-ps-info": 2
                 }
             },
@@ -6753,9 +6753,9 @@
         "location": "Grenoble",
         "bio": null,
         "email_domain": "",
-        "contributions": 227,
+        "contributions": 228,
         "repositories": {
-            "PrestaShop\/PrestaShop": 194,
+            "PrestaShop\/PrestaShop": 195,
             "PrestaShop\/blockwishlist": 1,
             "PrestaShop\/autoupgrade": 3,
             "PrestaShop\/gsitemap": 3,
@@ -6773,9 +6773,9 @@
         },
         "categories": {
             "core": {
-                "total": 195,
+                "total": 196,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 194,
+                    "PrestaShop\/PrestaShop": 195,
                     "PrestaShop\/decimal": 1
                 }
             },
@@ -16853,7 +16853,7 @@
         "name": "Arman Hosseini",
         "company": null,
         "blog": "",
-        "location": "Tehran, Iran",
+        "location": "Germany",
         "bio": "Backend developer at @SkyroomOnline",
         "email_domain": "gmail.com",
         "contributions": 10,
@@ -22625,8 +22625,8 @@
         "html_url": "https:\/\/github.com\/damiandominella",
         "name": "dodo",
         "company": "Golee",
-        "blog": "https:\/\/damiandominella.github.io\/",
-        "location": "San Marino \/ Milano",
+        "blog": "",
+        "location": "San Marino \/ Milano \/ Around the globe",
         "bio": "Developer @ Golee",
         "email_domain": "gmail.com",
         "contributions": 4,
@@ -38225,5 +38225,5 @@
             }
         }
     },
-    "updatedAt": "2023-05-03 06:05:55"
+    "updatedAt": "2023-05-04 06:05:42"
 }
