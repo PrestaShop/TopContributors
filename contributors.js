@@ -3645,7 +3645,7 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 921,
+        "contributions": 924,
         "repositories": {
             "PrestaShop\/PrestaShop": 357,
             "PrestaShop\/dashactivity": 1,
@@ -3678,7 +3678,7 @@
             "PrestaShop\/autoupgrade": 27,
             "PrestaShop\/gsitemap": 7,
             "PrestaShop\/prestashop-ui-kit": 3,
-            "PrestaShop\/blockreassurance": 6,
+            "PrestaShop\/blockreassurance": 9,
             "PrestaShop\/ps_socialfollow": 1,
             "PrestaShop\/ps_linklist": 1,
             "PrestaShop\/ps_customtext": 1,
@@ -3743,7 +3743,7 @@
                 }
             },
             "modules": {
-                "total": 379,
+                "total": 382,
                 "repositories": {
                     "PrestaShop\/dashactivity": 1,
                     "PrestaShop\/dashgoals": 3,
@@ -3774,7 +3774,7 @@
                     "PrestaShop\/productcomments": 8,
                     "PrestaShop\/autoupgrade": 27,
                     "PrestaShop\/gsitemap": 7,
-                    "PrestaShop\/blockreassurance": 6,
+                    "PrestaShop\/blockreassurance": 9,
                     "PrestaShop\/ps_socialfollow": 1,
                     "PrestaShop\/ps_linklist": 1,
                     "PrestaShop\/ps_customtext": 1,
@@ -4823,9 +4823,9 @@
         "location": "Belgium",
         "bio": "Lead D\u00e9veloppeur #PrestaShop chez @wepika",
         "email_domain": "prestaedit.com",
-        "contributions": 538,
+        "contributions": 541,
         "repositories": {
-            "PrestaShop\/PrestaShop": 382,
+            "PrestaShop\/PrestaShop": 385,
             "PrestaShop\/PrestaShop-modules": 5,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
             "PrestaShop\/dashactivity": 1,
@@ -4888,9 +4888,9 @@
         },
         "categories": {
             "core": {
-                "total": 382,
+                "total": 385,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 382
+                    "PrestaShop\/PrestaShop": 385
                 }
             },
             "specs": {
@@ -6321,9 +6321,9 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 271,
+        "contributions": 272,
         "repositories": {
-            "PrestaShop\/PrestaShop": 204,
+            "PrestaShop\/PrestaShop": 205,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
             "PrestaShop\/dashproducts": 1,
             "PrestaShop\/pagesnotfound": 1,
@@ -6355,9 +6355,9 @@
         },
         "categories": {
             "core": {
-                "total": 204,
+                "total": 205,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 204
+                    "PrestaShop\/PrestaShop": 205
                 }
             },
             "specs": {
@@ -6753,9 +6753,9 @@
         "location": "Grenoble",
         "bio": null,
         "email_domain": "",
-        "contributions": 228,
+        "contributions": 234,
         "repositories": {
-            "PrestaShop\/PrestaShop": 195,
+            "PrestaShop\/PrestaShop": 201,
             "PrestaShop\/blockwishlist": 1,
             "PrestaShop\/autoupgrade": 3,
             "PrestaShop\/gsitemap": 3,
@@ -6773,9 +6773,9 @@
         },
         "categories": {
             "core": {
-                "total": 196,
+                "total": 202,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 195,
+                    "PrestaShop\/PrestaShop": 201,
                     "PrestaShop\/decimal": 1
                 }
             },
@@ -38225,5 +38225,5 @@
             }
         }
     },
-    "updatedAt": "2023-05-05 06:08:11"
+    "updatedAt": "2023-05-06 06:06:57"
 }
