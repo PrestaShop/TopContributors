@@ -2402,9 +2402,9 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 1693,
+        "contributions": 1700,
         "repositories": {
-            "PrestaShop\/PrestaShop": 505,
+            "PrestaShop\/PrestaShop": 506,
             "PrestaShop\/PrestaShop-modules": 4,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
             "PrestaShop\/dashactivity": 1,
@@ -2413,7 +2413,7 @@
             "PrestaShop\/dashtrends": 3,
             "PrestaShop\/graphnvd3": 3,
             "PrestaShop\/gridhtml": 3,
-            "PrestaShop\/pagesnotfound": 1,
+            "PrestaShop\/pagesnotfound": 3,
             "PrestaShop\/statsbestcategories": 3,
             "PrestaShop\/statsbestcustomers": 2,
             "PrestaShop\/statsbestmanufacturers": 4,
@@ -2440,7 +2440,7 @@
             "PrestaShop\/contactform": 7,
             "PrestaShop\/paymentexample": 1,
             "PrestaShop\/prestashop-ui-kit": 1,
-            "PrestaShop\/blockreassurance": 42,
+            "PrestaShop\/blockreassurance": 44,
             "PrestaShop\/ps_sharebuttons": 3,
             "PrestaShop\/ps_socialfollow": 5,
             "PrestaShop\/ps_linklist": 51,
@@ -2456,7 +2456,7 @@
             "PrestaShop\/ps_shoppingcart": 3,
             "PrestaShop\/ps_currencyselector": 6,
             "PrestaShop\/ps_languageselector": 3,
-            "PrestaShop\/ps_facetedsearch": 70,
+            "PrestaShop\/ps_facetedsearch": 72,
             "PrestaShop\/ps_customeraccountlinks": 1,
             "PrestaShop\/ps_searchbar": 1,
             "PrestaShop\/ps_checkpayment": 2,
@@ -2494,9 +2494,9 @@
         },
         "categories": {
             "core": {
-                "total": 507,
+                "total": 508,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 505,
+                    "PrestaShop\/PrestaShop": 506,
                     "PrestaShop\/prestashop-ui-kit": 1,
                     "PrestaShop\/stylelint-browser-compatibility": 1
                 }
@@ -2525,7 +2525,7 @@
                 }
             },
             "modules": {
-                "total": 406,
+                "total": 412,
                 "repositories": {
                     "PrestaShop\/PrestaShop-modules": 4,
                     "PrestaShop\/dashactivity": 1,
@@ -2534,7 +2534,7 @@
                     "PrestaShop\/dashtrends": 3,
                     "PrestaShop\/graphnvd3": 3,
                     "PrestaShop\/gridhtml": 3,
-                    "PrestaShop\/pagesnotfound": 1,
+                    "PrestaShop\/pagesnotfound": 3,
                     "PrestaShop\/statsbestcategories": 3,
                     "PrestaShop\/statsbestcustomers": 2,
                     "PrestaShop\/statsbestmanufacturers": 4,
@@ -2558,7 +2558,7 @@
                     "PrestaShop\/autoupgrade": 24,
                     "PrestaShop\/gsitemap": 3,
                     "PrestaShop\/contactform": 7,
-                    "PrestaShop\/blockreassurance": 42,
+                    "PrestaShop\/blockreassurance": 44,
                     "PrestaShop\/ps_sharebuttons": 3,
                     "PrestaShop\/ps_socialfollow": 5,
                     "PrestaShop\/ps_linklist": 51,
@@ -2573,7 +2573,7 @@
                     "PrestaShop\/ps_shoppingcart": 3,
                     "PrestaShop\/ps_currencyselector": 6,
                     "PrestaShop\/ps_languageselector": 3,
-                    "PrestaShop\/ps_facetedsearch": 70,
+                    "PrestaShop\/ps_facetedsearch": 72,
                     "PrestaShop\/ps_customeraccountlinks": 1,
                     "PrestaShop\/ps_searchbar": 1,
                     "PrestaShop\/ps_checkpayment": 2,
@@ -3645,7 +3645,7 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 924,
+        "contributions": 926,
         "repositories": {
             "PrestaShop\/PrestaShop": 357,
             "PrestaShop\/dashactivity": 1,
@@ -3654,7 +3654,7 @@
             "PrestaShop\/dashtrends": 4,
             "PrestaShop\/graphnvd3": 4,
             "PrestaShop\/gridhtml": 5,
-            "PrestaShop\/pagesnotfound": 1,
+            "PrestaShop\/pagesnotfound": 3,
             "PrestaShop\/statsbestcategories": 4,
             "PrestaShop\/statsbestcustomers": 2,
             "PrestaShop\/statsbestmanufacturers": 8,
@@ -3743,7 +3743,7 @@
                 }
             },
             "modules": {
-                "total": 382,
+                "total": 384,
                 "repositories": {
                     "PrestaShop\/dashactivity": 1,
                     "PrestaShop\/dashgoals": 3,
@@ -3751,7 +3751,7 @@
                     "PrestaShop\/dashtrends": 4,
                     "PrestaShop\/graphnvd3": 4,
                     "PrestaShop\/gridhtml": 5,
-                    "PrestaShop\/pagesnotfound": 1,
+                    "PrestaShop\/pagesnotfound": 3,
                     "PrestaShop\/statsbestcategories": 4,
                     "PrestaShop\/statsbestcustomers": 2,
                     "PrestaShop\/statsbestmanufacturers": 8,
@@ -6234,9 +6234,9 @@
         "location": "Somewhere in the Galaxy",
         "bio": null,
         "email_domain": "",
-        "contributions": 280,
+        "contributions": 283,
         "repositories": {
-            "PrestaShop\/pagesnotfound": 10,
+            "PrestaShop\/pagesnotfound": 13,
             "PrestaShop\/blockwishlist": 10,
             "PrestaShop\/productcomments": 45,
             "PrestaShop\/blockreassurance": 44,
@@ -6281,9 +6281,9 @@
                 }
             },
             "modules": {
-                "total": 146,
+                "total": 149,
                 "repositories": {
-                    "PrestaShop\/pagesnotfound": 10,
+                    "PrestaShop\/pagesnotfound": 13,
                     "PrestaShop\/blockwishlist": 10,
                     "PrestaShop\/productcomments": 45,
                     "PrestaShop\/blockreassurance": 44,
@@ -6753,9 +6753,9 @@
         "location": "Grenoble",
         "bio": null,
         "email_domain": "",
-        "contributions": 234,
+        "contributions": 236,
         "repositories": {
-            "PrestaShop\/PrestaShop": 201,
+            "PrestaShop\/PrestaShop": 203,
             "PrestaShop\/blockwishlist": 1,
             "PrestaShop\/autoupgrade": 3,
             "PrestaShop\/gsitemap": 3,
@@ -6773,9 +6773,9 @@
         },
         "categories": {
             "core": {
-                "total": 202,
+                "total": 204,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 201,
+                    "PrestaShop\/PrestaShop": 203,
                     "PrestaShop\/decimal": 1
                 }
             },
@@ -16950,11 +16950,11 @@
         }
     },
     "253": {
-        "login": "EliphazBouye",
+        "login": "SamBouye",
         "id": 53824344,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/53824344?v=4",
-        "html_url": "https:\/\/github.com\/EliphazBouye",
-        "name": "Eliphaz Bouye",
+        "html_url": "https:\/\/github.com\/SamBouye",
+        "name": "Samuel Bouye",
         "company": null,
         "blog": "",
         "location": "Abidjan",
@@ -26024,10 +26024,10 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14856114?v=4",
         "html_url": "https:\/\/github.com\/MaximeMichaud",
         "name": "Maxime Michaud",
-        "company": "Student",
-        "blog": "https:\/\/maximemichaud.me",
+        "company": "Freelancer",
+        "blog": "",
         "location": "Qu\u00e9bec, Canada",
-        "bio": "\r\n    \r\n    SysAdmin                             \r\n\r\nDiscord : Mich#9194\r\n\r\n",
+        "bio": "\r\n    \r\n    SysAdmin                             \r\n\r\nDiscord : Maxime#9194\r\n\r\n",
         "email_domain": "",
         "contributions": 2,
         "repositories": {
@@ -38225,5 +38225,5 @@
             }
         }
     },
-    "updatedAt": "2023-05-08 06:06:36"
+    "updatedAt": "2023-05-09 06:07:22"
 }
