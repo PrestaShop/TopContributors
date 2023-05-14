@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 5611,
+        "contributions": 5612,
         "repositories": {
             "PrestaShop\/PrestaShop": 2971,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 323,
+            "PrestaShop\/test-scenarios": 324,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -144,12 +144,12 @@
                 }
             },
             "documentation": {
-                "total": 482,
+                "total": 483,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 323,
+                    "PrestaShop\/test-scenarios": 324,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 7
                 }
@@ -6761,9 +6761,9 @@
         "location": "Grenoble",
         "bio": null,
         "email_domain": "",
-        "contributions": 241,
+        "contributions": 242,
         "repositories": {
-            "PrestaShop\/PrestaShop": 208,
+            "PrestaShop\/PrestaShop": 209,
             "PrestaShop\/blockwishlist": 1,
             "PrestaShop\/autoupgrade": 3,
             "PrestaShop\/gsitemap": 3,
@@ -6781,9 +6781,9 @@
         },
         "categories": {
             "core": {
-                "total": 209,
+                "total": 210,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 208,
+                    "PrestaShop\/PrestaShop": 209,
                     "PrestaShop\/decimal": 1
                 }
             },
@@ -38192,5 +38192,5 @@
             }
         }
     },
-    "updatedAt": "2023-05-13 06:08:10"
+    "updatedAt": "2023-05-14 06:06:37"
 }
