@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 5638,
+        "contributions": 5639,
         "repositories": {
             "PrestaShop\/PrestaShop": 2981,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 333,
+            "PrestaShop\/test-scenarios": 334,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -144,12 +144,12 @@
                 }
             },
             "documentation": {
-                "total": 496,
+                "total": 497,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 333,
+                    "PrestaShop\/test-scenarios": 334,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 11
                 }
@@ -400,7 +400,7 @@
         "location": "Paris - France",
         "bio": "PHP developer - love Symfony, CI & DevOps. Also tech manager",
         "email_domain": "",
-        "contributions": 4891,
+        "contributions": 4892,
         "repositories": {
             "PrestaShop\/PrestaShop": 1990,
             "PrestaShop\/PrestaShop-modules": 3,
@@ -439,7 +439,7 @@
             "PrestaShop\/contactform": 30,
             "PrestaShop\/paymentexample": 1,
             "PrestaShop\/prestashop-ui-kit": 7,
-            "PrestaShop\/blockreassurance": 19,
+            "PrestaShop\/blockreassurance": 20,
             "PrestaShop\/ps_sharebuttons": 14,
             "PrestaShop\/ps_socialfollow": 12,
             "PrestaShop\/ps_linklist": 18,
@@ -548,7 +548,7 @@
                 }
             },
             "modules": {
-                "total": 977,
+                "total": 978,
                 "repositories": {
                     "PrestaShop\/PrestaShop-modules": 3,
                     "PrestaShop\/dashactivity": 27,
@@ -581,7 +581,7 @@
                     "PrestaShop\/autoupgrade": 50,
                     "PrestaShop\/gsitemap": 29,
                     "PrestaShop\/contactform": 30,
-                    "PrestaShop\/blockreassurance": 19,
+                    "PrestaShop\/blockreassurance": 20,
                     "PrestaShop\/ps_sharebuttons": 14,
                     "PrestaShop\/ps_socialfollow": 12,
                     "PrestaShop\/ps_linklist": 18,
@@ -12564,6 +12564,72 @@
         }
     },
     "168": {
+        "login": "justeen35",
+        "id": 69111099,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/69111099?v=4",
+        "html_url": "https:\/\/github.com\/justeen35",
+        "name": "Justine",
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": "A girl writing code",
+        "email_domain": "",
+        "contributions": 30,
+        "repositories": {
+            "PrestaShop\/PrestaShop": 11,
+            "PrestaShop\/blockreassurance": 1,
+            "PrestaShop\/ps_categorytree": 3,
+            "PrestaShop\/docs": 3,
+            "PrestaShop\/psgdpr": 1,
+            "PrestaShop\/prestashop-specs": 9,
+            "PrestaShop\/open-source": 1,
+            "PrestaShop\/classic-theme": 1
+        },
+        "categories": {
+            "core": {
+                "total": 11,
+                "repositories": {
+                    "PrestaShop\/PrestaShop": 11
+                }
+            },
+            "specs": {
+                "total": 9,
+                "repositories": {
+                    "PrestaShop\/prestashop-specs": 9
+                }
+            },
+            "documentation": {
+                "total": 4,
+                "repositories": {
+                    "PrestaShop\/docs": 3,
+                    "PrestaShop\/open-source": 1
+                }
+            },
+            "themes": {
+                "total": 1,
+                "repositories": {
+                    "PrestaShop\/classic-theme": 1
+                }
+            },
+            "modules": {
+                "total": 5,
+                "repositories": {
+                    "PrestaShop\/blockreassurance": 1,
+                    "PrestaShop\/ps_categorytree": 3,
+                    "PrestaShop\/psgdpr": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "169": {
         "login": "rblaurin",
         "id": 19739263,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/19739263?v=4",
@@ -12611,7 +12677,7 @@
             }
         }
     },
-    "169": {
+    "170": {
         "login": "Dh42",
         "id": 2925144,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2925144?v=4",
@@ -12655,70 +12721,6 @@
                 "repositories": {
                     "PrestaShop\/PrestaShop-modules": 8,
                     "PrestaShop\/ps_googleanalytics": 1
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "170": {
-        "login": "justeen35",
-        "id": 69111099,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/69111099?v=4",
-        "html_url": "https:\/\/github.com\/justeen35",
-        "name": "Justine",
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": "A girl writing code",
-        "email_domain": "",
-        "contributions": 29,
-        "repositories": {
-            "PrestaShop\/PrestaShop": 11,
-            "PrestaShop\/ps_categorytree": 3,
-            "PrestaShop\/docs": 3,
-            "PrestaShop\/psgdpr": 1,
-            "PrestaShop\/prestashop-specs": 9,
-            "PrestaShop\/open-source": 1,
-            "PrestaShop\/classic-theme": 1
-        },
-        "categories": {
-            "core": {
-                "total": 11,
-                "repositories": {
-                    "PrestaShop\/PrestaShop": 11
-                }
-            },
-            "specs": {
-                "total": 9,
-                "repositories": {
-                    "PrestaShop\/prestashop-specs": 9
-                }
-            },
-            "documentation": {
-                "total": 4,
-                "repositories": {
-                    "PrestaShop\/docs": 3,
-                    "PrestaShop\/open-source": 1
-                }
-            },
-            "themes": {
-                "total": 1,
-                "repositories": {
-                    "PrestaShop\/classic-theme": 1
-                }
-            },
-            "modules": {
-                "total": 4,
-                "repositories": {
-                    "PrestaShop\/ps_categorytree": 3,
-                    "PrestaShop\/psgdpr": 1
                 }
             },
             "tools": {
@@ -38364,5 +38366,5 @@
             }
         }
     },
-    "updatedAt": "2023-05-27 06:07:22"
+    "updatedAt": "2023-05-28 06:05:53"
 }
