@@ -2246,7 +2246,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 1837,
+        "contributions": 1840,
         "repositories": {
             "PrestaShop\/PrestaShop": 530,
             "PrestaShop\/PrestaShop-modules": 4,
@@ -2301,11 +2301,11 @@
             "PrestaShop\/ps_shoppingcart": 3,
             "PrestaShop\/ps_currencyselector": 6,
             "PrestaShop\/ps_languageselector": 4,
-            "PrestaShop\/ps_facetedsearch": 84,
+            "PrestaShop\/ps_facetedsearch": 85,
             "PrestaShop\/ps_customeraccountlinks": 1,
             "PrestaShop\/ps_searchbar": 2,
             "PrestaShop\/ps_checkpayment": 2,
-            "PrestaShop\/ps_emailalerts": 23,
+            "PrestaShop\/ps_emailalerts": 24,
             "PrestaShop\/ps_bestsellers": 3,
             "PrestaShop\/ps_categoryproducts": 1,
             "PrestaShop\/ps_newproducts": 1,
@@ -2329,7 +2329,7 @@
             "PrestaShop\/.github": 2,
             "PrestaShop\/phpstan-prestashop": 1,
             "PrestaShop\/ps-org-theme": 8,
-            "PrestaShop\/hummingbird": 22,
+            "PrestaShop\/hummingbird": 23,
             "PrestaShop\/ps-docs-theme": 25,
             "PrestaShop\/contextual-help-api": 1,
             "PrestaShop\/devdocs-site": 9,
@@ -2369,14 +2369,14 @@
                 }
             },
             "themes": {
-                "total": 52,
+                "total": 53,
                 "repositories": {
                     "PrestaShop\/classic-theme": 30,
-                    "PrestaShop\/hummingbird": 22
+                    "PrestaShop\/hummingbird": 23
                 }
             },
             "modules": {
-                "total": 454,
+                "total": 456,
                 "repositories": {
                     "PrestaShop\/PrestaShop-modules": 4,
                     "PrestaShop\/dashactivity": 1,
@@ -2425,11 +2425,11 @@
                     "PrestaShop\/ps_shoppingcart": 3,
                     "PrestaShop\/ps_currencyselector": 6,
                     "PrestaShop\/ps_languageselector": 4,
-                    "PrestaShop\/ps_facetedsearch": 84,
+                    "PrestaShop\/ps_facetedsearch": 85,
                     "PrestaShop\/ps_customeraccountlinks": 1,
                     "PrestaShop\/ps_searchbar": 2,
                     "PrestaShop\/ps_checkpayment": 2,
-                    "PrestaShop\/ps_emailalerts": 23,
+                    "PrestaShop\/ps_emailalerts": 24,
                     "PrestaShop\/ps_bestsellers": 3,
                     "PrestaShop\/ps_categoryproducts": 1,
                     "PrestaShop\/ps_newproducts": 1,
@@ -6271,7 +6271,7 @@
         "location": "Somewhere in the Galaxy",
         "bio": null,
         "email_domain": "",
-        "contributions": 317,
+        "contributions": 319,
         "repositories": {
             "PrestaShop\/pagesnotfound": 15,
             "PrestaShop\/blockwishlist": 15,
@@ -6286,9 +6286,9 @@
             "PrestaShop\/ps_categorytree": 1,
             "PrestaShop\/docs": 78,
             "PrestaShop\/ps_languageselector": 1,
-            "PrestaShop\/ps_facetedsearch": 5,
+            "PrestaShop\/ps_facetedsearch": 6,
             "PrestaShop\/ps_searchbar": 3,
-            "PrestaShop\/ps_emailalerts": 1,
+            "PrestaShop\/ps_emailalerts": 2,
             "PrestaShop\/ps_newproducts": 1,
             "PrestaShop\/ps_googleanalytics": 5,
             "PrestaShop\/prestashop-specs": 6,
@@ -6322,7 +6322,7 @@
                 }
             },
             "modules": {
-                "total": 180,
+                "total": 182,
                 "repositories": {
                     "PrestaShop\/pagesnotfound": 15,
                     "PrestaShop\/blockwishlist": 15,
@@ -6336,9 +6336,9 @@
                     "PrestaShop\/ps_customersignin": 1,
                     "PrestaShop\/ps_categorytree": 1,
                     "PrestaShop\/ps_languageselector": 1,
-                    "PrestaShop\/ps_facetedsearch": 5,
+                    "PrestaShop\/ps_facetedsearch": 6,
                     "PrestaShop\/ps_searchbar": 3,
-                    "PrestaShop\/ps_emailalerts": 1,
+                    "PrestaShop\/ps_emailalerts": 2,
                     "PrestaShop\/ps_newproducts": 1,
                     "PrestaShop\/ps_qualityassurance": 14,
                     "PrestaShop\/ps_googleanalytics": 5
@@ -18405,6 +18405,54 @@
         }
     },
     "280": {
+        "login": "GytisZum",
+        "id": 96050852,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/96050852?v=4",
+        "html_url": "https:\/\/github.com\/GytisZum",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 8,
+        "repositories": {
+            "PrestaShop\/hummingbird": 8
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 8,
+                "repositories": {
+                    "PrestaShop\/hummingbird": 8
+                }
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "281": {
         "login": "Jacky75",
         "id": 2861656,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2861656?v=4",
@@ -18452,7 +18500,7 @@
             }
         }
     },
-    "281": {
+    "282": {
         "login": "lfluvisotto",
         "id": 535626,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/535626?v=4",
@@ -18500,7 +18548,7 @@
             }
         }
     },
-    "282": {
+    "283": {
         "login": "mpaolino",
         "id": 757973,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/757973?v=4",
@@ -18548,7 +18596,7 @@
             }
         }
     },
-    "283": {
+    "284": {
         "login": "psyray",
         "id": 1230954,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1230954?v=4",
@@ -18596,7 +18644,7 @@
             }
         }
     },
-    "284": {
+    "285": {
         "login": "djbuch",
         "id": 5637724,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5637724?v=4",
@@ -18644,7 +18692,7 @@
             }
         }
     },
-    "285": {
+    "286": {
         "login": "mrAKAR",
         "id": 4937578,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4937578?v=4",
@@ -18692,7 +18740,7 @@
             }
         }
     },
-    "286": {
+    "287": {
         "login": "connemb",
         "id": 7490389,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7490389?v=4",
@@ -18740,7 +18788,7 @@
             }
         }
     },
-    "287": {
+    "288": {
         "login": "Ha99y",
         "id": 2355427,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2355427?v=4",
@@ -18788,7 +18836,7 @@
             }
         }
     },
-    "288": {
+    "289": {
         "login": "Seb33300",
         "id": 915273,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/915273?v=4",
@@ -18839,7 +18887,7 @@
             }
         }
     },
-    "289": {
+    "290": {
         "login": "tleon",
         "id": 4093454,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4093454?v=4",
@@ -18890,7 +18938,7 @@
             }
         }
     },
-    "290": {
+    "291": {
         "login": "twengahub",
         "id": 5047517,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5047517?v=4",
@@ -18938,7 +18986,7 @@
             }
         }
     },
-    "291": {
+    "292": {
         "login": "boxdrop",
         "id": 7669487,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7669487?v=4",
@@ -18986,7 +19034,7 @@
             }
         }
     },
-    "292": {
+    "293": {
         "login": "tivuno",
         "id": 18163009,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/18163009?v=4",
@@ -19034,7 +19082,7 @@
             }
         }
     },
-    "293": {
+    "294": {
         "login": "sarahdib",
         "id": 3034677,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3034677?v=4",
@@ -19087,7 +19135,7 @@
             }
         }
     },
-    "294": {
+    "295": {
         "login": "prestaforum",
         "id": 69155595,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/69155595?v=4",
@@ -19127,54 +19175,6 @@
                 "repositories": {
                     "PrestaShop\/ps_googleanalytics": 4
                 }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "295": {
-        "login": "GytisZum",
-        "id": 96050852,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/96050852?v=4",
-        "html_url": "https:\/\/github.com\/GytisZum",
-        "name": null,
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 7,
-        "repositories": {
-            "PrestaShop\/hummingbird": 7
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 7,
-                "repositories": {
-                    "PrestaShop\/hummingbird": 7
-                }
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
             },
             "tools": {
                 "total": 0,
@@ -38455,5 +38455,5 @@
             }
         }
     },
-    "updatedAt": "2023-06-11 06:06:09"
+    "updatedAt": "2023-06-12 06:06:56"
 }
