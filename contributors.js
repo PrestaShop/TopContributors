@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 5744,
+        "contributions": 5745,
         "repositories": {
             "PrestaShop\/PrestaShop": 3036,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 350,
+            "PrestaShop\/test-scenarios": 351,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -144,12 +144,12 @@
                 }
             },
             "documentation": {
-                "total": 513,
+                "total": 514,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 350,
+                    "PrestaShop\/test-scenarios": 351,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 11
                 }
@@ -2248,7 +2248,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 1888,
+        "contributions": 1892,
         "repositories": {
             "PrestaShop\/PrestaShop": 532,
             "PrestaShop\/PrestaShop-modules": 4,
@@ -2260,10 +2260,10 @@
             "PrestaShop\/graphnvd3": 3,
             "PrestaShop\/gridhtml": 3,
             "PrestaShop\/pagesnotfound": 5,
-            "PrestaShop\/statsbestcategories": 3,
+            "PrestaShop\/statsbestcategories": 4,
             "PrestaShop\/statsbestcustomers": 2,
             "PrestaShop\/statsbestmanufacturers": 4,
-            "PrestaShop\/statsbestproducts": 2,
+            "PrestaShop\/statsbestproducts": 3,
             "PrestaShop\/statsbestsuppliers": 2,
             "PrestaShop\/statsbestvouchers": 2,
             "PrestaShop\/statscarrier": 1,
@@ -2310,6 +2310,7 @@
             "PrestaShop\/ps_checkpayment": 2,
             "PrestaShop\/ps_emailalerts": 24,
             "PrestaShop\/ps_bestsellers": 3,
+            "PrestaShop\/ps_brandlist": 1,
             "PrestaShop\/ps_categoryproducts": 1,
             "PrestaShop\/ps_newproducts": 1,
             "PrestaShop\/ps_crossselling": 2,
@@ -2343,7 +2344,7 @@
             "PrestaShop\/classic-theme": 30,
             "PrestaShop\/ps_distributionapiclient": 1,
             "PrestaShop\/native-modules": 1,
-            "PrestaShop\/ps-monitor-module-releases": 3,
+            "PrestaShop\/ps-monitor-module-releases": 4,
             "PrestaShop\/webservice-postman-examples": 4
         },
         "categories": {
@@ -2380,7 +2381,7 @@
                 }
             },
             "modules": {
-                "total": 476,
+                "total": 479,
                 "repositories": {
                     "PrestaShop\/PrestaShop-modules": 4,
                     "PrestaShop\/dashactivity": 1,
@@ -2390,10 +2391,10 @@
                     "PrestaShop\/graphnvd3": 3,
                     "PrestaShop\/gridhtml": 3,
                     "PrestaShop\/pagesnotfound": 5,
-                    "PrestaShop\/statsbestcategories": 3,
+                    "PrestaShop\/statsbestcategories": 4,
                     "PrestaShop\/statsbestcustomers": 2,
                     "PrestaShop\/statsbestmanufacturers": 4,
-                    "PrestaShop\/statsbestproducts": 2,
+                    "PrestaShop\/statsbestproducts": 3,
                     "PrestaShop\/statsbestsuppliers": 2,
                     "PrestaShop\/statsbestvouchers": 2,
                     "PrestaShop\/statscarrier": 1,
@@ -2436,6 +2437,7 @@
                     "PrestaShop\/ps_checkpayment": 2,
                     "PrestaShop\/ps_emailalerts": 24,
                     "PrestaShop\/ps_bestsellers": 3,
+                    "PrestaShop\/ps_brandlist": 1,
                     "PrestaShop\/ps_categoryproducts": 1,
                     "PrestaShop\/ps_newproducts": 1,
                     "PrestaShop\/ps_crossselling": 2,
@@ -2448,13 +2450,13 @@
                 }
             },
             "tools": {
-                "total": 21,
+                "total": 22,
                 "repositories": {
                     "PrestaShop\/issuebot": 1,
                     "PrestaShop\/mjml-theme-converter": 1,
                     "PrestaShop\/PrestaShop-webservice-lib": 1,
                     "PrestaShop\/presthubot": 8,
-                    "PrestaShop\/ps-monitor-module-releases": 3,
+                    "PrestaShop\/ps-monitor-module-releases": 4,
                     "PrestaShop\/TopContributors": 4,
                     "PrestaShop\/traces": 3
                 }
@@ -3665,7 +3667,7 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 966,
+        "contributions": 968,
         "repositories": {
             "PrestaShop\/PrestaShop": 378,
             "PrestaShop\/dashactivity": 1,
@@ -3734,7 +3736,7 @@
             "PrestaShop\/open-source": 1,
             "PrestaShop\/hummingbird": 128,
             "PrestaShop\/classic-theme": 47,
-            "PrestaShop\/ps-monitor-module-releases": 6
+            "PrestaShop\/ps-monitor-module-releases": 8
         },
         "categories": {
             "core": {
@@ -3829,9 +3831,9 @@
                 }
             },
             "tools": {
-                "total": 6,
+                "total": 8,
                 "repositories": {
-                    "PrestaShop\/ps-monitor-module-releases": 6
+                    "PrestaShop\/ps-monitor-module-releases": 8
                 }
             },
             "others": {
@@ -6081,9 +6083,11 @@
         "location": "Somewhere in the Galaxy",
         "bio": null,
         "email_domain": "",
-        "contributions": 337,
+        "contributions": 341,
         "repositories": {
             "PrestaShop\/pagesnotfound": 19,
+            "PrestaShop\/statsbestcategories": 1,
+            "PrestaShop\/statsbestproducts": 1,
             "PrestaShop\/statssales": 1,
             "PrestaShop\/statssearch": 1,
             "PrestaShop\/blockwishlist": 15,
@@ -6107,6 +6111,7 @@
             "PrestaShop\/ps_facetedsearch": 6,
             "PrestaShop\/ps_searchbar": 3,
             "PrestaShop\/ps_emailalerts": 2,
+            "PrestaShop\/ps_brandlist": 2,
             "PrestaShop\/ps_newproducts": 1,
             "PrestaShop\/ps_cashondelivery": 1,
             "PrestaShop\/ps_googleanalytics": 6,
@@ -6142,9 +6147,11 @@
                 }
             },
             "modules": {
-                "total": 200,
+                "total": 204,
                 "repositories": {
                     "PrestaShop\/pagesnotfound": 19,
+                    "PrestaShop\/statsbestcategories": 1,
+                    "PrestaShop\/statsbestproducts": 1,
                     "PrestaShop\/statssales": 1,
                     "PrestaShop\/statssearch": 1,
                     "PrestaShop\/blockwishlist": 15,
@@ -6167,6 +6174,7 @@
                     "PrestaShop\/ps_facetedsearch": 6,
                     "PrestaShop\/ps_searchbar": 3,
                     "PrestaShop\/ps_emailalerts": 2,
+                    "PrestaShop\/ps_brandlist": 2,
                     "PrestaShop\/ps_newproducts": 1,
                     "PrestaShop\/ps_cashondelivery": 1,
                     "PrestaShop\/ps_faviconnotificationbo": 1,
@@ -38458,5 +38466,5 @@
             }
         }
     },
-    "updatedAt": "2023-06-24 06:05:57"
+    "updatedAt": "2023-06-25 06:07:02"
 }
