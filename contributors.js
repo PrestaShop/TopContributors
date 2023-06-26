@@ -2248,7 +2248,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 1892,
+        "contributions": 1901,
         "repositories": {
             "PrestaShop\/PrestaShop": 532,
             "PrestaShop\/PrestaShop-modules": 4,
@@ -2293,13 +2293,13 @@
             "PrestaShop\/ps_customtext": 10,
             "PrestaShop\/ps_contactinfo": 3,
             "PrestaShop\/ps_emailsubscription": 5,
-            "PrestaShop\/ps_banner": 5,
+            "PrestaShop\/ps_banner": 6,
             "PrestaShop\/ps_featuredproducts": 4,
             "PrestaShop\/ps_imageslider": 8,
             "PrestaShop\/ps_mainmenu": 2,
             "PrestaShop\/ps_customersignin": 4,
             "PrestaShop\/ps_categorytree": 5,
-            "PrestaShop\/docs": 290,
+            "PrestaShop\/docs": 294,
             "PrestaShop\/ps_wirepayment": 1,
             "PrestaShop\/ps_shoppingcart": 4,
             "PrestaShop\/ps_currencyselector": 7,
@@ -2333,15 +2333,16 @@
             "PrestaShop\/ps_qualityassurance": 1,
             "PrestaShop\/.github": 2,
             "PrestaShop\/phpstan-prestashop": 1,
+            "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/ps-org-theme": 8,
-            "PrestaShop\/hummingbird": 28,
+            "PrestaShop\/hummingbird": 30,
             "PrestaShop\/ps-docs-theme": 29,
             "PrestaShop\/contextual-help-api": 1,
             "PrestaShop\/devdocs-site": 9,
             "PrestaShop\/distribution-api": 1,
             "PrestaShop\/ga.tests.ui.pr": 1,
             "PrestaShop\/ps-project-metrics": 1,
-            "PrestaShop\/classic-theme": 30,
+            "PrestaShop\/classic-theme": 31,
             "PrestaShop\/ps_distributionapiclient": 1,
             "PrestaShop\/native-modules": 1,
             "PrestaShop\/ps-monitor-module-releases": 4,
@@ -2364,24 +2365,25 @@
                 }
             },
             "documentation": {
-                "total": 373,
+                "total": 378,
                 "repositories": {
                     "PrestaShop\/paymentexample": 1,
-                    "PrestaShop\/docs": 290,
+                    "PrestaShop\/docs": 294,
+                    "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/ADR": 6,
                     "PrestaShop\/example-modules": 29,
                     "PrestaShop\/open-source": 47
                 }
             },
             "themes": {
-                "total": 58,
+                "total": 61,
                 "repositories": {
-                    "PrestaShop\/classic-theme": 30,
-                    "PrestaShop\/hummingbird": 28
+                    "PrestaShop\/classic-theme": 31,
+                    "PrestaShop\/hummingbird": 30
                 }
             },
             "modules": {
-                "total": 479,
+                "total": 480,
                 "repositories": {
                     "PrestaShop\/PrestaShop-modules": 4,
                     "PrestaShop\/dashactivity": 1,
@@ -2421,7 +2423,7 @@
                     "PrestaShop\/ps_customtext": 10,
                     "PrestaShop\/ps_contactinfo": 3,
                     "PrestaShop\/ps_emailsubscription": 5,
-                    "PrestaShop\/ps_banner": 5,
+                    "PrestaShop\/ps_banner": 6,
                     "PrestaShop\/ps_featuredproducts": 4,
                     "PrestaShop\/ps_imageslider": 8,
                     "PrestaShop\/ps_mainmenu": 2,
@@ -8364,6 +8366,83 @@
         }
     },
     "90": {
+        "login": "lmeyer1",
+        "id": 7520695,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7520695?v=4",
+        "html_url": "https:\/\/github.com\/lmeyer1",
+        "name": "Lorenz Meyer",
+        "company": "Soci\u00e9t\u00e9 Biblique de Gen\u00e8ve",
+        "blog": "https:\/\/maisonbible.net",
+        "location": "Romanel-sur-Lausanne, Switzerland",
+        "bio": null,
+        "email_domain": "bible.ch",
+        "contributions": 119,
+        "repositories": {
+            "PrestaShop\/PrestaShop": 69,
+            "PrestaShop\/pagesnotfound": 1,
+            "PrestaShop\/ps_socialfollow": 7,
+            "PrestaShop\/ps_linklist": 5,
+            "PrestaShop\/ps_customtext": 5,
+            "PrestaShop\/docs": 2,
+            "PrestaShop\/ps_emailalerts": 12,
+            "PrestaShop\/ps_crossselling": 1,
+            "PrestaShop\/prestashop-specs": 2,
+            "PrestaShop\/open-source": 1,
+            "PrestaShop\/mjml-theme-converter": 12,
+            "PrestaShop\/user-documentation-en": 1,
+            "PrestaShop\/hummingbird": 1
+        },
+        "categories": {
+            "core": {
+                "total": 69,
+                "repositories": {
+                    "PrestaShop\/PrestaShop": 69
+                }
+            },
+            "specs": {
+                "total": 2,
+                "repositories": {
+                    "PrestaShop\/prestashop-specs": 2
+                }
+            },
+            "documentation": {
+                "total": 4,
+                "repositories": {
+                    "PrestaShop\/docs": 2,
+                    "PrestaShop\/user-documentation-en": 1,
+                    "PrestaShop\/open-source": 1
+                }
+            },
+            "themes": {
+                "total": 1,
+                "repositories": {
+                    "PrestaShop\/hummingbird": 1
+                }
+            },
+            "modules": {
+                "total": 31,
+                "repositories": {
+                    "PrestaShop\/pagesnotfound": 1,
+                    "PrestaShop\/ps_socialfollow": 7,
+                    "PrestaShop\/ps_linklist": 5,
+                    "PrestaShop\/ps_customtext": 5,
+                    "PrestaShop\/ps_emailalerts": 12,
+                    "PrestaShop\/ps_crossselling": 1
+                }
+            },
+            "tools": {
+                "total": 12,
+                "repositories": {
+                    "PrestaShop\/mjml-theme-converter": 12
+                }
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "91": {
         "login": "prestamodule",
         "id": 1162527,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1162527?v=4",
@@ -8414,81 +8493,6 @@
             "tools": {
                 "total": 0,
                 "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "91": {
-        "login": "lmeyer1",
-        "id": 7520695,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7520695?v=4",
-        "html_url": "https:\/\/github.com\/lmeyer1",
-        "name": "Lorenz Meyer",
-        "company": "Soci\u00e9t\u00e9 Biblique de Gen\u00e8ve",
-        "blog": "https:\/\/maisonbible.net",
-        "location": "Romanel-sur-Lausanne, Switzerland",
-        "bio": null,
-        "email_domain": "bible.ch",
-        "contributions": 118,
-        "repositories": {
-            "PrestaShop\/PrestaShop": 69,
-            "PrestaShop\/pagesnotfound": 1,
-            "PrestaShop\/ps_socialfollow": 7,
-            "PrestaShop\/ps_linklist": 5,
-            "PrestaShop\/ps_customtext": 5,
-            "PrestaShop\/docs": 2,
-            "PrestaShop\/ps_emailalerts": 12,
-            "PrestaShop\/ps_crossselling": 1,
-            "PrestaShop\/prestashop-specs": 2,
-            "PrestaShop\/open-source": 1,
-            "PrestaShop\/mjml-theme-converter": 12,
-            "PrestaShop\/hummingbird": 1
-        },
-        "categories": {
-            "core": {
-                "total": 69,
-                "repositories": {
-                    "PrestaShop\/PrestaShop": 69
-                }
-            },
-            "specs": {
-                "total": 2,
-                "repositories": {
-                    "PrestaShop\/prestashop-specs": 2
-                }
-            },
-            "documentation": {
-                "total": 3,
-                "repositories": {
-                    "PrestaShop\/docs": 2,
-                    "PrestaShop\/open-source": 1
-                }
-            },
-            "themes": {
-                "total": 1,
-                "repositories": {
-                    "PrestaShop\/hummingbird": 1
-                }
-            },
-            "modules": {
-                "total": 31,
-                "repositories": {
-                    "PrestaShop\/pagesnotfound": 1,
-                    "PrestaShop\/ps_socialfollow": 7,
-                    "PrestaShop\/ps_linklist": 5,
-                    "PrestaShop\/ps_customtext": 5,
-                    "PrestaShop\/ps_emailalerts": 12,
-                    "PrestaShop\/ps_crossselling": 1
-                }
-            },
-            "tools": {
-                "total": 12,
-                "repositories": {
-                    "PrestaShop\/mjml-theme-converter": 12
-                }
             },
             "others": {
                 "total": 0,
@@ -8956,13 +8960,13 @@
         "location": "Finland",
         "bio": "Computers make me happy",
         "email_domain": "",
-        "contributions": 87,
+        "contributions": 88,
         "repositories": {
             "PrestaShop\/PrestaShop": 54,
             "PrestaShop\/blockwishlist": 1,
             "PrestaShop\/productcomments": 3,
             "PrestaShop\/ps_linklist": 5,
-            "PrestaShop\/docs": 5,
+            "PrestaShop\/docs": 6,
             "PrestaShop\/ps_checkpayment": 3,
             "PrestaShop\/ps_emailalerts": 1,
             "PrestaShop\/hummingbird": 4,
@@ -8980,9 +8984,9 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 5,
+                "total": 6,
                 "repositories": {
-                    "PrestaShop\/docs": 5
+                    "PrestaShop\/docs": 6
                 }
             },
             "themes": {
@@ -10404,10 +10408,10 @@
         "location": "Gliwice, Poland",
         "bio": "FrontEnd enjoyer\r\nWorking for Impsolutions",
         "email_domain": "",
-        "contributions": 55,
+        "contributions": 56,
         "repositories": {
             "PrestaShop\/psgdpr": 1,
-            "PrestaShop\/hummingbird": 50,
+            "PrestaShop\/hummingbird": 51,
             "PrestaShop\/classic-theme": 4
         },
         "categories": {
@@ -10424,10 +10428,10 @@
                 "repositories": []
             },
             "themes": {
-                "total": 54,
+                "total": 55,
                 "repositories": {
                     "PrestaShop\/classic-theme": 4,
-                    "PrestaShop\/hummingbird": 50
+                    "PrestaShop\/hummingbird": 51
                 }
             },
             "modules": {
@@ -37512,7 +37516,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/11234273?v=4",
         "html_url": "https:\/\/github.com\/sheerlox",
         "name": "Pierre Cavin",
-        "company": "Sherlox Services (Freelance)",
+        "company": "@insurgent-lab @Sherlox-Services",
         "blog": "",
         "location": "Occitanie, France",
         "bio": "\u201cNever limit yourself because of others\u2019 limited imagination; never limit others because of your own limited imagination.\u201d - Mae Jemison",
@@ -38466,5 +38470,5 @@
             }
         }
     },
-    "updatedAt": "2023-06-25 06:07:02"
+    "updatedAt": "2023-06-26 06:06:53"
 }
