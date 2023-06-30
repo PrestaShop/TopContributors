@@ -1095,9 +1095,9 @@
         "location": "Lithuania",
         "bio": null,
         "email_domain": "",
-        "contributions": 4303,
+        "contributions": 4313,
         "repositories": {
-            "PrestaShop\/PrestaShop": 4174,
+            "PrestaShop\/PrestaShop": 4184,
             "PrestaShop\/autoupgrade": 1,
             "PrestaShop\/docs": 77,
             "PrestaShop\/ps_facetedsearch": 17,
@@ -1105,9 +1105,9 @@
         },
         "categories": {
             "core": {
-                "total": 4174,
+                "total": 4184,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 4174
+                    "PrestaShop\/PrestaShop": 4184
                 }
             },
             "specs": {
@@ -2143,7 +2143,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 1946,
+        "contributions": 1965,
         "repositories": {
             "PrestaShop\/PrestaShop": 535,
             "PrestaShop\/PrestaShop-modules": 4,
@@ -2160,14 +2160,14 @@
             "PrestaShop\/statsbestmanufacturers": 4,
             "PrestaShop\/statsbestproducts": 3,
             "PrestaShop\/statsbestsuppliers": 2,
-            "PrestaShop\/statsbestvouchers": 2,
-            "PrestaShop\/statscarrier": 1,
+            "PrestaShop\/statsbestvouchers": 3,
+            "PrestaShop\/statscarrier": 2,
             "PrestaShop\/statscatalog": 3,
             "PrestaShop\/statscheckup": 3,
             "PrestaShop\/statsdata": 2,
-            "PrestaShop\/statsforecast": 2,
-            "PrestaShop\/statsnewsletter": 2,
-            "PrestaShop\/statspersonalinfos": 2,
+            "PrestaShop\/statsforecast": 3,
+            "PrestaShop\/statsnewsletter": 3,
+            "PrestaShop\/statspersonalinfos": 3,
             "PrestaShop\/statsproduct": 4,
             "PrestaShop\/statsregistrations": 3,
             "PrestaShop\/statssales": 4,
@@ -2199,7 +2199,7 @@
             "PrestaShop\/ps_shoppingcart": 4,
             "PrestaShop\/ps_currencyselector": 7,
             "PrestaShop\/ps_languageselector": 4,
-            "PrestaShop\/ps_facetedsearch": 93,
+            "PrestaShop\/ps_facetedsearch": 94,
             "PrestaShop\/ps_customeraccountlinks": 1,
             "PrestaShop\/ps_searchbar": 2,
             "PrestaShop\/ps_checkpayment": 2,
@@ -2224,7 +2224,7 @@
             "PrestaShop\/php-dev-tools": 1,
             "PrestaShop\/presthubot": 8,
             "PrestaShop\/stylelint-browser-compatibility": 1,
-            "PrestaShop\/example-modules": 29,
+            "PrestaShop\/example-modules": 42,
             "PrestaShop\/ps_qualityassurance": 1,
             "PrestaShop\/.github": 2,
             "PrestaShop\/phpstan-prestashop": 1,
@@ -2260,13 +2260,13 @@
                 }
             },
             "documentation": {
-                "total": 404,
+                "total": 417,
                 "repositories": {
                     "PrestaShop\/paymentexample": 7,
                     "PrestaShop\/docs": 297,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/ADR": 6,
-                    "PrestaShop\/example-modules": 29,
+                    "PrestaShop\/example-modules": 42,
                     "PrestaShop\/open-source": 64
                 }
             },
@@ -2278,7 +2278,7 @@
                 }
             },
             "modules": {
-                "total": 480,
+                "total": 486,
                 "repositories": {
                     "PrestaShop\/PrestaShop-modules": 4,
                     "PrestaShop\/dashactivity": 1,
@@ -2293,14 +2293,14 @@
                     "PrestaShop\/statsbestmanufacturers": 4,
                     "PrestaShop\/statsbestproducts": 3,
                     "PrestaShop\/statsbestsuppliers": 2,
-                    "PrestaShop\/statsbestvouchers": 2,
-                    "PrestaShop\/statscarrier": 1,
+                    "PrestaShop\/statsbestvouchers": 3,
+                    "PrestaShop\/statscarrier": 2,
                     "PrestaShop\/statscatalog": 3,
                     "PrestaShop\/statscheckup": 3,
                     "PrestaShop\/statsdata": 2,
-                    "PrestaShop\/statsforecast": 2,
-                    "PrestaShop\/statsnewsletter": 2,
-                    "PrestaShop\/statspersonalinfos": 2,
+                    "PrestaShop\/statsforecast": 3,
+                    "PrestaShop\/statsnewsletter": 3,
+                    "PrestaShop\/statspersonalinfos": 3,
                     "PrestaShop\/statsproduct": 4,
                     "PrestaShop\/statsregistrations": 3,
                     "PrestaShop\/statssales": 4,
@@ -2328,7 +2328,7 @@
                     "PrestaShop\/ps_shoppingcart": 4,
                     "PrestaShop\/ps_currencyselector": 7,
                     "PrestaShop\/ps_languageselector": 4,
-                    "PrestaShop\/ps_facetedsearch": 93,
+                    "PrestaShop\/ps_facetedsearch": 94,
                     "PrestaShop\/ps_customeraccountlinks": 1,
                     "PrestaShop\/ps_searchbar": 2,
                     "PrestaShop\/ps_checkpayment": 2,
@@ -6081,11 +6081,16 @@
         "location": "Somewhere in the Galaxy",
         "bio": null,
         "email_domain": "",
-        "contributions": 341,
+        "contributions": 346,
         "repositories": {
             "PrestaShop\/pagesnotfound": 19,
             "PrestaShop\/statsbestcategories": 1,
             "PrestaShop\/statsbestproducts": 1,
+            "PrestaShop\/statsbestvouchers": 1,
+            "PrestaShop\/statscarrier": 1,
+            "PrestaShop\/statsforecast": 1,
+            "PrestaShop\/statsnewsletter": 1,
+            "PrestaShop\/statspersonalinfos": 1,
             "PrestaShop\/statssales": 1,
             "PrestaShop\/statssearch": 1,
             "PrestaShop\/blockwishlist": 15,
@@ -6145,11 +6150,16 @@
                 }
             },
             "modules": {
-                "total": 204,
+                "total": 209,
                 "repositories": {
                     "PrestaShop\/pagesnotfound": 19,
                     "PrestaShop\/statsbestcategories": 1,
                     "PrestaShop\/statsbestproducts": 1,
+                    "PrestaShop\/statsbestvouchers": 1,
+                    "PrestaShop\/statscarrier": 1,
+                    "PrestaShop\/statsforecast": 1,
+                    "PrestaShop\/statsnewsletter": 1,
+                    "PrestaShop\/statspersonalinfos": 1,
                     "PrestaShop\/statssales": 1,
                     "PrestaShop\/statssearch": 1,
                     "PrestaShop\/blockwishlist": 15,
@@ -38420,5 +38430,5 @@
             }
         }
     },
-    "updatedAt": "2023-06-29 06:07:42"
+    "updatedAt": "2023-06-30 06:06:28"
 }
