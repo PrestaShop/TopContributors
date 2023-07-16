@@ -3626,7 +3626,7 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 973,
+        "contributions": 975,
         "repositories": {
             "PrestaShop\/PrestaShop": 381,
             "PrestaShop\/dashactivity": 1,
@@ -3656,7 +3656,7 @@
             "PrestaShop\/statsstock": 4,
             "PrestaShop\/blockwishlist": 3,
             "PrestaShop\/productcomments": 8,
-            "PrestaShop\/autoupgrade": 29,
+            "PrestaShop\/autoupgrade": 31,
             "PrestaShop\/gsitemap": 9,
             "PrestaShop\/prestashop-ui-kit": 3,
             "PrestaShop\/blockreassurance": 9,
@@ -3724,7 +3724,7 @@
                 }
             },
             "modules": {
-                "total": 399,
+                "total": 401,
                 "repositories": {
                     "PrestaShop\/dashactivity": 1,
                     "PrestaShop\/dashgoals": 3,
@@ -3753,7 +3753,7 @@
                     "PrestaShop\/statsstock": 4,
                     "PrestaShop\/blockwishlist": 3,
                     "PrestaShop\/productcomments": 8,
-                    "PrestaShop\/autoupgrade": 29,
+                    "PrestaShop\/autoupgrade": 31,
                     "PrestaShop\/gsitemap": 9,
                     "PrestaShop\/blockreassurance": 9,
                     "PrestaShop\/ps_socialfollow": 1,
@@ -6686,11 +6686,11 @@
         "location": "Grenoble",
         "bio": null,
         "email_domain": "",
-        "contributions": 299,
+        "contributions": 300,
         "repositories": {
             "PrestaShop\/PrestaShop": 265,
             "PrestaShop\/blockwishlist": 1,
-            "PrestaShop\/autoupgrade": 3,
+            "PrestaShop\/autoupgrade": 4,
             "PrestaShop\/gsitemap": 3,
             "PrestaShop\/docker": 1,
             "PrestaShop\/ps_linklist": 3,
@@ -6728,10 +6728,10 @@
                 "repositories": []
             },
             "modules": {
-                "total": 14,
+                "total": 15,
                 "repositories": {
                     "PrestaShop\/blockwishlist": 1,
-                    "PrestaShop\/autoupgrade": 3,
+                    "PrestaShop\/autoupgrade": 4,
                     "PrestaShop\/gsitemap": 3,
                     "PrestaShop\/ps_linklist": 3,
                     "PrestaShop\/ps_imageslider": 1,
@@ -38828,5 +38828,5 @@
             }
         }
     },
-    "updatedAt": "2023-07-15 06:05:52"
+    "updatedAt": "2023-07-16 06:06:30"
 }
