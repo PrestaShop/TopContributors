@@ -6435,7 +6435,7 @@
         "location": null,
         "bio": null,
         "email_domain": "prestashop.com",
-        "contributions": 305,
+        "contributions": 306,
         "repositories": {
             "PrestaShop\/PrestaShop": 150,
             "PrestaShop\/dashactivity": 2,
@@ -6482,7 +6482,7 @@
             "PrestaShop\/ps_shoppingcart": 1,
             "PrestaShop\/ps_currencyselector": 2,
             "PrestaShop\/ps_languageselector": 1,
-            "PrestaShop\/ps_facetedsearch": 9,
+            "PrestaShop\/ps_facetedsearch": 10,
             "PrestaShop\/ps_customeraccountlinks": 1,
             "PrestaShop\/ps_searchbar": 1,
             "PrestaShop\/ps_checkpayment": 1,
@@ -6541,7 +6541,7 @@
                 }
             },
             "modules": {
-                "total": 87,
+                "total": 88,
                 "repositories": {
                     "PrestaShop\/dashactivity": 2,
                     "PrestaShop\/dashgoals": 2,
@@ -6584,7 +6584,7 @@
                     "PrestaShop\/ps_shoppingcart": 1,
                     "PrestaShop\/ps_currencyselector": 2,
                     "PrestaShop\/ps_languageselector": 1,
-                    "PrestaShop\/ps_facetedsearch": 9,
+                    "PrestaShop\/ps_facetedsearch": 10,
                     "PrestaShop\/ps_customeraccountlinks": 1,
                     "PrestaShop\/ps_searchbar": 1,
                     "PrestaShop\/ps_checkpayment": 1,
@@ -38828,5 +38828,5 @@
             }
         }
     },
-    "updatedAt": "2023-07-16 06:06:30"
+    "updatedAt": "2023-07-17 06:07:52"
 }
