@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 5879,
+        "contributions": 5880,
         "repositories": {
             "PrestaShop\/PrestaShop": 3110,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 382,
+            "PrestaShop\/test-scenarios": 383,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -145,12 +145,12 @@
                 }
             },
             "documentation": {
-                "total": 550,
+                "total": 551,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 382,
+                    "PrestaShop\/test-scenarios": 383,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 16
                 }
@@ -1990,7 +1990,7 @@
         "location": "Lille, France",
         "bio": null,
         "email_domain": "protonmail.com",
-        "contributions": 2100,
+        "contributions": 2103,
         "repositories": {
             "PrestaShop\/PrestaShop": 1596,
             "PrestaShop\/PrestaShop-modules": 3,
@@ -2007,7 +2007,7 @@
             "PrestaShop\/statsstock": 1,
             "PrestaShop\/blockwishlist": 2,
             "PrestaShop\/productcomments": 2,
-            "PrestaShop\/autoupgrade": 62,
+            "PrestaShop\/autoupgrade": 65,
             "PrestaShop\/prestashop.github.io": 67,
             "PrestaShop\/docker": 19,
             "PrestaShop\/contactform": 1,
@@ -2089,7 +2089,7 @@
                 }
             },
             "modules": {
-                "total": 139,
+                "total": 142,
                 "repositories": {
                     "PrestaShop\/PrestaShop-modules": 3,
                     "PrestaShop\/dashactivity": 1,
@@ -2105,7 +2105,7 @@
                     "PrestaShop\/statsstock": 1,
                     "PrestaShop\/blockwishlist": 2,
                     "PrestaShop\/productcomments": 2,
-                    "PrestaShop\/autoupgrade": 62,
+                    "PrestaShop\/autoupgrade": 65,
                     "PrestaShop\/contactform": 1,
                     "PrestaShop\/blockreassurance": 13,
                     "PrestaShop\/ps_sharebuttons": 1,
@@ -3449,7 +3449,7 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 1109,
+        "contributions": 1110,
         "repositories": {
             "PrestaShop\/PrestaShop": 443,
             "PrestaShop\/dashactivity": 1,
@@ -3479,7 +3479,7 @@
             "PrestaShop\/statsstock": 4,
             "PrestaShop\/blockwishlist": 4,
             "PrestaShop\/productcomments": 10,
-            "PrestaShop\/autoupgrade": 49,
+            "PrestaShop\/autoupgrade": 50,
             "PrestaShop\/gsitemap": 10,
             "PrestaShop\/prestashop.github.io": 2,
             "PrestaShop\/contactform": 1,
@@ -3551,7 +3551,7 @@
                 }
             },
             "modules": {
-                "total": 462,
+                "total": 463,
                 "repositories": {
                     "PrestaShop\/dashactivity": 1,
                     "PrestaShop\/dashgoals": 3,
@@ -3580,7 +3580,7 @@
                     "PrestaShop\/statsstock": 4,
                     "PrestaShop\/blockwishlist": 4,
                     "PrestaShop\/productcomments": 10,
-                    "PrestaShop\/autoupgrade": 49,
+                    "PrestaShop\/autoupgrade": 50,
                     "PrestaShop\/gsitemap": 10,
                     "PrestaShop\/contactform": 1,
                     "PrestaShop\/blockreassurance": 10,
@@ -39064,5 +39064,5 @@
             }
         }
     },
-    "updatedAt": "2023-08-12 06:06:39"
+    "updatedAt": "2023-08-13 06:05:22"
 }
