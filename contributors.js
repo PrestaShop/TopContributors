@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 5880,
+        "contributions": 5882,
         "repositories": {
             "PrestaShop\/PrestaShop": 3110,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -104,7 +104,7 @@
             "PrestaShop\/php-dev-tools": 4,
             "PrestaShop\/QANightlyResults": 7,
             "PrestaShop\/LocalizationFiles": 9,
-            "PrestaShop\/presthubot": 261,
+            "PrestaShop\/presthubot": 262,
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
@@ -120,7 +120,7 @@
             "PrestaShop\/classic-theme": 173,
             "PrestaShop\/ps_distributionapiclient": 1,
             "PrestaShop\/functional-documentation": 2,
-            "PrestaShop\/keycloak_connector_demo": 16
+            "PrestaShop\/keycloak_connector_demo": 17
         },
         "categories": {
             "core": {
@@ -236,7 +236,7 @@
                 }
             },
             "tools": {
-                "total": 399,
+                "total": 400,
                 "repositories": {
                     "PrestaShop\/docker": 21,
                     "PrestaShop\/docker-ci": 4,
@@ -245,7 +245,7 @@
                     "PrestaShop\/mjml-theme-converter": 1,
                     "PrestaShop\/nightly-board": 30,
                     "PrestaShop\/PrestaShop-webservice-lib": 4,
-                    "PrestaShop\/presthubot": 261,
+                    "PrestaShop\/presthubot": 262,
                     "PrestaShop\/prestonbot": 10,
                     "PrestaShop\/QANightlyResults": 7,
                     "PrestaShop\/TopContributors": 33,
@@ -253,7 +253,7 @@
                 }
             },
             "others": {
-                "total": 141,
+                "total": 142,
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 68,
                     "PrestaShop\/TopTranslators": 1,
@@ -264,7 +264,7 @@
                     "PrestaShop\/user-documentation-v8-en": 1,
                     "PrestaShop\/ps_distributionapiclient": 1,
                     "PrestaShop\/functional-documentation": 2,
-                    "PrestaShop\/keycloak_connector_demo": 16
+                    "PrestaShop\/keycloak_connector_demo": 17
                 }
             }
         }
@@ -2165,9 +2165,9 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2082,
+        "contributions": 2083,
         "repositories": {
-            "PrestaShop\/PrestaShop": 563,
+            "PrestaShop\/PrestaShop": 564,
             "PrestaShop\/PrestaShop-modules": 4,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
             "PrestaShop\/dashactivity": 1,
@@ -2268,9 +2268,9 @@
         },
         "categories": {
             "core": {
-                "total": 585,
+                "total": 586,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 563,
+                    "PrestaShop\/PrestaShop": 564,
                     "PrestaShop\/prestashop-ui-kit": 1,
                     "PrestaShop\/LocalizationFiles": 19,
                     "PrestaShop\/stylelint-browser-compatibility": 1,
@@ -3449,9 +3449,9 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 1111,
+        "contributions": 1112,
         "repositories": {
-            "PrestaShop\/PrestaShop": 444,
+            "PrestaShop\/PrestaShop": 445,
             "PrestaShop\/dashactivity": 1,
             "PrestaShop\/dashgoals": 3,
             "PrestaShop\/dashproducts": 4,
@@ -3526,9 +3526,9 @@
         },
         "categories": {
             "core": {
-                "total": 447,
+                "total": 448,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 444,
+                    "PrestaShop\/PrestaShop": 445,
                     "PrestaShop\/prestashop-ui-kit": 3
                 }
             },
@@ -38981,7 +38981,7 @@
         "blog": "",
         "location": "United States",
         "bio": null,
-        "email_domain": "gmail.com",
+        "email_domain": "",
         "contributions": 1,
         "repositories": {
             "PrestaShop\/classic-theme": 1
@@ -39115,5 +39115,5 @@
             }
         }
     },
-    "updatedAt": "2023-08-15 06:06:13"
+    "updatedAt": "2023-08-16 06:06:09"
 }
