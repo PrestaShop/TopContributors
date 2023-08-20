@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 5887,
+        "contributions": 5888,
         "repositories": {
             "PrestaShop\/PrestaShop": 3112,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 386,
+            "PrestaShop\/test-scenarios": 387,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -145,12 +145,12 @@
                 }
             },
             "documentation": {
-                "total": 554,
+                "total": 555,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 386,
+                    "PrestaShop\/test-scenarios": 387,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 16
                 }
@@ -22890,7 +22890,7 @@
         "company": "LLC Viqeo",
         "blog": "https:\/\/t.me\/unsleeping706",
         "location": "Moscow, Russia",
-        "bio": "22 y.o,\r\nMSU Physics.\r\nMiddle Frontend Developer.\r\nJavaScript, ReactJS, NodeJS, TypeScript",
+        "bio": "24 y.o,\r\nMSU Physics.\r\nFrontend Developer.\r\nJavaScript, ReactJS, NodeJS, TypeScript",
         "email_domain": "",
         "contributions": 4,
         "repositories": {
@@ -26346,7 +26346,7 @@
         "company": "@Faume-co ",
         "blog": "",
         "location": "France",
-        "bio": "26 yo dev from france",
+        "bio": "Web Dev from Rouen, France.\r\n\r\nI mainly use PHP \/ Symfony \/ Laravel & Vue atm for my projects",
         "email_domain": "",
         "contributions": 2,
         "repositories": {
@@ -39117,5 +39117,5 @@
             }
         }
     },
-    "updatedAt": "2023-08-19 06:08:06"
+    "updatedAt": "2023-08-20 06:05:39"
 }
