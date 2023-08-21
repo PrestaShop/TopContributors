@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 5888,
+        "contributions": 5889,
         "repositories": {
             "PrestaShop\/PrestaShop": 3112,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -102,7 +102,7 @@
             "PrestaShop\/open-source": 16,
             "PrestaShop\/mjml-theme-converter": 1,
             "PrestaShop\/php-dev-tools": 4,
-            "PrestaShop\/QANightlyResults": 7,
+            "PrestaShop\/QANightlyResults": 8,
             "PrestaShop\/LocalizationFiles": 9,
             "PrestaShop\/presthubot": 262,
             "PrestaShop\/stylelint-config": 7,
@@ -236,7 +236,7 @@
                 }
             },
             "tools": {
-                "total": 400,
+                "total": 401,
                 "repositories": {
                     "PrestaShop\/docker": 21,
                     "PrestaShop\/docker-ci": 4,
@@ -247,7 +247,7 @@
                     "PrestaShop\/PrestaShop-webservice-lib": 4,
                     "PrestaShop\/presthubot": 262,
                     "PrestaShop\/prestonbot": 10,
-                    "PrestaShop\/QANightlyResults": 7,
+                    "PrestaShop\/QANightlyResults": 8,
                     "PrestaShop\/TopContributors": 33,
                     "PrestaShop\/traces": 18
                 }
@@ -402,7 +402,7 @@
         "location": "Paris - France",
         "bio": "PHP developer - love Symfony, CI & DevOps. Also tech manager",
         "email_domain": "",
-        "contributions": 5019,
+        "contributions": 5020,
         "repositories": {
             "PrestaShop\/PrestaShop": 2020,
             "PrestaShop\/PrestaShop-modules": 3,
@@ -495,6 +495,7 @@
             "PrestaShop\/open-source": 106,
             "PrestaShop\/mjml-theme-converter": 2,
             "PrestaShop\/php-dev-tools": 8,
+            "PrestaShop\/QANightlyResults": 1,
             "PrestaShop\/LocalizationFiles": 2,
             "PrestaShop\/presthubot": 19,
             "PrestaShop\/example-modules": 92,
@@ -625,7 +626,7 @@
                 }
             },
             "tools": {
-                "total": 134,
+                "total": 135,
                 "repositories": {
                     "PrestaShop\/docker": 32,
                     "PrestaShop\/docker-ci": 1,
@@ -638,6 +639,7 @@
                     "PrestaShop\/presthubot": 19,
                     "PrestaShop\/prestonbot": 13,
                     "PrestaShop\/ps-monitor-module-releases": 32,
+                    "PrestaShop\/QANightlyResults": 1,
                     "PrestaShop\/TopContributors": 4,
                     "PrestaShop\/traces": 7
                 }
@@ -5842,7 +5844,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 407,
+        "contributions": 408,
         "repositories": {
             "PrestaShop\/PrestaShop": 287,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
@@ -5884,6 +5886,7 @@
             "PrestaShop\/issuebot": 1,
             "PrestaShop\/nightly-board": 1,
             "PrestaShop\/open-source": 10,
+            "PrestaShop\/QANightlyResults": 1,
             "PrestaShop\/presthubot": 5,
             "PrestaShop\/ps_qualityassurance": 1,
             "PrestaShop\/DocToolsBundle": 1,
@@ -5957,14 +5960,15 @@
                 }
             },
             "tools": {
-                "total": 15,
+                "total": 16,
                 "repositories": {
                     "PrestaShop\/docker": 6,
                     "PrestaShop\/docker-ci": 1,
                     "PrestaShop\/issuebot": 1,
                     "PrestaShop\/nightly-board": 1,
                     "PrestaShop\/PrestaShop-webservice-lib": 1,
-                    "PrestaShop\/presthubot": 5
+                    "PrestaShop\/presthubot": 5,
+                    "PrestaShop\/QANightlyResults": 1
                 }
             },
             "others": {
@@ -39117,5 +39121,5 @@
             }
         }
     },
-    "updatedAt": "2023-08-20 06:05:39"
+    "updatedAt": "2023-08-21 06:07:47"
 }
