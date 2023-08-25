@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 5892,
+        "contributions": 5893,
         "repositories": {
             "PrestaShop\/PrestaShop": 3112,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 389,
+            "PrestaShop\/test-scenarios": 390,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -145,12 +145,12 @@
                 }
             },
             "documentation": {
-                "total": 557,
+                "total": 558,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 389,
+                    "PrestaShop\/test-scenarios": 390,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 16
                 }
@@ -1473,7 +1473,7 @@
         "location": "Paris, France",
         "bio": "VP Open Source at PrestaShop",
         "email_domain": "",
-        "contributions": 3151,
+        "contributions": 3152,
         "repositories": {
             "PrestaShop\/PrestaShop": 1365,
             "PrestaShop\/PrestaShop-modules": 6,
@@ -1524,7 +1524,7 @@
             "PrestaShop\/ps_mainmenu": 6,
             "PrestaShop\/ps_customersignin": 2,
             "PrestaShop\/ps_categorytree": 4,
-            "PrestaShop\/docs": 529,
+            "PrestaShop\/docs": 530,
             "PrestaShop\/ps_wirepayment": 2,
             "PrestaShop\/ps_shoppingcart": 5,
             "PrestaShop\/ps_currencyselector": 1,
@@ -1600,10 +1600,10 @@
                 }
             },
             "documentation": {
-                "total": 670,
+                "total": 671,
                 "repositories": {
                     "PrestaShop\/paymentexample": 3,
-                    "PrestaShop\/docs": 529,
+                    "PrestaShop\/docs": 530,
                     "PrestaShop\/ADR": 38,
                     "PrestaShop\/test-scenarios": 1,
                     "PrestaShop\/prestashop-retro": 1,
@@ -2171,7 +2171,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2098,
+        "contributions": 2099,
         "repositories": {
             "PrestaShop\/PrestaShop": 569,
             "PrestaShop\/PrestaShop-modules": 4,
@@ -2222,7 +2222,7 @@
             "PrestaShop\/ps_mainmenu": 2,
             "PrestaShop\/ps_customersignin": 4,
             "PrestaShop\/ps_categorytree": 5,
-            "PrestaShop\/docs": 310,
+            "PrestaShop\/docs": 311,
             "PrestaShop\/ps_wirepayment": 1,
             "PrestaShop\/ps_shoppingcart": 4,
             "PrestaShop\/ps_currencyselector": 7,
@@ -2290,10 +2290,10 @@
                 }
             },
             "documentation": {
-                "total": 445,
+                "total": 446,
                 "repositories": {
                     "PrestaShop\/paymentexample": 7,
-                    "PrestaShop\/docs": 310,
+                    "PrestaShop\/docs": 311,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/ADR": 6,
                     "PrestaShop\/example-modules": 49,
@@ -9152,9 +9152,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 100,
+        "contributions": 101,
         "repositories": {
-            "PrestaShop\/native-modules": 100
+            "PrestaShop\/native-modules": 101
         },
         "categories": {
             "core": {
@@ -9182,9 +9182,9 @@
                 "repositories": []
             },
             "others": {
-                "total": 100,
+                "total": 101,
                 "repositories": {
-                    "PrestaShop\/native-modules": 100
+                    "PrestaShop\/native-modules": 101
                 }
             }
         }
@@ -39314,5 +39314,5 @@
             }
         }
     },
-    "updatedAt": "2023-08-24 06:06:33"
+    "updatedAt": "2023-08-25 06:06:04"
 }
