@@ -5790,7 +5790,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 413,
+        "contributions": 414,
         "repositories": {
             "PrestaShop\/PrestaShop": 289,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
@@ -5817,7 +5817,7 @@
             "PrestaShop\/docker-ci": 1,
             "PrestaShop\/ps_wirepayment": 1,
             "PrestaShop\/ps_currencyselector": 1,
-            "PrestaShop\/ps_facetedsearch": 6,
+            "PrestaShop\/ps_facetedsearch": 7,
             "PrestaShop\/ps_searchbar": 1,
             "PrestaShop\/ps_checkpayment": 1,
             "PrestaShop\/ps_emailalerts": 2,
@@ -5870,7 +5870,7 @@
                 }
             },
             "modules": {
-                "total": 71,
+                "total": 72,
                 "repositories": {
                     "PrestaShop\/dashactivity": 1,
                     "PrestaShop\/dashproducts": 1,
@@ -5891,7 +5891,7 @@
                     "PrestaShop\/ps_categorytree": 1,
                     "PrestaShop\/ps_wirepayment": 1,
                     "PrestaShop\/ps_currencyselector": 1,
-                    "PrestaShop\/ps_facetedsearch": 6,
+                    "PrestaShop\/ps_facetedsearch": 7,
                     "PrestaShop\/ps_searchbar": 1,
                     "PrestaShop\/ps_checkpayment": 1,
                     "PrestaShop\/ps_emailalerts": 2,
@@ -8985,6 +8985,54 @@
         }
     },
     "97": {
+        "login": "RosaBenouamer",
+        "id": 124665010,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/124665010?v=4",
+        "html_url": "https:\/\/github.com\/RosaBenouamer",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 103,
+        "repositories": {
+            "PrestaShop\/functional-documentation": 103
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 103,
+                "repositories": {
+                    "PrestaShop\/functional-documentation": 103
+                }
+            }
+        }
+    },
+    "98": {
         "login": "SD1982",
         "id": 40635814,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/40635814?v=4",
@@ -9035,54 +9083,6 @@
             "others": {
                 "total": 0,
                 "repositories": []
-            }
-        }
-    },
-    "98": {
-        "login": "RosaBenouamer",
-        "id": 124665010,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/124665010?v=4",
-        "html_url": "https:\/\/github.com\/RosaBenouamer",
-        "name": null,
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 102,
-        "repositories": {
-            "PrestaShop\/functional-documentation": 102
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 102,
-                "repositories": {
-                    "PrestaShop\/functional-documentation": 102
-                }
             }
         }
     },
@@ -36723,6 +36723,54 @@
         }
     },
     "650": {
+        "login": "tups",
+        "id": 868611,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/868611?v=4",
+        "html_url": "https:\/\/github.com\/tups",
+        "name": "Damien Tupinier",
+        "company": "Lord of Web \/ CmonSite",
+        "blog": "",
+        "location": "Paris, France",
+        "bio": "HTML, CSS, JavaScript, PHP",
+        "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "PrestaShop\/ps_facetedsearch": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 1,
+                "repositories": {
+                    "PrestaShop\/ps_facetedsearch": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "651": {
         "login": "hafkhami",
         "id": 10551562,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10551562?v=4",
@@ -36770,7 +36818,7 @@
             }
         }
     },
-    "651": {
+    "652": {
         "login": "pavelnovitsky",
         "id": 598224,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/598224?v=4",
@@ -36818,7 +36866,7 @@
             }
         }
     },
-    "652": {
+    "653": {
         "login": "PeNov",
         "id": 38213520,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/38213520?v=4",
@@ -36866,7 +36914,7 @@
             }
         }
     },
-    "653": {
+    "654": {
         "login": "Perfecticus",
         "id": 2196792,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2196792?v=4",
@@ -36914,7 +36962,7 @@
             }
         }
     },
-    "654": {
+    "655": {
         "login": "yenshirak",
         "id": 4824537,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4824537?v=4",
@@ -36962,7 +37010,7 @@
             }
         }
     },
-    "655": {
+    "656": {
         "login": "Stomp9",
         "id": 3840427,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3840427?v=4",
@@ -37010,7 +37058,7 @@
             }
         }
     },
-    "656": {
+    "657": {
         "login": "veebipoed",
         "id": 4814559,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4814559?v=4",
@@ -37058,7 +37106,7 @@
             }
         }
     },
-    "657": {
+    "658": {
         "login": "Zebx",
         "id": 6885181,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6885181?v=4",
@@ -37106,7 +37154,7 @@
             }
         }
     },
-    "658": {
+    "659": {
         "login": "alex4102",
         "id": 10240758,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10240758?v=4",
@@ -37154,7 +37202,7 @@
             }
         }
     },
-    "659": {
+    "660": {
         "login": "bogdan202",
         "id": 44570209,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/44570209?v=4",
@@ -37202,7 +37250,7 @@
             }
         }
     },
-    "660": {
+    "661": {
         "login": "xabbuh",
         "id": 1957048,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1957048?v=4",
@@ -37250,7 +37298,7 @@
             }
         }
     },
-    "661": {
+    "662": {
         "login": "johnnypeck",
         "id": 254875,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/254875?v=4",
@@ -37298,7 +37346,7 @@
             }
         }
     },
-    "662": {
+    "663": {
         "login": "L3RAZ",
         "id": 25088641,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/25088641?v=4",
@@ -37346,7 +37394,7 @@
             }
         }
     },
-    "663": {
+    "664": {
         "login": "hherreros93",
         "id": 69013360,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/69013360?v=4",
@@ -37394,7 +37442,7 @@
             }
         }
     },
-    "664": {
+    "665": {
         "login": "remi-nukium",
         "id": 99896856,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99896856?v=4",
@@ -37442,7 +37490,7 @@
             }
         }
     },
-    "665": {
+    "666": {
         "login": "Azmaer",
         "id": 7080507,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7080507?v=4",
@@ -37490,7 +37538,7 @@
             }
         }
     },
-    "666": {
+    "667": {
         "login": "NeOMakinG",
         "id": 14963751,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14963751?v=4",
@@ -37538,7 +37586,7 @@
             }
         }
     },
-    "667": {
+    "668": {
         "login": "JRosa06",
         "id": 11293577,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/11293577?v=4",
@@ -37586,7 +37634,7 @@
             }
         }
     },
-    "668": {
+    "669": {
         "login": "feloot",
         "id": 11406670,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/11406670?v=4",
@@ -37634,7 +37682,7 @@
             }
         }
     },
-    "669": {
+    "670": {
         "login": "Lasseku",
         "id": 10146348,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10146348?v=4",
@@ -37682,7 +37730,7 @@
             }
         }
     },
-    "670": {
+    "671": {
         "login": "cippest",
         "id": 3628919,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3628919?v=4",
@@ -37730,7 +37778,7 @@
             }
         }
     },
-    "671": {
+    "672": {
         "login": "mathieuesteban",
         "id": 5794426,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5794426?v=4",
@@ -37778,7 +37826,7 @@
             }
         }
     },
-    "672": {
+    "673": {
         "login": "jagui",
         "id": 335349,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/335349?v=4",
@@ -37826,7 +37874,7 @@
             }
         }
     },
-    "673": {
+    "674": {
         "login": "pierreloicq",
         "id": 8809578,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8809578?v=4",
@@ -37874,7 +37922,7 @@
             }
         }
     },
-    "674": {
+    "675": {
         "login": "TemKaSD",
         "id": 6318282,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6318282?v=4",
@@ -37922,7 +37970,7 @@
             }
         }
     },
-    "675": {
+    "676": {
         "login": "voxTeam",
         "id": 7627825,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7627825?v=4",
@@ -37970,7 +38018,7 @@
             }
         }
     },
-    "676": {
+    "677": {
         "login": "andromaque",
         "id": 44618557,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/44618557?v=4",
@@ -38018,7 +38066,7 @@
             }
         }
     },
-    "677": {
+    "678": {
         "login": "Triloworld",
         "id": 2671726,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2671726?v=4",
@@ -38066,7 +38114,7 @@
             }
         }
     },
-    "678": {
+    "679": {
         "login": "basjac",
         "id": 6992553,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6992553?v=4",
@@ -38114,7 +38162,7 @@
             }
         }
     },
-    "679": {
+    "680": {
         "login": "AureRita",
         "id": 100699445,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/100699445?v=4",
@@ -38162,7 +38210,7 @@
             }
         }
     },
-    "680": {
+    "681": {
         "login": "notklaatu",
         "id": 2211671,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2211671?v=4",
@@ -38210,7 +38258,7 @@
             }
         }
     },
-    "681": {
+    "682": {
         "login": "madsoliver",
         "id": 30602638,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/30602638?v=4",
@@ -38258,7 +38306,7 @@
             }
         }
     },
-    "682": {
+    "683": {
         "login": "m-Poulain",
         "id": 93722295,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/93722295?v=4",
@@ -38306,7 +38354,7 @@
             }
         }
     },
-    "683": {
+    "684": {
         "login": "rakvium",
         "id": 6672367,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6672367?v=4",
@@ -38354,7 +38402,7 @@
             }
         }
     },
-    "684": {
+    "685": {
         "login": "micreas",
         "id": 61692860,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/61692860?v=4",
@@ -38402,7 +38450,7 @@
             }
         }
     },
-    "685": {
+    "686": {
         "login": "jirbel",
         "id": 28923535,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/28923535?v=4",
@@ -38450,7 +38498,7 @@
             }
         }
     },
-    "686": {
+    "687": {
         "login": "sheerlox",
         "id": 11234273,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/11234273?v=4",
@@ -38498,7 +38546,7 @@
             }
         }
     },
-    "687": {
+    "688": {
         "login": "arnaudschaeffer",
         "id": 13747795,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13747795?v=4",
@@ -38546,7 +38594,7 @@
             }
         }
     },
-    "688": {
+    "689": {
         "login": "Arpit-Gulgulia",
         "id": 48010798,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/48010798?v=4",
@@ -38594,7 +38642,7 @@
             }
         }
     },
-    "689": {
+    "690": {
         "login": "Atchworks",
         "id": 5279784,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5279784?v=4",
@@ -38642,7 +38690,7 @@
             }
         }
     },
-    "690": {
+    "691": {
         "login": "h8h",
         "id": 953856,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/953856?v=4",
@@ -38690,7 +38738,7 @@
             }
         }
     },
-    "691": {
+    "692": {
         "login": "drc0",
         "id": 5507633,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5507633?v=4",
@@ -38738,7 +38786,7 @@
             }
         }
     },
-    "692": {
+    "693": {
         "login": "dominictayloruk",
         "id": 23389697,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/23389697?v=4",
@@ -38786,7 +38834,7 @@
             }
         }
     },
-    "693": {
+    "694": {
         "login": "duGuillaume",
         "id": 22149314,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/22149314?v=4",
@@ -38834,7 +38882,7 @@
             }
         }
     },
-    "694": {
+    "695": {
         "login": "asf-harlock",
         "id": 7591490,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7591490?v=4",
@@ -38882,7 +38930,7 @@
             }
         }
     },
-    "695": {
+    "696": {
         "login": "jdaandersj",
         "id": 19514724,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/19514724?v=4",
@@ -38930,7 +38978,7 @@
             }
         }
     },
-    "696": {
+    "697": {
         "login": "JuanjoSCu",
         "id": 40602985,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/40602985?v=4",
@@ -38978,7 +39026,7 @@
             }
         }
     },
-    "697": {
+    "698": {
         "login": "balejk",
         "id": 70893190,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/70893190?v=4",
@@ -39026,7 +39074,7 @@
             }
         }
     },
-    "698": {
+    "699": {
         "login": "buggyzap",
         "id": 14024456,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14024456?v=4",
@@ -39074,7 +39122,7 @@
             }
         }
     },
-    "699": {
+    "700": {
         "login": "patrickmyh",
         "id": 8437284,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8437284?v=4",
@@ -39122,7 +39170,7 @@
             }
         }
     },
-    "700": {
+    "701": {
         "login": "pauloffb",
         "id": 3179361,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3179361?v=4",
@@ -39170,7 +39218,7 @@
             }
         }
     },
-    "701": {
+    "702": {
         "login": "SuichiM",
         "id": 21073142,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/21073142?v=4",
@@ -39218,7 +39266,7 @@
             }
         }
     },
-    "702": {
+    "703": {
         "login": "gavinkalika",
         "id": 4485067,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4485067?v=4",
@@ -39266,7 +39314,7 @@
             }
         }
     },
-    "703": {
+    "704": {
         "login": "tiledcode",
         "id": 22062226,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/22062226?v=4",
@@ -39314,7 +39362,7 @@
             }
         }
     },
-    "704": {
+    "705": {
         "login": "shakaran",
         "id": 14254,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14254?v=4",
@@ -39362,5 +39410,5 @@
             }
         }
     },
-    "updatedAt": "2023-08-27 06:05:58"
+    "updatedAt": "2023-08-28 06:06:30"
 }
