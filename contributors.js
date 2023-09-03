@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 5927,
+        "contributions": 5928,
         "repositories": {
             "PrestaShop\/PrestaShop": 3128,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 396,
+            "PrestaShop\/test-scenarios": 397,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -145,12 +145,12 @@
                 }
             },
             "documentation": {
-                "total": 564,
+                "total": 565,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 396,
+                    "PrestaShop\/test-scenarios": 397,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 16
                 }
@@ -32940,7 +32940,7 @@
         "id": 102567128,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/102567128?v=4",
         "html_url": "https:\/\/github.com\/Chizobaonorh",
-        "name": null,
+        "name": "Tcheesy",
         "company": null,
         "blog": "",
         "location": null,
@@ -39463,5 +39463,5 @@
             }
         }
     },
-    "updatedAt": "2023-09-02 06:05:49"
+    "updatedAt": "2023-09-03 06:07:59"
 }
