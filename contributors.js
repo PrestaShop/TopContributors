@@ -23131,7 +23131,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2765366?v=4",
         "html_url": "https:\/\/github.com\/emmanuelgautier",
         "name": "Emmanuel Gautier",
-        "company": "@thecoditech, @cerberauth",
+        "company": "@cerberauth",
         "blog": "https:\/\/bio.link\/emmanuelgautier\/",
         "location": "France",
         "bio": "Exploring IAM and OIDC with @cerberauth\r\n",
@@ -39406,5 +39406,5 @@
             }
         }
     },
-    "updatedAt": "2023-09-10 06:07:52"
+    "updatedAt": "2023-09-11 06:07:09"
 }
