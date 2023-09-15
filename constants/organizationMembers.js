@@ -19,7 +19,7 @@ export default {
   atomiix: {},
   NeOMakinG: {},
   'ga-devfront': {},
-  0x346e3730: {},
+  '0x346e3730': {},
   boherm: {},
   jokesterfr: {},
   FabienPapet: {},
