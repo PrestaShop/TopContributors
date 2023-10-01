@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 5987,
+        "contributions": 5988,
         "repositories": {
             "PrestaShop\/PrestaShop": 3164,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 416,
+            "PrestaShop\/test-scenarios": 417,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -145,12 +145,12 @@
                 }
             },
             "documentation": {
-                "total": 584,
+                "total": 585,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 416,
+                    "PrestaShop\/test-scenarios": 417,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 16
                 }
@@ -402,7 +402,7 @@
         "location": "Paris - France",
         "bio": "PHP developer - love Symfony, CI & DevOps. Also tech manager",
         "email_domain": "",
-        "contributions": 5088,
+        "contributions": 5090,
         "repositories": {
             "PrestaShop\/PrestaShop": 2031,
             "PrestaShop\/PrestaShop-modules": 3,
@@ -517,7 +517,7 @@
             "PrestaShop\/PsFixturesCreator": 2,
             "PrestaShop\/kanbanbot": 2,
             "PrestaShop\/webservice-postman-examples": 1,
-            "PrestaShop\/zip-archives": 20
+            "PrestaShop\/zip-archives": 22
         },
         "categories": {
             "core": {
@@ -647,7 +647,7 @@
                 }
             },
             "others": {
-                "total": 911,
+                "total": 913,
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 643,
                     "PrestaShop\/.github": 5,
@@ -666,7 +666,7 @@
                     "PrestaShop\/PsFixturesCreator": 2,
                     "PrestaShop\/kanbanbot": 2,
                     "PrestaShop\/webservice-postman-examples": 1,
-                    "PrestaShop\/zip-archives": 20
+                    "PrestaShop\/zip-archives": 22
                 }
             }
         }
@@ -1998,9 +1998,9 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2184,
+        "contributions": 2185,
         "repositories": {
-            "PrestaShop\/PrestaShop": 578,
+            "PrestaShop\/PrestaShop": 579,
             "PrestaShop\/PrestaShop-modules": 4,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
             "PrestaShop\/dashactivity": 1,
@@ -2101,9 +2101,9 @@
         },
         "categories": {
             "core": {
-                "total": 600,
+                "total": 601,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 578,
+                    "PrestaShop\/PrestaShop": 579,
                     "PrestaShop\/prestashop-ui-kit": 1,
                     "PrestaShop\/LocalizationFiles": 19,
                     "PrestaShop\/stylelint-browser-compatibility": 1,
@@ -4477,9 +4477,9 @@
         "location": "127.0.0.1:666",
         "bio": "Software Engineer & Open source lover | @PrestaShop contributor & maintainer | Lazy hard worker | Simplicity is too complex...\r\n\r\n",
         "email_domain": "hotmail.com",
-        "contributions": 725,
+        "contributions": 726,
         "repositories": {
-            "PrestaShop\/PrestaShop": 610,
+            "PrestaShop\/PrestaShop": 611,
             "PrestaShop\/graphnvd3": 1,
             "PrestaShop\/statsproduct": 3,
             "PrestaShop\/blockwishlist": 1,
@@ -4496,9 +4496,9 @@
         },
         "categories": {
             "core": {
-                "total": 610,
+                "total": 611,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 610
+                    "PrestaShop\/PrestaShop": 611
                 }
             },
             "specs": {
@@ -39676,5 +39676,5 @@
             }
         }
     },
-    "updatedAt": "2023-09-30 06:08:06"
+    "updatedAt": "2023-10-01 06:06:42"
 }
