@@ -8778,6 +8778,54 @@
         }
     },
     "94": {
+        "login": "devops-prestashop",
+        "id": 20190706,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20190706?v=4",
+        "html_url": "https:\/\/github.com\/devops-prestashop",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 110,
+        "repositories": {
+            "PrestaShop\/native-modules": 110
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 110,
+                "repositories": {
+                    "PrestaShop\/native-modules": 110
+                }
+            }
+        }
+    },
+    "95": {
         "login": "micka-fdz",
         "id": 50865159,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/50865159?v=4",
@@ -8852,54 +8900,6 @@
             "others": {
                 "total": 0,
                 "repositories": []
-            }
-        }
-    },
-    "95": {
-        "login": "devops-prestashop",
-        "id": 20190706,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20190706?v=4",
-        "html_url": "https:\/\/github.com\/devops-prestashop",
-        "name": null,
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 109,
-        "repositories": {
-            "PrestaShop\/native-modules": 109
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 109,
-                "repositories": {
-                    "PrestaShop\/native-modules": 109
-                }
             }
         }
     },
@@ -39676,5 +39676,5 @@
             }
         }
     },
-    "updatedAt": "2023-10-01 06:06:42"
+    "updatedAt": "2023-10-02 06:07:24"
 }
