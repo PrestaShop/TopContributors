@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 5998,
+        "contributions": 5999,
         "repositories": {
             "PrestaShop\/PrestaShop": 3168,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 421,
+            "PrestaShop\/test-scenarios": 422,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -145,12 +145,12 @@
                 }
             },
             "documentation": {
-                "total": 589,
+                "total": 590,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 421,
+                    "PrestaShop\/test-scenarios": 422,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 16
                 }
@@ -2006,7 +2006,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2195,
+        "contributions": 2196,
         "repositories": {
             "PrestaShop\/PrestaShop": 580,
             "PrestaShop\/PrestaShop-modules": 4,
@@ -2095,7 +2095,7 @@
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/ps-org-theme": 10,
             "PrestaShop\/hummingbird": 33,
-            "PrestaShop\/ps-docs-theme": 37,
+            "PrestaShop\/ps-docs-theme": 38,
             "PrestaShop\/contextual-help-api": 1,
             "PrestaShop\/devdocs-site": 10,
             "PrestaShop\/distribution-api": 1,
@@ -2224,13 +2224,13 @@
                 }
             },
             "others": {
-                "total": 516,
+                "total": 517,
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 444,
                     "PrestaShop\/.github": 2,
                     "PrestaShop\/ps-org-theme": 10,
                     "PrestaShop\/phpstan-prestashop": 1,
-                    "PrestaShop\/ps-docs-theme": 37,
+                    "PrestaShop\/ps-docs-theme": 38,
                     "PrestaShop\/contextual-help-api": 1,
                     "PrestaShop\/devdocs-site": 10,
                     "PrestaShop\/distribution-api": 1,
@@ -27741,10 +27741,10 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1299769?v=4",
         "html_url": "https:\/\/github.com\/FongWan",
         "name": "Fong-Wan Chau",
-        "company": null,
+        "company": "Li Chan Zhou SpA",
         "blog": "ChauRocks.com",
         "location": "Chile",
-        "bio": "Medical doctor with academy excellence. Reducing the suffering of the world.",
+        "bio": "Medical doctor, programmer, entrepreneur, father of 2 kids.",
         "email_domain": "",
         "contributions": 2,
         "repositories": {
@@ -39738,5 +39738,5 @@
             }
         }
     },
-    "updatedAt": "2023-10-07 06:06:12"
+    "updatedAt": "2023-10-08 06:05:55"
 }
