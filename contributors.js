@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6001,
+        "contributions": 6002,
         "repositories": {
             "PrestaShop\/PrestaShop": 3168,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 422,
+            "PrestaShop\/test-scenarios": 423,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -145,12 +145,12 @@
                 }
             },
             "documentation": {
-                "total": 590,
+                "total": 591,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 422,
+                    "PrestaShop\/test-scenarios": 423,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 16
                 }
@@ -1955,16 +1955,16 @@
         "location": "Paris, France",
         "bio": "QA Automation Engineer",
         "email_domain": "gmail.com",
-        "contributions": 2203,
+        "contributions": 2214,
         "repositories": {
-            "PrestaShop\/PrestaShop": 2195,
+            "PrestaShop\/PrestaShop": 2206,
             "PrestaShop\/classic-theme": 8
         },
         "categories": {
             "core": {
-                "total": 2195,
+                "total": 2206,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 2195
+                    "PrestaShop\/PrestaShop": 2206
                 }
             },
             "specs": {
@@ -2254,7 +2254,7 @@
         "location": "Lille, France",
         "bio": null,
         "email_domain": "protonmail.com",
-        "contributions": 2125,
+        "contributions": 2126,
         "repositories": {
             "PrestaShop\/PrestaShop": 1607,
             "PrestaShop\/PrestaShop-modules": 3,
@@ -2316,7 +2316,7 @@
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/DocToolsBundle": 1,
             "PrestaShop\/hummingbird": 4,
-            "PrestaShop\/devdocs-site": 1,
+            "PrestaShop\/devdocs-site": 2,
             "PrestaShop\/classic-theme": 37,
             "PrestaShop\/ps_distributionapiclient": 1,
             "PrestaShop\/webservice-postman-examples": 1
@@ -2411,11 +2411,11 @@
                 }
             },
             "others": {
-                "total": 71,
+                "total": 72,
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 67,
                     "PrestaShop\/DocToolsBundle": 1,
-                    "PrestaShop\/devdocs-site": 1,
+                    "PrestaShop\/devdocs-site": 2,
                     "PrestaShop\/ps_distributionapiclient": 1,
                     "PrestaShop\/webservice-postman-examples": 1
                 }
@@ -4487,9 +4487,9 @@
         "location": "127.0.0.1:666",
         "bio": "Software Engineer & Open source lover | @PrestaShop contributor & maintainer | Lazy hard worker | Simplicity is too complex...\r\n\r\n",
         "email_domain": "hotmail.com",
-        "contributions": 726,
+        "contributions": 730,
         "repositories": {
-            "PrestaShop\/PrestaShop": 611,
+            "PrestaShop\/PrestaShop": 615,
             "PrestaShop\/graphnvd3": 1,
             "PrestaShop\/statsproduct": 3,
             "PrestaShop\/blockwishlist": 1,
@@ -4506,9 +4506,9 @@
         },
         "categories": {
             "core": {
-                "total": 611,
+                "total": 615,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 611
+                    "PrestaShop\/PrestaShop": 615
                 }
             },
             "specs": {
@@ -8624,6 +8624,56 @@
         }
     },
     "91": {
+        "login": "jokesterfr",
+        "id": 1536672,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1536672?v=4",
+        "html_url": "https:\/\/github.com\/jokesterfr",
+        "name": "Cl\u00e9ment D\u00e9siles",
+        "company": "PrestaShop",
+        "blog": "https:\/\/clementdesiles.fr",
+        "location": "Strasbourg",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 119,
+        "repositories": {
+            "PrestaShop\/prestashop-flashlight": 111,
+            "PrestaShop\/ws-client": 8
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 119,
+                "repositories": {
+                    "PrestaShop\/prestashop-flashlight": 111,
+                    "PrestaShop\/ws-client": 8
+                }
+            }
+        }
+    },
+    "92": {
         "login": "prestamodule",
         "id": 1162527,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1162527?v=4",
@@ -8681,7 +8731,7 @@
             }
         }
     },
-    "92": {
+    "93": {
         "login": "unlocomqx",
         "id": 793712,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/793712?v=4",
@@ -8739,7 +8789,7 @@
             }
         }
     },
-    "93": {
+    "94": {
         "login": "elodie-bil3",
         "id": 125287819,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/125287819?v=4",
@@ -8789,7 +8839,7 @@
             }
         }
     },
-    "94": {
+    "95": {
         "login": "devops-prestashop",
         "id": 20190706,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20190706?v=4",
@@ -8837,7 +8887,7 @@
             }
         }
     },
-    "95": {
+    "96": {
         "login": "micka-fdz",
         "id": 50865159,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/50865159?v=4",
@@ -8915,7 +8965,7 @@
             }
         }
     },
-    "96": {
+    "97": {
         "login": "boherm",
         "id": 18699562,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/18699562?v=4",
@@ -8976,7 +9026,7 @@
             }
         }
     },
-    "97": {
+    "98": {
         "login": "mbadrani",
         "id": 29543279,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/29543279?v=4",
@@ -9027,7 +9077,7 @@
             }
         }
     },
-    "98": {
+    "99": {
         "login": "pablopolyte",
         "id": 31857168,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/31857168?v=4",
@@ -9077,7 +9127,7 @@
             }
         }
     },
-    "99": {
+    "100": {
         "login": "SD1982",
         "id": 40635814,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/40635814?v=4",
@@ -9131,7 +9181,7 @@
             }
         }
     },
-    "100": {
+    "101": {
         "login": "cedricfontaine",
         "id": 3180112,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3180112?v=4",
@@ -9186,7 +9236,7 @@
             }
         }
     },
-    "101": {
+    "102": {
         "login": "M0rgan01",
         "id": 36233446,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/36233446?v=4",
@@ -9251,7 +9301,7 @@
             }
         }
     },
-    "102": {
+    "103": {
         "login": "thierrymarianne",
         "id": 1053622,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1053622?v=4",
@@ -9308,7 +9358,7 @@
             }
         }
     },
-    "103": {
+    "104": {
         "login": "Matt75",
         "id": 5262628,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5262628?v=4",
@@ -9378,7 +9428,7 @@
             }
         }
     },
-    "104": {
+    "105": {
         "login": "florine2623",
         "id": 16019289,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16019289?v=4",
@@ -9547,54 +9597,6 @@
                 "repositories": {
                     "PrestaShop\/ps_distributionapiclient": 1,
                     "PrestaShop\/functional-documentation": 1
-                }
-            }
-        }
-    },
-    "105": {
-        "login": "jokesterfr",
-        "id": 1536672,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1536672?v=4",
-        "html_url": "https:\/\/github.com\/jokesterfr",
-        "name": "Cl\u00e9ment D\u00e9siles",
-        "company": "PrestaShop",
-        "blog": "https:\/\/clementdesiles.fr",
-        "location": "Strasbourg",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 93,
-        "repositories": {
-            "PrestaShop\/prestashop-flashlight": 93
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 93,
-                "repositories": {
-                    "PrestaShop\/prestashop-flashlight": 93
                 }
             }
         }
@@ -33170,7 +33172,7 @@
         "name": "Cyrille C.",
         "company": null,
         "blog": "",
-        "location": "Rennes",
+        "location": null,
         "bio": null,
         "email_domain": "",
         "contributions": 1,
@@ -39738,5 +39740,5 @@
             }
         }
     },
-    "updatedAt": "2023-10-10 06:07:18"
+    "updatedAt": "2023-10-11 06:07:22"
 }
