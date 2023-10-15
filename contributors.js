@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6007,
+        "contributions": 6008,
         "repositories": {
             "PrestaShop\/PrestaShop": 3170,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 426,
+            "PrestaShop\/test-scenarios": 427,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -145,12 +145,12 @@
                 }
             },
             "documentation": {
-                "total": 594,
+                "total": 595,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 426,
+                    "PrestaShop\/test-scenarios": 427,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 16
                 }
@@ -20632,10 +20632,10 @@
         "html_url": "https:\/\/github.com\/akrambak",
         "name": "Bakhouche Akram",
         "company": "Fasty",
-        "blog": "",
+        "blog": "https:\/\/bak-dev.com\/",
         "location": null,
         "bio": null,
-        "email_domain": "hotmail.com",
+        "email_domain": "gmail.com",
         "contributions": 6,
         "repositories": {
             "PrestaShop\/blockwishlist": 6
@@ -39735,5 +39735,5 @@
             }
         }
     },
-    "updatedAt": "2023-10-14 06:06:40"
+    "updatedAt": "2023-10-15 06:06:18"
 }
