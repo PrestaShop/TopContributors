@@ -34127,7 +34127,7 @@
         "name": "Processus42",
         "company": null,
         "blog": "",
-        "location": null,
+        "location": "France",
         "bio": null,
         "email_domain": "",
         "contributions": 1,
@@ -39735,5 +39735,5 @@
             }
         }
     },
-    "updatedAt": "2023-10-15 06:06:18"
+    "updatedAt": "2023-10-16 06:06:19"
 }
