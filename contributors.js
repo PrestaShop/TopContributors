@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6034,
+        "contributions": 6035,
         "repositories": {
             "PrestaShop\/PrestaShop": 3181,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 436,
+            "PrestaShop\/test-scenarios": 437,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -146,12 +146,12 @@
                 }
             },
             "documentation": {
-                "total": 604,
+                "total": 605,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 436,
+                    "PrestaShop\/test-scenarios": 437,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 16
                 }
@@ -686,9 +686,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 5120,
+        "contributions": 5124,
         "repositories": {
-            "PrestaShop\/PrestaShop": 4370,
+            "PrestaShop\/PrestaShop": 4374,
             "PrestaShop\/dashgoals": 1,
             "PrestaShop\/dashproducts": 3,
             "PrestaShop\/dashtrends": 2,
@@ -745,9 +745,9 @@
         },
         "categories": {
             "core": {
-                "total": 4437,
+                "total": 4441,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 4370,
+                    "PrestaShop\/PrestaShop": 4374,
                     "PrestaShop\/prestashop-ui-kit": 7,
                     "PrestaShop\/TranslationToolsBundle": 6,
                     "PrestaShop\/circuit-breaker": 31,
@@ -1483,9 +1483,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 2601,
+        "contributions": 2603,
         "repositories": {
-            "PrestaShop\/PrestaShop": 2338,
+            "PrestaShop\/PrestaShop": 2340,
             "PrestaShop\/autoupgrade": 62,
             "PrestaShop\/prestashop.github.io": 34,
             "PrestaShop\/ps_banner": 14,
@@ -1503,9 +1503,9 @@
         },
         "categories": {
             "core": {
-                "total": 2338,
+                "total": 2340,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 2338
+                    "PrestaShop\/PrestaShop": 2340
                 }
             },
             "specs": {
@@ -1705,16 +1705,16 @@
         "location": "Paris, France",
         "bio": "QA Automation Engineer",
         "email_domain": "gmail.com",
-        "contributions": 2257,
+        "contributions": 2259,
         "repositories": {
-            "PrestaShop\/PrestaShop": 2249,
+            "PrestaShop\/PrestaShop": 2251,
             "PrestaShop\/classic-theme": 8
         },
         "categories": {
             "core": {
-                "total": 2249,
+                "total": 2251,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 2249
+                    "PrestaShop\/PrestaShop": 2251
                 }
             },
             "specs": {
@@ -2004,7 +2004,7 @@
         "location": "Lille, France",
         "bio": null,
         "email_domain": "protonmail.com",
-        "contributions": 2136,
+        "contributions": 2140,
         "repositories": {
             "PrestaShop\/PrestaShop": 1608,
             "PrestaShop\/PrestaShop-modules": 3,
@@ -2062,12 +2062,12 @@
             "PrestaShop\/jquery.live-polyfill": 10,
             "PrestaShop\/presthubot": 7,
             "PrestaShop\/stylelint-config": 1,
-            "PrestaShop\/example-modules": 78,
+            "PrestaShop\/example-modules": 81,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/DocToolsBundle": 1,
             "PrestaShop\/hummingbird": 4,
             "PrestaShop\/devdocs-site": 2,
-            "PrestaShop\/classic-theme": 38,
+            "PrestaShop\/classic-theme": 39,
             "PrestaShop\/ps_distributionapiclient": 1,
             "PrestaShop\/webservice-postman-examples": 1
         },
@@ -2089,18 +2089,18 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 155,
+                "total": 158,
                 "repositories": {
                     "PrestaShop\/docs": 72,
                     "PrestaShop\/user-documentation-en": 1,
-                    "PrestaShop\/example-modules": 78,
+                    "PrestaShop\/example-modules": 81,
                     "PrestaShop\/open-source": 4
                 }
             },
             "themes": {
-                "total": 42,
+                "total": 43,
                 "repositories": {
-                    "PrestaShop\/classic-theme": 38,
+                    "PrestaShop\/classic-theme": 39,
                     "PrestaShop\/hummingbird": 4
                 }
             },
@@ -5076,9 +5076,9 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 491,
+        "contributions": 493,
         "repositories": {
-            "PrestaShop\/PrestaShop": 321,
+            "PrestaShop\/PrestaShop": 323,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
             "PrestaShop\/dashactivity": 2,
             "PrestaShop\/dashproducts": 1,
@@ -5138,9 +5138,9 @@
         },
         "categories": {
             "core": {
-                "total": 321,
+                "total": 323,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 321
+                    "PrestaShop\/PrestaShop": 323
                 }
             },
             "specs": {
@@ -8776,9 +8776,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 112,
+        "contributions": 113,
         "repositories": {
-            "PrestaShop\/native-modules": 112
+            "PrestaShop\/native-modules": 113
         },
         "categories": {
             "core": {
@@ -8806,9 +8806,9 @@
                 "repositories": []
             },
             "others": {
-                "total": 112,
+                "total": 113,
                 "repositories": {
-                    "PrestaShop\/native-modules": 112
+                    "PrestaShop\/native-modules": 113
                 }
             }
         }
@@ -39664,5 +39664,5 @@
             }
         }
     },
-    "updatedAt": "2023-10-27 06:06:11"
+    "updatedAt": "2023-10-28 06:06:05"
 }
