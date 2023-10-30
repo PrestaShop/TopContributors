@@ -5076,7 +5076,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 493,
+        "contributions": 497,
         "repositories": {
             "PrestaShop\/PrestaShop": 323,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
@@ -5087,7 +5087,7 @@
             "PrestaShop\/statsbestcustomers": 1,
             "PrestaShop\/statsbestmanufacturers": 1,
             "PrestaShop\/statscarrier": 1,
-            "PrestaShop\/blockwishlist": 5,
+            "PrestaShop\/blockwishlist": 6,
             "PrestaShop\/productcomments": 1,
             "PrestaShop\/autoupgrade": 9,
             "PrestaShop\/gsitemap": 2,
@@ -5095,7 +5095,7 @@
             "PrestaShop\/docker": 6,
             "PrestaShop\/blockreassurance": 14,
             "PrestaShop\/ps_sharebuttons": 1,
-            "PrestaShop\/ps_linklist": 2,
+            "PrestaShop\/ps_linklist": 3,
             "PrestaShop\/ps_contactinfo": 4,
             "PrestaShop\/ps_banner": 1,
             "PrestaShop\/ps_featuredproducts": 1,
@@ -5115,7 +5115,7 @@
             "PrestaShop\/ps_newproducts": 1,
             "PrestaShop\/ps_specials": 1,
             "PrestaShop\/ps_dataprivacy": 1,
-            "PrestaShop\/TopContributors": 2,
+            "PrestaShop\/TopContributors": 3,
             "PrestaShop\/ps_googleanalytics": 3,
             "PrestaShop\/ps_themecusto": 2,
             "PrestaShop\/psgdpr": 10,
@@ -5124,7 +5124,7 @@
             "PrestaShop\/open-source": 12,
             "PrestaShop\/QANightlyResults": 1,
             "PrestaShop\/presthubot": 12,
-            "PrestaShop\/ps_qualityassurance": 1,
+            "PrestaShop\/ps_qualityassurance": 2,
             "PrestaShop\/test-scenarios": 1,
             "PrestaShop\/DocToolsBundle": 1,
             "PrestaShop\/hummingbird": 11,
@@ -5163,7 +5163,7 @@
                 }
             },
             "modules": {
-                "total": 93,
+                "total": 96,
                 "repositories": {
                     "PrestaShop\/dashactivity": 2,
                     "PrestaShop\/dashproducts": 1,
@@ -5172,13 +5172,13 @@
                     "PrestaShop\/statsbestcustomers": 1,
                     "PrestaShop\/statsbestmanufacturers": 1,
                     "PrestaShop\/statscarrier": 1,
-                    "PrestaShop\/blockwishlist": 5,
+                    "PrestaShop\/blockwishlist": 6,
                     "PrestaShop\/productcomments": 1,
                     "PrestaShop\/autoupgrade": 9,
                     "PrestaShop\/gsitemap": 2,
                     "PrestaShop\/blockreassurance": 14,
                     "PrestaShop\/ps_sharebuttons": 1,
-                    "PrestaShop\/ps_linklist": 2,
+                    "PrestaShop\/ps_linklist": 3,
                     "PrestaShop\/ps_contactinfo": 4,
                     "PrestaShop\/ps_banner": 1,
                     "PrestaShop\/ps_featuredproducts": 1,
@@ -5195,14 +5195,14 @@
                     "PrestaShop\/ps_newproducts": 1,
                     "PrestaShop\/ps_specials": 1,
                     "PrestaShop\/ps_dataprivacy": 1,
-                    "PrestaShop\/ps_qualityassurance": 1,
+                    "PrestaShop\/ps_qualityassurance": 2,
                     "PrestaShop\/ps_googleanalytics": 3,
                     "PrestaShop\/ps_themecusto": 2,
                     "PrestaShop\/psgdpr": 10
                 }
             },
             "tools": {
-                "total": 25,
+                "total": 26,
                 "repositories": {
                     "PrestaShop\/docker": 6,
                     "PrestaShop\/docker-ci": 1,
@@ -5211,7 +5211,7 @@
                     "PrestaShop\/PrestaShop-webservice-lib": 1,
                     "PrestaShop\/presthubot": 12,
                     "PrestaShop\/QANightlyResults": 1,
-                    "PrestaShop\/TopContributors": 2
+                    "PrestaShop\/TopContributors": 3
                 }
             },
             "others": {
@@ -12239,7 +12239,7 @@
         "company": "@Innovacy ",
         "blog": "https:\/\/www.innovacy.com",
         "location": "Germany",
-        "bio": "Web Lead Developer and eCommerce Optimization Expert",
+        "bio": "Senior Full Stack\/Laravel Developer, eCommerce & Optimization Expert, plays and composes piano music",
         "email_domain": "innovacy.com",
         "contributions": 38,
         "repositories": {
@@ -39664,5 +39664,5 @@
             }
         }
     },
-    "updatedAt": "2023-10-29 06:06:59"
+    "updatedAt": "2023-10-30 06:07:39"
 }
