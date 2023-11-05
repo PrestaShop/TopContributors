@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6046,
+        "contributions": 6047,
         "repositories": {
             "PrestaShop\/PrestaShop": 3184,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 441,
+            "PrestaShop\/test-scenarios": 442,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -146,12 +146,12 @@
                 }
             },
             "documentation": {
-                "total": 609,
+                "total": 610,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 441,
+                    "PrestaShop\/test-scenarios": 442,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 16
                 }
@@ -38729,7 +38729,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/11234273?v=4",
         "html_url": "https:\/\/github.com\/sheerlox",
         "name": "Pierre Cavin",
-        "company": "@insurgent-lab @Talent-Ideal @Sherlox-Services",
+        "company": "@talent-ideal @insurgent-lab",
         "blog": "",
         "location": "Occitanie, France",
         "bio": "\u201cNever limit yourself because of others\u2019 limited imagination; never limit others because of your own limited imagination.\u201d - Mae Jemison",
@@ -39635,5 +39635,5 @@
             }
         }
     },
-    "updatedAt": "2023-11-04 06:07:12"
+    "updatedAt": "2023-11-05 06:05:37"
 }
