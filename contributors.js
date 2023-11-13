@@ -3219,13 +3219,13 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 1219,
+        "contributions": 1228,
         "repositories": {
             "PrestaShop\/PrestaShop": 505,
             "PrestaShop\/dashactivity": 1,
             "PrestaShop\/dashgoals": 3,
             "PrestaShop\/dashproducts": 4,
-            "PrestaShop\/dashtrends": 4,
+            "PrestaShop\/dashtrends": 7,
             "PrestaShop\/graphnvd3": 4,
             "PrestaShop\/gridhtml": 5,
             "PrestaShop\/pagesnotfound": 5,
@@ -3242,7 +3242,7 @@
             "PrestaShop\/statsforecast": 4,
             "PrestaShop\/statsnewsletter": 2,
             "PrestaShop\/statspersonalinfos": 2,
-            "PrestaShop\/statsproduct": 4,
+            "PrestaShop\/statsproduct": 7,
             "PrestaShop\/statsregistrations": 2,
             "PrestaShop\/statssales": 4,
             "PrestaShop\/statssearch": 1,
@@ -3271,7 +3271,7 @@
             "PrestaShop\/ps_shoppingcart": 6,
             "PrestaShop\/ps_currencyselector": 5,
             "PrestaShop\/ps_languageselector": 5,
-            "PrestaShop\/ps_facetedsearch": 91,
+            "PrestaShop\/ps_facetedsearch": 94,
             "PrestaShop\/ps_customeraccountlinks": 2,
             "PrestaShop\/ps_checkpayment": 5,
             "PrestaShop\/ps_emailalerts": 21,
@@ -3322,12 +3322,12 @@
                 }
             },
             "modules": {
-                "total": 507,
+                "total": 516,
                 "repositories": {
                     "PrestaShop\/dashactivity": 1,
                     "PrestaShop\/dashgoals": 3,
                     "PrestaShop\/dashproducts": 4,
-                    "PrestaShop\/dashtrends": 4,
+                    "PrestaShop\/dashtrends": 7,
                     "PrestaShop\/graphnvd3": 4,
                     "PrestaShop\/gridhtml": 5,
                     "PrestaShop\/pagesnotfound": 5,
@@ -3344,7 +3344,7 @@
                     "PrestaShop\/statsforecast": 4,
                     "PrestaShop\/statsnewsletter": 2,
                     "PrestaShop\/statspersonalinfos": 2,
-                    "PrestaShop\/statsproduct": 4,
+                    "PrestaShop\/statsproduct": 7,
                     "PrestaShop\/statsregistrations": 2,
                     "PrestaShop\/statssales": 4,
                     "PrestaShop\/statssearch": 1,
@@ -3370,7 +3370,7 @@
                     "PrestaShop\/ps_shoppingcart": 6,
                     "PrestaShop\/ps_currencyselector": 5,
                     "PrestaShop\/ps_languageselector": 5,
-                    "PrestaShop\/ps_facetedsearch": 91,
+                    "PrestaShop\/ps_facetedsearch": 94,
                     "PrestaShop\/ps_customeraccountlinks": 2,
                     "PrestaShop\/ps_checkpayment": 5,
                     "PrestaShop\/ps_emailalerts": 21,
@@ -16434,7 +16434,7 @@
         "html_url": "https:\/\/github.com\/eshraw",
         "name": "Eshane",
         "company": "Eur\u00e9cia",
-        "blog": "",
+        "blog": "https:\/\/bento.me\/eshane",
         "location": "France",
         "bio": "Product Manager -\r\nClimbing, sewing and crafting stuff on the side",
         "email_domain": "",
@@ -39682,5 +39682,5 @@
             }
         }
     },
-    "updatedAt": "2023-11-12 06:05:27"
+    "updatedAt": "2023-11-13 06:27:06"
 }
