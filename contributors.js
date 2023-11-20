@@ -565,7 +565,7 @@
         "location": "Paris - France",
         "bio": "PHP developer - love Symfony, CI & DevOps. Also tech manager",
         "email_domain": "",
-        "contributions": 5136,
+        "contributions": 5138,
         "repositories": {
             "PrestaShop\/PrestaShop": 2039,
             "PrestaShop\/PrestaShop-modules": 3,
@@ -655,7 +655,7 @@
             "PrestaShop\/prestashop-specs": 4,
             "PrestaShop\/circuit-breaker": 3,
             "PrestaShop\/ADR": 21,
-            "PrestaShop\/open-source": 110,
+            "PrestaShop\/open-source": 112,
             "PrestaShop\/mjml-theme-converter": 2,
             "PrestaShop\/php-dev-tools": 8,
             "PrestaShop\/QANightlyResults": 1,
@@ -705,12 +705,12 @@
                 }
             },
             "documentation": {
-                "total": 823,
+                "total": 825,
                 "repositories": {
                     "PrestaShop\/docs": 600,
                     "PrestaShop\/ADR": 21,
                     "PrestaShop\/example-modules": 92,
-                    "PrestaShop\/open-source": 110
+                    "PrestaShop\/open-source": 112
                 }
             },
             "themes": {
@@ -23129,7 +23129,7 @@
         "company": "@cerberauth, @thegalactiks",
         "blog": "https:\/\/bio.link\/emmanuelgautier\/",
         "location": "France",
-        "bio": "Exploring IAM and OIDC with @cerberauth\r\n",
+        "bio": "Exploring CIAM, OpenID Connect and API vulnerabilities with @cerberauth.",
         "email_domain": "",
         "contributions": 4,
         "repositories": {
@@ -39649,5 +39649,5 @@
             }
         }
     },
-    "updatedAt": "2023-11-19 06:05:49"
+    "updatedAt": "2023-11-20 06:06:03"
 }
