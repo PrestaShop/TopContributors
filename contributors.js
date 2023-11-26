@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6127,
+        "contributions": 6128,
         "repositories": {
             "PrestaShop\/PrestaShop": 3204,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 483,
+            "PrestaShop\/test-scenarios": 484,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -146,12 +146,12 @@
                 }
             },
             "documentation": {
-                "total": 662,
+                "total": 663,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 483,
+                    "PrestaShop\/test-scenarios": 484,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 27
                 }
@@ -12611,7 +12611,7 @@
         "id": 8518736,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8518736?v=4",
         "html_url": "https:\/\/github.com\/ShaiMagal",
-        "name": "Dominik Ulrich",
+        "name": "Dominik Shaim Ulrich",
         "company": "OPENSERVIS",
         "blog": "www.openservis.cz",
         "location": "Cel\u00e1 \u010cR",
@@ -39697,5 +39697,5 @@
             }
         }
     },
-    "updatedAt": "2023-11-25 06:05:48"
+    "updatedAt": "2023-11-26 06:07:12"
 }
