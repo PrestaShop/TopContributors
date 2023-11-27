@@ -4730,7 +4730,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 547,
+        "contributions": 548,
         "repositories": {
             "PrestaShop\/PrestaShop": 345,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
@@ -4756,7 +4756,7 @@
             "PrestaShop\/ps_imageslider": 2,
             "PrestaShop\/ps_mainmenu": 1,
             "PrestaShop\/ps_categorytree": 2,
-            "PrestaShop\/docs": 2,
+            "PrestaShop\/docs": 3,
             "PrestaShop\/docker-ci": 1,
             "PrestaShop\/ps_wirepayment": 1,
             "PrestaShop\/ps_shoppingcart": 1,
@@ -4806,9 +4806,9 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 18,
+                "total": 19,
                 "repositories": {
-                    "PrestaShop\/docs": 2,
+                    "PrestaShop\/docs": 3,
                     "PrestaShop\/test-scenarios": 1,
                     "PrestaShop\/open-source": 15
                 }
@@ -6802,7 +6802,7 @@
         "location": "Toulouse \/ France",
         "bio": "e-commerce, dev, founder of Creabilis Agency",
         "email_domain": "",
-        "contributions": 274,
+        "contributions": 275,
         "repositories": {
             "PrestaShop\/PrestaShop": 147,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
@@ -6816,7 +6816,7 @@
             "PrestaShop\/ps_featuredproducts": 1,
             "PrestaShop\/ps_customersignin": 1,
             "PrestaShop\/ps_categorytree": 2,
-            "PrestaShop\/docs": 51,
+            "PrestaShop\/docs": 52,
             "PrestaShop\/ps_shoppingcart": 3,
             "PrestaShop\/ps_facetedsearch": 1,
             "PrestaShop\/ps_customeraccountlinks": 1,
@@ -6850,9 +6850,9 @@
                 }
             },
             "documentation": {
-                "total": 52,
+                "total": 53,
                 "repositories": {
-                    "PrestaShop\/docs": 51,
+                    "PrestaShop\/docs": 52,
                     "PrestaShop\/open-source": 1
                 }
             },
@@ -39697,5 +39697,5 @@
             }
         }
     },
-    "updatedAt": "2023-11-26 06:07:12"
+    "updatedAt": "2023-11-27 06:07:37"
 }
