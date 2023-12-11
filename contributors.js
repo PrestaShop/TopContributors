@@ -4732,7 +4732,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 572,
+        "contributions": 574,
         "repositories": {
             "PrestaShop\/PrestaShop": 353,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
@@ -4782,7 +4782,7 @@
             "PrestaShop\/open-source": 15,
             "PrestaShop\/php-dev-tools": 1,
             "PrestaShop\/QANightlyResults": 1,
-            "PrestaShop\/presthubot": 16,
+            "PrestaShop\/presthubot": 17,
             "PrestaShop\/ps_qualityassurance": 2,
             "PrestaShop\/test-scenarios": 1,
             "PrestaShop\/DocToolsBundle": 1,
@@ -4792,7 +4792,7 @@
             "PrestaShop\/classic-theme": 8,
             "PrestaShop\/ps_distributionapiclient": 3,
             "PrestaShop\/native-modules": 1,
-            "PrestaShop\/keycloak_connector_demo": 14,
+            "PrestaShop\/keycloak_connector_demo": 15,
             "PrestaShop\/kanbanbot": 6,
             "PrestaShop\/zip-archives": 2,
             "PrestaShop\/ps_apiresources": 1
@@ -4865,21 +4865,21 @@
                 }
             },
             "tools": {
-                "total": 31,
+                "total": 32,
                 "repositories": {
                     "PrestaShop\/docker": 6,
                     "PrestaShop\/docker-ci": 1,
                     "PrestaShop\/issuebot": 1,
                     "PrestaShop\/nightly-board": 1,
                     "PrestaShop\/PrestaShop-webservice-lib": 1,
-                    "PrestaShop\/presthubot": 16,
+                    "PrestaShop\/presthubot": 17,
                     "PrestaShop\/prestonbot": 1,
                     "PrestaShop\/QANightlyResults": 1,
                     "PrestaShop\/TopContributors": 3
                 }
             },
             "others": {
-                "total": 33,
+                "total": 34,
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 1,
                     "PrestaShop\/TopTranslators": 1,
@@ -4888,7 +4888,7 @@
                     "PrestaShop\/ga.tests.ui.pr": 1,
                     "PrestaShop\/ps_distributionapiclient": 3,
                     "PrestaShop\/native-modules": 1,
-                    "PrestaShop\/keycloak_connector_demo": 14,
+                    "PrestaShop\/keycloak_connector_demo": 15,
                     "PrestaShop\/kanbanbot": 6,
                     "PrestaShop\/zip-archives": 2,
                     "PrestaShop\/ps_apiresources": 1
@@ -39700,5 +39700,5 @@
             }
         }
     },
-    "updatedAt": "2023-12-10 06:05:30"
+    "updatedAt": "2023-12-11 06:07:39"
 }
