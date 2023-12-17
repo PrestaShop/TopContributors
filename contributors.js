@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6143,
+        "contributions": 6144,
         "repositories": {
             "PrestaShop\/PrestaShop": 3206,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 491,
+            "PrestaShop\/test-scenarios": 492,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -146,12 +146,12 @@
                 }
             },
             "documentation": {
-                "total": 670,
+                "total": 671,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 491,
+                    "PrestaShop\/test-scenarios": 492,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 27
                 }
@@ -34191,7 +34191,7 @@
         "id": 9554100,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9554100?v=4",
         "html_url": "https:\/\/github.com\/lel-amri",
-        "name": "Processus42",
+        "name": "L\u00e9o",
         "company": null,
         "blog": "",
         "location": "France",
@@ -39754,5 +39754,5 @@
             }
         }
     },
-    "updatedAt": "2023-12-16 06:05:38"
+    "updatedAt": "2023-12-17 06:05:58"
 }
