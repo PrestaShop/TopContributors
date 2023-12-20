@@ -4,8 +4,7 @@
       <div class="col-12">
         <h2 class="text-center">Top contributors:</h2>
         <div class="text-center date">
-          Last update:
-          <strong>{{ today }}</strong>
+          Last update: {{ today }}
         </div>
       </div>
       <div class="col-5 left-column">

@@ -1,10 +1,12 @@
 <template>
-  <div>
-    <section-header
-      category="beginners"
-      title="Beginners (1 to 5 contrib.)"
-      :stars="1"
-    ></section-header>
+  <div class="contributors-section">
+    <div class="col-12">
+      <h2 class="text-center">Beginners</h2>
+      <div class="text-center date">
+        (1 to 5 contrib.)
+      </div>
+    </div>
+
     <ul id="newbie-contributors-list" class="col-md-12">
       <avatar-item
         v-for="contributor in contributors"
@@ -17,13 +19,11 @@
 </template>
 
 <script>
-  import TitleOfSection from './ui/TitleOfSection.vue'
   import AvatarItem from './ui/AvatarItem.vue'
 
   export default {
     name: 'Beginners',
     components: {
-      'section-header': TitleOfSection,
       'avatar-item': AvatarItem
     },
     props: {

@@ -5,7 +5,7 @@ $grid-columns: 10;
 
 $brand-primary: #df0067;
 $brand-info: #23b9d6;
-$primary: #011738;
+$primary: #ffffff;
 
 $container-max-widths: (
   sm: rem(780px),
@@ -21,15 +21,18 @@ body {
   color: #000;
 }
 
+@font-face {
+  font-family: "Prestafont";
+  src: url("resources/Prestafont-Regular.woff2") format("woff"),
+}
+
 @import 'titles';
 @import 'header';
 @import 'footer';
 @import 'components';
 
 .main-content {
-  border-radius: 5px;
   background-color: #ffffff;
-  box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.53);
 }
 
 @import 'section_1';

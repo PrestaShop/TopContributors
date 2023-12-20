@@ -1,5 +1,9 @@
 header {
-  height: 32.5rem;
+
+  h1 {
+    font-family: 'Prestafont';
+    font-size: 95px;
+  }
 
   .gradient {
     width: 100%;
@@ -7,22 +11,22 @@ header {
     background: $primary;
   }
 
-  .white-text {
+  .black-text {
+    font-family: 'IBM Plex Sans', sans-serif;
+
     font-size: 18px;
+    max-width: 800px;
     margin: {
       top: 18px;
       bottom: 18px;
     }
   }
 
-  .btn {
-    margin-top: 12px;
+  #header-section {
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+    padding-right: 100px;
+    background-color: #decde7;
   }
-}
-
-.main-content:first-child {
-  margin-top: -85px;
-}
-.gray-text {
-  color: #797979;
 }
