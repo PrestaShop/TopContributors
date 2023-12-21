@@ -19,7 +19,7 @@ export default {
       {
         rel: 'icon',
         type: 'image/x-icon',
-        href: 'https://www.prestashop.com/images/favicon.ico?v=2'
+        href: 'https://www.prestashop.com/favicon.ico?v=2'
       },
       {
         rel: 'stylesheet',
