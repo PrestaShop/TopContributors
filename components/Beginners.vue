@@ -2,9 +2,7 @@
   <div class="contributors-section">
     <div class="col-12">
       <h2 class="text-center">Beginners</h2>
-      <div class="text-center date">
-        (1 to 5 contrib.)
-      </div>
+      <div class="text-center date">(1 to 5 contrib.)</div>
     </div>
 
     <ul id="newbie-contributors-list" class="col-md-12">

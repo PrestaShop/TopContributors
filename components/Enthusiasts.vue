@@ -1,10 +1,8 @@
 <template>
-    <div class="contributors-section">
+  <div class="contributors-section">
     <div class="col-12">
       <h2 class="text-center">Enthusiasts</h2>
-      <div class="text-center date">
-        (6 to 25 contrib.)
-      </div>
+      <div class="text-center date">(6 to 25 contrib.)</div>
     </div>
     <div class="row col-10 offset-1 pb-4">
       <avatar
