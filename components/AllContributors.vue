@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="all-contributors-outer">
     <div id="all-contributors" class="col-md-12">
       <Experts :contributors="experts"></Experts>
       <Enthusiasts :contributors="enthusiasts"></Enthusiasts>

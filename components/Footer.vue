@@ -2,70 +2,100 @@
   <footer>
     <div class="container">
       <div class="row">
-        <div class="col-4">
-          <div class="white-title">JOIN US ON GITHUB</div>
-          <div class="white-text">
+        <div class="col-sm-4 col-12">
+          <div class="black-title">JOIN US ON GITHUB</div>
+          <div class="black-text">
             To join the community and help the project, go to GitHub's
             PrestaShop page and register.
           </div>
-          <a
-            href="https://github.com/PrestaShop/PrestaShop"
-            class="btn btn-outline-info"
-          >
+          <a href="https://github.com/PrestaShop/PrestaShop" class="btn">
             Contribute now
           </a>
         </div>
-        <div class="col-4">
-          <div class="white-title">CONTRIBUTOR'S GUIDE</div>
-          <div class="white-text">
+        <div class="col-sm-4 col-12">
+          <div class="black-title">CONTRIBUTOR'S GUIDE</div>
+          <div class="black-text">
             Follow our guide to discover the best practices and procedure to
             follow when you contribute to PrestaShop.
           </div>
           <a
             href="https://devdocs.prestashop-project.org/8/contribute/"
-            class="btn btn-outline-info large-padding"
+            class="btn large-padding"
           >
             Read the docs
           </a>
         </div>
-        <div class="col-4">
-          <div class="white-title">DISCOVER PRESTASHOP 8</div>
-          <div class="white-text">
+        <div class="col-sm-4 col-12">
+          <div class="black-title">DISCOVER PRESTASHOP 8</div>
+          <div class="black-text">
             Check the latest additions and the more significant improvements of
             the 8 version, the current major version of PrestaShop.
           </div>
           <a
             href="https://www.prestashop-project.org/releases/"
-            class="btn btn-outline-info large-padding"
+            class="btn large-padding"
           >
             Discover
           </a>
         </div>
       </div>
-
+    </div>
+    <div class="container">
       <div class="row">
-        <div id="badge" class="col-md-12 text-md-center">
-          <img src="../static/img/badge.png" />
+        <div class="col-12">
           <hr />
         </div>
-      </div>
-
-      <div class="row">
-        <div class="col-md-6">
-          <a class="build-link" href="https://build.prestashop-project.org">
-            Follow the blog of our Product &amp; Dev team
+        <div class="col-12 mt-2">
+          <a class="d-block h3 mb-3" href="https://www.prestashop-project.org/">
+            <img
+              width="200px"
+              class="img-fluid"
+              src="../static/img/prestashop-logo.png"
+              alt="PrestaShop Project - Open Source e-Commerce platform"
+            />
           </a>
         </div>
-
-        <div class="col-md-6 text-md-right share">
-          <span>Follow us</span>
-          <a href="https://www.facebook.com/prestashop">
-            <img src="../static/img/facebook.png" />
-          </a>
-
-          <a href="https://twitter.com/prestashop">
-            <img src="../static/img/twitter.png" />
-          </a>
+        <div class="col-12 mt-2">
+          <ul class="list-unstyled footer-list">
+            <li class="d-inline-block">
+              <a href="https://build.prestashop-project.org" title="Blog">
+                Blog
+              </a>
+            </li>
+            <li class="d-inline-block">
+              <a
+                href="https://github.com/PrestaShop/PrestaShop/"
+                title="GitHub"
+              >
+                GitHub
+              </a>
+            </li>
+            <li class="d-inline-block">
+              <a href="https://www.prestashop-project.org/slack/" title="Slack">
+                Slack
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-12">
+          <ul class="list-unstyled footer-list">
+            <li class="d-inline-block">
+              <a
+                href="https://docs.prestashop-project.org/v.8-documentation/v/english/"
+                title="User documentation"
+              >
+                User documentation
+              </a>
+            </li>
+            <li class="d-inline-block">
+              <a
+                href="https://devdocs.prestashop-project.org"
+                title="Developer documentation"
+              >
+                Developer documentation
+              </a>
+            </li>
+          </ul>
         </div>
       </div>
     </div>

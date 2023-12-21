@@ -3,10 +3,7 @@
     <div v-if="!loading" class="row contributors-container">
       <div class="col-12">
         <h2 class="text-center">Top contributors:</h2>
-        <div class="text-center date">
-          Last update:
-          <strong>{{ today }}</strong>
-        </div>
+        <div class="text-center date">Last update: {{ today }}</div>
       </div>
       <div class="col-5 left-column">
         <top-avatar
