@@ -443,7 +443,7 @@
         "location": "Paris - France",
         "bio": "PHP developer - love Symfony, CI & DevOps. Also tech manager",
         "email_domain": "",
-        "contributions": 5174,
+        "contributions": 5180,
         "repositories": {
             "PrestaShop\/PrestaShop": 2042,
             "PrestaShop\/PrestaShop-modules": 3,
@@ -509,7 +509,7 @@
             "PrestaShop\/TranslationToolsBundle": 14,
             "PrestaShop\/prestonbot": 13,
             "PrestaShop\/ps_emailalerts": 11,
-            "PrestaShop\/TopTranslators": 32,
+            "PrestaShop\/TopTranslators": 34,
             "PrestaShop\/ps_bestsellers": 1,
             "PrestaShop\/ps_brandlist": 3,
             "PrestaShop\/ps_categoryproducts": 1,
@@ -550,7 +550,7 @@
             "PrestaShop\/hummingbird": 7,
             "PrestaShop\/ps-docs-theme": 11,
             "PrestaShop\/contextual-help-api": 13,
-            "PrestaShop\/devdocs-site": 13,
+            "PrestaShop\/devdocs-site": 17,
             "PrestaShop\/distribution-api": 10,
             "PrestaShop\/ps-project-metrics": 111,
             "PrestaShop\/classic-theme": 121,
@@ -694,18 +694,18 @@
                 }
             },
             "others": {
-                "total": 945,
+                "total": 951,
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 648,
                     "PrestaShop\/.github": 5,
                     "PrestaShop\/ps-org-theme": 1,
-                    "PrestaShop\/TopTranslators": 32,
+                    "PrestaShop\/TopTranslators": 34,
                     "PrestaShop\/psssst": 1,
                     "PrestaShop\/phpstan-prestashop": 58,
                     "PrestaShop\/DocToolsBundle": 3,
                     "PrestaShop\/ps-docs-theme": 11,
                     "PrestaShop\/contextual-help-api": 13,
-                    "PrestaShop\/devdocs-site": 13,
+                    "PrestaShop\/devdocs-site": 17,
                     "PrestaShop\/distribution-api": 10,
                     "PrestaShop\/ps-project-metrics": 111,
                     "PrestaShop\/ps_distributionapiclient": 6,
@@ -8012,13 +8012,14 @@
         "location": "France",
         "bio": "Developper from father to son with +12 years experience, and commiter for @PrestaShop!",
         "email_domain": "",
-        "contributions": 150,
+        "contributions": 151,
         "repositories": {
             "PrestaShop\/PrestaShop": 107,
             "PrestaShop\/dashtrends": 2,
             "PrestaShop\/autoupgrade": 4,
             "PrestaShop\/docs": 1,
             "PrestaShop\/ps_emailalerts": 1,
+            "PrestaShop\/TopTranslators": 1,
             "PrestaShop\/issuebot": 4,
             "PrestaShop\/circuit-breaker": 7,
             "PrestaShop\/nightly-board": 1,
@@ -8068,9 +8069,10 @@
                 }
             },
             "others": {
-                "total": 22,
+                "total": 23,
                 "repositories": {
                     "PrestaShop\/ps-org-theme": 2,
+                    "PrestaShop\/TopTranslators": 1,
                     "PrestaShop\/ps-docs-theme": 1,
                     "PrestaShop\/devdocs-site": 1,
                     "PrestaShop\/ps_distributionapiclient": 1,
@@ -39823,5 +39825,5 @@
             }
         }
     },
-    "updatedAt": "2023-12-21 17:32:18"
+    "updatedAt": "2023-12-22 06:05:55"
 }
