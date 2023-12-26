@@ -37,6 +37,7 @@
   }
   .words {
     font-family: 'IBM Plex Sans', Arial, sans-serif;
+    font-weight: bold;
     margin-top: -8px;
     font-size: 12px;
   }
@@ -140,6 +141,9 @@ $background-expert: #ffffff;
     .name {
       font-size: 15px;
       flex-grow: 1;
+    }
+    .info {
+      font-weight: bold;
     }
     .position {
       font-size: 22px;
