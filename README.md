@@ -53,3 +53,13 @@ Then, if you want to locally **run** this image:
 ```
 docker run -p 80:80 top-contributors
 ```
+
+## Deployment
+
+The development branch is `develop`. Code changes should be merged inside `develop` using Pull Requests.
+
+When you want to deploy latest changes to production environment contributors.prestashop-project.org ;
+
+
+- open then merge a Pull Request merging branch `develop` inside `main` ([example](https://github.com/PrestaShop/TopContributors/pull/105))
+- then publish a GitHub release to trigger the deployment of the production environment
