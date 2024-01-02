@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6155,
+        "contributions": 6158,
         "repositories": {
             "PrestaShop\/PrestaShop": 3211,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -104,11 +104,11 @@
             "PrestaShop\/php-dev-tools": 4,
             "PrestaShop\/QANightlyResults": 10,
             "PrestaShop\/LocalizationFiles": 9,
-            "PrestaShop\/presthubot": 293,
+            "PrestaShop\/presthubot": 295,
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 496,
+            "PrestaShop\/test-scenarios": 497,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -146,12 +146,12 @@
                 }
             },
             "documentation": {
-                "total": 676,
+                "total": 677,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 496,
+                    "PrestaShop\/test-scenarios": 497,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 28
                 }
@@ -237,7 +237,7 @@
                 }
             },
             "tools": {
-                "total": 436,
+                "total": 438,
                 "repositories": {
                     "PrestaShop\/docker": 21,
                     "PrestaShop\/docker-ci": 4,
@@ -246,7 +246,7 @@
                     "PrestaShop\/mjml-theme-converter": 1,
                     "PrestaShop\/nightly-board": 32,
                     "PrestaShop\/PrestaShop-webservice-lib": 4,
-                    "PrestaShop\/presthubot": 293,
+                    "PrestaShop\/presthubot": 295,
                     "PrestaShop\/prestonbot": 10,
                     "PrestaShop\/QANightlyResults": 10,
                     "PrestaShop\/TopContributors": 33,
@@ -25961,7 +25961,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/57815173?v=4",
         "html_url": "https:\/\/github.com\/borjagarciab",
         "name": "Boki",
-        "company": "@SDIsl",
+        "company": null,
         "blog": "boki.es",
         "location": "Logro\u00f1o , Spain",
         "bio": "Web developer working on custom modules for prestashop :)",
@@ -39901,5 +39901,5 @@
             }
         }
     },
-    "updatedAt": "2024-01-01 06:05:57"
+    "updatedAt": "2024-01-02 06:07:24"
 }
