@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6166,
+        "contributions": 6167,
         "repositories": {
             "PrestaShop\/PrestaShop": 3211,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 499,
+            "PrestaShop\/test-scenarios": 500,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -146,12 +146,12 @@
                 }
             },
             "documentation": {
-                "total": 679,
+                "total": 680,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 499,
+                    "PrestaShop\/test-scenarios": 500,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 28
                 }
@@ -10389,12 +10389,12 @@
         "id": 7273999,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7273999?v=4",
         "html_url": "https:\/\/github.com\/mehrshadz",
-        "name": "Mehrshad",
+        "name": "Mehrshad Zakerian",
         "company": "@iPresta ",
-        "blog": "",
-        "location": null,
+        "blog": "https:\/\/ipresta.shop",
+        "location": "Dubai, UAE",
         "bio": "Founder\/CEO | iPresta\r\n#FlyingWithTigers",
-        "email_domain": "",
+        "email_domain": "gmail.com",
         "contributions": 63,
         "repositories": {
             "PrestaShop\/PrestaShop": 11,
@@ -40060,5 +40060,5 @@
             }
         }
     },
-    "updatedAt": "2024-01-06 06:05:55"
+    "updatedAt": "2024-01-07 06:06:05"
 }
