@@ -23350,7 +23350,7 @@
         "company": "Rolige",
         "blog": "www.rolige.com",
         "location": "M\u00e9xico",
-        "bio": null,
+        "bio": "Certified PrestaShop professional with more than a decade of experience on the platform. CTO at @Rolige agency.",
         "email_domain": "",
         "contributions": 4,
         "repositories": {
@@ -40060,5 +40060,5 @@
             }
         }
     },
-    "updatedAt": "2024-01-07 06:06:05"
+    "updatedAt": "2024-01-08 06:07:31"
 }
