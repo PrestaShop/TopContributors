@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6215,
+        "contributions": 6216,
         "repositories": {
             "PrestaShop\/PrestaShop": 3216,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 503,
+            "PrestaShop\/test-scenarios": 504,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -146,12 +146,12 @@
                 }
             },
             "documentation": {
-                "total": 683,
+                "total": 684,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 503,
+                    "PrestaShop\/test-scenarios": 504,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 28
                 }
@@ -20165,10 +20165,10 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/543458?v=4",
         "html_url": "https:\/\/github.com\/metacreo",
         "name": "metacreo",
-        "company": null,
-        "blog": "",
+        "company": "NewestVision",
+        "blog": "https:\/\/newestvision.com",
         "location": "Lithuania, Vilnius",
-        "bio": null,
+        "bio": "developer, programmer, system and network admin, FreeBSD forever",
         "email_domain": "newestvision.com",
         "contributions": 7,
         "repositories": {
@@ -40203,5 +40203,5 @@
             }
         }
     },
-    "updatedAt": "2024-01-13 06:05:40"
+    "updatedAt": "2024-01-14 06:06:58"
 }
