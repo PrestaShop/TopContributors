@@ -38578,7 +38578,7 @@
         "html_url": "https:\/\/github.com\/pierreloicq",
         "name": "Pierre",
         "company": "Murmuration",
-        "blog": "murmuration-sas.com",
+        "blog": "",
         "location": "Toulouse",
         "bio": null,
         "email_domain": "",
@@ -40203,5 +40203,5 @@
             }
         }
     },
-    "updatedAt": "2024-01-14 06:06:58"
+    "updatedAt": "2024-01-15 06:06:11"
 }
