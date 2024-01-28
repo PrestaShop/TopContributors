@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6306,
+        "contributions": 6307,
         "repositories": {
             "PrestaShop\/PrestaShop": 3227,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 515,
+            "PrestaShop\/test-scenarios": 516,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 695,
+                "total": 696,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 515,
+                    "PrestaShop\/test-scenarios": 516,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 28
                 }
@@ -40303,5 +40303,5 @@
             }
         }
     },
-    "updatedAt": "2024-01-27 06:06:15"
+    "updatedAt": "2024-01-28 06:06:49"
 }
