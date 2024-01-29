@@ -31669,7 +31669,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/218972?v=4",
         "html_url": "https:\/\/github.com\/bigbrozer",
         "name": "Vincent Besan\u00e7on",
-        "company": "Faurecia (member of group Forvia)",
+        "company": "Forvia",
         "blog": "",
         "location": "France",
         "bio": "(no)Bio-man !",
@@ -40303,5 +40303,5 @@
             }
         }
     },
-    "updatedAt": "2024-01-28 06:06:49"
+    "updatedAt": "2024-01-29 06:05:28"
 }
