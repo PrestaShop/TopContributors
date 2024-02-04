@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6334,
+        "contributions": 6335,
         "repositories": {
             "PrestaShop\/PrestaShop": 3231,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 518,
+            "PrestaShop\/test-scenarios": 519,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 698,
+                "total": 699,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 518,
+                    "PrestaShop\/test-scenarios": 519,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 28
                 }
@@ -19141,10 +19141,10 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7042907?v=4",
         "html_url": "https:\/\/github.com\/cvng",
         "name": "Cedric Vangout",
-        "company": "@cvng",
+        "company": "Freelance",
         "blog": "https:\/\/cvng.dev",
-        "location": "Paris, FR",
-        "bio": "Software Engineer and open-source enthusiast.",
+        "location": "Paris, France",
+        "bio": "software engineer - building modern postgres tooling",
         "email_domain": "cvng.dev",
         "contributions": 8,
         "repositories": {
@@ -33842,7 +33842,7 @@
         "html_url": "https:\/\/github.com\/RomainMazB",
         "name": "Romain 'Maz' BILLOIR",
         "company": null,
-        "blog": "https:\/\/maz.digital",
+        "blog": "https:\/\/maz-lab.dev",
         "location": "Cornus, France",
         "bio": null,
         "email_domain": "gmail.com",
@@ -40315,5 +40315,5 @@
             }
         }
     },
-    "updatedAt": "2024-02-03 06:05:31"
+    "updatedAt": "2024-02-04 06:07:06"
 }
