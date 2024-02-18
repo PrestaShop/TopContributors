@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6408,
+        "contributions": 6409,
         "repositories": {
             "PrestaShop\/PrestaShop": 3263,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 527,
+            "PrestaShop\/test-scenarios": 528,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 707,
+                "total": 708,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 527,
+                    "PrestaShop\/test-scenarios": 528,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 28
                 }
@@ -1628,7 +1628,7 @@
         "name": "Julien Bourdeau",
         "company": "@algolia ",
         "blog": "https:\/\/julienbourdeau.com",
-        "location": "Paris\/Nantes, France",
+        "location": "Nantes, France",
         "bio": "Software Engineer\r\n\ud83c\udfc4\u200d\u2642\ufe0f Rails by day\r\n\ud83c\udfc4 Laravel by night\r\n",
         "email_domain": "julienbourdeau.com",
         "contributions": 2355,
@@ -40383,5 +40383,5 @@
             }
         }
     },
-    "updatedAt": "2024-02-17 06:05:29"
+    "updatedAt": "2024-02-18 06:06:52"
 }
