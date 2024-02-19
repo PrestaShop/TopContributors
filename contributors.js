@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6409,
+        "contributions": 6413,
         "repositories": {
-            "PrestaShop\/PrestaShop": 3263,
+            "PrestaShop\/PrestaShop": 3267,
             "PrestaShop\/PrestaShop-modules": 31,
             "PrestaShop\/PrestaShop-webservice-lib": 4,
             "PrestaShop\/dashactivity": 14,
@@ -126,9 +126,9 @@
         },
         "categories": {
             "core": {
-                "total": 3366,
+                "total": 3370,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 3263,
+                    "PrestaShop\/PrestaShop": 3267,
                     "PrestaShop\/prestashop-ui-kit": 50,
                     "PrestaShop\/TranslationToolsBundle": 9,
                     "PrestaShop\/LocalizationFiles": 9,
@@ -40383,5 +40383,5 @@
             }
         }
     },
-    "updatedAt": "2024-02-18 06:06:52"
+    "updatedAt": "2024-02-19 06:05:39"
 }
