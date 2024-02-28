@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6486,
+        "contributions": 6489,
         "repositories": {
-            "PrestaShop\/PrestaShop": 3282,
+            "PrestaShop\/PrestaShop": 3284,
             "PrestaShop\/PrestaShop-modules": 31,
             "PrestaShop\/PrestaShop-webservice-lib": 4,
             "PrestaShop\/dashactivity": 14,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 533,
+            "PrestaShop\/test-scenarios": 534,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -126,9 +126,9 @@
         },
         "categories": {
             "core": {
-                "total": 3385,
+                "total": 3387,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 3282,
+                    "PrestaShop\/PrestaShop": 3284,
                     "PrestaShop\/prestashop-ui-kit": 50,
                     "PrestaShop\/TranslationToolsBundle": 9,
                     "PrestaShop\/LocalizationFiles": 9,
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 713,
+                "total": 714,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 533,
+                    "PrestaShop\/test-scenarios": 534,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 28
                 }
@@ -284,7 +284,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 5475,
+        "contributions": 5478,
         "repositories": {
             "PrestaShop\/PrestaShop": 4649,
             "PrestaShop\/dashgoals": 1,
@@ -296,7 +296,7 @@
             "PrestaShop\/statspersonalinfos": 1,
             "PrestaShop\/blockwishlist": 8,
             "PrestaShop\/productcomments": 81,
-            "PrestaShop\/autoupgrade": 37,
+            "PrestaShop\/autoupgrade": 38,
             "PrestaShop\/prestashop.github.io": 12,
             "PrestaShop\/docker": 38,
             "PrestaShop\/prestashop-ui-kit": 7,
@@ -341,7 +341,9 @@
             "PrestaShop\/keycloak_connector_demo": 3,
             "PrestaShop\/PsFixturesCreator": 8,
             "PrestaShop\/bootstrap-compatibility-layer": 1,
-            "PrestaShop\/ps_apiresources": 23
+            "PrestaShop\/ps_apiresources": 23,
+            "PrestaShop\/CoreUpgradeBundle": 1,
+            "PrestaShop\/CLIUpgrade": 1
         },
         "categories": {
             "core": {
@@ -375,7 +377,7 @@
                 }
             },
             "modules": {
-                "total": 288,
+                "total": 289,
                 "repositories": {
                     "PrestaShop\/dashgoals": 1,
                     "PrestaShop\/dashproducts": 3,
@@ -386,7 +388,7 @@
                     "PrestaShop\/statspersonalinfos": 1,
                     "PrestaShop\/blockwishlist": 8,
                     "PrestaShop\/productcomments": 81,
-                    "PrestaShop\/autoupgrade": 37,
+                    "PrestaShop\/autoupgrade": 38,
                     "PrestaShop\/blockreassurance": 1,
                     "PrestaShop\/ps_sharebuttons": 1,
                     "PrestaShop\/ps_linklist": 93,
@@ -419,7 +421,7 @@
                 }
             },
             "others": {
-                "total": 141,
+                "total": 143,
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 12,
                     "PrestaShop\/.github": 2,
@@ -431,7 +433,9 @@
                     "PrestaShop\/keycloak_connector_demo": 3,
                     "PrestaShop\/PsFixturesCreator": 8,
                     "PrestaShop\/bootstrap-compatibility-layer": 1,
-                    "PrestaShop\/ps_apiresources": 23
+                    "PrestaShop\/ps_apiresources": 23,
+                    "PrestaShop\/CoreUpgradeBundle": 1,
+                    "PrestaShop\/CLIUpgrade": 1
                 }
             }
         }
@@ -1631,7 +1635,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2356,
+        "contributions": 2357,
         "repositories": {
             "PrestaShop\/PrestaShop": 601,
             "PrestaShop\/PrestaShop-modules": 4,
@@ -1663,7 +1667,7 @@
             "PrestaShop\/statsstock": 3,
             "PrestaShop\/blockwishlist": 24,
             "PrestaShop\/productcomments": 21,
-            "PrestaShop\/autoupgrade": 40,
+            "PrestaShop\/autoupgrade": 41,
             "PrestaShop\/gsitemap": 3,
             "PrestaShop\/prestashop.github.io": 526,
             "PrestaShop\/contactform": 8,
@@ -1770,7 +1774,7 @@
                 }
             },
             "modules": {
-                "total": 541,
+                "total": 542,
                 "repositories": {
                     "PrestaShop\/PrestaShop-modules": 4,
                     "PrestaShop\/dashactivity": 1,
@@ -1800,7 +1804,7 @@
                     "PrestaShop\/statsstock": 3,
                     "PrestaShop\/blockwishlist": 24,
                     "PrestaShop\/productcomments": 21,
-                    "PrestaShop\/autoupgrade": 40,
+                    "PrestaShop\/autoupgrade": 41,
                     "PrestaShop\/gsitemap": 3,
                     "PrestaShop\/contactform": 8,
                     "PrestaShop\/blockreassurance": 64,
@@ -8434,9 +8438,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 141,
+        "contributions": 142,
         "repositories": {
-            "PrestaShop\/native-modules": 141
+            "PrestaShop\/native-modules": 142
         },
         "categories": {
             "core": {
@@ -8464,9 +8468,9 @@
                 "repositories": []
             },
             "others": {
-                "total": 141,
+                "total": 142,
                 "repositories": {
-                    "PrestaShop\/native-modules": 141
+                    "PrestaShop\/native-modules": 142
                 }
             }
         }
@@ -40479,5 +40483,5 @@
             }
         }
     },
-    "updatedAt": "2024-02-27 06:05:32"
+    "updatedAt": "2024-02-28 06:05:47"
 }
