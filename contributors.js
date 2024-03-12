@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6538,
+        "contributions": 6542,
         "repositories": {
             "PrestaShop\/PrestaShop": 3309,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -102,7 +102,7 @@
             "PrestaShop\/open-source": 28,
             "PrestaShop\/mjml-theme-converter": 1,
             "PrestaShop\/php-dev-tools": 4,
-            "PrestaShop\/QANightlyResults": 119,
+            "PrestaShop\/QANightlyResults": 123,
             "PrestaShop\/LocalizationFiles": 9,
             "PrestaShop\/presthubot": 319,
             "PrestaShop\/stylelint-config": 7,
@@ -238,7 +238,7 @@
                 }
             },
             "tools": {
-                "total": 589,
+                "total": 593,
                 "repositories": {
                     "PrestaShop\/docker": 36,
                     "PrestaShop\/docker-ci": 4,
@@ -249,7 +249,7 @@
                     "PrestaShop\/PrestaShop-webservice-lib": 4,
                     "PrestaShop\/presthubot": 319,
                     "PrestaShop\/prestonbot": 10,
-                    "PrestaShop\/QANightlyResults": 119,
+                    "PrestaShop\/QANightlyResults": 123,
                     "PrestaShop\/TopContributors": 33,
                     "PrestaShop\/traces": 18
                 }
@@ -2028,9 +2028,9 @@
         "location": "Lille, France",
         "bio": null,
         "email_domain": "protonmail.com",
-        "contributions": 2183,
+        "contributions": 2184,
         "repositories": {
-            "PrestaShop\/PrestaShop": 1629,
+            "PrestaShop\/PrestaShop": 1630,
             "PrestaShop\/PrestaShop-modules": 3,
             "PrestaShop\/dashactivity": 1,
             "PrestaShop\/dashgoals": 1,
@@ -2099,9 +2099,9 @@
         },
         "categories": {
             "core": {
-                "total": 1650,
+                "total": 1651,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 1629,
+                    "PrestaShop\/PrestaShop": 1630,
                     "PrestaShop\/prestashop-ui-kit": 4,
                     "PrestaShop\/TranslationToolsBundle": 3,
                     "PrestaShop\/stylelint-config": 1,
@@ -7959,6 +7959,56 @@
         }
     },
     "79": {
+        "login": "jokesterfr",
+        "id": 1536672,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1536672?v=4",
+        "html_url": "https:\/\/github.com\/jokesterfr",
+        "name": "Cl\u00e9ment D\u00e9siles",
+        "company": "PrestaShop",
+        "blog": "https:\/\/clementdesiles.fr",
+        "location": "Strasbourg",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 173,
+        "repositories": {
+            "PrestaShop\/prestashop-flashlight": 165,
+            "PrestaShop\/ws-client": 8
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 173,
+                "repositories": {
+                    "PrestaShop\/prestashop-flashlight": 165,
+                    "PrestaShop\/ws-client": 8
+                }
+            }
+        }
+    },
+    "80": {
         "login": "fouratachour",
         "id": 12897853,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12897853?v=4",
@@ -8003,56 +8053,6 @@
             "others": {
                 "total": 0,
                 "repositories": []
-            }
-        }
-    },
-    "80": {
-        "login": "jokesterfr",
-        "id": 1536672,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1536672?v=4",
-        "html_url": "https:\/\/github.com\/jokesterfr",
-        "name": "Cl\u00e9ment D\u00e9siles",
-        "company": "PrestaShop",
-        "blog": "https:\/\/clementdesiles.fr",
-        "location": "Strasbourg",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 172,
-        "repositories": {
-            "PrestaShop\/prestashop-flashlight": 164,
-            "PrestaShop\/ws-client": 8
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 172,
-                "repositories": {
-                    "PrestaShop\/prestashop-flashlight": 164,
-                    "PrestaShop\/ws-client": 8
-                }
             }
         }
     },
@@ -10507,6 +10507,79 @@
         }
     },
     "120": {
+        "login": "SharakPL",
+        "id": 5007456,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5007456?v=4",
+        "html_url": "https:\/\/github.com\/SharakPL",
+        "name": "Tom Zajac",
+        "company": null,
+        "blog": "",
+        "location": "Poland",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 65,
+        "repositories": {
+            "PrestaShop\/PrestaShop": 12,
+            "PrestaShop\/blockwishlist": 6,
+            "PrestaShop\/productcomments": 2,
+            "PrestaShop\/blockreassurance": 1,
+            "PrestaShop\/ps_linklist": 4,
+            "PrestaShop\/ps_featuredproducts": 3,
+            "PrestaShop\/ps_imageslider": 3,
+            "PrestaShop\/docs": 1,
+            "PrestaShop\/ps_shoppingcart": 1,
+            "PrestaShop\/ps_searchbar": 1,
+            "PrestaShop\/hummingbird": 24,
+            "PrestaShop\/classic-theme": 7
+        },
+        "categories": {
+            "core": {
+                "total": 12,
+                "repositories": {
+                    "PrestaShop\/PrestaShop": 12
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 1,
+                "repositories": {
+                    "PrestaShop\/docs": 1
+                }
+            },
+            "themes": {
+                "total": 31,
+                "repositories": {
+                    "PrestaShop\/classic-theme": 7,
+                    "PrestaShop\/hummingbird": 24
+                }
+            },
+            "modules": {
+                "total": 21,
+                "repositories": {
+                    "PrestaShop\/blockwishlist": 6,
+                    "PrestaShop\/productcomments": 2,
+                    "PrestaShop\/blockreassurance": 1,
+                    "PrestaShop\/ps_linklist": 4,
+                    "PrestaShop\/ps_featuredproducts": 3,
+                    "PrestaShop\/ps_imageslider": 3,
+                    "PrestaShop\/ps_shoppingcart": 1,
+                    "PrestaShop\/ps_searchbar": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "121": {
         "login": "cfarhani06",
         "id": 112934541,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/112934541?v=4",
@@ -10543,77 +10616,6 @@
             "modules": {
                 "total": 0,
                 "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "121": {
-        "login": "SharakPL",
-        "id": 5007456,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5007456?v=4",
-        "html_url": "https:\/\/github.com\/SharakPL",
-        "name": "Tom Zajac",
-        "company": null,
-        "blog": "",
-        "location": "Poland",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 63,
-        "repositories": {
-            "PrestaShop\/PrestaShop": 12,
-            "PrestaShop\/blockwishlist": 6,
-            "PrestaShop\/blockreassurance": 1,
-            "PrestaShop\/ps_linklist": 4,
-            "PrestaShop\/ps_featuredproducts": 3,
-            "PrestaShop\/ps_imageslider": 3,
-            "PrestaShop\/docs": 1,
-            "PrestaShop\/ps_shoppingcart": 1,
-            "PrestaShop\/ps_searchbar": 1,
-            "PrestaShop\/hummingbird": 24,
-            "PrestaShop\/classic-theme": 7
-        },
-        "categories": {
-            "core": {
-                "total": 12,
-                "repositories": {
-                    "PrestaShop\/PrestaShop": 12
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 1,
-                "repositories": {
-                    "PrestaShop\/docs": 1
-                }
-            },
-            "themes": {
-                "total": 31,
-                "repositories": {
-                    "PrestaShop\/classic-theme": 7,
-                    "PrestaShop\/hummingbird": 24
-                }
-            },
-            "modules": {
-                "total": 19,
-                "repositories": {
-                    "PrestaShop\/blockwishlist": 6,
-                    "PrestaShop\/blockreassurance": 1,
-                    "PrestaShop\/ps_linklist": 4,
-                    "PrestaShop\/ps_featuredproducts": 3,
-                    "PrestaShop\/ps_imageslider": 3,
-                    "PrestaShop\/ps_shoppingcart": 1,
-                    "PrestaShop\/ps_searchbar": 1
-                }
             },
             "tools": {
                 "total": 0,
@@ -31481,16 +31483,16 @@
         }
     },
     "537": {
-        "login": "clarkdave",
-        "id": 729557,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/729557?v=4",
-        "html_url": "https:\/\/github.com\/clarkdave",
-        "name": "Dave Clark",
-        "company": "@loyaltylion ",
-        "blog": "http:\/\/clarkdave.net",
-        "location": "London, UK",
-        "bio": "co-founder of @loyaltylion ",
-        "email_domain": "",
+        "login": "sylwit",
+        "id": 395413,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/395413?v=4",
+        "html_url": "https:\/\/github.com\/sylwit",
+        "name": "Sylvain Witmeyer",
+        "company": "National Bank of Canada",
+        "blog": "https:\/\/medium.com\/@sylwit",
+        "location": "Montr\u00e9al",
+        "bio": null,
+        "email_domain": "sylwit.com",
         "contributions": 1,
         "repositories": {
             "PrestaShop\/productcomments": 1
@@ -31529,16 +31531,16 @@
         }
     },
     "538": {
-        "login": "sylwit",
-        "id": 395413,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/395413?v=4",
-        "html_url": "https:\/\/github.com\/sylwit",
-        "name": "Sylvain Witmeyer",
-        "company": "National Bank of Canada",
-        "blog": "https:\/\/medium.com\/@sylwit",
-        "location": "Montr\u00e9al",
-        "bio": null,
-        "email_domain": "sylwit.com",
+        "login": "clarkdave",
+        "id": 729557,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/729557?v=4",
+        "html_url": "https:\/\/github.com\/clarkdave",
+        "name": "Dave Clark",
+        "company": "@loyaltylion ",
+        "blog": "http:\/\/clarkdave.net",
+        "location": "London, UK",
+        "bio": "co-founder of @loyaltylion ",
+        "email_domain": "",
         "contributions": 1,
         "repositories": {
             "PrestaShop\/productcomments": 1
@@ -40696,5 +40698,5 @@
             }
         }
     },
-    "updatedAt": "2024-03-11 06:07:13"
+    "updatedAt": "2024-03-12 06:05:52"
 }
