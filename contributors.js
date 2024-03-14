@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6548,
+        "contributions": 6553,
         "repositories": {
-            "PrestaShop\/PrestaShop": 3314,
+            "PrestaShop\/PrestaShop": 3318,
             "PrestaShop\/PrestaShop-modules": 31,
             "PrestaShop\/PrestaShop-webservice-lib": 4,
             "PrestaShop\/dashactivity": 14,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 544,
+            "PrestaShop\/test-scenarios": 545,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -126,9 +126,9 @@
         },
         "categories": {
             "core": {
-                "total": 3417,
+                "total": 3421,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 3314,
+                    "PrestaShop\/PrestaShop": 3318,
                     "PrestaShop\/prestashop-ui-kit": 50,
                     "PrestaShop\/TranslationToolsBundle": 9,
                     "PrestaShop\/LocalizationFiles": 9,
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 724,
+                "total": 725,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 544,
+                    "PrestaShop\/test-scenarios": 545,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 28
                 }
@@ -1584,16 +1584,16 @@
         "location": "Paris, France",
         "bio": "QA Automation Engineer",
         "email_domain": "gmail.com",
-        "contributions": 2565,
+        "contributions": 2571,
         "repositories": {
-            "PrestaShop\/PrestaShop": 2557,
+            "PrestaShop\/PrestaShop": 2563,
             "PrestaShop\/classic-theme": 8
         },
         "categories": {
             "core": {
-                "total": 2557,
+                "total": 2563,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 2557
+                    "PrestaShop\/PrestaShop": 2563
                 }
             },
             "specs": {
@@ -7969,9 +7969,9 @@
         "location": "Strasbourg",
         "bio": null,
         "email_domain": "",
-        "contributions": 173,
+        "contributions": 174,
         "repositories": {
-            "PrestaShop\/prestashop-flashlight": 165,
+            "PrestaShop\/prestashop-flashlight": 166,
             "PrestaShop\/ws-client": 8
         },
         "categories": {
@@ -8000,9 +8000,9 @@
                 "repositories": []
             },
             "others": {
-                "total": 173,
+                "total": 174,
                 "repositories": {
-                    "PrestaShop\/prestashop-flashlight": 165,
+                    "PrestaShop\/prestashop-flashlight": 166,
                     "PrestaShop\/ws-client": 8
                 }
             }
@@ -40650,5 +40650,5 @@
             }
         }
     },
-    "updatedAt": "2024-03-13 06:06:40"
+    "updatedAt": "2024-03-14 06:06:34"
 }
