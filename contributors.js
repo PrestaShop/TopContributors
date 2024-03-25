@@ -23619,7 +23619,7 @@
         "company": "@cerberauth, @thegalactiks",
         "blog": "https:\/\/bio.link\/emmanuelgautier\/",
         "location": "France",
-        "bio": "Exploring CIAM, OpenID Connect and API vulnerabilities with @cerberauth.",
+        "bio": "Digging into CIAM, OpenID Connect and API vulnerabilities with @cerberauth.",
         "email_domain": "",
         "contributions": 4,
         "repositories": {
@@ -40621,5 +40621,5 @@
             }
         }
     },
-    "updatedAt": "2024-03-24 06:05:19"
+    "updatedAt": "2024-03-25 06:06:58"
 }
