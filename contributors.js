@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6649,
+        "contributions": 6650,
         "repositories": {
             "PrestaShop\/PrestaShop": 3338,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 556,
+            "PrestaShop\/test-scenarios": 557,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 739,
+                "total": 740,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 556,
+                    "PrestaShop\/test-scenarios": 557,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -1886,7 +1886,7 @@
         "blog": "https:\/\/julienbourdeau.com",
         "location": "Nantes, France",
         "bio": "Sr. Software Engineer\r\n\ud83c\udfc4\u200d\u2642\ufe0f Rails by day\r\n\ud83c\udfc4 Laravel by night\r\n",
-        "email_domain": "julienbourdeau.com",
+        "email_domain": "hey.com",
         "contributions": 2355,
         "repositories": {
             "PrestaShop\/PrestaShop": 1605,
@@ -4774,7 +4774,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 637,
+        "contributions": 638,
         "repositories": {
             "PrestaShop\/PrestaShop": 371,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
@@ -4825,7 +4825,7 @@
             "PrestaShop\/open-source": 15,
             "PrestaShop\/php-dev-tools": 1,
             "PrestaShop\/QANightlyResults": 3,
-            "PrestaShop\/presthubot": 18,
+            "PrestaShop\/presthubot": 19,
             "PrestaShop\/example-modules": 1,
             "PrestaShop\/ps_qualityassurance": 3,
             "PrestaShop\/test-scenarios": 1,
@@ -4912,14 +4912,14 @@
                 }
             },
             "tools": {
-                "total": 35,
+                "total": 36,
                 "repositories": {
                     "PrestaShop\/docker": 6,
                     "PrestaShop\/docker-ci": 1,
                     "PrestaShop\/issuebot": 1,
                     "PrestaShop\/nightly-board": 1,
                     "PrestaShop\/PrestaShop-webservice-lib": 1,
-                    "PrestaShop\/presthubot": 18,
+                    "PrestaShop\/presthubot": 19,
                     "PrestaShop\/prestonbot": 1,
                     "PrestaShop\/QANightlyResults": 3,
                     "PrestaShop\/TopContributors": 3
@@ -40624,5 +40624,5 @@
             }
         }
     },
-    "updatedAt": "2024-03-29 06:06:46"
+    "updatedAt": "2024-03-30 06:05:35"
 }
