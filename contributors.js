@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6651,
+        "contributions": 6655,
         "repositories": {
-            "PrestaShop\/PrestaShop": 3338,
+            "PrestaShop\/PrestaShop": 3340,
             "PrestaShop\/PrestaShop-modules": 31,
             "PrestaShop\/PrestaShop-webservice-lib": 4,
             "PrestaShop\/dashactivity": 14,
@@ -102,7 +102,7 @@
             "PrestaShop\/open-source": 31,
             "PrestaShop\/mjml-theme-converter": 1,
             "PrestaShop\/php-dev-tools": 4,
-            "PrestaShop\/QANightlyResults": 134,
+            "PrestaShop\/QANightlyResults": 136,
             "PrestaShop\/LocalizationFiles": 9,
             "PrestaShop\/presthubot": 328,
             "PrestaShop\/stylelint-config": 7,
@@ -126,9 +126,9 @@
         },
         "categories": {
             "core": {
-                "total": 3441,
+                "total": 3443,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 3338,
+                    "PrestaShop\/PrestaShop": 3340,
                     "PrestaShop\/prestashop-ui-kit": 50,
                     "PrestaShop\/TranslationToolsBundle": 9,
                     "PrestaShop\/LocalizationFiles": 9,
@@ -238,7 +238,7 @@
                 }
             },
             "tools": {
-                "total": 615,
+                "total": 617,
                 "repositories": {
                     "PrestaShop\/docker": 36,
                     "PrestaShop\/docker-ci": 4,
@@ -249,7 +249,7 @@
                     "PrestaShop\/PrestaShop-webservice-lib": 4,
                     "PrestaShop\/presthubot": 328,
                     "PrestaShop\/prestonbot": 10,
-                    "PrestaShop\/QANightlyResults": 134,
+                    "PrestaShop\/QANightlyResults": 136,
                     "PrestaShop\/TopContributors": 33,
                     "PrestaShop\/traces": 18
                 }
@@ -1584,16 +1584,16 @@
         "location": "Paris, France",
         "bio": "QA Automation Engineer",
         "email_domain": "gmail.com",
-        "contributions": 2616,
+        "contributions": 2620,
         "repositories": {
-            "PrestaShop\/PrestaShop": 2608,
+            "PrestaShop\/PrestaShop": 2612,
             "PrestaShop\/classic-theme": 8
         },
         "categories": {
             "core": {
-                "total": 2608,
+                "total": 2612,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 2608
+                    "PrestaShop\/PrestaShop": 2612
                 }
             },
             "specs": {
@@ -40624,5 +40624,5 @@
             }
         }
     },
-    "updatedAt": "2024-04-01 06:07:04"
+    "updatedAt": "2024-04-02 06:08:07"
 }
