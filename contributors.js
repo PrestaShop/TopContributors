@@ -33818,10 +33818,10 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/48237049?v=4",
         "html_url": "https:\/\/github.com\/itsvahid",
         "name": "Vahid Abdi",
-        "company": "ECA",
+        "company": "Internet Projects LTD",
         "blog": "",
         "location": "Iran",
-        "bio": "Web Developer - PHP",
+        "bio": "Software Engineer | PHP, Elixir",
         "email_domain": "",
         "contributions": 1,
         "repositories": {
@@ -40676,5 +40676,5 @@
             }
         }
     },
-    "updatedAt": "2024-04-07 06:05:56"
+    "updatedAt": "2024-04-08 06:16:54"
 }
