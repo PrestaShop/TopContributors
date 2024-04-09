@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6685,
+        "contributions": 6689,
         "repositories": {
-            "PrestaShop\/PrestaShop": 3353,
+            "PrestaShop\/PrestaShop": 3355,
             "PrestaShop\/PrestaShop-modules": 31,
             "PrestaShop\/PrestaShop-webservice-lib": 4,
             "PrestaShop\/dashactivity": 14,
@@ -102,7 +102,7 @@
             "PrestaShop\/open-source": 31,
             "PrestaShop\/mjml-theme-converter": 1,
             "PrestaShop\/php-dev-tools": 4,
-            "PrestaShop\/QANightlyResults": 136,
+            "PrestaShop\/QANightlyResults": 138,
             "PrestaShop\/LocalizationFiles": 9,
             "PrestaShop\/presthubot": 328,
             "PrestaShop\/stylelint-config": 7,
@@ -127,9 +127,9 @@
         },
         "categories": {
             "core": {
-                "total": 3456,
+                "total": 3458,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 3353,
+                    "PrestaShop\/PrestaShop": 3355,
                     "PrestaShop\/prestashop-ui-kit": 50,
                     "PrestaShop\/TranslationToolsBundle": 9,
                     "PrestaShop\/LocalizationFiles": 9,
@@ -239,7 +239,7 @@
                 }
             },
             "tools": {
-                "total": 617,
+                "total": 619,
                 "repositories": {
                     "PrestaShop\/docker": 36,
                     "PrestaShop\/docker-ci": 4,
@@ -250,7 +250,7 @@
                     "PrestaShop\/PrestaShop-webservice-lib": 4,
                     "PrestaShop\/presthubot": 328,
                     "PrestaShop\/prestonbot": 10,
-                    "PrestaShop\/QANightlyResults": 136,
+                    "PrestaShop\/QANightlyResults": 138,
                     "PrestaShop\/TopContributors": 33,
                     "PrestaShop\/traces": 18
                 }
@@ -4728,7 +4728,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 649,
+        "contributions": 652,
         "repositories": {
             "PrestaShop\/PrestaShop": 376,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
@@ -4778,7 +4778,7 @@
             "PrestaShop\/nightly-board": 1,
             "PrestaShop\/open-source": 15,
             "PrestaShop\/php-dev-tools": 1,
-            "PrestaShop\/QANightlyResults": 3,
+            "PrestaShop\/QANightlyResults": 6,
             "PrestaShop\/presthubot": 21,
             "PrestaShop\/example-modules": 1,
             "PrestaShop\/ps_qualityassurance": 3,
@@ -4866,7 +4866,7 @@
                 }
             },
             "tools": {
-                "total": 38,
+                "total": 41,
                 "repositories": {
                     "PrestaShop\/docker": 6,
                     "PrestaShop\/docker-ci": 1,
@@ -4875,7 +4875,7 @@
                     "PrestaShop\/PrestaShop-webservice-lib": 1,
                     "PrestaShop\/presthubot": 21,
                     "PrestaShop\/prestonbot": 1,
-                    "PrestaShop\/QANightlyResults": 3,
+                    "PrestaShop\/QANightlyResults": 6,
                     "PrestaShop\/TopContributors": 3
                 }
             },
@@ -8344,9 +8344,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 149,
+        "contributions": 150,
         "repositories": {
-            "PrestaShop\/native-modules": 149
+            "PrestaShop\/native-modules": 150
         },
         "categories": {
             "core": {
@@ -8374,9 +8374,9 @@
                 "repositories": []
             },
             "others": {
-                "total": 149,
+                "total": 150,
                 "repositories": {
-                    "PrestaShop\/native-modules": 149
+                    "PrestaShop\/native-modules": 150
                 }
             }
         }
@@ -40676,5 +40676,5 @@
             }
         }
     },
-    "updatedAt": "2024-04-08 06:16:54"
+    "updatedAt": "2024-04-09 06:06:15"
 }
