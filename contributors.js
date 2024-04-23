@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6741,
+        "contributions": 6746,
         "repositories": {
-            "PrestaShop\/PrestaShop": 3383,
+            "PrestaShop\/PrestaShop": 3385,
             "PrestaShop\/PrestaShop-modules": 31,
             "PrestaShop\/PrestaShop-webservice-lib": 4,
             "PrestaShop\/dashactivity": 14,
@@ -102,7 +102,7 @@
             "PrestaShop\/open-source": 31,
             "PrestaShop\/mjml-theme-converter": 1,
             "PrestaShop\/php-dev-tools": 4,
-            "PrestaShop\/QANightlyResults": 140,
+            "PrestaShop\/QANightlyResults": 143,
             "PrestaShop\/LocalizationFiles": 9,
             "PrestaShop\/presthubot": 328,
             "PrestaShop\/stylelint-config": 7,
@@ -127,9 +127,9 @@
         },
         "categories": {
             "core": {
-                "total": 3486,
+                "total": 3488,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 3383,
+                    "PrestaShop\/PrestaShop": 3385,
                     "PrestaShop\/prestashop-ui-kit": 50,
                     "PrestaShop\/TranslationToolsBundle": 9,
                     "PrestaShop\/LocalizationFiles": 9,
@@ -239,7 +239,7 @@
                 }
             },
             "tools": {
-                "total": 621,
+                "total": 624,
                 "repositories": {
                     "PrestaShop\/docker": 36,
                     "PrestaShop\/docker-ci": 4,
@@ -250,7 +250,7 @@
                     "PrestaShop\/PrestaShop-webservice-lib": 4,
                     "PrestaShop\/presthubot": 328,
                     "PrestaShop\/prestonbot": 10,
-                    "PrestaShop\/QANightlyResults": 140,
+                    "PrestaShop\/QANightlyResults": 143,
                     "PrestaShop\/TopContributors": 33,
                     "PrestaShop\/traces": 18
                 }
@@ -1203,7 +1203,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 3747,
+        "contributions": 3748,
         "repositories": {
             "PrestaShop\/PrestaShop": 1692,
             "PrestaShop\/PrestaShop-modules": 349,
@@ -1234,7 +1234,7 @@
             "PrestaShop\/statssearch": 2,
             "PrestaShop\/statsstock": 2,
             "PrestaShop\/blockwishlist": 38,
-            "PrestaShop\/autoupgrade": 479,
+            "PrestaShop\/autoupgrade": 480,
             "PrestaShop\/gsitemap": 6,
             "PrestaShop\/prestashop.github.io": 8,
             "PrestaShop\/docker": 309,
@@ -1318,7 +1318,7 @@
                 }
             },
             "modules": {
-                "total": 1263,
+                "total": 1264,
                 "repositories": {
                     "PrestaShop\/PrestaShop-modules": 349,
                     "PrestaShop\/dashactivity": 1,
@@ -1347,7 +1347,7 @@
                     "PrestaShop\/statssearch": 2,
                     "PrestaShop\/statsstock": 2,
                     "PrestaShop\/blockwishlist": 38,
-                    "PrestaShop\/autoupgrade": 479,
+                    "PrestaShop\/autoupgrade": 480,
                     "PrestaShop\/gsitemap": 6,
                     "PrestaShop\/contactform": 1,
                     "PrestaShop\/ps_sharebuttons": 8,
@@ -1588,16 +1588,16 @@
         "location": "Paris, France",
         "bio": "QA Automation Engineer",
         "email_domain": "gmail.com",
-        "contributions": 2647,
+        "contributions": 2648,
         "repositories": {
-            "PrestaShop\/PrestaShop": 2639,
+            "PrestaShop\/PrestaShop": 2640,
             "PrestaShop\/classic-theme": 8
         },
         "categories": {
             "core": {
-                "total": 2639,
+                "total": 2640,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 2639
+                    "PrestaShop\/PrestaShop": 2640
                 }
             },
             "specs": {
@@ -9833,6 +9833,65 @@
         }
     },
     "108": {
+        "login": "ga-devfront",
+        "id": 52718717,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/52718717?v=4",
+        "html_url": "https:\/\/github.com\/ga-devfront",
+        "name": "Guyomar Alexis",
+        "company": null,
+        "blog": "ag-dev.fr",
+        "location": "74100 Annemasse, France",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 87,
+        "repositories": {
+            "PrestaShop\/autoupgrade": 34,
+            "PrestaShop\/ps_imageslider": 1,
+            "PrestaShop\/docs": 1,
+            "PrestaShop\/hummingbird": 12,
+            "PrestaShop\/bootstrap-compatibility-layer": 39
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 1,
+                "repositories": {
+                    "PrestaShop\/docs": 1
+                }
+            },
+            "themes": {
+                "total": 12,
+                "repositories": {
+                    "PrestaShop\/hummingbird": 12
+                }
+            },
+            "modules": {
+                "total": 35,
+                "repositories": {
+                    "PrestaShop\/autoupgrade": 34,
+                    "PrestaShop\/ps_imageslider": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 39,
+                "repositories": {
+                    "PrestaShop\/bootstrap-compatibility-layer": 39
+                }
+            }
+        }
+    },
+    "109": {
         "login": "zalexki",
         "id": 3863527,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3863527?v=4",
@@ -9893,7 +9952,7 @@
             }
         }
     },
-    "109": {
+    "110": {
         "login": "alegout",
         "id": 5212567,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5212567?v=4",
@@ -9947,7 +10006,7 @@
             }
         }
     },
-    "110": {
+    "111": {
         "login": "0x346e3730",
         "id": 28731165,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/28731165?v=4",
@@ -10017,7 +10076,7 @@
             }
         }
     },
-    "111": {
+    "112": {
         "login": "Prestaworks",
         "id": 2902272,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2902272?v=4",
@@ -10082,7 +10141,7 @@
             }
         }
     },
-    "112": {
+    "113": {
         "login": "fox-john",
         "id": 1273438,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1273438?v=4",
@@ -10130,7 +10189,7 @@
             }
         }
     },
-    "113": {
+    "114": {
         "login": "SharakPL",
         "id": 5007456,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5007456?v=4",
@@ -10203,65 +10262,6 @@
             "others": {
                 "total": 0,
                 "repositories": []
-            }
-        }
-    },
-    "114": {
-        "login": "ga-devfront",
-        "id": 52718717,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/52718717?v=4",
-        "html_url": "https:\/\/github.com\/ga-devfront",
-        "name": "Guyomar Alexis",
-        "company": null,
-        "blog": "ag-dev.fr",
-        "location": "74100 Annemasse, France",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 78,
-        "repositories": {
-            "PrestaShop\/autoupgrade": 25,
-            "PrestaShop\/ps_imageslider": 1,
-            "PrestaShop\/docs": 1,
-            "PrestaShop\/hummingbird": 12,
-            "PrestaShop\/bootstrap-compatibility-layer": 39
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 1,
-                "repositories": {
-                    "PrestaShop\/docs": 1
-                }
-            },
-            "themes": {
-                "total": 12,
-                "repositories": {
-                    "PrestaShop\/hummingbird": 12
-                }
-            },
-            "modules": {
-                "total": 26,
-                "repositories": {
-                    "PrestaShop\/autoupgrade": 25,
-                    "PrestaShop\/ps_imageslider": 1
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 39,
-                "repositories": {
-                    "PrestaShop\/bootstrap-compatibility-layer": 39
-                }
             }
         }
     },
@@ -35620,7 +35620,7 @@
         "company": null,
         "blog": "https:\/\/shef-er.ru",
         "location": "Yekaterinburg",
-        "bio": "Software Dev \u00b7 Linux lover \u00b7 F\/OSS Fan",
+        "bio": "PHP \/ Golang \/ Linux",
         "email_domain": "",
         "contributions": 1,
         "repositories": {
@@ -40843,5 +40843,5 @@
             }
         }
     },
-    "updatedAt": "2024-04-22 06:07:44"
+    "updatedAt": "2024-04-23 06:05:56"
 }
