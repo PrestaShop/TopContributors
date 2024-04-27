@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6756,
+        "contributions": 6757,
         "repositories": {
             "PrestaShop\/PrestaShop": 3392,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 583,
+            "PrestaShop\/test-scenarios": 584,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -148,12 +148,12 @@
                 }
             },
             "documentation": {
-                "total": 766,
+                "total": 767,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 583,
+                    "PrestaShop\/test-scenarios": 584,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -286,7 +286,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 5645,
+        "contributions": 5648,
         "repositories": {
             "PrestaShop\/PrestaShop": 4774,
             "PrestaShop\/dashgoals": 1,
@@ -343,7 +343,7 @@
             "PrestaShop\/keycloak_connector_demo": 13,
             "PrestaShop\/PsFixturesCreator": 8,
             "PrestaShop\/bootstrap-compatibility-layer": 1,
-            "PrestaShop\/ps_apiresources": 44,
+            "PrestaShop\/ps_apiresources": 47,
             "PrestaShop\/CoreUpgradeBundle": 1,
             "PrestaShop\/CLIUpgrade": 1
         },
@@ -423,7 +423,7 @@
                 }
             },
             "others": {
-                "total": 176,
+                "total": 179,
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 12,
                     "PrestaShop\/.github": 2,
@@ -435,7 +435,7 @@
                     "PrestaShop\/keycloak_connector_demo": 13,
                     "PrestaShop\/PsFixturesCreator": 8,
                     "PrestaShop\/bootstrap-compatibility-layer": 1,
-                    "PrestaShop\/ps_apiresources": 44,
+                    "PrestaShop\/ps_apiresources": 47,
                     "PrestaShop\/CoreUpgradeBundle": 1,
                     "PrestaShop\/CLIUpgrade": 1
                 }
@@ -40843,5 +40843,5 @@
             }
         }
     },
-    "updatedAt": "2024-04-26 06:05:58"
+    "updatedAt": "2024-04-27 06:05:36"
 }
