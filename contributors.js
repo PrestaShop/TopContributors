@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6757,
+        "contributions": 6758,
         "repositories": {
             "PrestaShop\/PrestaShop": 3392,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 584,
+            "PrestaShop\/test-scenarios": 585,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -148,12 +148,12 @@
                 }
             },
             "documentation": {
-                "total": 767,
+                "total": 768,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 584,
+                    "PrestaShop\/test-scenarios": 585,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -9771,7 +9771,7 @@
         "company": "@PrestaShop ",
         "blog": "https:\/\/www.linkedin.com\/in\/marsaldev\/",
         "location": "Salerno\/Paris",
-        "bio": "Experts Solution Engineer @ PrestaShop - Italy",
+        "bio": "Committer @ PrestaShop Open Source",
         "email_domain": "",
         "contributions": 89,
         "repositories": {
@@ -40843,5 +40843,5 @@
             }
         }
     },
-    "updatedAt": "2024-04-27 06:05:36"
+    "updatedAt": "2024-04-28 06:05:35"
 }
