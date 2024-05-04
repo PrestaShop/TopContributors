@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6774,
+        "contributions": 6775,
         "repositories": {
             "PrestaShop\/PrestaShop": 3397,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 587,
+            "PrestaShop\/test-scenarios": 588,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -148,12 +148,12 @@
                 }
             },
             "documentation": {
-                "total": 770,
+                "total": 771,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 587,
+                    "PrestaShop\/test-scenarios": 588,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -1203,7 +1203,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 3750,
+        "contributions": 3752,
         "repositories": {
             "PrestaShop\/PrestaShop": 1692,
             "PrestaShop\/PrestaShop-modules": 349,
@@ -1253,7 +1253,7 @@
             "PrestaShop\/ps_mainmenu": 6,
             "PrestaShop\/ps_customersignin": 3,
             "PrestaShop\/ps_categorytree": 6,
-            "PrestaShop\/docs": 144,
+            "PrestaShop\/docs": 146,
             "PrestaShop\/docker-ci": 47,
             "PrestaShop\/azure-template-performance": 13,
             "PrestaShop\/azure-template-high-performance": 10,
@@ -1305,10 +1305,10 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 145,
+                "total": 147,
                 "repositories": {
                     "PrestaShop\/paymentexample": 1,
-                    "PrestaShop\/docs": 144
+                    "PrestaShop\/docs": 146
                 }
             },
             "themes": {
@@ -2032,9 +2032,9 @@
         "location": "Lille, France",
         "bio": null,
         "email_domain": "protonmail.com",
-        "contributions": 2214,
+        "contributions": 2215,
         "repositories": {
-            "PrestaShop\/PrestaShop": 1646,
+            "PrestaShop\/PrestaShop": 1647,
             "PrestaShop\/PrestaShop-modules": 3,
             "PrestaShop\/dashactivity": 1,
             "PrestaShop\/dashgoals": 1,
@@ -2103,9 +2103,9 @@
         },
         "categories": {
             "core": {
-                "total": 1667,
+                "total": 1668,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 1646,
+                    "PrestaShop\/PrestaShop": 1647,
                     "PrestaShop\/prestashop-ui-kit": 4,
                     "PrestaShop\/TranslationToolsBundle": 3,
                     "PrestaShop\/stylelint-config": 1,
@@ -21538,8 +21538,8 @@
         "name": "Arman Hosseini",
         "company": null,
         "blog": "",
-        "location": "Germany",
-        "bio": "Backend developer at @SkyroomOnline",
+        "location": null,
+        "bio": "Software Engineer",
         "email_domain": "gmail.com",
         "contributions": 6,
         "repositories": {
@@ -40843,5 +40843,5 @@
             }
         }
     },
-    "updatedAt": "2024-05-03 06:05:56"
+    "updatedAt": "2024-05-04 06:06:50"
 }
