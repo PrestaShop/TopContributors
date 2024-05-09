@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6796,
+        "contributions": 6797,
         "repositories": {
             "PrestaShop\/PrestaShop": 3399,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -108,7 +108,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 590,
+            "PrestaShop\/test-scenarios": 591,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -148,12 +148,12 @@
                 }
             },
             "documentation": {
-                "total": 773,
+                "total": 774,
                 "repositories": {
                     "PrestaShop\/docs": 143,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 590,
+                    "PrestaShop\/test-scenarios": 591,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -1641,7 +1641,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2412,
+        "contributions": 2416,
         "repositories": {
             "PrestaShop\/PrestaShop": 615,
             "PrestaShop\/PrestaShop-modules": 4,
@@ -1675,7 +1675,7 @@
             "PrestaShop\/productcomments": 22,
             "PrestaShop\/autoupgrade": 42,
             "PrestaShop\/gsitemap": 3,
-            "PrestaShop\/prestashop.github.io": 546,
+            "PrestaShop\/prestashop.github.io": 550,
             "PrestaShop\/contactform": 8,
             "PrestaShop\/paymentexample": 7,
             "PrestaShop\/prestashop-ui-kit": 1,
@@ -1861,9 +1861,9 @@
                 }
             },
             "others": {
-                "total": 624,
+                "total": 628,
                 "repositories": {
-                    "PrestaShop\/prestashop.github.io": 546,
+                    "PrestaShop\/prestashop.github.io": 550,
                     "PrestaShop\/.github": 2,
                     "PrestaShop\/ps-org-theme": 10,
                     "PrestaShop\/phpstan-prestashop": 1,
@@ -40848,5 +40848,5 @@
             }
         }
     },
-    "updatedAt": "2024-05-08 06:07:11"
+    "updatedAt": "2024-05-09 06:07:54"
 }
