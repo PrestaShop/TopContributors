@@ -36966,7 +36966,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13963207?v=4",
         "html_url": "https:\/\/github.com\/marcoguido",
         "name": "Marco Guidolin",
-        "company": null,
+        "company": "WeRoad",
         "blog": "",
         "location": "Italy",
         "bio": null,
@@ -40848,5 +40848,5 @@
             }
         }
     },
-    "updatedAt": "2024-05-09 06:07:54"
+    "updatedAt": "2024-05-10 06:05:36"
 }
