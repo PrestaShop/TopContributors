@@ -4666,7 +4666,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 715,
+        "contributions": 716,
         "repositories": {
             "PrestaShop\/PrestaShop": 427,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
@@ -4679,7 +4679,7 @@
             "PrestaShop\/statscarrier": 1,
             "PrestaShop\/blockwishlist": 6,
             "PrestaShop\/productcomments": 3,
-            "PrestaShop\/autoupgrade": 17,
+            "PrestaShop\/autoupgrade": 18,
             "PrestaShop\/gsitemap": 2,
             "PrestaShop\/prestashop.github.io": 4,
             "PrestaShop\/docker": 6,
@@ -4765,7 +4765,7 @@
                 }
             },
             "modules": {
-                "total": 147,
+                "total": 148,
                 "repositories": {
                     "PrestaShop\/dashactivity": 2,
                     "PrestaShop\/dashproducts": 2,
@@ -4776,7 +4776,7 @@
                     "PrestaShop\/statscarrier": 1,
                     "PrestaShop\/blockwishlist": 6,
                     "PrestaShop\/productcomments": 3,
-                    "PrestaShop\/autoupgrade": 17,
+                    "PrestaShop\/autoupgrade": 18,
                     "PrestaShop\/gsitemap": 2,
                     "PrestaShop\/contactform": 1,
                     "PrestaShop\/blockreassurance": 27,
@@ -19424,6 +19424,60 @@
         }
     },
     "288": {
+        "login": "Dreimus",
+        "id": 2658244,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2658244?v=4",
+        "html_url": "https:\/\/github.com\/Dreimus",
+        "name": "Paul Coudeville",
+        "company": null,
+        "blog": "www.coudeville.info",
+        "location": "France",
+        "bio": null,
+        "email_domain": "coudeville.info",
+        "contributions": 8,
+        "repositories": {
+            "PrestaShop\/PrestaShop": 6,
+            "PrestaShop\/autoupgrade": 1,
+            "PrestaShop\/docs": 1
+        },
+        "categories": {
+            "core": {
+                "total": 6,
+                "repositories": {
+                    "PrestaShop\/PrestaShop": 6
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 1,
+                "repositories": {
+                    "PrestaShop\/docs": 1
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 1,
+                "repositories": {
+                    "PrestaShop\/autoupgrade": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "289": {
         "login": "cvng",
         "id": 7042907,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7042907?v=4",
@@ -19474,7 +19528,7 @@
             }
         }
     },
-    "289": {
+    "290": {
         "login": "JoryHogeveen",
         "id": 826148,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/826148?v=4",
@@ -19525,7 +19579,7 @@
             }
         }
     },
-    "290": {
+    "291": {
         "login": "luclanet",
         "id": 3264432,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3264432?v=4",
@@ -19573,7 +19627,7 @@
             }
         }
     },
-    "291": {
+    "292": {
         "login": "tpharaoh",
         "id": 2931452,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2931452?v=4",
@@ -19621,7 +19675,7 @@
             }
         }
     },
-    "292": {
+    "293": {
         "login": "Uhor",
         "id": 6587126,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6587126?v=4",
@@ -19669,7 +19723,7 @@
             }
         }
     },
-    "293": {
+    "294": {
         "login": "bruce-thomas",
         "id": 8118174,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8118174?v=4",
@@ -19717,7 +19771,7 @@
             }
         }
     },
-    "294": {
+    "295": {
         "login": "LocalHeroPro",
         "id": 42643563,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/42643563?v=4",
@@ -19765,7 +19819,7 @@
             }
         }
     },
-    "295": {
+    "296": {
         "login": "PrestaSafe",
         "id": 4788787,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4788787?v=4",
@@ -19823,7 +19877,7 @@
             }
         }
     },
-    "296": {
+    "297": {
         "login": "Ha99y",
         "id": 2355427,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2355427?v=4",
@@ -19871,7 +19925,7 @@
             }
         }
     },
-    "297": {
+    "298": {
         "login": "connemb",
         "id": 7490389,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7490389?v=4",
@@ -19919,7 +19973,7 @@
             }
         }
     },
-    "298": {
+    "299": {
         "login": "mrAKAR",
         "id": 4937578,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4937578?v=4",
@@ -19967,7 +20021,7 @@
             }
         }
     },
-    "299": {
+    "300": {
         "login": "crezzur",
         "id": 17967576,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/17967576?v=4",
@@ -20015,7 +20069,7 @@
             }
         }
     },
-    "300": {
+    "301": {
         "login": "lfluvisotto",
         "id": 535626,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/535626?v=4",
@@ -20063,7 +20117,7 @@
             }
         }
     },
-    "301": {
+    "302": {
         "login": "mpaolino",
         "id": 757973,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/757973?v=4",
@@ -20111,7 +20165,7 @@
             }
         }
     },
-    "302": {
+    "303": {
         "login": "Jacky75",
         "id": 2861656,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2861656?v=4",
@@ -20159,7 +20213,7 @@
             }
         }
     },
-    "303": {
+    "304": {
         "login": "psyray",
         "id": 1230954,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1230954?v=4",
@@ -20207,7 +20261,7 @@
             }
         }
     },
-    "304": {
+    "305": {
         "login": "djbuch",
         "id": 5637724,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5637724?v=4",
@@ -20236,57 +20290,6 @@
             "documentation": {
                 "total": 0,
                 "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "305": {
-        "login": "Dreimus",
-        "id": 2658244,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2658244?v=4",
-        "html_url": "https:\/\/github.com\/Dreimus",
-        "name": "Paul Coudeville",
-        "company": null,
-        "blog": "www.coudeville.info",
-        "location": "France",
-        "bio": null,
-        "email_domain": "coudeville.info",
-        "contributions": 7,
-        "repositories": {
-            "PrestaShop\/PrestaShop": 6,
-            "PrestaShop\/docs": 1
-        },
-        "categories": {
-            "core": {
-                "total": 6,
-                "repositories": {
-                    "PrestaShop\/PrestaShop": 6
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 1,
-                "repositories": {
-                    "PrestaShop\/docs": 1
-                }
             },
             "themes": {
                 "total": 0,
@@ -34853,8 +34856,8 @@
         "id": 1764145,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1764145?v=4",
         "html_url": "https:\/\/github.com\/gdebrion",
-        "name": null,
-        "company": "Tribu & Co",
+        "name": "Guillaume de Brion",
+        "company": null,
         "blog": "http:\/\/blog.guilou.fr",
         "location": "Tours (37)",
         "bio": null,
@@ -40848,5 +40851,5 @@
             }
         }
     },
-    "updatedAt": "2024-05-10 06:05:36"
+    "updatedAt": "2024-05-11 06:05:34"
 }
