@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6827,
+        "contributions": 6828,
         "repositories": {
-            "PrestaShop\/PrestaShop": 3408,
+            "PrestaShop\/PrestaShop": 3409,
             "PrestaShop\/PrestaShop-modules": 31,
             "PrestaShop\/PrestaShop-webservice-lib": 4,
             "PrestaShop\/dashactivity": 14,
@@ -127,9 +127,9 @@
         },
         "categories": {
             "core": {
-                "total": 3511,
+                "total": 3512,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 3408,
+                    "PrestaShop\/PrestaShop": 3409,
                     "PrestaShop\/prestashop-ui-kit": 50,
                     "PrestaShop\/TranslationToolsBundle": 9,
                     "PrestaShop\/LocalizationFiles": 9,
@@ -4669,9 +4669,9 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 723,
+        "contributions": 724,
         "repositories": {
-            "PrestaShop\/PrestaShop": 428,
+            "PrestaShop\/PrestaShop": 429,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
             "PrestaShop\/dashactivity": 2,
             "PrestaShop\/dashproducts": 2,
@@ -4741,9 +4741,9 @@
         },
         "categories": {
             "core": {
-                "total": 429,
+                "total": 430,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 428,
+                    "PrestaShop\/PrestaShop": 429,
                     "PrestaShop\/php-dev-tools": 1
                 }
             },
@@ -40859,5 +40859,5 @@
             }
         }
     },
-    "updatedAt": "2024-05-18 06:05:17"
+    "updatedAt": "2024-05-19 06:06:39"
 }
