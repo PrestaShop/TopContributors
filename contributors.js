@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 6828,
+        "contributions": 6829,
         "repositories": {
-            "PrestaShop\/PrestaShop": 3409,
+            "PrestaShop\/PrestaShop": 3410,
             "PrestaShop\/PrestaShop-modules": 31,
             "PrestaShop\/PrestaShop-webservice-lib": 4,
             "PrestaShop\/dashactivity": 14,
@@ -127,9 +127,9 @@
         },
         "categories": {
             "core": {
-                "total": 3512,
+                "total": 3513,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 3409,
+                    "PrestaShop\/PrestaShop": 3410,
                     "PrestaShop\/prestashop-ui-kit": 50,
                     "PrestaShop\/TranslationToolsBundle": 9,
                     "PrestaShop\/LocalizationFiles": 9,
@@ -1507,17 +1507,17 @@
         "location": "Paris, France",
         "bio": "QA Automation Engineer",
         "email_domain": "gmail.com",
-        "contributions": 2716,
+        "contributions": 2717,
         "repositories": {
-            "PrestaShop\/PrestaShop": 2707,
+            "PrestaShop\/PrestaShop": 2708,
             "PrestaShop\/ga.tests.ui.pr": 1,
             "PrestaShop\/classic-theme": 8
         },
         "categories": {
             "core": {
-                "total": 2707,
+                "total": 2708,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 2707
+                    "PrestaShop\/PrestaShop": 2708
                 }
             },
             "specs": {
@@ -25029,7 +25029,7 @@
         "company": "paypal.me\/fulldecent",
         "blog": "https:\/\/phor.net",
         "location": "Philadelphia USA",
-        "bio": "EN\/\u4e2d\u6587\r\n\r\nentriken@phor.net\r\n\r\nLead author of ERC-721",
+        "bio": "EN\/\u4e2d\u6587\r\n\r\ngithub.com@phor.net\r\n\r\nLead author of ERC-721",
         "email_domain": "phor.net",
         "contributions": 3,
         "repositories": {
@@ -40859,5 +40859,5 @@
             }
         }
     },
-    "updatedAt": "2024-05-19 06:06:39"
+    "updatedAt": "2024-05-20 06:06:12"
 }
