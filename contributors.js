@@ -4542,7 +4542,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 740,
+        "contributions": 741,
         "repositories": {
             "PrestaShop\/PrestaShop": 431,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
@@ -4593,7 +4593,7 @@
             "PrestaShop\/open-source": 16,
             "PrestaShop\/php-dev-tools": 1,
             "PrestaShop\/QANightlyResults": 12,
-            "PrestaShop\/presthubot": 23,
+            "PrestaShop\/presthubot": 24,
             "PrestaShop\/example-modules": 1,
             "PrestaShop\/ps_qualityassurance": 3,
             "PrestaShop\/test-scenarios": 1,
@@ -4682,14 +4682,14 @@
                 }
             },
             "tools": {
-                "total": 56,
+                "total": 57,
                 "repositories": {
                     "PrestaShop\/docker": 6,
                     "PrestaShop\/docker-ci": 1,
                     "PrestaShop\/issuebot": 1,
                     "PrestaShop\/nightly-board": 1,
                     "PrestaShop\/PrestaShop-webservice-lib": 1,
-                    "PrestaShop\/presthubot": 23,
+                    "PrestaShop\/presthubot": 24,
                     "PrestaShop\/prestonbot": 1,
                     "PrestaShop\/QANightlyResults": 12,
                     "PrestaShop\/TopContributors": 4,
@@ -12455,14 +12455,14 @@
         }
     },
     "154": {
-        "login": "guestisp",
-        "id": 3944655,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3944655?v=4",
-        "html_url": "https:\/\/github.com\/guestisp",
-        "name": "GUEST.it",
-        "company": "GUEST.it s.r.l.",
-        "blog": "http:\/\/www.guest.it",
-        "location": "Riccione (RN)",
+        "login": "gandalfthegreydev",
+        "id": 170889551,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/170889551?v=4",
+        "html_url": "https:\/\/github.com\/gandalfthegreydev",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
         "bio": null,
         "email_domain": "",
         "contributions": 39,
@@ -40865,5 +40865,5 @@
             }
         }
     },
-    "updatedAt": "2024-05-26 06:05:32"
+    "updatedAt": "2024-05-27 06:07:52"
 }
