@@ -286,9 +286,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 5740,
+        "contributions": 5745,
         "repositories": {
-            "PrestaShop\/PrestaShop": 4854,
+            "PrestaShop\/PrestaShop": 4859,
             "PrestaShop\/dashgoals": 1,
             "PrestaShop\/dashproducts": 3,
             "PrestaShop\/dashtrends": 2,
@@ -351,9 +351,9 @@
         },
         "categories": {
             "core": {
-                "total": 4922,
+                "total": 4927,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 4854,
+                    "PrestaShop\/PrestaShop": 4859,
                     "PrestaShop\/prestashop-ui-kit": 7,
                     "PrestaShop\/TranslationToolsBundle": 7,
                     "PrestaShop\/circuit-breaker": 31,
@@ -3281,10 +3281,10 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4747745?v=4",
         "html_url": "https:\/\/github.com\/jnadaud",
         "name": "J\u00e9r\u00f4me Nadaud",
-        "company": "alximy",
-        "blog": "https:\/\/alximy.io",
+        "company": "BlackMesa",
+        "blog": "https:\/\/mesa.black",
         "location": "Paris",
-        "bio": "Co-founder @alximy ",
+        "bio": "Founder @mesa-black ",
         "email_domain": "nadaud.io",
         "contributions": 1274,
         "repositories": {
@@ -4459,7 +4459,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 750,
+        "contributions": 756,
         "repositories": {
             "PrestaShop\/PrestaShop": 432,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
@@ -4509,8 +4509,8 @@
             "PrestaShop\/nightly-board": 1,
             "PrestaShop\/open-source": 16,
             "PrestaShop\/php-dev-tools": 1,
-            "PrestaShop\/QANightlyResults": 15,
-            "PrestaShop\/presthubot": 24,
+            "PrestaShop\/QANightlyResults": 16,
+            "PrestaShop\/presthubot": 29,
             "PrestaShop\/example-modules": 1,
             "PrestaShop\/ps_qualityassurance": 3,
             "PrestaShop\/test-scenarios": 1,
@@ -4600,16 +4600,16 @@
                 }
             },
             "tools": {
-                "total": 60,
+                "total": 66,
                 "repositories": {
                     "PrestaShop\/docker": 6,
                     "PrestaShop\/docker-ci": 1,
                     "PrestaShop\/issuebot": 1,
                     "PrestaShop\/nightly-board": 1,
                     "PrestaShop\/PrestaShop-webservice-lib": 1,
-                    "PrestaShop\/presthubot": 24,
+                    "PrestaShop\/presthubot": 29,
                     "PrestaShop\/prestonbot": 1,
-                    "PrestaShop\/QANightlyResults": 15,
+                    "PrestaShop\/QANightlyResults": 16,
                     "PrestaShop\/TopContributors": 4,
                     "PrestaShop\/kanbanbot": 6
                 }
@@ -26583,10 +26583,10 @@
         "html_url": "https:\/\/github.com\/henri9813",
         "name": "Henri Devigne",
         "company": "@gladhost",
-        "blog": "https:\/\/devigne.digital",
+        "blog": "https:\/\/gladhost.cloud",
         "location": "France",
         "bio": "Developper and System Administrator",
-        "email_domain": "bonkgaming.fr",
+        "email_domain": "gladhost.cloud",
         "contributions": 2,
         "repositories": {
             "PrestaShop\/blockwishlist": 1,
@@ -40860,5 +40860,5 @@
             }
         }
     },
-    "updatedAt": "2024-06-02 06:05:53"
+    "updatedAt": "2024-06-03 07:12:09"
 }
