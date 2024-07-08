@@ -3962,7 +3962,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 831,
+        "contributions": 833,
         "repositories": {
             "PrestaShop\/PrestaShop": 464,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
@@ -4014,7 +4014,7 @@
             "PrestaShop\/mjml-theme-converter": 1,
             "PrestaShop\/php-dev-tools": 1,
             "PrestaShop\/QANightlyResults": 19,
-            "PrestaShop\/presthubot": 33,
+            "PrestaShop\/presthubot": 35,
             "PrestaShop\/example-modules": 1,
             "PrestaShop\/ps_qualityassurance": 3,
             "PrestaShop\/test-scenarios": 1,
@@ -4105,7 +4105,7 @@
                 }
             },
             "tools": {
-                "total": 74,
+                "total": 76,
                 "repositories": {
                     "PrestaShop\/docker": 6,
                     "PrestaShop\/docker-ci": 1,
@@ -4113,7 +4113,7 @@
                     "PrestaShop\/mjml-theme-converter": 1,
                     "PrestaShop\/nightly-board": 1,
                     "PrestaShop\/PrestaShop-webservice-lib": 1,
-                    "PrestaShop\/presthubot": 33,
+                    "PrestaShop\/presthubot": 35,
                     "PrestaShop\/QANightlyResults": 19,
                     "PrestaShop\/TopContributors": 5,
                     "PrestaShop\/kanbanbot": 6
@@ -27065,7 +27065,7 @@
         "company": null,
         "blog": "https:\/\/mstdn.business\/@thibault_barske",
         "location": "Normandie",
-        "bio": "FullStack developper",
+        "bio": "FullStack developper in Freelance",
         "email_domain": "",
         "contributions": 2,
         "repositories": {
@@ -32218,7 +32218,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1621205?v=4",
         "html_url": "https:\/\/github.com\/pimuzzo",
         "name": "Simone Locci",
-        "company": "@Swascan",
+        "company": "@TinextaCyber",
         "blog": "https:\/\/www.linkedin.com\/in\/simone-locci\/",
         "location": "Pisa, Italy",
         "bio": null,
@@ -40900,5 +40900,5 @@
             }
         }
     },
-    "updatedAt": "2024-07-07 06:06:06"
+    "updatedAt": "2024-07-08 07:00:57"
 }
