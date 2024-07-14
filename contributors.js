@@ -27077,7 +27077,7 @@
         "blog": "https:\/\/mstdn.business\/@thibault_barske",
         "location": "Normandie",
         "bio": "FullStack developper in Freelance",
-        "email_domain": "",
+        "email_domain": "kolombo.xyz",
         "contributions": 2,
         "repositories": {
             "PrestaShop\/docker": 2
@@ -40911,5 +40911,5 @@
             }
         }
     },
-    "updatedAt": "2024-07-13 06:06:14"
+    "updatedAt": "2024-07-14 06:06:21"
 }
