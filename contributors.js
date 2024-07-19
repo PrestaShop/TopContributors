@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 7135,
+        "contributions": 7154,
         "repositories": {
-            "PrestaShop\/PrestaShop": 3485,
+            "PrestaShop\/PrestaShop": 3492,
             "PrestaShop\/PrestaShop-modules": 31,
             "PrestaShop\/PrestaShop-webservice-lib": 4,
             "PrestaShop\/dashactivity": 14,
@@ -101,13 +101,13 @@
             "PrestaShop\/open-source": 31,
             "PrestaShop\/mjml-theme-converter": 1,
             "PrestaShop\/php-dev-tools": 4,
-            "PrestaShop\/QANightlyResults": 187,
+            "PrestaShop\/QANightlyResults": 189,
             "PrestaShop\/LocalizationFiles": 9,
-            "PrestaShop\/presthubot": 339,
+            "PrestaShop\/presthubot": 340,
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 637,
+            "PrestaShop\/test-scenarios": 638,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -122,13 +122,13 @@
             "PrestaShop\/keycloak_connector_demo": 19,
             "PrestaShop\/ws-client": 25,
             "PrestaShop\/ps_apiresources": 3,
-            "PrestaShop\/ui-testing-library": 191
+            "PrestaShop\/ui-testing-library": 199
         },
         "categories": {
             "core": {
-                "total": 3588,
+                "total": 3595,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 3485,
+                    "PrestaShop\/PrestaShop": 3492,
                     "PrestaShop\/prestashop-ui-kit": 50,
                     "PrestaShop\/TranslationToolsBundle": 9,
                     "PrestaShop\/LocalizationFiles": 9,
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 822,
+                "total": 823,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 637,
+                    "PrestaShop\/test-scenarios": 638,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -238,7 +238,7 @@
                 }
             },
             "tools": {
-                "total": 670,
+                "total": 673,
                 "repositories": {
                     "PrestaShop\/docker": 36,
                     "PrestaShop\/docker-ci": 4,
@@ -247,14 +247,14 @@
                     "PrestaShop\/mjml-theme-converter": 1,
                     "PrestaShop\/nightly-board": 38,
                     "PrestaShop\/PrestaShop-webservice-lib": 4,
-                    "PrestaShop\/presthubot": 339,
-                    "PrestaShop\/QANightlyResults": 187,
+                    "PrestaShop\/presthubot": 340,
+                    "PrestaShop\/QANightlyResults": 189,
                     "PrestaShop\/TopContributors": 33,
                     "PrestaShop\/traces": 18
                 }
             },
             "others": {
-                "total": 385,
+                "total": 393,
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 68,
                     "PrestaShop\/TopTranslators": 1,
@@ -268,7 +268,7 @@
                     "PrestaShop\/keycloak_connector_demo": 19,
                     "PrestaShop\/ws-client": 25,
                     "PrestaShop\/ps_apiresources": 3,
-                    "PrestaShop\/ui-testing-library": 191
+                    "PrestaShop\/ui-testing-library": 199
                 }
             }
         }
@@ -40913,5 +40913,5 @@
             }
         }
     },
-    "updatedAt": "2024-07-18 06:06:33"
+    "updatedAt": "2024-07-19 06:06:05"
 }
