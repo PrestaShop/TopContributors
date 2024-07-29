@@ -284,9 +284,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 5831,
+        "contributions": 5832,
         "repositories": {
-            "PrestaShop\/PrestaShop": 4949,
+            "PrestaShop\/PrestaShop": 4950,
             "PrestaShop\/dashgoals": 1,
             "PrestaShop\/dashproducts": 3,
             "PrestaShop\/dashtrends": 2,
@@ -348,9 +348,9 @@
         },
         "categories": {
             "core": {
-                "total": 5017,
+                "total": 5018,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 4949,
+                    "PrestaShop\/PrestaShop": 4950,
                     "PrestaShop\/prestashop-ui-kit": 7,
                     "PrestaShop\/TranslationToolsBundle": 7,
                     "PrestaShop\/circuit-breaker": 31,
@@ -3921,9 +3921,9 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 859,
+        "contributions": 860,
         "repositories": {
-            "PrestaShop\/PrestaShop": 473,
+            "PrestaShop\/PrestaShop": 474,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
             "PrestaShop\/dashactivity": 2,
             "PrestaShop\/dashproducts": 2,
@@ -3995,9 +3995,9 @@
         },
         "categories": {
             "core": {
-                "total": 475,
+                "total": 476,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 473,
+                    "PrestaShop\/PrestaShop": 474,
                     "PrestaShop\/prestashop-ui-kit": 1,
                     "PrestaShop\/php-dev-tools": 1
                 }
@@ -32219,10 +32219,10 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16188556?v=4",
         "html_url": "https:\/\/github.com\/sergioregueira",
         "name": "Sergio Regueira",
-        "company": "@arengu ",
-        "blog": "https:\/\/sergioregueira.com",
+        "company": "@arengu",
+        "blog": "",
         "location": "A Coru\u00f1a, ES",
-        "bio": "Backend engineer",
+        "bio": null,
         "email_domain": "",
         "contributions": 1,
         "repositories": {
@@ -40853,5 +40853,5 @@
             }
         }
     },
-    "updatedAt": "2024-07-28 06:05:37"
+    "updatedAt": "2024-07-29 07:21:46"
 }
