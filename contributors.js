@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 7282,
+        "contributions": 7283,
         "repositories": {
             "PrestaShop\/PrestaShop": 3528,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -103,7 +103,7 @@
             "PrestaShop\/php-dev-tools": 4,
             "PrestaShop\/QANightlyResults": 195,
             "PrestaShop\/LocalizationFiles": 9,
-            "PrestaShop\/presthubot": 349,
+            "PrestaShop\/presthubot": 350,
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
@@ -238,7 +238,7 @@
                 }
             },
             "tools": {
-                "total": 688,
+                "total": 689,
                 "repositories": {
                     "PrestaShop\/docker": 36,
                     "PrestaShop\/docker-ci": 4,
@@ -247,7 +247,7 @@
                     "PrestaShop\/mjml-theme-converter": 1,
                     "PrestaShop\/nightly-board": 38,
                     "PrestaShop\/PrestaShop-webservice-lib": 4,
-                    "PrestaShop\/presthubot": 349,
+                    "PrestaShop\/presthubot": 350,
                     "PrestaShop\/QANightlyResults": 195,
                     "PrestaShop\/TopContributors": 33,
                     "PrestaShop\/traces": 18
@@ -1201,7 +1201,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 3918,
+        "contributions": 3919,
         "repositories": {
             "PrestaShop\/PrestaShop": 1692,
             "PrestaShop\/PrestaShop-modules": 349,
@@ -1232,7 +1232,7 @@
             "PrestaShop\/statssearch": 2,
             "PrestaShop\/statsstock": 2,
             "PrestaShop\/blockwishlist": 38,
-            "PrestaShop\/autoupgrade": 637,
+            "PrestaShop\/autoupgrade": 638,
             "PrestaShop\/gsitemap": 6,
             "PrestaShop\/prestashop.github.io": 11,
             "PrestaShop\/docker": 309,
@@ -1317,7 +1317,7 @@
                 }
             },
             "modules": {
-                "total": 1421,
+                "total": 1422,
                 "repositories": {
                     "PrestaShop\/PrestaShop-modules": 349,
                     "PrestaShop\/dashactivity": 1,
@@ -1346,7 +1346,7 @@
                     "PrestaShop\/statssearch": 2,
                     "PrestaShop\/statsstock": 2,
                     "PrestaShop\/blockwishlist": 38,
-                    "PrestaShop\/autoupgrade": 637,
+                    "PrestaShop\/autoupgrade": 638,
                     "PrestaShop\/gsitemap": 6,
                     "PrestaShop\/contactform": 1,
                     "PrestaShop\/ps_sharebuttons": 8,
@@ -7452,12 +7452,12 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 255,
+        "contributions": 257,
         "repositories": {
             "PrestaShop\/PrestaShop": 118,
             "PrestaShop\/blockwishlist": 1,
             "PrestaShop\/productcomments": 4,
-            "PrestaShop\/autoupgrade": 74,
+            "PrestaShop\/autoupgrade": 76,
             "PrestaShop\/blockreassurance": 1,
             "PrestaShop\/ps_linklist": 3,
             "PrestaShop\/ps_banner": 1,
@@ -7496,11 +7496,11 @@
                 "repositories": []
             },
             "modules": {
-                "total": 88,
+                "total": 90,
                 "repositories": {
                     "PrestaShop\/blockwishlist": 1,
                     "PrestaShop\/productcomments": 4,
-                    "PrestaShop\/autoupgrade": 74,
+                    "PrestaShop\/autoupgrade": 76,
                     "PrestaShop\/blockreassurance": 1,
                     "PrestaShop\/ps_linklist": 3,
                     "PrestaShop\/ps_banner": 1,
@@ -25990,7 +25990,7 @@
         "html_url": "https:\/\/github.com\/RubenMartins",
         "name": "R\u00faben Martins",
         "company": "WOW Digital",
-        "blog": "https:\/\/rubenmartins.pt",
+        "blog": "rubenmartins.pt",
         "location": "Algarve, Portugal",
         "bio": "Full-Stack Web & Mobile Developer\r\n\r\nWordPress Plugin & Theme Developer",
         "email_domain": "",
@@ -40803,5 +40803,5 @@
             }
         }
     },
-    "updatedAt": "2024-08-08 06:06:11"
+    "updatedAt": "2024-08-09 06:08:16"
 }
