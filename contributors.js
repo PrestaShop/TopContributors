@@ -284,9 +284,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 5859,
+        "contributions": 5864,
         "repositories": {
-            "PrestaShop\/PrestaShop": 4969,
+            "PrestaShop\/PrestaShop": 4974,
             "PrestaShop\/dashgoals": 1,
             "PrestaShop\/dashproducts": 3,
             "PrestaShop\/dashtrends": 2,
@@ -349,9 +349,9 @@
         },
         "categories": {
             "core": {
-                "total": 5042,
+                "total": 5047,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 4969,
+                    "PrestaShop\/PrestaShop": 4974,
                     "PrestaShop\/prestashop-ui-kit": 12,
                     "PrestaShop\/TranslationToolsBundle": 7,
                     "PrestaShop\/circuit-breaker": 31,
@@ -7710,6 +7710,56 @@
         }
     },
     "74": {
+        "login": "jokesterfr",
+        "id": 1536672,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1536672?v=4",
+        "html_url": "https:\/\/github.com\/jokesterfr",
+        "name": "Cl\u00e9ment D\u00e9siles",
+        "company": "PrestaShop",
+        "blog": "https:\/\/clementdesiles.fr",
+        "location": "Strasbourg",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 200,
+        "repositories": {
+            "PrestaShop\/prestashop-flashlight": 192,
+            "PrestaShop\/ws-client": 8
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 200,
+                "repositories": {
+                    "PrestaShop\/prestashop-flashlight": 192,
+                    "PrestaShop\/ws-client": 8
+                }
+            }
+        }
+    },
+    "75": {
         "login": "margud",
         "id": 51944825,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/51944825?v=4",
@@ -7760,7 +7810,7 @@
             }
         }
     },
-    "75": {
+    "76": {
         "login": "vschoener",
         "id": 1213200,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1213200?v=4",
@@ -7808,7 +7858,7 @@
             }
         }
     },
-    "76": {
+    "77": {
         "login": "fatmaBouchekoua",
         "id": 20836092,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20836092?v=4",
@@ -7863,56 +7913,6 @@
             "others": {
                 "total": 0,
                 "repositories": []
-            }
-        }
-    },
-    "77": {
-        "login": "jokesterfr",
-        "id": 1536672,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1536672?v=4",
-        "html_url": "https:\/\/github.com\/jokesterfr",
-        "name": "Cl\u00e9ment D\u00e9siles",
-        "company": "PrestaShop",
-        "blog": "https:\/\/clementdesiles.fr",
-        "location": "Strasbourg",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 197,
-        "repositories": {
-            "PrestaShop\/prestashop-flashlight": 189,
-            "PrestaShop\/ws-client": 8
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 197,
-                "repositories": {
-                    "PrestaShop\/prestashop-flashlight": 189,
-                    "PrestaShop\/ws-client": 8
-                }
             }
         }
     },
@@ -40853,5 +40853,5 @@
             }
         }
     },
-    "updatedAt": "2024-08-16 06:06:12"
+    "updatedAt": "2024-08-17 06:07:22"
 }
