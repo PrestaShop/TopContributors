@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 7291,
+        "contributions": 7292,
         "repositories": {
             "PrestaShop\/PrestaShop": 3528,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 666,
+            "PrestaShop\/test-scenarios": 667,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 851,
+                "total": 852,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 666,
+                    "PrestaShop\/test-scenarios": 667,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -7720,9 +7720,9 @@
         "location": "Strasbourg",
         "bio": null,
         "email_domain": "",
-        "contributions": 201,
+        "contributions": 202,
         "repositories": {
-            "PrestaShop\/prestashop-flashlight": 193,
+            "PrestaShop\/prestashop-flashlight": 194,
             "PrestaShop\/ws-client": 8
         },
         "categories": {
@@ -7751,9 +7751,9 @@
                 "repositories": []
             },
             "others": {
-                "total": 201,
+                "total": 202,
                 "repositories": {
-                    "PrestaShop\/prestashop-flashlight": 193,
+                    "PrestaShop\/prestashop-flashlight": 194,
                     "PrestaShop\/ws-client": 8
                 }
             }
@@ -40853,5 +40853,5 @@
             }
         }
     },
-    "updatedAt": "2024-08-21 06:06:17"
+    "updatedAt": "2024-08-22 06:06:38"
 }
