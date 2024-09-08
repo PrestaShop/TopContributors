@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 7355,
+        "contributions": 7356,
         "repositories": {
             "PrestaShop\/PrestaShop": 3536,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 677,
+            "PrestaShop\/test-scenarios": 678,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 862,
+                "total": 863,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 677,
+                    "PrestaShop\/test-scenarios": 678,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -36062,10 +36062,10 @@
         "id": 126407576,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/126407576?v=4",
         "html_url": "https:\/\/github.com\/davidismeurt",
-        "name": "David",
+        "name": "David Ismeurt",
         "company": null,
         "blog": "",
-        "location": null,
+        "location": "France",
         "bio": null,
         "email_domain": "",
         "contributions": 1,
@@ -40953,5 +40953,5 @@
             }
         }
     },
-    "updatedAt": "2024-09-07 06:06:03"
+    "updatedAt": "2024-09-08 06:06:01"
 }
