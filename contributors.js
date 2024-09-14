@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 7414,
+        "contributions": 7424,
         "repositories": {
-            "PrestaShop\/PrestaShop": 3564,
+            "PrestaShop\/PrestaShop": 3568,
             "PrestaShop\/PrestaShop-modules": 31,
             "PrestaShop\/PrestaShop-webservice-lib": 4,
             "PrestaShop\/dashactivity": 14,
@@ -107,13 +107,13 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 684,
+            "PrestaShop\/test-scenarios": 685,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
             "PrestaShop\/ps-docs-theme": 3,
             "PrestaShop\/contextual-help-api": 1,
-            "PrestaShop\/ga.tests.ui.pr": 69,
+            "PrestaShop\/ga.tests.ui.pr": 70,
             "PrestaShop\/ps-project-metrics": 4,
             "PrestaShop\/user-documentation-v8-en": 1,
             "PrestaShop\/classic-theme": 174,
@@ -122,13 +122,13 @@
             "PrestaShop\/keycloak_connector_demo": 19,
             "PrestaShop\/ws-client": 25,
             "PrestaShop\/ps_apiresources": 3,
-            "PrestaShop\/ui-testing-library": 284
+            "PrestaShop\/ui-testing-library": 288
         },
         "categories": {
             "core": {
-                "total": 3667,
+                "total": 3671,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 3564,
+                    "PrestaShop\/PrestaShop": 3568,
                     "PrestaShop\/prestashop-ui-kit": 50,
                     "PrestaShop\/TranslationToolsBundle": 9,
                     "PrestaShop\/LocalizationFiles": 9,
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 869,
+                "total": 870,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 684,
+                    "PrestaShop\/test-scenarios": 685,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -254,13 +254,13 @@
                 }
             },
             "others": {
-                "total": 481,
+                "total": 486,
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 68,
                     "PrestaShop\/TopTranslators": 1,
                     "PrestaShop\/ps-docs-theme": 3,
                     "PrestaShop\/contextual-help-api": 1,
-                    "PrestaShop\/ga.tests.ui.pr": 69,
+                    "PrestaShop\/ga.tests.ui.pr": 70,
                     "PrestaShop\/ps-project-metrics": 4,
                     "PrestaShop\/user-documentation-v8-en": 1,
                     "PrestaShop\/ps_distributionapiclient": 1,
@@ -268,7 +268,7 @@
                     "PrestaShop\/keycloak_connector_demo": 19,
                     "PrestaShop\/ws-client": 25,
                     "PrestaShop\/ps_apiresources": 3,
-                    "PrestaShop\/ui-testing-library": 284
+                    "PrestaShop\/ui-testing-library": 288
                 }
             }
         }
@@ -284,7 +284,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 5913,
+        "contributions": 5914,
         "repositories": {
             "PrestaShop\/PrestaShop": 5012,
             "PrestaShop\/dashgoals": 1,
@@ -334,7 +334,7 @@
             "PrestaShop\/hummingbird": 6,
             "PrestaShop\/devdocs-site": 5,
             "PrestaShop\/distribution-api": 3,
-            "PrestaShop\/ga.tests.ui.pr": 58,
+            "PrestaShop\/ga.tests.ui.pr": 59,
             "PrestaShop\/classic-theme": 53,
             "PrestaShop\/ps_distributionapiclient": 4,
             "PrestaShop\/autoload": 2,
@@ -422,14 +422,14 @@
                 }
             },
             "others": {
-                "total": 197,
+                "total": 198,
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 12,
                     "PrestaShop\/.github": 2,
                     "PrestaShop\/DocToolsBundle": 34,
                     "PrestaShop\/devdocs-site": 5,
                     "PrestaShop\/distribution-api": 3,
-                    "PrestaShop\/ga.tests.ui.pr": 58,
+                    "PrestaShop\/ga.tests.ui.pr": 59,
                     "PrestaShop\/ps_distributionapiclient": 4,
                     "PrestaShop\/autoload": 2,
                     "PrestaShop\/keycloak_connector_demo": 13,
@@ -1565,9 +1565,9 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2542,
+        "contributions": 2543,
         "repositories": {
-            "PrestaShop\/PrestaShop": 632,
+            "PrestaShop\/PrestaShop": 633,
             "PrestaShop\/PrestaShop-modules": 4,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
             "PrestaShop\/dashactivity": 1,
@@ -1670,9 +1670,9 @@
         },
         "categories": {
             "core": {
-                "total": 654,
+                "total": 655,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 632,
+                    "PrestaShop\/PrestaShop": 633,
                     "PrestaShop\/prestashop-ui-kit": 1,
                     "PrestaShop\/LocalizationFiles": 19,
                     "PrestaShop\/stylelint-browser-compatibility": 1,
@@ -11625,6 +11625,62 @@
         }
     },
     "139": {
+        "login": "Codencode",
+        "id": 2463965,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
+        "html_url": "https:\/\/github.com\/Codencode",
+        "name": null,
+        "company": "Codencode",
+        "blog": "https:\/\/www.codencode.it",
+        "location": "Isernia - via G. Saragat, 19",
+        "bio": null,
+        "email_domain": "codencode.it",
+        "contributions": 49,
+        "repositories": {
+            "PrestaShop\/PrestaShop": 26,
+            "PrestaShop\/ps_emailsubscription": 20,
+            "PrestaShop\/ps_imageslider": 1,
+            "PrestaShop\/classic-theme": 2
+        },
+        "categories": {
+            "core": {
+                "total": 26,
+                "repositories": {
+                    "PrestaShop\/PrestaShop": 26
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 2,
+                "repositories": {
+                    "PrestaShop\/classic-theme": 2
+                }
+            },
+            "modules": {
+                "total": 21,
+                "repositories": {
+                    "PrestaShop\/ps_emailsubscription": 20,
+                    "PrestaShop\/ps_imageslider": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "140": {
         "login": "fabienvallon",
         "id": 93661074,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/93661074?v=4",
@@ -11671,62 +11727,6 @@
                     "PrestaShop\/prestashop.github.io": 37,
                     "PrestaShop\/functional-documentation": 12
                 }
-            }
-        }
-    },
-    "140": {
-        "login": "Codencode",
-        "id": 2463965,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
-        "html_url": "https:\/\/github.com\/Codencode",
-        "name": null,
-        "company": "Codencode",
-        "blog": "https:\/\/www.codencode.it",
-        "location": "Isernia - via G. Saragat, 19",
-        "bio": null,
-        "email_domain": "codencode.it",
-        "contributions": 48,
-        "repositories": {
-            "PrestaShop\/PrestaShop": 25,
-            "PrestaShop\/ps_emailsubscription": 20,
-            "PrestaShop\/ps_imageslider": 1,
-            "PrestaShop\/classic-theme": 2
-        },
-        "categories": {
-            "core": {
-                "total": 25,
-                "repositories": {
-                    "PrestaShop\/PrestaShop": 25
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 2,
-                "repositories": {
-                    "PrestaShop\/classic-theme": 2
-                }
-            },
-            "modules": {
-                "total": 21,
-                "repositories": {
-                    "PrestaShop\/ps_emailsubscription": 20,
-                    "PrestaShop\/ps_imageslider": 1
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
             }
         }
     },
@@ -13106,15 +13106,15 @@
         }
     },
     "166": {
-        "login": "creack",
-        "id": 521701,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/521701?v=4",
-        "html_url": "https:\/\/github.com\/creack",
-        "name": "Guillaume J. Charmes",
-        "company": "Immertec",
-        "blog": "https:\/\/blog.charmes.net",
-        "location": "Fort Lauderdale, FL",
-        "bio": "@golang @docker\r\n@gofinance @while42-org ",
+        "login": "LucasC",
+        "id": 679004,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/679004?v=4",
+        "html_url": "https:\/\/github.com\/LucasC",
+        "name": "Lucas CERDAN",
+        "company": null,
+        "blog": "www.lucascerdan.com",
+        "location": "France",
+        "bio": null,
         "email_domain": "",
         "contributions": 32,
         "repositories": {
@@ -13154,15 +13154,15 @@
         }
     },
     "167": {
-        "login": "LucasC",
-        "id": 679004,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/679004?v=4",
-        "html_url": "https:\/\/github.com\/LucasC",
-        "name": "Lucas CERDAN",
-        "company": null,
-        "blog": "www.lucascerdan.com",
-        "location": "France",
-        "bio": null,
+        "login": "creack",
+        "id": 521701,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/521701?v=4",
+        "html_url": "https:\/\/github.com\/creack",
+        "name": "Guillaume J. Charmes",
+        "company": "Immertec",
+        "blog": "https:\/\/blog.charmes.net",
+        "location": "Fort Lauderdale, FL",
+        "bio": "@golang @docker\r\n@gofinance @while42-org ",
         "email_domain": "",
         "contributions": 32,
         "repositories": {
@@ -20139,7 +20139,7 @@
         "company": "crezzur",
         "blog": "https:\/\/crezzur.com",
         "location": "Antwerpen",
-        "bio": "Freelance Developer",
+        "bio": "SaaS Developer",
         "email_domain": "crezzur.com",
         "contributions": 7,
         "repositories": {
@@ -27021,7 +27021,7 @@
         "id": 4147037,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4147037?v=4",
         "html_url": "https:\/\/github.com\/tibs245",
-        "name": "Thibault Barske",
+        "name": "Thibault Barske (Tibs)",
         "company": null,
         "blog": "https:\/\/mstdn.business\/@thibault_barske",
         "location": "Normandie",
@@ -27898,7 +27898,7 @@
         "company": null,
         "blog": "",
         "location": "Qu\u00e9bec, Canada",
-        "bio": "\r\n    \r\n    SysAdmin  \r\n                           \r\n\r\nDiscord : maximemichaud\r\n\r\n",
+        "bio": "\r\n    CEO & CTO, SysAdmin  \r\n                      \r\n\r\n",
         "email_domain": "",
         "contributions": 2,
         "repositories": {
@@ -41004,5 +41004,5 @@
             }
         }
     },
-    "updatedAt": "2024-09-13 06:08:07"
+    "updatedAt": "2024-09-14 06:06:06"
 }
