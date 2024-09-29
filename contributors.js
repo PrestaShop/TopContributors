@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 7556,
+        "contributions": 7557,
         "repositories": {
             "PrestaShop\/PrestaShop": 3615,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 701,
+            "PrestaShop\/test-scenarios": 702,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 886,
+                "total": 887,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 701,
+                    "PrestaShop\/test-scenarios": 702,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -26930,8 +26930,8 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5318898?v=4",
         "html_url": "https:\/\/github.com\/arthtux",
         "name": "Arthur Deschamps",
-        "company": "Decathlon Canada",
-        "blog": "https:\/\/www.decathlon.ca\/",
+        "company": "Connect&Go",
+        "blog": "",
         "location": "Montr\u00e9al, QC",
         "bio": null,
         "email_domain": "gmail.com",
@@ -41013,5 +41013,5 @@
             }
         }
     },
-    "updatedAt": "2024-09-28 06:07:41"
+    "updatedAt": "2024-09-29 06:06:17"
 }
