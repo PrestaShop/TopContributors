@@ -284,9 +284,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 5945,
+        "contributions": 5947,
         "repositories": {
-            "PrestaShop\/PrestaShop": 5040,
+            "PrestaShop\/PrestaShop": 5042,
             "PrestaShop\/dashgoals": 1,
             "PrestaShop\/dashproducts": 3,
             "PrestaShop\/dashtrends": 2,
@@ -350,9 +350,9 @@
         },
         "categories": {
             "core": {
-                "total": 5113,
+                "total": 5115,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 5040,
+                    "PrestaShop\/PrestaShop": 5042,
                     "PrestaShop\/prestashop-ui-kit": 12,
                     "PrestaShop\/TranslationToolsBundle": 7,
                     "PrestaShop\/circuit-breaker": 31,
@@ -23622,7 +23622,7 @@
         "html_url": "https:\/\/github.com\/emmanuelgautier",
         "name": "Emmanuel Gautier",
         "company": "@cerberauth",
-        "blog": "https:\/\/bio.link\/emmanuelgautier\/",
+        "blog": "https:\/\/www.emmanuelgautier.com\/",
         "location": "France",
         "bio": "Digging into CIAM, OpenID Connect and API vulnerabilities with @cerberauth.",
         "email_domain": "",
@@ -41013,5 +41013,5 @@
             }
         }
     },
-    "updatedAt": "2024-09-29 06:06:17"
+    "updatedAt": "2024-09-30 06:10:37"
 }
