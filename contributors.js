@@ -28201,10 +28201,10 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/351773?v=4",
         "html_url": "https:\/\/github.com\/jak78",
         "name": "Julien Jakubowski",
-        "company": "@streamnative",
+        "company": "Decathlon",
         "blog": "",
         "location": "Lille, France",
-        "bio": "Developer Relations @streamnative ",
+        "bio": "Staff Software Engineer @Decathlon",
         "email_domain": "",
         "contributions": 2,
         "repositories": {
@@ -41118,5 +41118,5 @@
             }
         }
     },
-    "updatedAt": "2024-10-06 06:06:23"
+    "updatedAt": "2024-10-07 06:08:25"
 }
