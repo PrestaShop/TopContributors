@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 7725,
+        "contributions": 7726,
         "repositories": {
             "PrestaShop\/PrestaShop": 3662,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 724,
+            "PrestaShop\/test-scenarios": 725,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 909,
+                "total": 910,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 724,
+                    "PrestaShop\/test-scenarios": 725,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -20118,7 +20118,7 @@
         "id": 4937578,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4937578?v=4",
         "html_url": "https:\/\/github.com\/mrAKAR",
-        "name": "Aram",
+        "name": "Aram Karapetyan",
         "company": null,
         "blog": "",
         "location": null,
@@ -41227,5 +41227,5 @@
             }
         }
     },
-    "updatedAt": "2024-10-27 06:06:14"
+    "updatedAt": "2024-10-28 07:39:43"
 }
