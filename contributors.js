@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 7749,
+        "contributions": 7756,
         "repositories": {
             "PrestaShop\/PrestaShop": 3673,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 726,
+            "PrestaShop\/test-scenarios": 727,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -122,7 +122,7 @@
             "PrestaShop\/keycloak_connector_demo": 19,
             "PrestaShop\/ws-client": 25,
             "PrestaShop\/ps_apiresources": 3,
-            "PrestaShop\/ui-testing-library": 412
+            "PrestaShop\/ui-testing-library": 418
         },
         "categories": {
             "core": {
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 911,
+                "total": 912,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 726,
+                    "PrestaShop\/test-scenarios": 727,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -254,7 +254,7 @@
                 }
             },
             "others": {
-                "total": 619,
+                "total": 625,
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 68,
                     "PrestaShop\/TopTranslators": 1,
@@ -268,7 +268,7 @@
                     "PrestaShop\/keycloak_connector_demo": 19,
                     "PrestaShop\/ws-client": 25,
                     "PrestaShop\/ps_apiresources": 3,
-                    "PrestaShop\/ui-testing-library": 412
+                    "PrestaShop\/ui-testing-library": 418
                 }
             }
         }
@@ -1203,7 +1203,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 4041,
+        "contributions": 4042,
         "repositories": {
             "PrestaShop\/PrestaShop": 1692,
             "PrestaShop\/PrestaShop-modules": 349,
@@ -1234,7 +1234,7 @@
             "PrestaShop\/statssearch": 2,
             "PrestaShop\/statsstock": 2,
             "PrestaShop\/blockwishlist": 38,
-            "PrestaShop\/autoupgrade": 755,
+            "PrestaShop\/autoupgrade": 756,
             "PrestaShop\/gsitemap": 6,
             "PrestaShop\/prestashop.github.io": 15,
             "PrestaShop\/docker": 309,
@@ -1319,7 +1319,7 @@
                 }
             },
             "modules": {
-                "total": 1539,
+                "total": 1540,
                 "repositories": {
                     "PrestaShop\/PrestaShop-modules": 349,
                     "PrestaShop\/dashactivity": 1,
@@ -1348,7 +1348,7 @@
                     "PrestaShop\/statssearch": 2,
                     "PrestaShop\/statsstock": 2,
                     "PrestaShop\/blockwishlist": 38,
-                    "PrestaShop\/autoupgrade": 755,
+                    "PrestaShop\/autoupgrade": 756,
                     "PrestaShop\/gsitemap": 6,
                     "PrestaShop\/contactform": 1,
                     "PrestaShop\/ps_sharebuttons": 8,
@@ -1505,7 +1505,7 @@
         "location": "Paris, France",
         "bio": "QA Automation Engineer",
         "email_domain": "gmail.com",
-        "contributions": 3074,
+        "contributions": 3080,
         "repositories": {
             "PrestaShop\/PrestaShop": 2777,
             "PrestaShop\/blockwishlist": 1,
@@ -1513,7 +1513,7 @@
             "PrestaShop\/QANightlyResults": 2,
             "PrestaShop\/ga.tests.ui.pr": 1,
             "PrestaShop\/classic-theme": 8,
-            "PrestaShop\/ui-testing-library": 167
+            "PrestaShop\/ui-testing-library": 173
         },
         "categories": {
             "core": {
@@ -1550,10 +1550,10 @@
                 }
             },
             "others": {
-                "total": 168,
+                "total": 174,
                 "repositories": {
                     "PrestaShop\/ga.tests.ui.pr": 1,
-                    "PrestaShop\/ui-testing-library": 167
+                    "PrestaShop\/ui-testing-library": 173
                 }
             }
         }
@@ -23147,6 +23147,56 @@
         }
     },
     "363": {
+        "login": "bibips",
+        "id": 6272184,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6272184?v=4",
+        "html_url": "https:\/\/github.com\/bibips",
+        "name": null,
+        "company": "Eurofins",
+        "blog": "",
+        "location": "Alsace",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 4,
+        "repositories": {
+            "PrestaShop\/autoupgrade": 1,
+            "PrestaShop\/ps_facetedsearch": 3
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 4,
+                "repositories": {
+                    "PrestaShop\/autoupgrade": 1,
+                    "PrestaShop\/ps_facetedsearch": 3
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "364": {
         "login": "TrogloGeek",
         "id": 3205686,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3205686?v=4",
@@ -23194,7 +23244,7 @@
             }
         }
     },
-    "364": {
+    "365": {
         "login": "llandrysg",
         "id": 19404893,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/19404893?v=4",
@@ -23242,7 +23292,7 @@
             }
         }
     },
-    "365": {
+    "366": {
         "login": "alexsegura",
         "id": 1162230,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1162230?v=4",
@@ -23290,7 +23340,7 @@
             }
         }
     },
-    "366": {
+    "367": {
         "login": "gericfo",
         "id": 52211274,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/52211274?v=4",
@@ -23343,7 +23393,7 @@
             }
         }
     },
-    "367": {
+    "368": {
         "login": "florian-nolte",
         "id": 2221881,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2221881?v=4",
@@ -23394,7 +23444,7 @@
             }
         }
     },
-    "368": {
+    "369": {
         "login": "bykivi",
         "id": 8391845,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8391845?v=4",
@@ -23442,7 +23492,7 @@
             }
         }
     },
-    "369": {
+    "370": {
         "login": "gregor-doroschenko",
         "id": 2324240,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2324240?v=4",
@@ -23490,7 +23540,7 @@
             }
         }
     },
-    "370": {
+    "371": {
         "login": "ramalac",
         "id": 85785387,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/85785387?v=4",
@@ -23538,7 +23588,7 @@
             }
         }
     },
-    "371": {
+    "372": {
         "login": "fabienVernieres",
         "id": 106905008,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/106905008?v=4",
@@ -23586,7 +23636,7 @@
             }
         }
     },
-    "372": {
+    "373": {
         "login": "Unsleeping",
         "id": 45426001,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/45426001?v=4",
@@ -23634,7 +23684,7 @@
             }
         }
     },
-    "373": {
+    "374": {
         "login": "templatin",
         "id": 3615808,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3615808?v=4",
@@ -23685,7 +23735,7 @@
             }
         }
     },
-    "374": {
+    "375": {
         "login": "emmanuelgautier",
         "id": 2765366,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2765366?v=4",
@@ -23733,7 +23783,7 @@
             }
         }
     },
-    "375": {
+    "376": {
         "login": "timactive",
         "id": 3832141,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3832141?v=4",
@@ -23786,7 +23836,7 @@
             }
         }
     },
-    "376": {
+    "377": {
         "login": "prestaalba",
         "id": 18466848,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/18466848?v=4",
@@ -23834,7 +23884,7 @@
             }
         }
     },
-    "377": {
+    "378": {
         "login": "gehoo",
         "id": 16374546,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16374546?v=4",
@@ -23882,7 +23932,7 @@
             }
         }
     },
-    "378": {
+    "379": {
         "login": "Markus-Gurkcity",
         "id": 63096826,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/63096826?v=4",
@@ -23930,7 +23980,7 @@
             }
         }
     },
-    "379": {
+    "380": {
         "login": "Vudubond",
         "id": 12144367,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12144367?v=4",
@@ -23978,7 +24028,7 @@
             }
         }
     },
-    "380": {
+    "381": {
         "login": "AJenbo",
         "id": 204594,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/204594?v=4",
@@ -24026,7 +24076,7 @@
             }
         }
     },
-    "381": {
+    "382": {
         "login": "chrisai-dev",
         "id": 49228974,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/49228974?v=4",
@@ -24074,7 +24124,7 @@
             }
         }
     },
-    "382": {
+    "383": {
         "login": "lramos-prolaser",
         "id": 90182741,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/90182741?v=4",
@@ -24122,7 +24172,7 @@
             }
         }
     },
-    "383": {
+    "384": {
         "login": "damiandominella",
         "id": 16267714,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16267714?v=4",
@@ -24170,7 +24220,7 @@
             }
         }
     },
-    "384": {
+    "385": {
         "login": "kazeno",
         "id": 6614341,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6614341?v=4",
@@ -24218,7 +24268,7 @@
             }
         }
     },
-    "385": {
+    "386": {
         "login": "esilvajr",
         "id": 7405198,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7405198?v=4",
@@ -24266,7 +24316,7 @@
             }
         }
     },
-    "386": {
+    "387": {
         "login": "RobertHumiston",
         "id": 4294468,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4294468?v=4",
@@ -24314,7 +24364,7 @@
             }
         }
     },
-    "387": {
+    "388": {
         "login": "PaymentSense-Developer",
         "id": 6065783,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6065783?v=4",
@@ -24362,7 +24412,7 @@
             }
         }
     },
-    "388": {
+    "389": {
         "login": "akerouanton",
         "id": 557933,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/557933?v=4",
@@ -24410,7 +24460,7 @@
             }
         }
     },
-    "389": {
+    "390": {
         "login": "adyenpayments",
         "id": 3750235,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3750235?v=4",
@@ -24458,7 +24508,7 @@
             }
         }
     },
-    "390": {
+    "391": {
         "login": "vTerenti",
         "id": 2833890,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2833890?v=4",
@@ -24508,7 +24558,7 @@
             }
         }
     },
-    "391": {
+    "392": {
         "login": "prestancedesign",
         "id": 1840522,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1840522?v=4",
@@ -24558,7 +24608,7 @@
             }
         }
     },
-    "392": {
+    "393": {
         "login": "dave-lw",
         "id": 1899221,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1899221?v=4",
@@ -24609,7 +24659,7 @@
             }
         }
     },
-    "393": {
+    "394": {
         "login": "matthieume",
         "id": 4466105,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4466105?v=4",
@@ -24660,7 +24710,7 @@
             }
         }
     },
-    "394": {
+    "395": {
         "login": "denys202",
         "id": 52750352,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/52750352?v=4",
@@ -24710,7 +24760,7 @@
             }
         }
     },
-    "395": {
+    "396": {
         "login": "AdrienPlx",
         "id": 43446598,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/43446598?v=4",
@@ -24758,7 +24808,7 @@
             }
         }
     },
-    "396": {
+    "397": {
         "login": "Adrien-Griveau",
         "id": 10723029,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10723029?v=4",
@@ -24809,7 +24859,7 @@
             }
         }
     },
-    "397": {
+    "398": {
         "login": "petyuska",
         "id": 1310605,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1310605?v=4",
@@ -24857,7 +24907,7 @@
             }
         }
     },
-    "398": {
+    "399": {
         "login": "pkirk",
         "id": 417485,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/417485?v=4",
@@ -24905,7 +24955,7 @@
             }
         }
     },
-    "399": {
+    "400": {
         "login": "PaoloFalomo",
         "id": 10535089,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10535089?v=4",
@@ -24953,7 +25003,7 @@
             }
         }
     },
-    "400": {
+    "401": {
         "login": "orangevinz",
         "id": 1336194,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1336194?v=4",
@@ -25001,7 +25051,7 @@
             }
         }
     },
-    "401": {
+    "402": {
         "login": "msaustral",
         "id": 46203943,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/46203943?v=4",
@@ -25049,7 +25099,7 @@
             }
         }
     },
-    "402": {
+    "403": {
         "login": "fulldecent",
         "id": 382183,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/382183?v=4",
@@ -25100,7 +25150,7 @@
             }
         }
     },
-    "403": {
+    "404": {
         "login": "camlafit",
         "id": 209915,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/209915?v=4",
@@ -25151,7 +25201,7 @@
             }
         }
     },
-    "404": {
+    "405": {
         "login": "dali-rajab",
         "id": 39015823,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/39015823?v=4",
@@ -25202,7 +25252,7 @@
             }
         }
     },
-    "405": {
+    "406": {
         "login": "marekjedrzejewski",
         "id": 6793160,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6793160?v=4",
@@ -25253,7 +25303,7 @@
             }
         }
     },
-    "406": {
+    "407": {
         "login": "matrixino",
         "id": 6110527,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6110527?v=4",
@@ -25262,54 +25312,6 @@
         "company": null,
         "blog": "http:\/\/www.areaunix.com",
         "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 3,
-        "repositories": {
-            "PrestaShop\/ps_facetedsearch": 3
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 3,
-                "repositories": {
-                    "PrestaShop\/ps_facetedsearch": 3
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "407": {
-        "login": "bibips",
-        "id": 6272184,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6272184?v=4",
-        "html_url": "https:\/\/github.com\/bibips",
-        "name": null,
-        "company": "Eurofins",
-        "blog": "",
-        "location": "Alsace",
         "bio": null,
         "email_domain": "",
         "contributions": 3,
@@ -37874,7 +37876,7 @@
         "html_url": "https:\/\/github.com\/jief",
         "name": "Jean-Francois Monfort",
         "company": "Freelance",
-        "blog": "https:\/\/www.linkedin.com\/in\/jfmonfort\/",
+        "blog": "",
         "location": "Li\u00e8ge, Belgium",
         "bio": "Symfony \/ Drupal Developer",
         "email_domain": "",
@@ -41227,5 +41229,5 @@
             }
         }
     },
-    "updatedAt": "2024-10-30 06:44:47"
+    "updatedAt": "2024-10-31 06:09:10"
 }
