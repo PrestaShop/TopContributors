@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 7761,
+        "contributions": 7762,
         "repositories": {
             "PrestaShop\/PrestaShop": 3674,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 728,
+            "PrestaShop\/test-scenarios": 729,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 913,
+                "total": 914,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 728,
+                    "PrestaShop\/test-scenarios": 729,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -25503,10 +25503,10 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6657815?v=4",
         "html_url": "https:\/\/github.com\/zapalm",
         "name": "Maksim T.",
-        "company": "Self employed",
+        "company": null,
         "blog": "https:\/\/zapalm.ru",
         "location": null,
-        "bio": "I'm seasoned developer for Yii2 framework and PrestaShop CMS. Often I'm contributing to PrestaShop modules and OpenSource in general.",
+        "bio": "\u042f \u043f\u0440\u0438\u0448\u0451\u043b \u0432 \u044d\u0442\u043e\u0442 \u043c\u0438\u0440 \u043d\u0435 \u043f\u0440\u043e\u0441\u0442\u043e \u0442\u0430\u043a.",
         "email_domain": "",
         "contributions": 3,
         "repositories": {
@@ -41229,5 +41229,5 @@
             }
         }
     },
-    "updatedAt": "2024-11-01 06:07:29"
+    "updatedAt": "2024-11-02 06:08:16"
 }
