@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 7837,
+        "contributions": 7838,
         "repositories": {
             "PrestaShop\/PrestaShop": 3708,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 737,
+            "PrestaShop\/test-scenarios": 738,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 922,
+                "total": 923,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 737,
+                    "PrestaShop\/test-scenarios": 738,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -10208,8 +10208,8 @@
         "id": 3863527,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3863527?v=4",
         "html_url": "https:\/\/github.com\/zalexki",
-        "name": "Alex. H. ",
-        "company": "Cityscoot",
+        "name": "Alex",
+        "company": null,
         "blog": "",
         "location": "Paris, France",
         "bio": "coding stuff that works",
@@ -41336,5 +41336,5 @@
             }
         }
     },
-    "updatedAt": "2024-11-16 06:10:18"
+    "updatedAt": "2024-11-17 08:13:37"
 }
