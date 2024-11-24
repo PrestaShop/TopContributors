@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 7874,
+        "contributions": 7876,
         "repositories": {
             "PrestaShop\/PrestaShop": 3719,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -97,7 +97,7 @@
             "PrestaShop\/prestashop-specs": 19,
             "PrestaShop\/circuit-breaker": 7,
             "PrestaShop\/eslint-config": 3,
-            "PrestaShop\/nightly-board": 41,
+            "PrestaShop\/nightly-board": 42,
             "PrestaShop\/open-source": 31,
             "PrestaShop\/mjml-theme-converter": 1,
             "PrestaShop\/php-dev-tools": 4,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 742,
+            "PrestaShop\/test-scenarios": 743,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 927,
+                "total": 928,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 742,
+                    "PrestaShop\/test-scenarios": 743,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -238,14 +238,14 @@
                 }
             },
             "tools": {
-                "total": 743,
+                "total": 744,
                 "repositories": {
                     "PrestaShop\/docker": 36,
                     "PrestaShop\/docker-ci": 4,
                     "PrestaShop\/docker-internal-images": 1,
                     "PrestaShop\/issuebot": 9,
                     "PrestaShop\/mjml-theme-converter": 1,
-                    "PrestaShop\/nightly-board": 41,
+                    "PrestaShop\/nightly-board": 42,
                     "PrestaShop\/PrestaShop-webservice-lib": 4,
                     "PrestaShop\/presthubot": 370,
                     "PrestaShop\/QANightlyResults": 226,
@@ -5940,7 +5940,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 434,
+        "contributions": 436,
         "repositories": {
             "PrestaShop\/PrestaShop": 230,
             "PrestaShop\/statsbestcategories": 2,
@@ -5973,6 +5973,7 @@
             "PrestaShop\/psgdpr": 6,
             "PrestaShop\/issuebot": 1,
             "PrestaShop\/prestashop-specs": 7,
+            "PrestaShop\/nightly-board": 2,
             "PrestaShop\/open-source": 12,
             "PrestaShop\/mjml-theme-converter": 3,
             "PrestaShop\/php-dev-tools": 1,
@@ -6043,11 +6044,12 @@
                 }
             },
             "tools": {
-                "total": 30,
+                "total": 32,
                 "repositories": {
                     "PrestaShop\/docker": 2,
                     "PrestaShop\/issuebot": 1,
                     "PrestaShop\/mjml-theme-converter": 3,
+                    "PrestaShop\/nightly-board": 2,
                     "PrestaShop\/ps-monitor-module-releases": 13,
                     "PrestaShop\/TopContributors": 9,
                     "PrestaShop\/traces": 2
@@ -41497,5 +41499,5 @@
             }
         }
     },
-    "updatedAt": "2024-11-23 06:10:49"
+    "updatedAt": "2024-11-24 06:08:44"
 }
