@@ -457,7 +457,7 @@
         "location": "Amiens - France",
         "bio": "PHP developer - love Symfony, CI & DevOps. Also tech manager",
         "email_domain": "",
-        "contributions": 5342,
+        "contributions": 5344,
         "repositories": {
             "PrestaShop\/PrestaShop": 2086,
             "PrestaShop\/PrestaShop-modules": 3,
@@ -575,7 +575,7 @@
             "PrestaShop\/ps_fixturescreator": 9,
             "PrestaShop\/kanbanbot": 9,
             "PrestaShop\/webservice-postman-examples": 1,
-            "PrestaShop\/zip-archives": 28,
+            "PrestaShop\/zip-archives": 30,
             "PrestaShop\/ps_apiresources": 3
         },
         "categories": {
@@ -709,7 +709,7 @@
                 }
             },
             "others": {
-                "total": 995,
+                "total": 997,
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 658,
                     "PrestaShop\/.github": 5,
@@ -728,7 +728,7 @@
                     "PrestaShop\/autoload": 1,
                     "PrestaShop\/ps_fixturescreator": 9,
                     "PrestaShop\/webservice-postman-examples": 1,
-                    "PrestaShop\/zip-archives": 28,
+                    "PrestaShop\/zip-archives": 30,
                     "PrestaShop\/ps_apiresources": 3
                 }
             }
@@ -41499,5 +41499,5 @@
             }
         }
     },
-    "updatedAt": "2024-11-24 06:08:44"
+    "updatedAt": "2024-11-25 08:23:40"
 }
