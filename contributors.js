@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 7922,
+        "contributions": 7923,
         "repositories": {
             "PrestaShop\/PrestaShop": 3740,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 748,
+            "PrestaShop\/test-scenarios": 749,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 933,
+                "total": 934,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 748,
+                    "PrestaShop\/test-scenarios": 749,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -8186,7 +8186,7 @@
         "html_url": "https:\/\/github.com\/davidglezz",
         "name": "David Gonzalez",
         "company": "Motive.co @empathyco",
-        "blog": "",
+        "blog": "https:\/\/github.com\/davidglezz",
         "location": "Spain",
         "bio": "Software Engineer",
         "email_domain": "gmail.com",
@@ -32779,7 +32779,7 @@
         "html_url": "https:\/\/github.com\/c100k",
         "name": "Chafik",
         "company": null,
-        "blog": "",
+        "blog": "https:\/\/c100k.eu",
         "location": "Paris",
         "bio": "Creator of RebootX - Your infra in your pocket",
         "email_domain": "gmail.com",
@@ -41508,5 +41508,5 @@
             }
         }
     },
-    "updatedAt": "2024-11-30 06:08:33"
+    "updatedAt": "2024-12-01 06:08:36"
 }
