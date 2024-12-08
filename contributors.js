@@ -1573,7 +1573,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2646,
+        "contributions": 2649,
         "repositories": {
             "PrestaShop\/PrestaShop": 658,
             "PrestaShop\/PrestaShop-modules": 4,
@@ -1611,7 +1611,7 @@
             "PrestaShop\/contactform": 8,
             "PrestaShop\/paymentexample": 7,
             "PrestaShop\/prestashop-ui-kit": 4,
-            "PrestaShop\/blockreassurance": 65,
+            "PrestaShop\/blockreassurance": 66,
             "PrestaShop\/ps_sharebuttons": 4,
             "PrestaShop\/ps_socialfollow": 5,
             "PrestaShop\/ps_linklist": 53,
@@ -1629,7 +1629,7 @@
             "PrestaShop\/ps_shoppingcart": 4,
             "PrestaShop\/ps_currencyselector": 7,
             "PrestaShop\/ps_languageselector": 4,
-            "PrestaShop\/ps_facetedsearch": 116,
+            "PrestaShop\/ps_facetedsearch": 118,
             "PrestaShop\/ps_customeraccountlinks": 1,
             "PrestaShop\/ps_searchbar": 2,
             "PrestaShop\/ps_checkpayment": 2,
@@ -1715,7 +1715,7 @@
                 }
             },
             "modules": {
-                "total": 557,
+                "total": 560,
                 "repositories": {
                     "PrestaShop\/PrestaShop-modules": 4,
                     "PrestaShop\/dashactivity": 1,
@@ -1748,7 +1748,7 @@
                     "PrestaShop\/autoupgrade": 44,
                     "PrestaShop\/gsitemap": 3,
                     "PrestaShop\/contactform": 8,
-                    "PrestaShop\/blockreassurance": 65,
+                    "PrestaShop\/blockreassurance": 66,
                     "PrestaShop\/ps_sharebuttons": 4,
                     "PrestaShop\/ps_socialfollow": 5,
                     "PrestaShop\/ps_linklist": 53,
@@ -1765,7 +1765,7 @@
                     "PrestaShop\/ps_shoppingcart": 4,
                     "PrestaShop\/ps_currencyselector": 7,
                     "PrestaShop\/ps_languageselector": 4,
-                    "PrestaShop\/ps_facetedsearch": 116,
+                    "PrestaShop\/ps_facetedsearch": 118,
                     "PrestaShop\/ps_customeraccountlinks": 1,
                     "PrestaShop\/ps_searchbar": 2,
                     "PrestaShop\/ps_checkpayment": 2,
@@ -41614,5 +41614,5 @@
             }
         }
     },
-    "updatedAt": "2024-12-07 06:38:50"
+    "updatedAt": "2024-12-08 07:14:02"
 }
