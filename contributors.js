@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 7996,
+        "contributions": 7997,
         "repositories": {
             "PrestaShop\/PrestaShop": 3758,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 756,
+            "PrestaShop\/test-scenarios": 757,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 941,
+                "total": 942,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 756,
+                    "PrestaShop\/test-scenarios": 757,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -40621,7 +40621,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/11234273?v=4",
         "html_url": "https:\/\/github.com\/sheerlox",
         "name": "Pierre Cavin",
-        "company": "@talent-ideal",
+        "company": "@unill-io",
         "blog": "",
         "location": "Occitanie, France",
         "bio": "\u201cNever limit yourself because of others\u2019 limited imagination; never limit others because of your own limited imagination.\u201d - Mae Jemison",
@@ -41623,5 +41623,5 @@
             }
         }
     },
-    "updatedAt": "2024-12-14 06:08:57"
+    "updatedAt": "2024-12-15 06:28:06"
 }
