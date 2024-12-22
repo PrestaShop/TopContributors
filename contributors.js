@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 8035,
+        "contributions": 8036,
         "repositories": {
             "PrestaShop\/PrestaShop": 3781,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 759,
+            "PrestaShop\/test-scenarios": 760,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 944,
+                "total": 945,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 759,
+                    "PrestaShop\/test-scenarios": 760,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -32567,7 +32567,7 @@
         "name": null,
         "company": null,
         "blog": "",
-        "location": null,
+        "location": "Paris",
         "bio": null,
         "email_domain": "",
         "contributions": 1,
@@ -40101,7 +40101,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5998908?v=4",
         "html_url": "https:\/\/github.com\/danidomen",
         "name": "Daniel Martin",
-        "company": null,
+        "company": "@DEINSER-ONLINE ",
         "blog": "",
         "location": "Madrid - Spain",
         "bio": null,
@@ -41631,5 +41631,5 @@
             }
         }
     },
-    "updatedAt": "2024-12-21 06:08:38"
+    "updatedAt": "2024-12-22 06:07:20"
 }
