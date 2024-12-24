@@ -1207,7 +1207,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 4168,
+        "contributions": 4175,
         "repositories": {
             "PrestaShop\/PrestaShop": 1692,
             "PrestaShop\/PrestaShop-modules": 349,
@@ -1238,7 +1238,7 @@
             "PrestaShop\/statssearch": 2,
             "PrestaShop\/statsstock": 2,
             "PrestaShop\/blockwishlist": 38,
-            "PrestaShop\/autoupgrade": 881,
+            "PrestaShop\/autoupgrade": 888,
             "PrestaShop\/gsitemap": 6,
             "PrestaShop\/prestashop.github.io": 15,
             "PrestaShop\/docker": 309,
@@ -1323,7 +1323,7 @@
                 }
             },
             "modules": {
-                "total": 1665,
+                "total": 1672,
                 "repositories": {
                     "PrestaShop\/PrestaShop-modules": 349,
                     "PrestaShop\/dashactivity": 1,
@@ -1352,7 +1352,7 @@
                     "PrestaShop\/statssearch": 2,
                     "PrestaShop\/statsstock": 2,
                     "PrestaShop\/blockwishlist": 38,
-                    "PrestaShop\/autoupgrade": 881,
+                    "PrestaShop\/autoupgrade": 888,
                     "PrestaShop\/gsitemap": 6,
                     "PrestaShop\/contactform": 1,
                     "PrestaShop\/ps_sharebuttons": 8,
@@ -41631,5 +41631,5 @@
             }
         }
     },
-    "updatedAt": "2024-12-23 06:16:20"
+    "updatedAt": "2024-12-24 06:27:58"
 }
