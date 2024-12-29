@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 8048,
+        "contributions": 8051,
         "repositories": {
             "PrestaShop\/PrestaShop": 3785,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 762,
+            "PrestaShop\/test-scenarios": 763,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -122,7 +122,7 @@
             "PrestaShop\/keycloak_connector_demo": 19,
             "PrestaShop\/ws-client": 25,
             "PrestaShop\/ps_apiresources": 3,
-            "PrestaShop\/ui-testing-library": 497
+            "PrestaShop\/ui-testing-library": 499
         },
         "categories": {
             "core": {
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 947,
+                "total": 948,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 762,
+                    "PrestaShop\/test-scenarios": 763,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -254,7 +254,7 @@
                 }
             },
             "others": {
-                "total": 708,
+                "total": 710,
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 68,
                     "PrestaShop\/TopTranslators": 1,
@@ -268,7 +268,7 @@
                     "PrestaShop\/keycloak_connector_demo": 19,
                     "PrestaShop\/ws-client": 25,
                     "PrestaShop\/ps_apiresources": 3,
-                    "PrestaShop\/ui-testing-library": 497
+                    "PrestaShop\/ui-testing-library": 499
                 }
             }
         }
@@ -41631,5 +41631,5 @@
             }
         }
     },
-    "updatedAt": "2024-12-28 06:30:27"
+    "updatedAt": "2024-12-29 06:27:14"
 }
