@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 8062,
+        "contributions": 8064,
         "repositories": {
             "PrestaShop\/PrestaShop": 3788,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -103,11 +103,11 @@
             "PrestaShop\/php-dev-tools": 4,
             "PrestaShop\/QANightlyResults": 248,
             "PrestaShop\/LocalizationFiles": 9,
-            "PrestaShop\/presthubot": 374,
+            "PrestaShop\/presthubot": 375,
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 765,
+            "PrestaShop\/test-scenarios": 766,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 950,
+                "total": 951,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 765,
+                    "PrestaShop\/test-scenarios": 766,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -238,7 +238,7 @@
                 }
             },
             "tools": {
-                "total": 775,
+                "total": 776,
                 "repositories": {
                     "PrestaShop\/docker": 40,
                     "PrestaShop\/docker-ci": 4,
@@ -247,7 +247,7 @@
                     "PrestaShop\/mjml-theme-converter": 1,
                     "PrestaShop\/nightly-board": 43,
                     "PrestaShop\/PrestaShop-webservice-lib": 4,
-                    "PrestaShop\/presthubot": 374,
+                    "PrestaShop\/presthubot": 375,
                     "PrestaShop\/QANightlyResults": 248,
                     "PrestaShop\/TopContributors": 33,
                     "PrestaShop\/traces": 18
@@ -41631,5 +41631,5 @@
             }
         }
     },
-    "updatedAt": "2025-01-01 06:28:53"
+    "updatedAt": "2025-01-02 06:09:40"
 }
