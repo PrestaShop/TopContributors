@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 8064,
+        "contributions": 8065,
         "repositories": {
             "PrestaShop\/PrestaShop": 3788,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 766,
+            "PrestaShop\/test-scenarios": 767,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -147,12 +147,12 @@
                 }
             },
             "documentation": {
-                "total": 951,
+                "total": 952,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 766,
+                    "PrestaShop\/test-scenarios": 767,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -7705,7 +7705,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 239,
+        "contributions": 241,
         "repositories": {
             "PrestaShop\/prestashop.github.io": 40,
             "PrestaShop\/docker": 15,
@@ -7713,7 +7713,7 @@
             "PrestaShop\/TopTranslators": 4,
             "PrestaShop\/TopContributors": 7,
             "PrestaShop\/docker-templates": 4,
-            "PrestaShop\/QANightlyResults": 2,
+            "PrestaShop\/QANightlyResults": 4,
             "PrestaShop\/performance-project": 47,
             "PrestaShop\/contextual-help-api": 37,
             "PrestaShop\/distribution-api": 61
@@ -7742,11 +7742,11 @@
                 "repositories": []
             },
             "tools": {
-                "total": 28,
+                "total": 30,
                 "repositories": {
                     "PrestaShop\/docker": 15,
                     "PrestaShop\/docker-templates": 4,
-                    "PrestaShop\/QANightlyResults": 2,
+                    "PrestaShop\/QANightlyResults": 4,
                     "PrestaShop\/TopContributors": 7
                 }
             },
@@ -41631,5 +41631,5 @@
             }
         }
     },
-    "updatedAt": "2025-01-03 06:23:37"
+    "updatedAt": "2025-01-04 06:47:21"
 }
