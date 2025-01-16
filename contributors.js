@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 8100,
+        "contributions": 8113,
         "repositories": {
-            "PrestaShop\/PrestaShop": 3793,
+            "PrestaShop\/PrestaShop": 3794,
             "PrestaShop\/PrestaShop-modules": 31,
             "PrestaShop\/PrestaShop-webservice-lib": 4,
             "PrestaShop\/dashactivity": 14,
@@ -97,13 +97,13 @@
             "PrestaShop\/prestashop-specs": 19,
             "PrestaShop\/circuit-breaker": 7,
             "PrestaShop\/eslint-config": 3,
-            "PrestaShop\/nightly-board": 43,
+            "PrestaShop\/nightly-board": 45,
             "PrestaShop\/open-source": 31,
             "PrestaShop\/mjml-theme-converter": 1,
             "PrestaShop\/php-dev-tools": 4,
-            "PrestaShop\/QANightlyResults": 250,
+            "PrestaShop\/QANightlyResults": 252,
             "PrestaShop\/LocalizationFiles": 9,
-            "PrestaShop\/presthubot": 379,
+            "PrestaShop\/presthubot": 381,
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
@@ -123,13 +123,13 @@
             "PrestaShop\/ps_fixturescreator": 10,
             "PrestaShop\/ws-client": 25,
             "PrestaShop\/ps_apiresources": 3,
-            "PrestaShop\/ui-testing-library": 510
+            "PrestaShop\/ui-testing-library": 516
         },
         "categories": {
             "core": {
-                "total": 3896,
+                "total": 3897,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 3793,
+                    "PrestaShop\/PrestaShop": 3794,
                     "PrestaShop\/prestashop-ui-kit": 50,
                     "PrestaShop\/TranslationToolsBundle": 9,
                     "PrestaShop\/LocalizationFiles": 9,
@@ -239,23 +239,23 @@
                 }
             },
             "tools": {
-                "total": 782,
+                "total": 788,
                 "repositories": {
                     "PrestaShop\/docker": 40,
                     "PrestaShop\/docker-ci": 4,
                     "PrestaShop\/docker-internal-images": 1,
                     "PrestaShop\/issuebot": 9,
                     "PrestaShop\/mjml-theme-converter": 1,
-                    "PrestaShop\/nightly-board": 43,
+                    "PrestaShop\/nightly-board": 45,
                     "PrestaShop\/PrestaShop-webservice-lib": 4,
-                    "PrestaShop\/presthubot": 379,
-                    "PrestaShop\/QANightlyResults": 250,
+                    "PrestaShop\/presthubot": 381,
+                    "PrestaShop\/QANightlyResults": 252,
                     "PrestaShop\/TopContributors": 33,
                     "PrestaShop\/traces": 18
                 }
             },
             "others": {
-                "total": 733,
+                "total": 739,
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 68,
                     "PrestaShop\/TopTranslators": 1,
@@ -270,7 +270,7 @@
                     "PrestaShop\/ps_fixturescreator": 10,
                     "PrestaShop\/ws-client": 25,
                     "PrestaShop\/ps_apiresources": 3,
-                    "PrestaShop\/ui-testing-library": 510
+                    "PrestaShop\/ui-testing-library": 516
                 }
             }
         }
@@ -1209,7 +1209,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 4187,
+        "contributions": 4190,
         "repositories": {
             "PrestaShop\/PrestaShop": 1692,
             "PrestaShop\/PrestaShop-modules": 349,
@@ -1240,7 +1240,7 @@
             "PrestaShop\/statssearch": 2,
             "PrestaShop\/statsstock": 2,
             "PrestaShop\/blockwishlist": 38,
-            "PrestaShop\/autoupgrade": 900,
+            "PrestaShop\/autoupgrade": 903,
             "PrestaShop\/gsitemap": 6,
             "PrestaShop\/prestashop.github.io": 15,
             "PrestaShop\/docker": 309,
@@ -1325,7 +1325,7 @@
                 }
             },
             "modules": {
-                "total": 1684,
+                "total": 1687,
                 "repositories": {
                     "PrestaShop\/PrestaShop-modules": 349,
                     "PrestaShop\/dashactivity": 1,
@@ -1354,7 +1354,7 @@
                     "PrestaShop\/statssearch": 2,
                     "PrestaShop\/statsstock": 2,
                     "PrestaShop\/blockwishlist": 38,
-                    "PrestaShop\/autoupgrade": 900,
+                    "PrestaShop\/autoupgrade": 903,
                     "PrestaShop\/gsitemap": 6,
                     "PrestaShop\/contactform": 1,
                     "PrestaShop\/ps_sharebuttons": 8,
@@ -1575,7 +1575,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2683,
+        "contributions": 2684,
         "repositories": {
             "PrestaShop\/PrestaShop": 670,
             "PrestaShop\/PrestaShop-modules": 4,
@@ -1626,7 +1626,7 @@
             "PrestaShop\/ps_mainmenu": 2,
             "PrestaShop\/ps_customersignin": 4,
             "PrestaShop\/ps_categorytree": 5,
-            "PrestaShop\/docs": 391,
+            "PrestaShop\/docs": 392,
             "PrestaShop\/ps_wirepayment": 1,
             "PrestaShop\/ps_shoppingcart": 4,
             "PrestaShop\/ps_currencyselector": 7,
@@ -1699,10 +1699,10 @@
                 }
             },
             "documentation": {
-                "total": 571,
+                "total": 572,
                 "repositories": {
                     "PrestaShop\/paymentexample": 7,
-                    "PrestaShop\/docs": 391,
+                    "PrestaShop\/docs": 392,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/ADR": 6,
                     "PrestaShop\/example-modules": 62,
@@ -4909,9 +4909,9 @@
         "location": "74100 Annemasse, France",
         "bio": null,
         "email_domain": "",
-        "contributions": 599,
+        "contributions": 606,
         "repositories": {
-            "PrestaShop\/autoupgrade": 535,
+            "PrestaShop\/autoupgrade": 542,
             "PrestaShop\/ps_imageslider": 1,
             "PrestaShop\/docs": 1,
             "PrestaShop\/ps_wirepayment": 1,
@@ -4941,9 +4941,9 @@
                 }
             },
             "modules": {
-                "total": 537,
+                "total": 544,
                 "repositories": {
-                    "PrestaShop\/autoupgrade": 535,
+                    "PrestaShop\/autoupgrade": 542,
                     "PrestaShop\/ps_imageslider": 1,
                     "PrestaShop\/ps_wirepayment": 1
                 }
@@ -10883,10 +10883,10 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 65,
+        "contributions": 66,
         "repositories": {
             "PrestaShop\/PrestaShop": 51,
-            "PrestaShop\/docs": 13,
+            "PrestaShop\/docs": 14,
             "PrestaShop\/example-modules": 1
         },
         "categories": {
@@ -10901,9 +10901,9 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 14,
+                "total": 15,
                 "repositories": {
-                    "PrestaShop\/docs": 13,
+                    "PrestaShop\/docs": 14,
                     "PrestaShop\/example-modules": 1
                 }
             },
@@ -32959,7 +32959,7 @@
         "company": null,
         "blog": "https:\/\/c100k.eu",
         "location": "Paris",
-        "bio": "Creator of RebootX - Your infra in your pocket",
+        "bio": "Creator of \ud83d\udcf1 RebootX, \ud83d\udcf1 SelfSync, \ud83c\udfd4\ufe0f TrekStories, \ud83d\udcbe libmodulor (private beta), \ud83d\udcbe ddot",
         "email_domain": "gmail.com",
         "contributions": 1,
         "repositories": {
@@ -41638,5 +41638,5 @@
             }
         }
     },
-    "updatedAt": "2025-01-15 06:07:48"
+    "updatedAt": "2025-01-16 06:08:28"
 }
