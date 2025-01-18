@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 8134,
+        "contributions": 8140,
         "repositories": {
-            "PrestaShop\/PrestaShop": 3797,
+            "PrestaShop\/PrestaShop": 3802,
             "PrestaShop\/PrestaShop-modules": 31,
             "PrestaShop\/PrestaShop-webservice-lib": 4,
             "PrestaShop\/dashactivity": 14,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 769,
+            "PrestaShop\/test-scenarios": 770,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -127,9 +127,9 @@
         },
         "categories": {
             "core": {
-                "total": 3900,
+                "total": 3905,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 3797,
+                    "PrestaShop\/PrestaShop": 3802,
                     "PrestaShop\/prestashop-ui-kit": 50,
                     "PrestaShop\/TranslationToolsBundle": 9,
                     "PrestaShop\/LocalizationFiles": 9,
@@ -148,12 +148,12 @@
                 }
             },
             "documentation": {
-                "total": 954,
+                "total": 955,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 769,
+                    "PrestaShop\/test-scenarios": 770,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -1575,7 +1575,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2684,
+        "contributions": 2686,
         "repositories": {
             "PrestaShop\/PrestaShop": 670,
             "PrestaShop\/PrestaShop-modules": 4,
@@ -1649,7 +1649,7 @@
             "PrestaShop\/psgdpr": 15,
             "PrestaShop\/issuebot": 1,
             "PrestaShop\/ps_faviconnotificationbo": 1,
-            "PrestaShop\/prestashop-specs": 1,
+            "PrestaShop\/prestashop-specs": 3,
             "PrestaShop\/circuit-breaker": 1,
             "PrestaShop\/ADR": 6,
             "PrestaShop\/open-source": 104,
@@ -1693,9 +1693,9 @@
                 }
             },
             "specs": {
-                "total": 1,
+                "total": 3,
                 "repositories": {
-                    "PrestaShop\/prestashop-specs": 1
+                    "PrestaShop\/prestashop-specs": 3
                 }
             },
             "documentation": {
@@ -41636,5 +41636,5 @@
             }
         }
     },
-    "updatedAt": "2025-01-17 06:08:26"
+    "updatedAt": "2025-01-18 06:06:01"
 }
