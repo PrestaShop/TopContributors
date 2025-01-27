@@ -461,7 +461,7 @@
         "company": "@PrestaShop",
         "blog": "https:\/\/www.mathieu-ferment.com",
         "location": "Amiens - France",
-        "bio": "PHP developer - love Symfony, CI & DevOps. Also tech manager",
+        "bio": "Senior engineering manager",
         "email_domain": "",
         "contributions": 5349,
         "repositories": {
@@ -40831,8 +40831,8 @@
         "company": "WND AG",
         "blog": "https:\/\/tiagogalvao.com",
         "location": "Switzerland",
-        "bio": "(JS, HTML5, PHP, VUE.JS, CSS3, WORDPRESS)\r\n(started learning to code in 2001 at age 9).",
-        "email_domain": "sapo.pt",
+        "bio": "(JS, Typescript, HTML5, PHP, VUE.JS, CSS3, WORDPRESS)\r\n(started learning to code in 2001 at age 9).",
+        "email_domain": "",
         "contributions": 1,
         "repositories": {
             "PrestaShop\/classic-theme": 1
@@ -41638,5 +41638,5 @@
             }
         }
     },
-    "updatedAt": "2025-01-26 06:35:56"
+    "updatedAt": "2025-01-27 06:46:41"
 }
