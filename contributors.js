@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 8332,
+        "contributions": 8336,
         "repositories": {
-            "PrestaShop\/PrestaShop": 3880,
+            "PrestaShop\/PrestaShop": 3881,
             "PrestaShop\/PrestaShop-modules": 31,
             "PrestaShop\/PrestaShop-webservice-lib": 4,
             "PrestaShop\/dashactivity": 14,
@@ -103,11 +103,11 @@
             "PrestaShop\/php-dev-tools": 4,
             "PrestaShop\/QANightlyResults": 260,
             "PrestaShop\/LocalizationFiles": 9,
-            "PrestaShop\/presthubot": 386,
+            "PrestaShop\/presthubot": 388,
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 771,
+            "PrestaShop\/test-scenarios": 772,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -127,9 +127,9 @@
         },
         "categories": {
             "core": {
-                "total": 3983,
+                "total": 3984,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 3880,
+                    "PrestaShop\/PrestaShop": 3881,
                     "PrestaShop\/prestashop-ui-kit": 50,
                     "PrestaShop\/TranslationToolsBundle": 9,
                     "PrestaShop\/LocalizationFiles": 9,
@@ -148,12 +148,12 @@
                 }
             },
             "documentation": {
-                "total": 956,
+                "total": 957,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 771,
+                    "PrestaShop\/test-scenarios": 772,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -239,7 +239,7 @@
                 }
             },
             "tools": {
-                "total": 801,
+                "total": 803,
                 "repositories": {
                     "PrestaShop\/docker": 40,
                     "PrestaShop\/docker-ci": 4,
@@ -248,7 +248,7 @@
                     "PrestaShop\/mjml-theme-converter": 1,
                     "PrestaShop\/nightly-board": 45,
                     "PrestaShop\/PrestaShop-webservice-lib": 4,
-                    "PrestaShop\/presthubot": 386,
+                    "PrestaShop\/presthubot": 388,
                     "PrestaShop\/QANightlyResults": 260,
                     "PrestaShop\/TopContributors": 33,
                     "PrestaShop\/traces": 18
@@ -41640,5 +41640,5 @@
             }
         }
     },
-    "updatedAt": "2025-01-31 10:36:36"
+    "updatedAt": "2025-02-01 16:57:34"
 }
