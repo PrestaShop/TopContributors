@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 8346,
+        "contributions": 8354,
         "repositories": {
-            "PrestaShop\/PrestaShop": 3882,
+            "PrestaShop\/PrestaShop": 3883,
             "PrestaShop\/PrestaShop-modules": 31,
             "PrestaShop\/PrestaShop-webservice-lib": 4,
             "PrestaShop\/dashactivity": 14,
@@ -83,7 +83,7 @@
             "PrestaShop\/ps_supplierlist": 14,
             "PrestaShop\/ps_crossselling": 21,
             "PrestaShop\/ps_dataprivacy": 14,
-            "PrestaShop\/ps_cashondelivery": 46,
+            "PrestaShop\/ps_cashondelivery": 47,
             "PrestaShop\/ps_viewedproduct": 15,
             "PrestaShop\/traces": 18,
             "PrestaShop\/TopContributors": 33,
@@ -101,7 +101,7 @@
             "PrestaShop\/open-source": 31,
             "PrestaShop\/mjml-theme-converter": 1,
             "PrestaShop\/php-dev-tools": 4,
-            "PrestaShop\/QANightlyResults": 260,
+            "PrestaShop\/QANightlyResults": 263,
             "PrestaShop\/LocalizationFiles": 9,
             "PrestaShop\/presthubot": 388,
             "PrestaShop\/stylelint-config": 7,
@@ -123,13 +123,13 @@
             "PrestaShop\/ps_fixturescreator": 10,
             "PrestaShop\/ws-client": 25,
             "PrestaShop\/ps_apiresources": 3,
-            "PrestaShop\/ui-testing-library": 625
+            "PrestaShop\/ui-testing-library": 628
         },
         "categories": {
             "core": {
-                "total": 3985,
+                "total": 3986,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 3882,
+                    "PrestaShop\/PrestaShop": 3883,
                     "PrestaShop\/prestashop-ui-kit": 50,
                     "PrestaShop\/TranslationToolsBundle": 9,
                     "PrestaShop\/LocalizationFiles": 9,
@@ -166,7 +166,7 @@
                 }
             },
             "modules": {
-                "total": 1552,
+                "total": 1553,
                 "repositories": {
                     "PrestaShop\/PrestaShop-modules": 31,
                     "PrestaShop\/dashactivity": 14,
@@ -229,7 +229,7 @@
                     "PrestaShop\/ps_supplierlist": 14,
                     "PrestaShop\/ps_crossselling": 21,
                     "PrestaShop\/ps_dataprivacy": 14,
-                    "PrestaShop\/ps_cashondelivery": 46,
+                    "PrestaShop\/ps_cashondelivery": 47,
                     "PrestaShop\/ps_viewedproduct": 15,
                     "PrestaShop\/ps_faviconnotificationbo": 7,
                     "PrestaShop\/ps_qualityassurance": 1,
@@ -239,7 +239,7 @@
                 }
             },
             "tools": {
-                "total": 803,
+                "total": 806,
                 "repositories": {
                     "PrestaShop\/docker": 40,
                     "PrestaShop\/docker-ci": 4,
@@ -249,13 +249,13 @@
                     "PrestaShop\/nightly-board": 45,
                     "PrestaShop\/PrestaShop-webservice-lib": 4,
                     "PrestaShop\/presthubot": 388,
-                    "PrestaShop\/QANightlyResults": 260,
+                    "PrestaShop\/QANightlyResults": 263,
                     "PrestaShop\/TopContributors": 33,
                     "PrestaShop\/traces": 18
                 }
             },
             "others": {
-                "total": 848,
+                "total": 851,
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 68,
                     "PrestaShop\/TopTranslators": 1,
@@ -270,7 +270,7 @@
                     "PrestaShop\/ps_fixturescreator": 10,
                     "PrestaShop\/ws-client": 25,
                     "PrestaShop\/ps_apiresources": 3,
-                    "PrestaShop\/ui-testing-library": 625
+                    "PrestaShop\/ui-testing-library": 628
                 }
             }
         }
@@ -1577,7 +1577,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2704,
+        "contributions": 2707,
         "repositories": {
             "PrestaShop\/PrestaShop": 674,
             "PrestaShop\/PrestaShop-modules": 4,
@@ -1611,7 +1611,7 @@
             "PrestaShop\/productcomments": 24,
             "PrestaShop\/autoupgrade": 44,
             "PrestaShop\/gsitemap": 3,
-            "PrestaShop\/prestashop.github.io": 678,
+            "PrestaShop\/prestashop.github.io": 681,
             "PrestaShop\/contactform": 8,
             "PrestaShop\/paymentexample": 7,
             "PrestaShop\/prestashop-ui-kit": 4,
@@ -1800,9 +1800,9 @@
                 }
             },
             "others": {
-                "total": 774,
+                "total": 777,
                 "repositories": {
-                    "PrestaShop\/prestashop.github.io": 678,
+                    "PrestaShop\/prestashop.github.io": 681,
                     "PrestaShop\/.github": 2,
                     "PrestaShop\/ps-org-theme": 10,
                     "PrestaShop\/phpstan-prestashop": 1,
@@ -3708,7 +3708,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1021,
+        "contributions": 1022,
         "repositories": {
             "PrestaShop\/PrestaShop": 547,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
@@ -3759,7 +3759,7 @@
             "PrestaShop\/open-source": 17,
             "PrestaShop\/mjml-theme-converter": 1,
             "PrestaShop\/php-dev-tools": 2,
-            "PrestaShop\/QANightlyResults": 41,
+            "PrestaShop\/QANightlyResults": 42,
             "PrestaShop\/LocalizationFiles": 1,
             "PrestaShop\/presthubot": 42,
             "PrestaShop\/example-modules": 2,
@@ -3853,7 +3853,7 @@
                 }
             },
             "tools": {
-                "total": 112,
+                "total": 113,
                 "repositories": {
                     "PrestaShop\/docker": 6,
                     "PrestaShop\/docker-ci": 1,
@@ -3862,7 +3862,7 @@
                     "PrestaShop\/nightly-board": 1,
                     "PrestaShop\/PrestaShop-webservice-lib": 1,
                     "PrestaShop\/presthubot": 42,
-                    "PrestaShop\/QANightlyResults": 41,
+                    "PrestaShop\/QANightlyResults": 42,
                     "PrestaShop\/TopContributors": 5,
                     "PrestaShop\/kanbanbot": 13
                 }
@@ -4863,9 +4863,9 @@
         "location": "74100 Annemasse, France",
         "bio": null,
         "email_domain": "",
-        "contributions": 650,
+        "contributions": 654,
         "repositories": {
-            "PrestaShop\/autoupgrade": 586,
+            "PrestaShop\/autoupgrade": 590,
             "PrestaShop\/ps_imageslider": 1,
             "PrestaShop\/docs": 1,
             "PrestaShop\/ps_wirepayment": 1,
@@ -4895,9 +4895,9 @@
                 }
             },
             "modules": {
-                "total": 588,
+                "total": 592,
                 "repositories": {
-                    "PrestaShop\/autoupgrade": 586,
+                    "PrestaShop\/autoupgrade": 590,
                     "PrestaShop\/ps_imageslider": 1,
                     "PrestaShop\/ps_wirepayment": 1
                 }
@@ -41640,5 +41640,5 @@
             }
         }
     },
-    "updatedAt": "2025-02-04 06:37:15"
+    "updatedAt": "2025-02-05 06:38:33"
 }
