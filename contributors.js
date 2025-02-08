@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 8359,
+        "contributions": 8364,
         "repositories": {
             "PrestaShop\/PrestaShop": 3883,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 776,
+            "PrestaShop\/test-scenarios": 777,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -123,7 +123,7 @@
             "PrestaShop\/ps_fixturescreator": 10,
             "PrestaShop\/ws-client": 25,
             "PrestaShop\/ps_apiresources": 3,
-            "PrestaShop\/ui-testing-library": 630
+            "PrestaShop\/ui-testing-library": 634
         },
         "categories": {
             "core": {
@@ -148,12 +148,12 @@
                 }
             },
             "documentation": {
-                "total": 961,
+                "total": 962,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 776,
+                    "PrestaShop\/test-scenarios": 777,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -255,7 +255,7 @@
                 }
             },
             "others": {
-                "total": 853,
+                "total": 857,
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 68,
                     "PrestaShop\/TopTranslators": 1,
@@ -270,7 +270,7 @@
                     "PrestaShop\/ps_fixturescreator": 10,
                     "PrestaShop\/ws-client": 25,
                     "PrestaShop\/ps_apiresources": 3,
-                    "PrestaShop\/ui-testing-library": 630
+                    "PrestaShop\/ui-testing-library": 634
                 }
             }
         }
@@ -35357,7 +35357,7 @@
         "id": 24194569,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/24194569?v=4",
         "html_url": "https:\/\/github.com\/rateforx",
-        "name": null,
+        "name": "Filip Janta",
         "company": null,
         "blog": "",
         "location": null,
@@ -41640,5 +41640,5 @@
             }
         }
     },
-    "updatedAt": "2025-02-07 06:40:42"
+    "updatedAt": "2025-02-08 06:06:48"
 }
