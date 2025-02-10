@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 8365,
+        "contributions": 8366,
         "repositories": {
             "PrestaShop\/PrestaShop": 3883,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -97,7 +97,7 @@
             "PrestaShop\/prestashop-specs": 19,
             "PrestaShop\/circuit-breaker": 7,
             "PrestaShop\/eslint-config": 3,
-            "PrestaShop\/nightly-board": 45,
+            "PrestaShop\/nightly-board": 46,
             "PrestaShop\/open-source": 31,
             "PrestaShop\/mjml-theme-converter": 1,
             "PrestaShop\/php-dev-tools": 4,
@@ -239,14 +239,14 @@
                 }
             },
             "tools": {
-                "total": 807,
+                "total": 808,
                 "repositories": {
                     "PrestaShop\/docker": 40,
                     "PrestaShop\/docker-ci": 4,
                     "PrestaShop\/docker-internal-images": 1,
                     "PrestaShop\/issuebot": 9,
                     "PrestaShop\/mjml-theme-converter": 1,
-                    "PrestaShop\/nightly-board": 45,
+                    "PrestaShop\/nightly-board": 46,
                     "PrestaShop\/PrestaShop-webservice-lib": 4,
                     "PrestaShop\/presthubot": 389,
                     "PrestaShop\/QANightlyResults": 263,
@@ -1577,7 +1577,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2707,
+        "contributions": 2708,
         "repositories": {
             "PrestaShop\/PrestaShop": 674,
             "PrestaShop\/PrestaShop-modules": 4,
@@ -1654,6 +1654,7 @@
             "PrestaShop\/prestashop-specs": 3,
             "PrestaShop\/circuit-breaker": 1,
             "PrestaShop\/ADR": 6,
+            "PrestaShop\/nightly-board": 1,
             "PrestaShop\/open-source": 104,
             "PrestaShop\/mjml-theme-converter": 1,
             "PrestaShop\/php-dev-tools": 1,
@@ -1788,10 +1789,11 @@
                 }
             },
             "tools": {
-                "total": 22,
+                "total": 23,
                 "repositories": {
                     "PrestaShop\/issuebot": 1,
                     "PrestaShop\/mjml-theme-converter": 1,
+                    "PrestaShop\/nightly-board": 1,
                     "PrestaShop\/PrestaShop-webservice-lib": 1,
                     "PrestaShop\/presthubot": 8,
                     "PrestaShop\/ps-monitor-module-releases": 4,
@@ -41640,5 +41642,5 @@
             }
         }
     },
-    "updatedAt": "2025-02-09 06:38:49"
+    "updatedAt": "2025-02-10 06:49:09"
 }
