@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 8415,
+        "contributions": 8422,
         "repositories": {
             "PrestaShop\/PrestaShop": 3905,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 783,
+            "PrestaShop\/test-scenarios": 784,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -123,7 +123,7 @@
             "PrestaShop\/ps_fixturescreator": 11,
             "PrestaShop\/ws-client": 25,
             "PrestaShop\/ps_apiresources": 3,
-            "PrestaShop\/ui-testing-library": 649
+            "PrestaShop\/ui-testing-library": 655
         },
         "categories": {
             "core": {
@@ -148,12 +148,12 @@
                 }
             },
             "documentation": {
-                "total": 968,
+                "total": 969,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 783,
+                    "PrestaShop\/test-scenarios": 784,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -255,7 +255,7 @@
                 }
             },
             "others": {
-                "total": 873,
+                "total": 879,
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 68,
                     "PrestaShop\/TopTranslators": 1,
@@ -270,7 +270,7 @@
                     "PrestaShop\/ps_fixturescreator": 11,
                     "PrestaShop\/ws-client": 25,
                     "PrestaShop\/ps_apiresources": 3,
-                    "PrestaShop\/ui-testing-library": 649
+                    "PrestaShop\/ui-testing-library": 655
                 }
             }
         }
@@ -1577,7 +1577,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2721,
+        "contributions": 2722,
         "repositories": {
             "PrestaShop\/PrestaShop": 676,
             "PrestaShop\/PrestaShop-modules": 4,
@@ -1611,7 +1611,7 @@
             "PrestaShop\/productcomments": 24,
             "PrestaShop\/autoupgrade": 44,
             "PrestaShop\/gsitemap": 3,
-            "PrestaShop\/prestashop.github.io": 687,
+            "PrestaShop\/prestashop.github.io": 688,
             "PrestaShop\/contactform": 8,
             "PrestaShop\/paymentexample": 7,
             "PrestaShop\/prestashop-ui-kit": 4,
@@ -1802,9 +1802,9 @@
                 }
             },
             "others": {
-                "total": 783,
+                "total": 784,
                 "repositories": {
-                    "PrestaShop\/prestashop.github.io": 687,
+                    "PrestaShop\/prestashop.github.io": 688,
                     "PrestaShop\/.github": 2,
                     "PrestaShop\/ps-org-theme": 10,
                     "PrestaShop\/phpstan-prestashop": 1,
@@ -41699,5 +41699,5 @@
             }
         }
     },
-    "updatedAt": "2025-02-17 06:37:29"
+    "updatedAt": "2025-02-18 06:10:52"
 }
