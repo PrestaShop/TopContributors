@@ -21707,7 +21707,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10872477?v=4",
         "html_url": "https:\/\/github.com\/eshraw",
         "name": "Eshane",
-        "company": "Eur\u00e9cia",
+        "company": null,
         "blog": "",
         "location": "France",
         "bio": "Product Manager -\r\nClimbing, sewing and crafting stuff on the side",
@@ -41701,5 +41701,5 @@
             }
         }
     },
-    "updatedAt": "2025-02-22 06:12:21"
+    "updatedAt": "2025-02-23 06:06:24"
 }
