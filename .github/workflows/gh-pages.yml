@@ -36,15 +36,15 @@ jobs:
         run: echo "::set-output name=dir::$(composer config cache-files-dir)"
 
       - name: Cache Composer Directory 📦
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: ${{ steps.composer-cache.outputs.dir }}
           key: ubuntu-latest-composer-${{ hashFiles('**/composer.lock') }}
           restore-keys: |
             ubuntu-latest-composer-
-            
+
       - name: Cache node_modules 📦
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: ~/.npm
           key: ubuntu-latest-node-${{ hashFiles('**/package-lock.json') }}
@@ -68,7 +68,7 @@ jobs:
       - name: Move file 📁
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         run: mv contributors.js ./dist
-        
+
       - name: Write CNAME file
         run: echo 'contributors.prestashop-project.org' > ./dist/CNAME
 
