@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 8644,
+        "contributions": 8647,
         "repositories": {
-            "PrestaShop\/PrestaShop": 3981,
+            "PrestaShop\/PrestaShop": 3982,
             "PrestaShop\/PrestaShop-modules": 31,
             "PrestaShop\/PrestaShop-webservice-lib": 4,
             "PrestaShop\/dashactivity": 14,
@@ -103,11 +103,11 @@
             "PrestaShop\/php-dev-tools": 4,
             "PrestaShop\/QANightlyResults": 269,
             "PrestaShop\/LocalizationFiles": 9,
-            "PrestaShop\/presthubot": 400,
+            "PrestaShop\/presthubot": 401,
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 797,
+            "PrestaShop\/test-scenarios": 798,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -127,9 +127,9 @@
         },
         "categories": {
             "core": {
-                "total": 4084,
+                "total": 4085,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 3981,
+                    "PrestaShop\/PrestaShop": 3982,
                     "PrestaShop\/prestashop-ui-kit": 50,
                     "PrestaShop\/TranslationToolsBundle": 9,
                     "PrestaShop\/LocalizationFiles": 9,
@@ -148,12 +148,12 @@
                 }
             },
             "documentation": {
-                "total": 982,
+                "total": 983,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 797,
+                    "PrestaShop\/test-scenarios": 798,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -239,7 +239,7 @@
                 }
             },
             "tools": {
-                "total": 825,
+                "total": 826,
                 "repositories": {
                     "PrestaShop\/docker": 40,
                     "PrestaShop\/docker-ci": 4,
@@ -248,7 +248,7 @@
                     "PrestaShop\/mjml-theme-converter": 1,
                     "PrestaShop\/nightly-board": 46,
                     "PrestaShop\/PrestaShop-webservice-lib": 4,
-                    "PrestaShop\/presthubot": 400,
+                    "PrestaShop\/presthubot": 401,
                     "PrestaShop\/QANightlyResults": 269,
                     "PrestaShop\/TopContributors": 33,
                     "PrestaShop\/traces": 18
@@ -3658,7 +3658,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1094,
+        "contributions": 1096,
         "repositories": {
             "PrestaShop\/PrestaShop": 583,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
@@ -3678,7 +3678,7 @@
             "PrestaShop\/contactform": 2,
             "PrestaShop\/prestashop-ui-kit": 1,
             "PrestaShop\/blockreassurance": 40,
-            "PrestaShop\/ps_sharebuttons": 1,
+            "PrestaShop\/ps_sharebuttons": 3,
             "PrestaShop\/ps_linklist": 3,
             "PrestaShop\/ps_contactinfo": 4,
             "PrestaShop\/ps_banner": 1,
@@ -3763,7 +3763,7 @@
                 }
             },
             "modules": {
-                "total": 218,
+                "total": 220,
                 "repositories": {
                     "PrestaShop\/dashactivity": 2,
                     "PrestaShop\/dashproducts": 3,
@@ -3778,7 +3778,7 @@
                     "PrestaShop\/gsitemap": 2,
                     "PrestaShop\/contactform": 2,
                     "PrestaShop\/blockreassurance": 40,
-                    "PrestaShop\/ps_sharebuttons": 1,
+                    "PrestaShop\/ps_sharebuttons": 3,
                     "PrestaShop\/ps_linklist": 3,
                     "PrestaShop\/ps_contactinfo": 4,
                     "PrestaShop\/ps_banner": 1,
@@ -41771,5 +41771,5 @@
             }
         }
     },
-    "updatedAt": "2025-03-14 06:07:48"
+    "updatedAt": "2025-03-15 06:11:24"
 }
