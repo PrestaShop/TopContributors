@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 8647,
+        "contributions": 8652,
         "repositories": {
             "PrestaShop\/PrestaShop": 3982,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -40,7 +40,7 @@
             "PrestaShop\/statssales": 17,
             "PrestaShop\/statssearch": 10,
             "PrestaShop\/statsstock": 9,
-            "PrestaShop\/blockwishlist": 149,
+            "PrestaShop\/blockwishlist": 150,
             "PrestaShop\/productcomments": 45,
             "PrestaShop\/autoupgrade": 110,
             "PrestaShop\/gsitemap": 27,
@@ -83,7 +83,7 @@
             "PrestaShop\/ps_supplierlist": 14,
             "PrestaShop\/ps_crossselling": 21,
             "PrestaShop\/ps_dataprivacy": 14,
-            "PrestaShop\/ps_cashondelivery": 60,
+            "PrestaShop\/ps_cashondelivery": 61,
             "PrestaShop\/ps_viewedproduct": 15,
             "PrestaShop\/traces": 18,
             "PrestaShop\/TopContributors": 33,
@@ -101,7 +101,7 @@
             "PrestaShop\/open-source": 31,
             "PrestaShop\/mjml-theme-converter": 1,
             "PrestaShop\/php-dev-tools": 4,
-            "PrestaShop\/QANightlyResults": 269,
+            "PrestaShop\/QANightlyResults": 270,
             "PrestaShop\/LocalizationFiles": 9,
             "PrestaShop\/presthubot": 401,
             "PrestaShop\/stylelint-config": 7,
@@ -123,7 +123,7 @@
             "PrestaShop\/ps_fixturescreator": 11,
             "PrestaShop\/ws-client": 25,
             "PrestaShop\/ps_apiresources": 3,
-            "PrestaShop\/ui-testing-library": 757
+            "PrestaShop\/ui-testing-library": 759
         },
         "categories": {
             "core": {
@@ -166,7 +166,7 @@
                 }
             },
             "modules": {
-                "total": 1572,
+                "total": 1574,
                 "repositories": {
                     "PrestaShop\/PrestaShop-modules": 31,
                     "PrestaShop\/dashactivity": 14,
@@ -194,7 +194,7 @@
                     "PrestaShop\/statssales": 17,
                     "PrestaShop\/statssearch": 10,
                     "PrestaShop\/statsstock": 9,
-                    "PrestaShop\/blockwishlist": 149,
+                    "PrestaShop\/blockwishlist": 150,
                     "PrestaShop\/productcomments": 45,
                     "PrestaShop\/autoupgrade": 110,
                     "PrestaShop\/gsitemap": 27,
@@ -229,7 +229,7 @@
                     "PrestaShop\/ps_supplierlist": 14,
                     "PrestaShop\/ps_crossselling": 21,
                     "PrestaShop\/ps_dataprivacy": 14,
-                    "PrestaShop\/ps_cashondelivery": 60,
+                    "PrestaShop\/ps_cashondelivery": 61,
                     "PrestaShop\/ps_viewedproduct": 15,
                     "PrestaShop\/ps_faviconnotificationbo": 7,
                     "PrestaShop\/ps_qualityassurance": 1,
@@ -239,7 +239,7 @@
                 }
             },
             "tools": {
-                "total": 826,
+                "total": 827,
                 "repositories": {
                     "PrestaShop\/docker": 40,
                     "PrestaShop\/docker-ci": 4,
@@ -249,13 +249,13 @@
                     "PrestaShop\/nightly-board": 46,
                     "PrestaShop\/PrestaShop-webservice-lib": 4,
                     "PrestaShop\/presthubot": 401,
-                    "PrestaShop\/QANightlyResults": 269,
+                    "PrestaShop\/QANightlyResults": 270,
                     "PrestaShop\/TopContributors": 33,
                     "PrestaShop\/traces": 18
                 }
             },
             "others": {
-                "total": 982,
+                "total": 984,
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 68,
                     "PrestaShop\/TopTranslators": 1,
@@ -270,7 +270,7 @@
                     "PrestaShop\/ps_fixturescreator": 11,
                     "PrestaShop\/ws-client": 25,
                     "PrestaShop\/ps_apiresources": 3,
-                    "PrestaShop\/ui-testing-library": 757
+                    "PrestaShop\/ui-testing-library": 759
                 }
             }
         }
@@ -3658,7 +3658,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1096,
+        "contributions": 1098,
         "repositories": {
             "PrestaShop\/PrestaShop": 583,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
@@ -3678,7 +3678,7 @@
             "PrestaShop\/contactform": 2,
             "PrestaShop\/prestashop-ui-kit": 1,
             "PrestaShop\/blockreassurance": 40,
-            "PrestaShop\/ps_sharebuttons": 3,
+            "PrestaShop\/ps_sharebuttons": 5,
             "PrestaShop\/ps_linklist": 3,
             "PrestaShop\/ps_contactinfo": 4,
             "PrestaShop\/ps_banner": 1,
@@ -3763,7 +3763,7 @@
                 }
             },
             "modules": {
-                "total": 220,
+                "total": 222,
                 "repositories": {
                     "PrestaShop\/dashactivity": 2,
                     "PrestaShop\/dashproducts": 3,
@@ -3778,7 +3778,7 @@
                     "PrestaShop\/gsitemap": 2,
                     "PrestaShop\/contactform": 2,
                     "PrestaShop\/blockreassurance": 40,
-                    "PrestaShop\/ps_sharebuttons": 3,
+                    "PrestaShop\/ps_sharebuttons": 5,
                     "PrestaShop\/ps_linklist": 3,
                     "PrestaShop\/ps_contactinfo": 4,
                     "PrestaShop\/ps_banner": 1,
@@ -22620,10 +22620,10 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2806515?v=4",
         "html_url": "https:\/\/github.com\/xibe",
         "name": "Xavier B.",
-        "company": "@PayFit",
+        "company": "Chiliz",
         "blog": "http:\/\/xa.vier.me",
         "location": "Lyon, France",
-        "bio": "Head of Content in the @PayFit engineering team \/ ex @Sigfox @PrestaShop @Netvibes @journaldunet \/ @WordPress community member \/ All around nice guy",
+        "bio": "Senior Tech Writer for @chiliz-chain \/ ex @PayFit @Sigfox @PrestaShop @Netvibes \/ All around nice guy",
         "email_domain": "",
         "contributions": 5,
         "repositories": {
@@ -41771,5 +41771,5 @@
             }
         }
     },
-    "updatedAt": "2025-03-17 06:46:07"
+    "updatedAt": "2025-03-18 06:27:58"
 }
