@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 8724,
+        "contributions": 8725,
         "repositories": {
             "PrestaShop\/PrestaShop": 3998,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 803,
+            "PrestaShop\/test-scenarios": 804,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -148,12 +148,12 @@
                 }
             },
             "documentation": {
-                "total": 988,
+                "total": 989,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 803,
+                    "PrestaShop\/test-scenarios": 804,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -23896,7 +23896,7 @@
         "html_url": "https:\/\/github.com\/Unsleeping",
         "name": "Alexander Mandrov",
         "company": "LLC Viqeo",
-        "blog": "https:\/\/t.me\/unsleeping706",
+        "blog": "https:\/\/unsleeping.vercel.app\/",
         "location": "Tel Aviv, Israel",
         "bio": "25 y.o,\r\nMSU Physics.\r\nFrontend Developer.\r\nVanilla JS, Next.js, React.js, Python, TypeScript",
         "email_domain": "",
@@ -41775,5 +41775,5 @@
             }
         }
     },
-    "updatedAt": "2025-03-29 06:08:13"
+    "updatedAt": "2025-03-30 06:08:07"
 }
