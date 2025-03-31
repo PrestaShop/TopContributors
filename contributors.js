@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 8725,
+        "contributions": 8726,
         "repositories": {
             "PrestaShop\/PrestaShop": 3998,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 804,
+            "PrestaShop\/test-scenarios": 805,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -148,12 +148,12 @@
                 }
             },
             "documentation": {
-                "total": 989,
+                "total": 990,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 804,
+                    "PrestaShop\/test-scenarios": 805,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -3658,7 +3658,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1102,
+        "contributions": 1106,
         "repositories": {
             "PrestaShop\/PrestaShop": 586,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
@@ -3710,7 +3710,7 @@
             "PrestaShop\/open-source": 23,
             "PrestaShop\/mjml-theme-converter": 1,
             "PrestaShop\/php-dev-tools": 2,
-            "PrestaShop\/QANightlyResults": 51,
+            "PrestaShop\/QANightlyResults": 55,
             "PrestaShop\/LocalizationFiles": 7,
             "PrestaShop\/presthubot": 47,
             "PrestaShop\/example-modules": 3,
@@ -3805,7 +3805,7 @@
                 }
             },
             "tools": {
-                "total": 129,
+                "total": 133,
                 "repositories": {
                     "PrestaShop\/docker": 6,
                     "PrestaShop\/docker-ci": 1,
@@ -3814,7 +3814,7 @@
                     "PrestaShop\/nightly-board": 1,
                     "PrestaShop\/PrestaShop-webservice-lib": 1,
                     "PrestaShop\/presthubot": 47,
-                    "PrestaShop\/QANightlyResults": 51,
+                    "PrestaShop\/QANightlyResults": 55,
                     "PrestaShop\/TopContributors": 7,
                     "PrestaShop\/kanbanbot": 13
                 }
@@ -6428,10 +6428,10 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7910738?v=4",
         "html_url": "https:\/\/github.com\/AlexEven",
         "name": "Alexandra Even",
-        "company": "@getlago",
+        "company": null,
         "blog": "",
         "location": "Nantes",
-        "bio": "Product Manager @getlago",
+        "bio": "Senior Product Manager",
         "email_domain": "",
         "contributions": 417,
         "repositories": {
@@ -41775,5 +41775,5 @@
             }
         }
     },
-    "updatedAt": "2025-03-30 06:08:07"
+    "updatedAt": "2025-03-31 06:57:18"
 }
