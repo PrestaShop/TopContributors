@@ -1367,7 +1367,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/31609858?v=4",
         "html_url": "https:\/\/github.com\/zuk3975",
         "name": "Julius",
-        "company": "@Invertus ",
+        "company": null,
         "blog": "",
         "location": "Lithuania",
         "bio": null,
@@ -4513,9 +4513,9 @@
         "location": "74100 Annemasse, France",
         "bio": null,
         "email_domain": "",
-        "contributions": 793,
+        "contributions": 795,
         "repositories": {
-            "PrestaShop\/autoupgrade": 724,
+            "PrestaShop\/autoupgrade": 726,
             "PrestaShop\/prestashop.github.io": 5,
             "PrestaShop\/ps_imageslider": 1,
             "PrestaShop\/docs": 1,
@@ -4546,9 +4546,9 @@
                 }
             },
             "modules": {
-                "total": 726,
+                "total": 728,
                 "repositories": {
-                    "PrestaShop\/autoupgrade": 724,
+                    "PrestaShop\/autoupgrade": 726,
                     "PrestaShop\/ps_imageslider": 1,
                     "PrestaShop\/ps_wirepayment": 1
                 }
@@ -37945,7 +37945,7 @@
         "id": 83027381,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/83027381?v=4",
         "html_url": "https:\/\/github.com\/emidwate",
-        "name": "Mateusz Chmielewski",
+        "name": "Mateusz",
         "company": null,
         "blog": "",
         "location": null,
@@ -41780,5 +41780,5 @@
             }
         }
     },
-    "updatedAt": "2025-04-06 06:07:51"
+    "updatedAt": "2025-04-07 06:53:34"
 }
