@@ -13816,7 +13816,7 @@
         "company": null,
         "blog": "https:\/\/gitlab.com\/yannicka",
         "location": "France",
-        "bio": "French web developer. FLOSS lover. Meet me on GitLab.",
+        "bio": "French web developer. FLOSS lover. Meet me on Codeberg.",
         "email_domain": "",
         "contributions": 31,
         "repositories": {
@@ -41828,5 +41828,5 @@
             }
         }
     },
-    "updatedAt": "2025-04-12 06:08:05"
+    "updatedAt": "2025-04-13 06:20:21"
 }
