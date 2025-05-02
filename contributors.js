@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 8856,
+        "contributions": 8857,
         "repositories": {
             "PrestaShop\/PrestaShop": 4044,
             "PrestaShop\/PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "PrestaShop\/stylelint-config": 7,
             "PrestaShop\/example-modules": 6,
             "PrestaShop\/ps_qualityassurance": 1,
-            "PrestaShop\/test-scenarios": 816,
+            "PrestaShop\/test-scenarios": 817,
             "PrestaShop\/user-documentation-it": 2,
             "PrestaShop\/user-documentation-en": 1,
             "PrestaShop\/hummingbird": 6,
@@ -148,12 +148,12 @@
                 }
             },
             "documentation": {
-                "total": 1001,
+                "total": 1002,
                 "repositories": {
                     "PrestaShop\/docs": 145,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/user-documentation-it": 2,
-                    "PrestaShop\/test-scenarios": 816,
+                    "PrestaShop\/test-scenarios": 817,
                     "PrestaShop\/example-modules": 6,
                     "PrestaShop\/open-source": 31
                 }
@@ -4198,9 +4198,9 @@
         "location": "74100 Annemasse, France",
         "bio": null,
         "email_domain": "",
-        "contributions": 848,
+        "contributions": 849,
         "repositories": {
-            "PrestaShop\/autoupgrade": 745,
+            "PrestaShop\/autoupgrade": 746,
             "PrestaShop\/prestashop.github.io": 5,
             "PrestaShop\/ps_imageslider": 1,
             "PrestaShop\/docs": 4,
@@ -4232,9 +4232,9 @@
                 }
             },
             "modules": {
-                "total": 747,
+                "total": 748,
                 "repositories": {
-                    "PrestaShop\/autoupgrade": 745,
+                    "PrestaShop\/autoupgrade": 746,
                     "PrestaShop\/ps_imageslider": 1,
                     "PrestaShop\/ps_wirepayment": 1
                 }
@@ -41892,5 +41892,5 @@
             }
         }
     },
-    "updatedAt": "2025-05-01 06:07:49"
+    "updatedAt": "2025-05-02 06:09:25"
 }
