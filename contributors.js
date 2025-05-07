@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 8868,
+        "contributions": 8871,
         "repositories": {
-            "PrestaShop\/PrestaShop": 4047,
+            "PrestaShop\/PrestaShop": 4048,
             "PrestaShop\/PrestaShop-modules": 31,
             "PrestaShop\/PrestaShop-webservice-lib": 4,
             "PrestaShop\/dashactivity": 14,
@@ -123,13 +123,13 @@
             "PrestaShop\/ps_fixturescreator": 11,
             "PrestaShop\/ws-client": 25,
             "PrestaShop\/ps_apiresources": 3,
-            "PrestaShop\/ui-testing-library": 845
+            "PrestaShop\/ui-testing-library": 847
         },
         "categories": {
             "core": {
-                "total": 4150,
+                "total": 4151,
                 "repositories": {
-                    "PrestaShop\/PrestaShop": 4047,
+                    "PrestaShop\/PrestaShop": 4048,
                     "PrestaShop\/prestashop-ui-kit": 50,
                     "PrestaShop\/TranslationToolsBundle": 9,
                     "PrestaShop\/LocalizationFiles": 9,
@@ -255,7 +255,7 @@
                 }
             },
             "others": {
-                "total": 1072,
+                "total": 1074,
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 68,
                     "PrestaShop\/TopTranslators": 1,
@@ -270,7 +270,7 @@
                     "PrestaShop\/ps_fixturescreator": 11,
                     "PrestaShop\/ws-client": 25,
                     "PrestaShop\/ps_apiresources": 3,
-                    "PrestaShop\/ui-testing-library": 845
+                    "PrestaShop\/ui-testing-library": 847
                 }
             }
         }
@@ -881,7 +881,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 4393,
+        "contributions": 4410,
         "repositories": {
             "PrestaShop\/PrestaShop": 1693,
             "PrestaShop\/PrestaShop-modules": 349,
@@ -912,7 +912,7 @@
             "PrestaShop\/statssearch": 2,
             "PrestaShop\/statsstock": 2,
             "PrestaShop\/blockwishlist": 38,
-            "PrestaShop\/autoupgrade": 1086,
+            "PrestaShop\/autoupgrade": 1102,
             "PrestaShop\/gsitemap": 6,
             "PrestaShop\/prestashop.github.io": 17,
             "PrestaShop\/docker": 311,
@@ -931,7 +931,7 @@
             "PrestaShop\/ps_mainmenu": 6,
             "PrestaShop\/ps_customersignin": 3,
             "PrestaShop\/ps_categorytree": 6,
-            "PrestaShop\/docs": 154,
+            "PrestaShop\/docs": 155,
             "PrestaShop\/docker-ci": 47,
             "PrestaShop\/azure-template-performance": 13,
             "PrestaShop\/azure-template-high-performance": 10,
@@ -984,10 +984,10 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 156,
+                "total": 157,
                 "repositories": {
                     "PrestaShop\/paymentexample": 1,
-                    "PrestaShop\/docs": 154,
+                    "PrestaShop\/docs": 155,
                     "PrestaShop\/open-source": 1
                 }
             },
@@ -998,7 +998,7 @@
                 }
             },
             "modules": {
-                "total": 1870,
+                "total": 1886,
                 "repositories": {
                     "PrestaShop\/PrestaShop-modules": 349,
                     "PrestaShop\/dashactivity": 1,
@@ -1027,7 +1027,7 @@
                     "PrestaShop\/statssearch": 2,
                     "PrestaShop\/statsstock": 2,
                     "PrestaShop\/blockwishlist": 38,
-                    "PrestaShop\/autoupgrade": 1086,
+                    "PrestaShop\/autoupgrade": 1102,
                     "PrestaShop\/gsitemap": 6,
                     "PrestaShop\/contactform": 1,
                     "PrestaShop\/ps_sharebuttons": 8,
@@ -1585,7 +1585,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2808,
+        "contributions": 2809,
         "repositories": {
             "PrestaShop\/PrestaShop": 688,
             "PrestaShop\/PrestaShop-modules": 4,
@@ -1636,7 +1636,7 @@
             "PrestaShop\/ps_mainmenu": 2,
             "PrestaShop\/ps_customersignin": 4,
             "PrestaShop\/ps_categorytree": 5,
-            "PrestaShop\/docs": 408,
+            "PrestaShop\/docs": 409,
             "PrestaShop\/ps_wirepayment": 1,
             "PrestaShop\/ps_shoppingcart": 4,
             "PrestaShop\/ps_currencyselector": 7,
@@ -1710,10 +1710,10 @@
                 }
             },
             "documentation": {
-                "total": 601,
+                "total": 602,
                 "repositories": {
                     "PrestaShop\/paymentexample": 7,
-                    "PrestaShop\/docs": 408,
+                    "PrestaShop\/docs": 409,
                     "PrestaShop\/user-documentation-en": 1,
                     "PrestaShop\/ADR": 6,
                     "PrestaShop\/example-modules": 73,
@@ -4198,9 +4198,9 @@
         "location": "74100 Annemasse, France",
         "bio": null,
         "email_domain": "",
-        "contributions": 852,
+        "contributions": 853,
         "repositories": {
-            "PrestaShop\/autoupgrade": 749,
+            "PrestaShop\/autoupgrade": 750,
             "PrestaShop\/prestashop.github.io": 5,
             "PrestaShop\/ps_imageslider": 1,
             "PrestaShop\/docs": 4,
@@ -4232,9 +4232,9 @@
                 }
             },
             "modules": {
-                "total": 751,
+                "total": 752,
                 "repositories": {
-                    "PrestaShop\/autoupgrade": 749,
+                    "PrestaShop\/autoupgrade": 750,
                     "PrestaShop\/ps_imageslider": 1,
                     "PrestaShop\/ps_wirepayment": 1
                 }
@@ -7591,7 +7591,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7238385?v=4",
         "html_url": "https:\/\/github.com\/sfroment",
         "name": "Sacha Froment",
-        "company": "@topology-gg, @drp-tech",
+        "company": "@topology-gg, @drp-tech, prev @adevinta, @berty, @ortto, @united-drivers, @PrestaShop",
         "blog": "https:\/\/sacha42.com",
         "location": null,
         "bio": "Magician @ topology.gg",
@@ -41892,5 +41892,5 @@
             }
         }
     },
-    "updatedAt": "2025-05-06 06:07:45"
+    "updatedAt": "2025-05-07 06:08:50"
 }
