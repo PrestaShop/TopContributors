@@ -27381,7 +27381,7 @@
         "blog": "",
         "location": "Montr\u00e9al, QC",
         "bio": null,
-        "email_domain": "gmail.com",
+        "email_domain": "deschamps.xyz",
         "contributions": 2,
         "repositories": {
             "PrestaShop\/gsitemap": 1,
@@ -41892,5 +41892,5 @@
             }
         }
     },
-    "updatedAt": "2025-05-10 06:14:44"
+    "updatedAt": "2025-05-11 06:06:43"
 }
