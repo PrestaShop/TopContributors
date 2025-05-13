@@ -881,7 +881,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 4422,
+        "contributions": 4423,
         "repositories": {
             "PrestaShop\/PrestaShop": 1693,
             "PrestaShop\/PrestaShop-modules": 349,
@@ -961,7 +961,7 @@
             "PrestaShop\/ps_themecusto": 13,
             "PrestaShop\/psgdpr": 7,
             "PrestaShop\/eslint-config": 1,
-            "PrestaShop\/open-source": 5,
+            "PrestaShop\/open-source": 6,
             "PrestaShop\/php-dev-tools": 66,
             "PrestaShop\/distribution-api": 7,
             "PrestaShop\/classic-theme": 61,
@@ -984,11 +984,11 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 161,
+                "total": 162,
                 "repositories": {
                     "PrestaShop\/paymentexample": 1,
                     "PrestaShop\/docs": 155,
-                    "PrestaShop\/open-source": 5
+                    "PrestaShop\/open-source": 6
                 }
             },
             "themes": {
@@ -3555,7 +3555,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1167,
+        "contributions": 1171,
         "repositories": {
             "PrestaShop\/PrestaShop": 629,
             "PrestaShop\/PrestaShop-webservice-lib": 1,
@@ -3607,8 +3607,8 @@
             "PrestaShop\/open-source": 23,
             "PrestaShop\/mjml-theme-converter": 1,
             "PrestaShop\/php-dev-tools": 2,
-            "PrestaShop\/QANightlyResults": 63,
-            "PrestaShop\/LocalizationFiles": 7,
+            "PrestaShop\/QANightlyResults": 66,
+            "PrestaShop\/LocalizationFiles": 8,
             "PrestaShop\/presthubot": 51,
             "PrestaShop\/example-modules": 7,
             "PrestaShop\/ps_qualityassurance": 3,
@@ -3631,11 +3631,11 @@
         },
         "categories": {
             "core": {
-                "total": 639,
+                "total": 640,
                 "repositories": {
                     "PrestaShop\/PrestaShop": 629,
                     "PrestaShop\/prestashop-ui-kit": 1,
-                    "PrestaShop\/LocalizationFiles": 7,
+                    "PrestaShop\/LocalizationFiles": 8,
                     "PrestaShop\/php-dev-tools": 2
                 }
             },
@@ -3702,7 +3702,7 @@
                 }
             },
             "tools": {
-                "total": 145,
+                "total": 148,
                 "repositories": {
                     "PrestaShop\/docker": 6,
                     "PrestaShop\/docker-ci": 1,
@@ -3711,7 +3711,7 @@
                     "PrestaShop\/nightly-board": 1,
                     "PrestaShop\/PrestaShop-webservice-lib": 1,
                     "PrestaShop\/presthubot": 51,
-                    "PrestaShop\/QANightlyResults": 63,
+                    "PrestaShop\/QANightlyResults": 66,
                     "PrestaShop\/TopContributors": 7,
                     "PrestaShop\/kanbanbot": 13
                 }
@@ -7060,7 +7060,7 @@
         "location": null,
         "bio": "Web Integrator",
         "email_domain": "",
-        "contributions": 328,
+        "contributions": 329,
         "repositories": {
             "PrestaShop\/PrestaShop": 32,
             "PrestaShop\/productcomments": 5,
@@ -7070,6 +7070,7 @@
             "PrestaShop\/ps_imageslider": 3,
             "PrestaShop\/docs": 4,
             "PrestaShop\/ps_searchbar": 1,
+            "PrestaShop\/open-source": 1,
             "PrestaShop\/hummingbird": 77,
             "PrestaShop\/bootstrap-compatibility-layer": 27,
             "PrestaShop\/Prestashop-BO-themes-package": 3
@@ -7087,9 +7088,10 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 4,
+                "total": 5,
                 "repositories": {
-                    "PrestaShop\/docs": 4
+                    "PrestaShop\/docs": 4,
+                    "PrestaShop\/open-source": 1
                 }
             },
             "themes": {
@@ -9949,6 +9951,70 @@
         }
     },
     "108": {
+        "login": "Codencode",
+        "id": 2463965,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
+        "html_url": "https:\/\/github.com\/Codencode",
+        "name": "Paolo Cunti @codencode",
+        "company": "Codencode",
+        "blog": "https:\/\/www.codencode.it",
+        "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
+        "bio": "Siamo un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
+        "email_domain": "codencode.it",
+        "contributions": 101,
+        "repositories": {
+            "PrestaShop\/PrestaShop": 70,
+            "PrestaShop\/dashactivity": 2,
+            "PrestaShop\/blockreassurance": 2,
+            "PrestaShop\/ps_emailsubscription": 21,
+            "PrestaShop\/ps_imageslider": 2,
+            "PrestaShop\/ps_facetedsearch": 1,
+            "PrestaShop\/LocalizationFiles": 1,
+            "PrestaShop\/classic-theme": 2
+        },
+        "categories": {
+            "core": {
+                "total": 71,
+                "repositories": {
+                    "PrestaShop\/PrestaShop": 70,
+                    "PrestaShop\/LocalizationFiles": 1
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 2,
+                "repositories": {
+                    "PrestaShop\/classic-theme": 2
+                }
+            },
+            "modules": {
+                "total": 28,
+                "repositories": {
+                    "PrestaShop\/dashactivity": 2,
+                    "PrestaShop\/blockreassurance": 2,
+                    "PrestaShop\/ps_emailsubscription": 21,
+                    "PrestaShop\/ps_imageslider": 2,
+                    "PrestaShop\/ps_facetedsearch": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "109": {
         "login": "cedricfontaine",
         "id": 3180112,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3180112?v=4",
@@ -10003,7 +10069,7 @@
             }
         }
     },
-    "109": {
+    "110": {
         "login": "coffrep",
         "id": 103060695,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/103060695?v=4",
@@ -10051,68 +10117,6 @@
                 "repositories": {
                     "PrestaShop\/prestashop.github.io": 100
                 }
-            }
-        }
-    },
-    "110": {
-        "login": "Codencode",
-        "id": 2463965,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
-        "html_url": "https:\/\/github.com\/Codencode",
-        "name": "Paolo Cunti @codencode",
-        "company": "Codencode",
-        "blog": "https:\/\/www.codencode.it",
-        "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
-        "bio": "Siamo un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
-        "email_domain": "codencode.it",
-        "contributions": 100,
-        "repositories": {
-            "PrestaShop\/PrestaShop": 70,
-            "PrestaShop\/dashactivity": 2,
-            "PrestaShop\/blockreassurance": 2,
-            "PrestaShop\/ps_emailsubscription": 21,
-            "PrestaShop\/ps_imageslider": 2,
-            "PrestaShop\/ps_facetedsearch": 1,
-            "PrestaShop\/classic-theme": 2
-        },
-        "categories": {
-            "core": {
-                "total": 70,
-                "repositories": {
-                    "PrestaShop\/PrestaShop": 70
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 2,
-                "repositories": {
-                    "PrestaShop\/classic-theme": 2
-                }
-            },
-            "modules": {
-                "total": 28,
-                "repositories": {
-                    "PrestaShop\/dashactivity": 2,
-                    "PrestaShop\/blockreassurance": 2,
-                    "PrestaShop\/ps_emailsubscription": 21,
-                    "PrestaShop\/ps_imageslider": 2,
-                    "PrestaShop\/ps_facetedsearch": 1
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
             }
         }
     },
@@ -14818,7 +14822,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2842314?v=4",
         "html_url": "https:\/\/github.com\/Shagshag",
         "name": "Georges Cubas",
-        "company": null,
+        "company": "Clubvet",
         "blog": "http:\/\/samdha.net",
         "location": "France",
         "bio": null,
@@ -17404,10 +17408,10 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9022239?v=4",
         "html_url": "https:\/\/github.com\/comxd",
         "name": "David DIVERRES",
-        "company": "@comexpertise ",
+        "company": "Self-employed \u2b50 @comexpertise @groupeonepoint",
         "blog": "https:\/\/www.linkedin.com\/in\/daviddiverres\/",
         "location": "Paris\/Nantes\/Bordeaux (France)",
-        "bio": "DevOps, Google Cloud, Google Workspace, e-business solutions, SaaS, PHP, JS, Symfony, Node.js, React.\r\n Self-employed \u2b50",
+        "bio": "DevOps, Google Cloud, Google Workspace, e-business solutions, SaaS, PHP (Symfony, Api-platform), TypeScript, (Node.js, Next.js, NestJS, React)",
         "email_domain": "",
         "contributions": 12,
         "repositories": {
@@ -41892,5 +41896,5 @@
             }
         }
     },
-    "updatedAt": "2025-05-12 07:04:16"
+    "updatedAt": "2025-05-13 06:07:33"
 }
