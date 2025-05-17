@@ -881,7 +881,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 4437,
+        "contributions": 4443,
         "repositories": {
             "PrestaShop\/PrestaShop": 1693,
             "PrestaShop\/PrestaShop-modules": 349,
@@ -912,7 +912,7 @@
             "PrestaShop\/statssearch": 2,
             "PrestaShop\/statsstock": 2,
             "PrestaShop\/blockwishlist": 38,
-            "PrestaShop\/autoupgrade": 1122,
+            "PrestaShop\/autoupgrade": 1128,
             "PrestaShop\/gsitemap": 6,
             "PrestaShop\/prestashop.github.io": 17,
             "PrestaShop\/docker": 311,
@@ -998,7 +998,7 @@
                 }
             },
             "modules": {
-                "total": 1906,
+                "total": 1912,
                 "repositories": {
                     "PrestaShop\/PrestaShop-modules": 349,
                     "PrestaShop\/dashactivity": 1,
@@ -1027,7 +1027,7 @@
                     "PrestaShop\/statssearch": 2,
                     "PrestaShop\/statsstock": 2,
                     "PrestaShop\/blockwishlist": 38,
-                    "PrestaShop\/autoupgrade": 1122,
+                    "PrestaShop\/autoupgrade": 1128,
                     "PrestaShop\/gsitemap": 6,
                     "PrestaShop\/contactform": 1,
                     "PrestaShop\/ps_sharebuttons": 8,
@@ -4150,9 +4150,9 @@
         "location": "74100 Annemasse, France",
         "bio": null,
         "email_domain": "",
-        "contributions": 877,
+        "contributions": 878,
         "repositories": {
-            "PrestaShop\/autoupgrade": 771,
+            "PrestaShop\/autoupgrade": 772,
             "PrestaShop\/prestashop.github.io": 5,
             "PrestaShop\/ps_imageslider": 1,
             "PrestaShop\/docs": 4,
@@ -4184,9 +4184,9 @@
                 }
             },
             "modules": {
-                "total": 773,
+                "total": 774,
                 "repositories": {
-                    "PrestaShop\/autoupgrade": 771,
+                    "PrestaShop\/autoupgrade": 772,
                     "PrestaShop\/ps_imageslider": 1,
                     "PrestaShop\/ps_wirepayment": 1
                 }
@@ -7593,10 +7593,10 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7238385?v=4",
         "html_url": "https:\/\/github.com\/sfroment",
         "name": "Sacha Froment",
-        "company": "@topology-gg, @drp-tech, prev @adevinta, @berty, @ortto, @united-drivers, @PrestaShop",
+        "company": "@topology-gg, @drp-tech",
         "blog": "https:\/\/sacha42.com",
         "location": null,
-        "bio": "Magician @ topology.gg",
+        "bio": "Magician @topology-gg, @drp-tech Prev @adevinta, @berty, @ortto, @united-drivers, @PrestaShop",
         "email_domain": "gmail.com",
         "contributions": 263,
         "repositories": {
@@ -41851,5 +41851,5 @@
             }
         }
     },
-    "updatedAt": "2025-05-16 06:09:21"
+    "updatedAt": "2025-05-17 06:11:04"
 }
