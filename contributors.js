@@ -10595,7 +10595,7 @@
         "company": "@clauzier-dev ",
         "blog": "https:\/\/clauzier.dev\/",
         "location": "Saint-Denis, Reunion Island",
-        "bio": "lvl 26 hacker, Lead Dev @ AudioWizard, opensource & web3 enthusiast",
+        "bio": "lvl 27 hacker, Lead Dev @ Drapo Solutions, opensource & web3 enthusiast",
         "email_domain": "clauzier.dev",
         "contributions": 81,
         "repositories": {
@@ -41903,5 +41903,5 @@
             }
         }
     },
-    "updatedAt": "2025-05-24 06:10:58"
+    "updatedAt": "2025-05-25 06:07:06"
 }
