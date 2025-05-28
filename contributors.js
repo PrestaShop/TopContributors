@@ -31540,7 +31540,7 @@
         "company": "Time Sites",
         "blog": "http:\/\/www.acusti.ca",
         "location": "Truckee, CA",
-        "bio": "principal engineer at Vev\u2019s sites.design",
+        "bio": "Co-founder and CEO of Outlyne.ai",
         "email_domain": "acusti.ca",
         "contributions": 1,
         "repositories": {
@@ -41899,5 +41899,5 @@
             }
         }
     },
-    "updatedAt": "2025-05-27 06:08:26"
+    "updatedAt": "2025-05-28 06:12:12"
 }
