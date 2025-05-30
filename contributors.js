@@ -26512,7 +26512,7 @@
         "company": null,
         "blog": "https:\/\/www.codl.fr\/",
         "location": null,
-        "bio": "github drop ICE",
+        "bio": null,
         "email_domain": "codl.fr",
         "contributions": 2,
         "repositories": {
@@ -41899,5 +41899,5 @@
             }
         }
     },
-    "updatedAt": "2025-05-29 06:10:30"
+    "updatedAt": "2025-05-30 06:17:00"
 }
