@@ -31972,8 +31972,8 @@
         "company": null,
         "blog": "",
         "location": "Open Space",
-        "bio": "Front-end developer",
-        "email_domain": "gmail.com",
+        "bio": null,
+        "email_domain": "",
         "contributions": 1,
         "repositories": {
             "PrestaShop\/blockwishlist": 1
@@ -41899,5 +41899,5 @@
             }
         }
     },
-    "updatedAt": "2025-06-01 06:19:36"
+    "updatedAt": "2025-06-02 06:10:30"
 }
