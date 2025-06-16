@@ -32126,7 +32126,7 @@
         "blog": "hermanpeeren.nl",
         "location": "Rotterdam",
         "bio": "Independent, creative software builder. ",
-        "email_domain": "yepr.nl",
+        "email_domain": "",
         "contributions": 1,
         "repositories": {
             "PrestaShop\/autoupgrade": 1
@@ -41332,5 +41332,5 @@
             }
         }
     },
-    "updatedAt": "2025-06-15 06:08:52"
+    "updatedAt": "2025-06-16 06:09:36"
 }
