@@ -4106,10 +4106,10 @@
         "location": "74100 Annemasse, France",
         "bio": null,
         "email_domain": "",
-        "contributions": 920,
+        "contributions": 925,
         "repositories": {
             "PrestaShop\/PrestaShop": 10,
-            "PrestaShop\/autoupgrade": 803,
+            "PrestaShop\/autoupgrade": 808,
             "PrestaShop\/prestashop.github.io": 5,
             "PrestaShop\/ps_imageslider": 1,
             "PrestaShop\/docs": 4,
@@ -4143,9 +4143,9 @@
                 }
             },
             "modules": {
-                "total": 805,
+                "total": 810,
                 "repositories": {
-                    "PrestaShop\/autoupgrade": 803,
+                    "PrestaShop\/autoupgrade": 808,
                     "PrestaShop\/ps_imageslider": 1,
                     "PrestaShop\/ps_wirepayment": 1
                 }
@@ -12635,7 +12635,7 @@
         "id": 170889551,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/170889551?v=4",
         "html_url": "https:\/\/github.com\/gandalfthegreydev",
-        "name": null,
+        "name": "Gandalf the Grey",
         "company": null,
         "blog": "",
         "location": null,
@@ -41423,5 +41423,5 @@
             }
         }
     },
-    "updatedAt": "2025-06-26 06:08:58"
+    "updatedAt": "2025-06-27 06:10:07"
 }
