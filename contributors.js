@@ -7777,10 +7777,10 @@
         }
     },
     "74": {
-        "login": "jokesterfr",
+        "login": "cdesiles",
         "id": 1536672,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1536672?v=4",
-        "html_url": "https:\/\/github.com\/jokesterfr",
+        "html_url": "https:\/\/github.com\/cdesiles",
         "name": "Cl\u00e9ment D\u00e9siles",
         "company": "Fairly",
         "blog": "https:\/\/clementdesiles.fr",
@@ -41423,5 +41423,5 @@
             }
         }
     },
-    "updatedAt": "2025-06-29 06:06:55"
+    "updatedAt": "2025-06-30 06:23:55"
 }
