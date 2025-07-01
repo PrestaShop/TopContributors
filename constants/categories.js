@@ -1,4 +1,7 @@
 export default {
+  blog: {
+    text: 'Contributions to <strong>Blog</strong>'
+  },
   core: {
     text: 'Contributions to <strong>Core</strong>'
   },
@@ -13,6 +16,9 @@ export default {
   },
   specs: {
     text: 'Contributions to <strong>Specification</strong>'
+  },
+  tests: {
+    text: 'Contributions to <strong>Tests</strong>'
   },
   themes: {
     text: 'Contributions to <strong>Themes</strong>'
