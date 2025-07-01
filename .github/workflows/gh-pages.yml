@@ -14,7 +14,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      ENV_USER_LOGIN: ${{ secrets.ENV_USER_LOGIN }}
       ENV_USER_PASS: ${{ secrets.ENV_USER_PASS }}
 
     steps:
@@ -24,7 +23,7 @@ jobs:
       - name: Setup PHP env 🏗
         uses: shivammathur/setup-php@v2
         with:
-          php-version: 8.1
+          php-version: 8.4
 
       - name: Setup node env 🏗
         uses: actions/setup-node@v2.1.2
@@ -61,9 +60,13 @@ jobs:
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         run: composer create-project prestashop/traces
 
-      - name: Execute Traces 🔧
+      - name: Execute `traces:fetch:repositories` 🔧
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
-        run: ./traces/traces -u ${ENV_USER_LOGIN} -p ${ENV_USER_PASS} -o PrestaShop --config="./traces/config.dist.yml" --timeout 30
+        run: php bin/console traces:fetch:repositories --ghToken=${ENV_USER_PASS}
+
+      - name: Execute `traces:fetch:contributors` 🔧
+        if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
+        run: php bin/console traces:fetch:contributors --ghToken=${ENV_USER_PASS} --config="./traces/config.dist.yml"
 
       - name: Move file 📁
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
