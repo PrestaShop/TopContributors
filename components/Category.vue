@@ -11,7 +11,7 @@
     </a>
     <a
       v-if="type === 'repository'"
-      :href="`https://github.com/${text}/commits?author=${contributor.login}`"
+      :href="`https://github.com/PrestaShop/${text}/commits?author=${contributor.login}`"
       target="_blank"
       class="contributions-item repository"
     >

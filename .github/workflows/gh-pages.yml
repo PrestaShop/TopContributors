@@ -70,9 +70,27 @@ jobs:
         working-directory: ./traces
         run: php bin/console traces:fetch:contributors --ghtoken=${ENV_USER_PASS} --config="./config.dist.yml"
 
-      - name: Move file 📁
+      - name: Execute `traces:fetch:pullrequests:merged` 🔧
+        if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
+        working-directory: ./traces
+        run: php bin/console traces:fetch:pullrequests:merged --ghtoken=${ENV_USER_PASS}
+
+      - name: Execute `traces:generate:topcompanies` 🔧
+        if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
+        working-directory: ./traces
+        run: php bin/console traces:generate:topcompanies --ghtoken=${ENV_USER_PASS}
+
+      - name: Display Contributors without Companies 🔎
+        if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
+        run: cat ./traces/gh_loginsWOCompany.json
+
+      - name: Move file (TopContributors) 📁
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         run: mv ./traces/contributors.js ./dist
+
+      - name: Move file (TopCompanies) 📁
+        if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
+        run: mv ./traces/topcompanies.json ./dist
 
       - name: Write CNAME file
         run: echo 'contributors.prestashop-project.org' > ./dist/CNAME
