@@ -26,13 +26,13 @@
           </a>
         </div>
         <div class="col-sm-4 col-12">
-          <div class="black-title">DISCOVER PRESTASHOP 8</div>
+          <div class="black-title">DISCOVER PRESTASHOP 9</div>
           <div class="black-text">
             Check the latest additions and the more significant improvements of
-            the 8 version, the current major version of PrestaShop.
+            the 9 version, the current major version of PrestaShop.
           </div>
           <a
-            href="https://www.prestashop-project.org/releases/"
+            href="https://www.prestashop-project.org/releases/prestashop90/"
             class="btn large-padding"
           >
             Discover
