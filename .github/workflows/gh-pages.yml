@@ -63,12 +63,12 @@ jobs:
       - name: Execute `traces:fetch:repositories` 🔧
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         working-directory: ./traces
-        run: php bin/console traces:fetch:repositories --ghToken=${ENV_USER_PASS}
+        run: php bin/console traces:fetch:repositories --ghtoken=${ENV_USER_PASS}
 
       - name: Execute `traces:fetch:contributors` 🔧
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         working-directory: ./traces
-        run: php bin/console traces:fetch:contributors --ghToken=${ENV_USER_PASS} --config="./traces/config.dist.yml"
+        run: php bin/console traces:fetch:contributors --ghtoken=${ENV_USER_PASS} --config="./traces/config.dist.yml"
 
       - name: Move file 📁
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
