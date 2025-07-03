@@ -3,10 +3,9 @@
     <div class="gradient">
       <div id="header-section" class="container">
         <div class="justify-content-md-center">
-          <div class="row col-12 mt-2">
+          <div class="col-12 mt-2">
             <img
               width="200px"
-              class="img-fluid"
               src="../static/img/prestashop-logo.png"
               alt="PrestaShop Project - Open Source e-Commerce platform"
             />
@@ -22,7 +21,7 @@
               community, thanks to your involvement in open source.
             </p>
           </div>
-          <div class="row align-items-start">
+          <div class="align-items-start">
             <a
               href="https://github.com/PrestaShop/PrestaShop"
               class="btn large-padding"

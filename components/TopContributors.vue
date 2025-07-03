@@ -5,22 +5,24 @@
         <h2 class="text-center">Top contributors:</h2>
         <div class="text-center date">Last update: {{ today }}</div>
       </div>
-      <div class="col-5 left-column">
-        <top-avatar
-          v-for="contributor in leftContributors"
-          :key="contributor.login"
-          :contributor="contributor"
-        ></top-avatar>
-      </div>
-      <div class="contributors-center">
-        <arrow :counts="counts"></arrow>
-      </div>
-      <div class="col-md-5 right-column">
-        <top-avatar
-          v-for="contributor in rightContributors"
-          :key="contributor.login"
-          :contributor="contributor"
-        ></top-avatar>
+      <div class="row">
+        <div class="col-5 left-column">
+          <top-avatar
+            v-for="contributor in leftContributors"
+            :key="contributor.login"
+            :contributor="contributor"
+          ></top-avatar>
+        </div>
+        <div class="col contributors-center">
+          <arrow :counts="counts"></arrow>
+        </div>
+        <div class="col-md-5 right-column">
+          <top-avatar
+            v-for="contributor in rightContributors"
+            :key="contributor.login"
+            :contributor="contributor"
+          ></top-avatar>
+        </div>
       </div>
     </div>
     <all-contributors
