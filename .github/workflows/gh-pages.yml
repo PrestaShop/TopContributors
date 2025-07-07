@@ -92,6 +92,10 @@ jobs:
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         run: mv ./traces/topcompanies.json ./dist
 
+      - name: Move file (NewContributors) 📁
+        if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
+        run: mv ./traces/newcontributors.json ./dist
+
       - name: Write CNAME file
         run: echo 'contributors.prestashop-project.org' > ./dist/CNAME
 
