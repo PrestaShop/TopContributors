@@ -73,7 +73,7 @@ jobs:
       - name: Execute `traces:fetch:pullrequests:merged` 🔧
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         working-directory: ./traces
-        run: php bin/console traces:fetch:pullrequests:merged --ghtoken=${ENV_USER_PASS}
+        run: php bin/console traces:fetch:pullrequests:merged --ghtoken=${ENV_USER_PASS} --config="./config.dist.yml"
 
       - name: Execute `traces:generate:topcompanies` 🔧
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
