@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 9166,
+        "contributions": 9169,
         "repositories": {
             "PrestaShop": 4134,
             "PrestaShop-modules": 31,
@@ -85,7 +85,7 @@
             "ps_dataprivacy": 14,
             "ps_cashondelivery": 93,
             "ps_viewedproduct": 15,
-            "traces": 33,
+            "traces": 35,
             "TopContributors": 67,
             "TranslationFiles": 3,
             "ps_googleanalytics": 20,
@@ -107,7 +107,7 @@
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
-            "test-scenarios": 841,
+            "test-scenarios": 842,
             "user-documentation-it": 2,
             "user-documentation-en": 1,
             "hummingbird": 6,
@@ -148,12 +148,12 @@
                 }
             },
             "documentation": {
-                "total": 1025,
+                "total": 1026,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-en": 1,
                     "user-documentation-it": 2,
-                    "test-scenarios": 841,
+                    "test-scenarios": 842,
                     "example-modules": 6,
                     "open-source": 31
                 }
@@ -242,7 +242,7 @@
                 }
             },
             "tools": {
-                "total": 927,
+                "total": 929,
                 "repositories": {
                     "docker": 40,
                     "docker-ci": 4,
@@ -255,7 +255,7 @@
                     "QANightlyResults": 304,
                     "TopContributors": 67,
                     "TopTranslators": 1,
-                    "traces": 33
+                    "traces": 35
                 }
             },
             "tests": {
@@ -47497,5 +47497,5 @@
             }
         }
     },
-    "updatedAt": "2025-07-10 06:28:05"
+    "updatedAt": "2025-07-10 07:01:28"
 }
