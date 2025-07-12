@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 9176,
+        "contributions": 9177,
         "repositories": {
             "PrestaShop": 4136,
             "PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
-            "test-scenarios": 842,
+            "test-scenarios": 843,
             "user-documentation-it": 2,
             "user-documentation-en": 1,
             "hummingbird": 6,
@@ -148,12 +148,12 @@
                 }
             },
             "documentation": {
-                "total": 1026,
+                "total": 1027,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-en": 1,
                     "user-documentation-it": 2,
-                    "test-scenarios": 842,
+                    "test-scenarios": 843,
                     "example-modules": 6,
                     "open-source": 31
                 }
@@ -296,9 +296,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 6724,
+        "contributions": 6728,
         "repositories": {
-            "PrestaShop": 5527,
+            "PrestaShop": 5531,
             "dashgoals": 1,
             "dashproducts": 3,
             "dashtrends": 2,
@@ -368,9 +368,9 @@
         },
         "categories": {
             "core": {
-                "total": 5619,
+                "total": 5623,
                 "repositories": {
-                    "PrestaShop": 5527,
+                    "PrestaShop": 5531,
                     "prestashop-ui-kit": 16,
                     "TranslationToolsBundle": 14,
                     "LocalizationFiles": 3,
@@ -1497,7 +1497,7 @@
         "location": "Paris, France",
         "bio": "QA Automation Engineer",
         "email_domain": "gmail.com",
-        "contributions": 3222,
+        "contributions": 3229,
         "repositories": {
             "PrestaShop": 2785,
             "blockwishlist": 1,
@@ -1505,7 +1505,7 @@
             "QANightlyResults": 2,
             "ga.tests.ui.pr": 1,
             "classic-theme": 8,
-            "ui-testing-library": 237
+            "ui-testing-library": 244
         },
         "categories": {
             "core": {
@@ -1542,9 +1542,9 @@
                 }
             },
             "tests": {
-                "total": 238,
+                "total": 245,
                 "repositories": {
-                    "ui-testing-library": 237,
+                    "ui-testing-library": 244,
                     "ga.tests.ui.pr": 1
                 }
             },
@@ -47497,5 +47497,5 @@
             }
         }
     },
-    "updatedAt": "2025-07-11 06:27:38"
+    "updatedAt": "2025-07-12 06:25:18"
 }
