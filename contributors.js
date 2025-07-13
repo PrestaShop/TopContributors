@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 9177,
+        "contributions": 9178,
         "repositories": {
             "PrestaShop": 4136,
             "PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
-            "test-scenarios": 843,
+            "test-scenarios": 844,
             "user-documentation-it": 2,
             "user-documentation-en": 1,
             "hummingbird": 6,
@@ -148,12 +148,12 @@
                 }
             },
             "documentation": {
-                "total": 1027,
+                "total": 1028,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-en": 1,
                     "user-documentation-it": 2,
-                    "test-scenarios": 843,
+                    "test-scenarios": 844,
                     "example-modules": 6,
                     "open-source": 31
                 }
@@ -491,7 +491,7 @@
         "location": "Amiens - France",
         "bio": "Senior engineering manager",
         "email_domain": "",
-        "contributions": 5363,
+        "contributions": 5364,
         "repositories": {
             "PrestaShop": 2096,
             "PrestaShop-modules": 3,
@@ -543,7 +543,7 @@
             "ps_mainmenu": 19,
             "ps_customersignin": 20,
             "ps_categorytree": 19,
-            "docs": 611,
+            "docs": 612,
             "docker-ci": 1,
             "docker-internal-images": 1,
             "ps_wirepayment": 10,
@@ -634,10 +634,10 @@
                 }
             },
             "documentation": {
-                "total": 887,
+                "total": 888,
                 "repositories": {
                     "paymentexample": 1,
-                    "docs": 611,
+                    "docs": 612,
                     "ADR": 22,
                     "test-scenarios": 4,
                     "example-modules": 92,
@@ -5384,7 +5384,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 591,
+        "contributions": 592,
         "repositories": {
             "PrestaShop": 406,
             "PrestaShop-modules": 5,
@@ -5423,7 +5423,7 @@
             "ps_imageslider": 3,
             "ps_mainmenu": 1,
             "ps_customersignin": 1,
-            "docs": 44,
+            "docs": 45,
             "ps_wirepayment": 1,
             "ps_currencyselector": 1,
             "ps_languageselector": 1,
@@ -5463,9 +5463,9 @@
                 }
             },
             "documentation": {
-                "total": 46,
+                "total": 47,
                 "repositories": {
-                    "docs": 44,
+                    "docs": 45,
                     "example-modules": 2
                 }
             },
@@ -18896,7 +18896,7 @@
         "company": "@3DSoft",
         "blog": "",
         "location": null,
-        "bio": null,
+        "bio": "DevOps at 3DSoft",
         "email_domain": "",
         "contributions": 14,
         "repositories": {
@@ -47497,5 +47497,5 @@
             }
         }
     },
-    "updatedAt": "2025-07-12 06:25:18"
+    "updatedAt": "2025-07-13 06:26:05"
 }
