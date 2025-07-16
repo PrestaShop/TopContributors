@@ -92,7 +92,6 @@ jobs:
       - name: Move file (TopContributors) 📁
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         run: |
-          mv ./traces/contributors.js ./dist
           mv ./traces/contributors.json ./dist
 
       - name: Move file (TopCompanies) 📁

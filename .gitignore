@@ -91,4 +91,4 @@ sw.*
 *.swo
 
 # Contributors static datas
-static/contributors.js
+static/contributors.json

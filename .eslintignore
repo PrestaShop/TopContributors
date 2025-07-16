@@ -2,4 +2,4 @@
 plugins/ga.js
 
 # Contributors static datas
-static/contributors.js
+static/contributors.json
