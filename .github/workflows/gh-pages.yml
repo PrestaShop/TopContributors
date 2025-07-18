@@ -78,7 +78,7 @@ jobs:
       - name: Execute `traces:generate:newcontributors` 🔧
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         working-directory: ./traces
-        run: php bin/console traces:generate:newcontributors --ghtoken=${ENV_USER_PASS} --config="./config.dist.yml"
+        run: php bin/console traces:generate:newcontributors --limitNew=10 --config="./config.dist.yml"
 
       - name: Execute `traces:generate:topcompanies` 🔧
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
@@ -92,7 +92,6 @@ jobs:
       - name: Move file (TopContributors) 📁
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         run: |
-          mv ./traces/contributors.js ./dist
           mv ./traces/contributors.json ./dist
 
       - name: Move file (TopCompanies) 📁

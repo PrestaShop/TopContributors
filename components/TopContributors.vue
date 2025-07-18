@@ -162,7 +162,7 @@
       fetchData() {
         const self = this
         const req = new XMLHttpRequest()
-        req.open('GET', '/contributors.js', true)
+        req.open('GET', '/contributors.json', true)
 
         req.onreadystatechange = function () {
           if (req.status >= 200 && req.status < 400 && req.readyState === 4) {

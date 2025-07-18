@@ -19,14 +19,14 @@ $ npm run start
 $ npm run generate
 ```
 
-To generate the required `contributors.js` use **traces** project:
+To generate the required `contributors.json` use **traces** project:
 
 ```
 composer create-project prestashop/traces
 ./traces/traces -u <GitHubLogin> -p <GitHubPassword> -o PrestaShop --config="./traces/config.dist.yml"
 ```
 
-Then place the file `contributors.js` into the folder named `static`.
+Then place the file `contributors.json` into the folder named `static`.
 
 ## Docker
 
