@@ -1,12 +1,82 @@
 {
-    "cnavarro-prestashop": "2025-07-04T11:30:58Z",
-    "nborkowska": "2025-06-25T15:44:03Z",
-    "ThbPS": "2025-06-17T08:18:54Z",
-    "Mch0": "2025-06-06T12:50:59Z",
-    "sessadek": "2025-06-06T12:49:52Z",
-    "CedricKiwik": "2025-05-22T08:57:39Z",
-    "Onita77": "2025-04-24T07:53:11Z",
-    "johnkim0306": "2025-04-23T13:05:03Z",
-    "Nakiloe": "2025-04-11T07:39:26Z",
-    "adrianllopis": "2025-03-26T09:27:38Z"
+    "cnavarro-prestashop": {
+        "login": "cnavarro-prestashop",
+        "name": "Cyril Navarro",
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/127135637?v=4",
+        "html_url": "https:\/\/github.com\/cnavarro-prestashop",
+        "contributions": 13,
+        "firstContributionAt": "2025-07-04T11:30:58Z"
+    },
+    "MonsieurRb": {
+        "login": "MonsieurRb",
+        "name": null,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7203876?v=4",
+        "html_url": "https:\/\/github.com\/MonsieurRb",
+        "contributions": 2,
+        "firstContributionAt": "2025-07-02T13:07:55Z"
+    },
+    "ThbPS": {
+        "login": "ThbPS",
+        "name": null,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109082310?v=4",
+        "html_url": "https:\/\/github.com\/ThbPS",
+        "contributions": 1,
+        "firstContributionAt": "2025-06-17T08:18:54Z"
+    },
+    "Mch0": {
+        "login": "Mch0",
+        "name": "Arnaud",
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3593331?v=4",
+        "html_url": "https:\/\/github.com\/Mch0",
+        "contributions": 12,
+        "firstContributionAt": "2025-05-29T14:21:40Z"
+    },
+    "CedricKiwik": {
+        "login": "CedricKiwik",
+        "name": null,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/186560935?v=4",
+        "html_url": "https:\/\/github.com\/CedricKiwik",
+        "contributions": 8,
+        "firstContributionAt": "2025-05-22T08:57:39Z"
+    },
+    "Issomane": {
+        "login": "Issomane",
+        "name": null,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4606467?v=4",
+        "html_url": "https:\/\/github.com\/Issomane",
+        "contributions": 1,
+        "firstContributionAt": "2025-03-04T08:39:59Z"
+    },
+    "tm8544": {
+        "login": "tm8544",
+        "name": null,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/15167679?v=4",
+        "html_url": "https:\/\/github.com\/tm8544",
+        "contributions": 2,
+        "firstContributionAt": "2024-12-05T18:28:28Z"
+    },
+    "Touxten": {
+        "login": "Touxten",
+        "name": null,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/156076965?v=4",
+        "html_url": "https:\/\/github.com\/Touxten",
+        "contributions": 458,
+        "firstContributionAt": "2024-11-23T20:21:15Z"
+    },
+    "Roxayl": {
+        "login": "Roxayl",
+        "name": "Elyn",
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5798568?v=4",
+        "html_url": "https:\/\/github.com\/Roxayl",
+        "contributions": 1,
+        "firstContributionAt": "2024-11-06T09:49:18Z"
+    },
+    "dylanDenizonPresta": {
+        "login": "dylanDenizonPresta",
+        "name": null,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/119846866?v=4",
+        "html_url": "https:\/\/github.com\/dylanDenizonPresta",
+        "contributions": 9,
+        "firstContributionAt": "2024-10-28T08:15:38Z"
+    }
 }
