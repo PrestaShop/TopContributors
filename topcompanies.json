@@ -1,69 +1,135 @@
-{
-    "": 20742,
-    "prestashop.com": 4036,
-    "codencode.it": 51,
-    "openservis.cz": 49,
-    "creabilis.com": 35,
-    "evolutive.com": 24,
-    "friendsofpresta.org": 18,
-    "trendo.cz": 18,
-    "lefevre.dev": 11,
-    "prestaworks.se": 10,
-    "societebiblique.com": 9,
-    "wepika.com": 9,
-    "202-ecommerce.com": 4,
-    "fintecture.com": 4,
-    "kiwik.com": 4,
-    "headissue.com": 3,
-    "idnovate.com": 3,
-    "podemski.dev": 3,
-    "profileo.com": 3,
-    "arkonsoft.pl": 2,
-    "codeolympus.studio": 2,
-    "comonsoft.com": 2,
-    "coquille.fr": 2,
-    "griiv.fr": 2,
-    "hostinato.it": 2,
-    "klemart3d.fr": 2,
-    "novius.com": 2,
-    "softizy.com": 2,
-    "waynet.io": 2,
-    "web-cooking-factory.com": 2,
-    "webarea.fr": 2,
-    "webimpacto.consulting": 2,
-    "ad-dev.be": 1,
-    "adilis.fr": 1,
-    "aerographediscount.fr": 1,
-    "agrola.cz": 1,
-    "avalanchemedia.cz": 1,
-    "bak-dev.com": 1,
-    "bm-services.com": 1,
-    "boki.es": 1,
-    "cubixtech.in": 1,
-    "danielhlavacek.cz": 1,
-    "e-kosmo.com": 1,
-    "ecommerce-manager.it": 1,
-    "eflyshop.com.ar": 1,
-    "github.com\/pululuk": 1,
-    "habitium.com": 1,
-    "josecarlosphp.com": 1,
-    "kijam.com": 1,
-    "levapoteur-discount.fr": 1,
-    "lordofweb.com": 1,
-    "makedigital.fr": 1,
-    "mariadb.org": 1,
-    "mediacom87.fr": 1,
-    "neworange.agency": 1,
-    "ohmyweb.fr": 1,
-    "rubenrc.dev": 1,
-    "shoprunners.de": 1,
-    "sleed.com": 1,
-    "teslacoollab.com": 1,
-    "thersane.fr": 1,
-    "vaisonet.com": 1,
-    "vendifacileonline.com": 1,
-    "vilkas.fi": 1,
-    "wamkey.com": 1,
-    "web-helpers.io": 1,
-    "web-premiere.fr": 1
-}
+[
+    {
+        "name": "Open Source Community",
+        "rank": 1,
+        "contributions": 21218,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.prestashop-project.org"
+    },
+    {
+        "name": "PrestaShop",
+        "rank": 2,
+        "contributions": 3623,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2815696?s=200&v=4",
+        "html_url": "https:\/\/www.prestashop.com"
+    },
+    {
+        "name": "Codencode",
+        "rank": 3,
+        "contributions": 51,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.codencode.it\/"
+    },
+    {
+        "name": "OpenServis",
+        "rank": 4,
+        "contributions": 49,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.openservis.cz\/"
+    },
+    {
+        "name": "Creabilis",
+        "rank": 5,
+        "contributions": 35,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.creabilis.com\/"
+    },
+    {
+        "name": "Evolutive",
+        "rank": 6,
+        "contributions": 24,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.evolutive.com\/"
+    },
+    {
+        "name": "Friends of Presta",
+        "rank": 7,
+        "contributions": 18,
+        "avatar_url": "",
+        "html_url": "https:\/\/friendsofpresta.org\/"
+    },
+    {
+        "name": "Trendo",
+        "rank": 7,
+        "contributions": 18,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.trendo.cz\/"
+    },
+    {
+        "name": "Franck Lef\u00e8vre",
+        "rank": 8,
+        "contributions": 11,
+        "avatar_url": "",
+        "html_url": "https:\/\/lefevre.dev\/"
+    },
+    {
+        "name": "PrestaWorks",
+        "rank": 9,
+        "contributions": 10,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.prestaworks.se\/"
+    },
+    {
+        "name": "Soci\u00e9t\u00e9 Biblique de Gen\u00e8ve",
+        "rank": 10,
+        "contributions": 9,
+        "avatar_url": "",
+        "html_url": "https:\/\/societebiblique.com"
+    },
+    {
+        "name": "Wepika",
+        "rank": 10,
+        "contributions": 9,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.wepika.com\/"
+    },
+    {
+        "name": "202 ecommerce",
+        "rank": 11,
+        "contributions": 4,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.202-ecommerce.com\/"
+    },
+    {
+        "name": "Fintecture",
+        "rank": 11,
+        "contributions": 4,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.fintecture.com\/"
+    },
+    {
+        "name": "Kiwik",
+        "rank": 11,
+        "contributions": 4,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.kiwik.com\/"
+    },
+    {
+        "name": "Head Issue",
+        "rank": 12,
+        "contributions": 3,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.headissue.com\/"
+    },
+    {
+        "name": "Idnovate",
+        "rank": 12,
+        "contributions": 3,
+        "avatar_url": "",
+        "html_url": "idnovate.com"
+    },
+    {
+        "name": "Krystian Podemski",
+        "rank": 12,
+        "contributions": 3,
+        "avatar_url": "",
+        "html_url": "https:\/\/podemski.dev\/"
+    },
+    {
+        "name": "Profileo",
+        "rank": 12,
+        "contributions": 3,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.profileo.com\/"
+    }
+]

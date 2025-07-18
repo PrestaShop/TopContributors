@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 9229,
+        "contributions": 9230,
         "repositories": {
             "PrestaShop": 4145,
             "PrestaShop-modules": 31,
@@ -107,7 +107,7 @@
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
-            "test-scenarios": 846,
+            "test-scenarios": 847,
             "user-documentation-it": 2,
             "user-documentation-en": 1,
             "hummingbird": 6,
@@ -148,12 +148,12 @@
                 }
             },
             "documentation": {
-                "total": 1030,
+                "total": 1031,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-en": 1,
                     "user-documentation-it": 2,
-                    "test-scenarios": 846,
+                    "test-scenarios": 847,
                     "example-modules": 6,
                     "open-source": 31
                 }
@@ -3761,13 +3761,13 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1244,
+        "contributions": 1246,
         "repositories": {
             "PrestaShop": 671,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 3,
             "dashgoals": 1,
-            "dashproducts": 3,
+            "dashproducts": 4,
             "dashtrends": 2,
             "pagesnotfound": 2,
             "statsbestcustomers": 1,
@@ -3818,7 +3818,7 @@
             "php-dev-tools": 2,
             "QANightlyResults": 77,
             "LocalizationFiles": 8,
-            "presthubot": 54,
+            "presthubot": 55,
             "example-modules": 7,
             "ps_qualityassurance": 3,
             "test-scenarios": 1,
@@ -3869,11 +3869,11 @@
                 }
             },
             "modules": {
-                "total": 240,
+                "total": 241,
                 "repositories": {
                     "dashactivity": 3,
                     "dashgoals": 1,
-                    "dashproducts": 3,
+                    "dashproducts": 4,
                     "dashtrends": 2,
                     "pagesnotfound": 2,
                     "statsbestcustomers": 1,
@@ -3916,7 +3916,7 @@
                 }
             },
             "tools": {
-                "total": 168,
+                "total": 169,
                 "repositories": {
                     "docker": 6,
                     "docker-ci": 1,
@@ -3924,7 +3924,7 @@
                     "mjml-theme-converter": 1,
                     "nightly-board": 1,
                     "PrestaShop-webservice-lib": 1,
-                    "presthubot": 54,
+                    "presthubot": 55,
                     "QANightlyResults": 77,
                     "TopContributors": 7,
                     "TopTranslators": 1,
@@ -7818,10 +7818,11 @@
         "location": "Toulouse \/ France",
         "bio": "e-commerce, dev, founder of Creabilis Agency",
         "email_domain": "",
-        "contributions": 314,
+        "contributions": 318,
         "repositories": {
             "PrestaShop": 177,
             "PrestaShop-webservice-lib": 1,
+            "dashproducts": 4,
             "statsbestcustomers": 2,
             "statscatalog": 1,
             "statssales": 2,
@@ -7880,8 +7881,9 @@
                 }
             },
             "modules": {
-                "total": 56,
+                "total": 60,
                 "repositories": {
+                    "dashproducts": 4,
                     "statsbestcustomers": 2,
                     "statscatalog": 1,
                     "statssales": 2,
@@ -35979,15 +35981,15 @@
             }
         }
     },
-    "gnujeremie": {
-        "login": "gnujeremie",
-        "id": 245343,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/245343?v=4",
-        "html_url": "https:\/\/github.com\/gnujeremie",
-        "name": "J\u00e9r\u00e9mie",
-        "company": "@PIXXID ",
+    "HiCharly": {
+        "login": "HiCharly",
+        "id": 13508863,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13508863?v=4",
+        "html_url": "https:\/\/github.com\/HiCharly",
+        "name": null,
+        "company": null,
         "blog": "",
-        "location": "Lyon",
+        "location": null,
         "bio": null,
         "email_domain": "",
         "contributions": 1,
@@ -36035,15 +36037,15 @@
             }
         }
     },
-    "HiCharly": {
-        "login": "HiCharly",
-        "id": 13508863,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13508863?v=4",
-        "html_url": "https:\/\/github.com\/HiCharly",
-        "name": null,
-        "company": null,
+    "gnujeremie": {
+        "login": "gnujeremie",
+        "id": 245343,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/245343?v=4",
+        "html_url": "https:\/\/github.com\/gnujeremie",
+        "name": "J\u00e9r\u00e9mie",
+        "company": "@PIXXID ",
         "blog": "",
-        "location": null,
+        "location": "Lyon",
         "bio": null,
         "email_domain": "",
         "contributions": 1,
@@ -47515,5 +47517,5 @@
             }
         }
     },
-    "updatedAt": "2025-07-18 06:27:36"
+    "updatedAt": "2025-07-18 07:09:16"
 }
