@@ -2,14 +2,14 @@
     {
         "name": "Open Source Community",
         "rank": 1,
-        "contributions": 21218,
+        "contributions": 21223,
         "avatar_url": "",
         "html_url": "https:\/\/www.prestashop-project.org"
     },
     {
         "name": "PrestaShop",
         "rank": 2,
-        "contributions": 3623,
+        "contributions": 3624,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2815696?s=200&v=4",
         "html_url": "https:\/\/www.prestashop.com"
     },
@@ -23,7 +23,7 @@
     {
         "name": "OpenServis",
         "rank": 4,
-        "contributions": 49,
+        "contributions": 50,
         "avatar_url": "",
         "html_url": "https:\/\/www.openservis.cz\/"
     },
@@ -42,92 +42,92 @@
         "html_url": "https:\/\/www.evolutive.com\/"
     },
     {
-        "name": "Friends of Presta",
+        "name": "Trendo",
         "rank": 7,
+        "contributions": 19,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.trendo.cz\/"
+    },
+    {
+        "name": "Friends of Presta",
+        "rank": 8,
         "contributions": 18,
         "avatar_url": "",
         "html_url": "https:\/\/friendsofpresta.org\/"
     },
     {
-        "name": "Trendo",
-        "rank": 7,
-        "contributions": 18,
-        "avatar_url": "",
-        "html_url": "https:\/\/www.trendo.cz\/"
-    },
-    {
         "name": "Franck Lef\u00e8vre",
-        "rank": 8,
+        "rank": 9,
         "contributions": 11,
         "avatar_url": "",
         "html_url": "https:\/\/lefevre.dev\/"
     },
     {
         "name": "PrestaWorks",
-        "rank": 9,
+        "rank": 10,
         "contributions": 10,
         "avatar_url": "",
         "html_url": "https:\/\/www.prestaworks.se\/"
     },
     {
         "name": "Soci\u00e9t\u00e9 Biblique de Gen\u00e8ve",
-        "rank": 10,
+        "rank": 11,
         "contributions": 9,
         "avatar_url": "",
         "html_url": "https:\/\/societebiblique.com"
     },
     {
         "name": "Wepika",
-        "rank": 10,
+        "rank": 11,
         "contributions": 9,
         "avatar_url": "",
         "html_url": "https:\/\/www.wepika.com\/"
     },
     {
         "name": "202 ecommerce",
-        "rank": 11,
+        "rank": 12,
         "contributions": 4,
         "avatar_url": "",
         "html_url": "https:\/\/www.202-ecommerce.com\/"
     },
     {
         "name": "Fintecture",
-        "rank": 11,
+        "rank": 12,
         "contributions": 4,
         "avatar_url": "",
         "html_url": "https:\/\/www.fintecture.com\/"
     },
     {
         "name": "Kiwik",
-        "rank": 11,
+        "rank": 12,
         "contributions": 4,
         "avatar_url": "",
         "html_url": "https:\/\/www.kiwik.com\/"
     },
     {
         "name": "Head Issue",
-        "rank": 12,
+        "rank": 13,
         "contributions": 3,
         "avatar_url": "",
         "html_url": "https:\/\/www.headissue.com\/"
     },
     {
         "name": "Idnovate",
-        "rank": 12,
+        "rank": 13,
         "contributions": 3,
         "avatar_url": "",
         "html_url": "idnovate.com"
     },
     {
         "name": "Krystian Podemski",
-        "rank": 12,
+        "rank": 13,
         "contributions": 3,
         "avatar_url": "",
         "html_url": "https:\/\/podemski.dev\/"
     },
     {
         "name": "Profileo",
-        "rank": 12,
+        "rank": 13,
         "contributions": 3,
         "avatar_url": "",
         "html_url": "https:\/\/www.profileo.com\/"

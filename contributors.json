@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 9230,
+        "contributions": 9232,
         "repositories": {
-            "PrestaShop": 4145,
+            "PrestaShop": 4147,
             "PrestaShop-modules": 31,
             "PrestaShop-webservice-lib": 4,
             "dashactivity": 14,
@@ -127,9 +127,9 @@
         },
         "categories": {
             "core": {
-                "total": 4248,
+                "total": 4250,
                 "repositories": {
-                    "PrestaShop": 4145,
+                    "PrestaShop": 4147,
                     "prestashop-ui-kit": 50,
                     "TranslationToolsBundle": 9,
                     "LocalizationFiles": 9,
@@ -922,7 +922,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 4495,
+        "contributions": 4496,
         "repositories": {
             "PrestaShop": 1695,
             "PrestaShop-modules": 349,
@@ -953,7 +953,7 @@
             "statssearch": 2,
             "statsstock": 2,
             "blockwishlist": 38,
-            "autoupgrade": 1174,
+            "autoupgrade": 1175,
             "gsitemap": 6,
             "prestashop.github.io": 17,
             "docker": 311,
@@ -1039,7 +1039,7 @@
                 }
             },
             "modules": {
-                "total": 1958,
+                "total": 1959,
                 "repositories": {
                     "PrestaShop-modules": 349,
                     "dashactivity": 1,
@@ -1068,7 +1068,7 @@
                     "statssearch": 2,
                     "statsstock": 2,
                     "blockwishlist": 38,
-                    "autoupgrade": 1174,
+                    "autoupgrade": 1175,
                     "gsitemap": 6,
                     "contactform": 1,
                     "ps_sharebuttons": 8,
@@ -4356,10 +4356,10 @@
         "location": "74100 Annemasse, France",
         "bio": null,
         "email_domain": "",
-        "contributions": 930,
+        "contributions": 931,
         "repositories": {
             "PrestaShop": 10,
-            "autoupgrade": 813,
+            "autoupgrade": 814,
             "prestashop.github.io": 5,
             "ps_imageslider": 1,
             "docs": 4,
@@ -4393,9 +4393,9 @@
                 }
             },
             "modules": {
-                "total": 815,
+                "total": 816,
                 "repositories": {
-                    "autoupgrade": 813,
+                    "autoupgrade": 814,
                     "ps_imageslider": 1,
                     "ps_wirepayment": 1
                 }
@@ -9829,6 +9829,98 @@
             }
         }
     },
+    "ShaiMagal": {
+        "login": "ShaiMagal",
+        "id": 8518736,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8518736?v=4",
+        "html_url": "https:\/\/github.com\/ShaiMagal",
+        "name": "Dominik Shaim Ulrich",
+        "company": "OpenServis",
+        "blog": "www.openservis.cz",
+        "location": "Cel\u00e1 \u010cR",
+        "bio": "www.openservis.cz (PrestaShop webhosting) | www.psmoduly.cz  (PrestaShop modules) + EN version www.prestahouse.eu | www.smartmailer.cz (PrestaShop newsletter) |",
+        "email_domain": "gmail.com",
+        "contributions": 130,
+        "repositories": {
+            "PrestaShop": 100,
+            "autoupgrade": 5,
+            "gsitemap": 2,
+            "prestashop.github.io": 3,
+            "ps_featuredproducts": 2,
+            "ps_imageslider": 1,
+            "ps_bestsellers": 2,
+            "ps_categoryproducts": 2,
+            "ps_newproducts": 2,
+            "ps_specials": 2,
+            "ps_crossselling": 2,
+            "ps_viewedproduct": 1,
+            "ps_googleanalytics": 1,
+            "open-source": 1,
+            "LocalizationFiles": 2,
+            "hummingbird": 1,
+            "classic-theme": 1
+        },
+        "categories": {
+            "core": {
+                "total": 102,
+                "repositories": {
+                    "PrestaShop": 100,
+                    "LocalizationFiles": 2
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 1,
+                "repositories": {
+                    "open-source": 1
+                }
+            },
+            "themes": {
+                "total": 2,
+                "repositories": {
+                    "classic-theme": 1,
+                    "hummingbird": 1
+                }
+            },
+            "modules": {
+                "total": 22,
+                "repositories": {
+                    "autoupgrade": 5,
+                    "gsitemap": 2,
+                    "ps_featuredproducts": 2,
+                    "ps_imageslider": 1,
+                    "ps_bestsellers": 2,
+                    "ps_categoryproducts": 2,
+                    "ps_newproducts": 2,
+                    "ps_specials": 2,
+                    "ps_crossselling": 2,
+                    "ps_viewedproduct": 1,
+                    "ps_googleanalytics": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 3,
+                "repositories": {
+                    "prestashop.github.io": 3
+                }
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "sam-pires": {
         "login": "sam-pires",
         "id": 25405887,
@@ -9883,98 +9975,6 @@
                 "total": 74,
                 "repositories": {
                     "prestashop.github.io": 74
-                }
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "ShaiMagal": {
-        "login": "ShaiMagal",
-        "id": 8518736,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8518736?v=4",
-        "html_url": "https:\/\/github.com\/ShaiMagal",
-        "name": "Dominik Shaim Ulrich",
-        "company": "OpenServis",
-        "blog": "www.openservis.cz",
-        "location": "Cel\u00e1 \u010cR",
-        "bio": "www.openservis.cz (PrestaShop webhosting) | www.psmoduly.cz  (PrestaShop modules) + EN version www.prestahouse.eu | www.smartmailer.cz (PrestaShop newsletter) |",
-        "email_domain": "gmail.com",
-        "contributions": 129,
-        "repositories": {
-            "PrestaShop": 100,
-            "autoupgrade": 4,
-            "gsitemap": 2,
-            "prestashop.github.io": 3,
-            "ps_featuredproducts": 2,
-            "ps_imageslider": 1,
-            "ps_bestsellers": 2,
-            "ps_categoryproducts": 2,
-            "ps_newproducts": 2,
-            "ps_specials": 2,
-            "ps_crossselling": 2,
-            "ps_viewedproduct": 1,
-            "ps_googleanalytics": 1,
-            "open-source": 1,
-            "LocalizationFiles": 2,
-            "hummingbird": 1,
-            "classic-theme": 1
-        },
-        "categories": {
-            "core": {
-                "total": 102,
-                "repositories": {
-                    "PrestaShop": 100,
-                    "LocalizationFiles": 2
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 1,
-                "repositories": {
-                    "open-source": 1
-                }
-            },
-            "themes": {
-                "total": 2,
-                "repositories": {
-                    "classic-theme": 1,
-                    "hummingbird": 1
-                }
-            },
-            "modules": {
-                "total": 21,
-                "repositories": {
-                    "autoupgrade": 4,
-                    "gsitemap": 2,
-                    "ps_featuredproducts": 2,
-                    "ps_imageslider": 1,
-                    "ps_bestsellers": 2,
-                    "ps_categoryproducts": 2,
-                    "ps_newproducts": 2,
-                    "ps_specials": 2,
-                    "ps_crossselling": 2,
-                    "ps_viewedproduct": 1,
-                    "ps_googleanalytics": 1
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 3,
-                "repositories": {
-                    "prestashop.github.io": 3
                 }
             },
             "others": {
@@ -32168,8 +32168,8 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6665689?v=4",
         "html_url": "https:\/\/github.com\/Thymotep",
         "name": "Dimitri Mouillard",
-        "company": "@PrestaShopCorp ",
-        "blog": "https:\/\/www.prestashop.com",
+        "company": null,
+        "blog": "",
         "location": "Paris",
         "bio": null,
         "email_domain": "",
@@ -47517,5 +47517,5 @@
             }
         }
     },
-    "updatedAt": "2025-07-18 07:09:16"
+    "updatedAt": "2025-07-19 06:06:32"
 }
