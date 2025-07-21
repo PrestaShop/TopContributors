@@ -42,18 +42,18 @@
         "html_url": "https:\/\/www.evolutive.com\/"
     },
     {
-        "name": "Trendo",
+        "name": "Friends of Presta",
         "rank": 7,
+        "contributions": 20,
+        "avatar_url": "",
+        "html_url": "https:\/\/friendsofpresta.org\/"
+    },
+    {
+        "name": "Trendo",
+        "rank": 8,
         "contributions": 19,
         "avatar_url": "",
         "html_url": "https:\/\/www.trendo.cz\/"
-    },
-    {
-        "name": "Friends of Presta",
-        "rank": 8,
-        "contributions": 18,
-        "avatar_url": "",
-        "html_url": "https:\/\/friendsofpresta.org\/"
     },
     {
         "name": "Franck Lef\u00e8vre",

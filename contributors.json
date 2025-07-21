@@ -2280,7 +2280,7 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 1991,
+        "contributions": 1993,
         "repositories": {
             "PrestaShop": 888,
             "PrestaShop-webservice-lib": 1,
@@ -2312,7 +2312,7 @@
             "blockwishlist": 12,
             "productcomments": 18,
             "autoupgrade": 136,
-            "gsitemap": 30,
+            "gsitemap": 32,
             "prestashop.github.io": 5,
             "docker": 1,
             "contactform": 9,
@@ -2394,7 +2394,7 @@
                 }
             },
             "modules": {
-                "total": 847,
+                "total": 849,
                 "repositories": {
                     "dashactivity": 13,
                     "dashgoals": 3,
@@ -2424,7 +2424,7 @@
                     "blockwishlist": 12,
                     "productcomments": 18,
                     "autoupgrade": 136,
-                    "gsitemap": 30,
+                    "gsitemap": 32,
                     "contactform": 9,
                     "blockreassurance": 11,
                     "ps_socialfollow": 7,
@@ -6314,7 +6314,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 458,
+        "contributions": 460,
         "repositories": {
             "PrestaShop": 232,
             "dashactivity": 4,
@@ -6331,6 +6331,7 @@
             "blockwishlist": 6,
             "productcomments": 8,
             "autoupgrade": 16,
+            "gsitemap": 2,
             "docker": 2,
             "contactform": 3,
             "blockreassurance": 10,
@@ -6396,7 +6397,7 @@
                 }
             },
             "modules": {
-                "total": 113,
+                "total": 115,
                 "repositories": {
                     "dashactivity": 4,
                     "dashgoals": 2,
@@ -6412,6 +6413,7 @@
                     "blockwishlist": 6,
                     "productcomments": 8,
                     "autoupgrade": 16,
+                    "gsitemap": 2,
                     "contactform": 3,
                     "blockreassurance": 10,
                     "ps_emailsubscription": 1,
@@ -28129,64 +28131,6 @@
             }
         }
     },
-    "prestancedesign": {
-        "login": "prestancedesign",
-        "id": 1840522,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1840522?v=4",
-        "html_url": "https:\/\/github.com\/prestancedesign",
-        "name": "Michael Salihi",
-        "company": "Prestance Design",
-        "blog": "",
-        "location": "France",
-        "bio": "Fullstack freelance developer with main focus on Clojure\/ClojureScript JS React React-Native PHP Prestashop Ecommerce",
-        "email_domain": "prestance-informatique.fr",
-        "contributions": 3,
-        "repositories": {
-            "PrestaShop-modules": 2,
-            "statsproduct": 1
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 3,
-                "repositories": {
-                    "PrestaShop-modules": 2,
-                    "statsproduct": 1
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
     "vTerenti": {
         "login": "vTerenti",
         "id": 2833890,
@@ -28225,6 +28169,64 @@
                 "repositories": {
                     "PrestaShop-modules": 2,
                     "blockwishlist": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "prestancedesign": {
+        "login": "prestancedesign",
+        "id": 1840522,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1840522?v=4",
+        "html_url": "https:\/\/github.com\/prestancedesign",
+        "name": "Michael Salihi",
+        "company": "Prestance Design",
+        "blog": "",
+        "location": "France",
+        "bio": "Fullstack freelance developer with main focus on Clojure\/ClojureScript JS React React-Native PHP Prestashop Ecommerce",
+        "email_domain": "prestance-informatique.fr",
+        "contributions": 3,
+        "repositories": {
+            "PrestaShop-modules": 2,
+            "statsproduct": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 3,
+                "repositories": {
+                    "PrestaShop-modules": 2,
+                    "statsproduct": 1
                 }
             },
             "tools": {
@@ -29617,67 +29619,11 @@
             }
         }
     },
-    "opensourceame": {
-        "login": "opensourceame",
-        "id": 872970,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/872970?v=4",
-        "html_url": "https:\/\/github.com\/opensourceame",
-        "name": "David Kelly",
-        "company": "Futures Bright B.V.",
-        "blog": "http:\/\/futuresbright.com",
-        "location": "Amsterdam",
-        "bio": "I started programming at age 10 and wrote my first business application at age 16.",
-        "email_domain": "",
-        "contributions": 2,
-        "repositories": {
-            "PrestaShop-modules": 2
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 2,
-                "repositories": {
-                    "PrestaShop-modules": 2
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "eyal1": {
-        "login": "eyal1",
-        "id": 3754403,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3754403?v=4",
-        "html_url": "https:\/\/github.com\/eyal1",
+    "baptgauthier": {
+        "login": "baptgauthier",
+        "id": 6545545,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6545545?v=4",
+        "html_url": "https:\/\/github.com\/baptgauthier",
         "name": null,
         "company": null,
         "blog": "",
@@ -29785,16 +29731,16 @@
             }
         }
     },
-    "baptgauthier": {
-        "login": "baptgauthier",
-        "id": 6545545,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6545545?v=4",
-        "html_url": "https:\/\/github.com\/baptgauthier",
-        "name": null,
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
+    "opensourceame": {
+        "login": "opensourceame",
+        "id": 872970,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/872970?v=4",
+        "html_url": "https:\/\/github.com\/opensourceame",
+        "name": "David Kelly",
+        "company": "Futures Bright B.V.",
+        "blog": "http:\/\/futuresbright.com",
+        "location": "Amsterdam",
+        "bio": "I started programming at age 10 and wrote my first business application at age 16.",
         "email_domain": "",
         "contributions": 2,
         "repositories": {
@@ -33965,17 +33911,17 @@
             }
         }
     },
-    "tomaszsolik": {
-        "login": "tomaszsolik",
-        "id": 6075015,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6075015?v=4",
-        "html_url": "https:\/\/github.com\/tomaszsolik",
-        "name": "Tomasz",
-        "company": null,
-        "blog": "www.tomaszsolik.pl",
-        "location": null,
+    "bunsenstraat": {
+        "login": "bunsenstraat",
+        "id": 2787300,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2787300?v=4",
+        "html_url": "https:\/\/github.com\/bunsenstraat",
+        "name": null,
+        "company": "Ethereum",
+        "blog": "",
+        "location": "Amsterdam",
         "bio": null,
-        "email_domain": "tomaszsolik.pl",
+        "email_domain": "",
         "contributions": 1,
         "repositories": {
             "PrestaShop-modules": 1
@@ -34021,12 +33967,12 @@
             }
         }
     },
-    "nanowish": {
-        "login": "nanowish",
-        "id": 2698772,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2698772?v=4",
-        "html_url": "https:\/\/github.com\/nanowish",
-        "name": "GTRZ",
+    "apaqui": {
+        "login": "apaqui",
+        "id": 2624565,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2624565?v=4",
+        "html_url": "https:\/\/github.com\/apaqui",
+        "name": null,
         "company": null,
         "blog": "",
         "location": null,
@@ -34133,12 +34079,12 @@
             }
         }
     },
-    "apaqui": {
-        "login": "apaqui",
-        "id": 2624565,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2624565?v=4",
-        "html_url": "https:\/\/github.com\/apaqui",
-        "name": null,
+    "nanowish": {
+        "login": "nanowish",
+        "id": 2698772,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2698772?v=4",
+        "html_url": "https:\/\/github.com\/nanowish",
+        "name": "GTRZ",
         "company": null,
         "blog": "",
         "location": null,
@@ -34189,17 +34135,17 @@
             }
         }
     },
-    "bunsenstraat": {
-        "login": "bunsenstraat",
-        "id": 2787300,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2787300?v=4",
-        "html_url": "https:\/\/github.com\/bunsenstraat",
-        "name": null,
-        "company": "Ethereum",
-        "blog": "",
-        "location": "Amsterdam",
+    "tomaszsolik": {
+        "login": "tomaszsolik",
+        "id": 6075015,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6075015?v=4",
+        "html_url": "https:\/\/github.com\/tomaszsolik",
+        "name": "Tomasz",
+        "company": null,
+        "blog": "www.tomaszsolik.pl",
+        "location": null,
         "bio": null,
-        "email_domain": "",
+        "email_domain": "tomaszsolik.pl",
         "contributions": 1,
         "repositories": {
             "PrestaShop-modules": 1
@@ -47517,5 +47463,5 @@
             }
         }
     },
-    "updatedAt": "2025-07-20 06:07:27"
+    "updatedAt": "2025-07-21 06:08:45"
 }
