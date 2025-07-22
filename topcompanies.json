@@ -2,14 +2,14 @@
     {
         "name": "Open Source Community",
         "rank": 1,
-        "contributions": 21224,
+        "contributions": 19776,
         "avatar_url": "",
         "html_url": "https:\/\/www.prestashop-project.org"
     },
     {
         "name": "PrestaShop",
         "rank": 2,
-        "contributions": 3624,
+        "contributions": 5078,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2815696?s=200&v=4",
         "html_url": "https:\/\/www.prestashop.com"
     },
@@ -44,7 +44,7 @@
     {
         "name": "Friends of Presta",
         "rank": 7,
-        "contributions": 20,
+        "contributions": 21,
         "avatar_url": "",
         "html_url": "https:\/\/friendsofpresta.org\/"
     },

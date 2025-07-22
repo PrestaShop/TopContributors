@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 9233,
+        "contributions": 9244,
         "repositories": {
             "PrestaShop": 4147,
             "PrestaShop-modules": 31,
@@ -40,7 +40,7 @@
             "statssales": 17,
             "statssearch": 10,
             "statsstock": 9,
-            "blockwishlist": 171,
+            "blockwishlist": 172,
             "productcomments": 45,
             "autoupgrade": 110,
             "gsitemap": 27,
@@ -83,10 +83,10 @@
             "ps_supplierlist": 14,
             "ps_crossselling": 21,
             "ps_dataprivacy": 14,
-            "ps_cashondelivery": 96,
+            "ps_cashondelivery": 98,
             "ps_viewedproduct": 15,
             "traces": 37,
-            "TopContributors": 85,
+            "TopContributors": 86,
             "TranslationFiles": 3,
             "ps_googleanalytics": 20,
             "decimal": 11,
@@ -101,7 +101,7 @@
             "open-source": 31,
             "mjml-theme-converter": 1,
             "php-dev-tools": 4,
-            "QANightlyResults": 304,
+            "QANightlyResults": 306,
             "LocalizationFiles": 9,
             "presthubot": 421,
             "stylelint-config": 7,
@@ -123,7 +123,7 @@
             "ps_fixturescreator": 11,
             "ws-client": 25,
             "ps_apiresources": 3,
-            "ui-testing-library": 943
+            "ui-testing-library": 948
         },
         "categories": {
             "core": {
@@ -166,7 +166,7 @@
                 }
             },
             "modules": {
-                "total": 1645,
+                "total": 1648,
                 "repositories": {
                     "PrestaShop-modules": 31,
                     "dashactivity": 14,
@@ -194,7 +194,7 @@
                     "statssales": 17,
                     "statssearch": 10,
                     "statsstock": 9,
-                    "blockwishlist": 171,
+                    "blockwishlist": 172,
                     "productcomments": 45,
                     "autoupgrade": 110,
                     "gsitemap": 27,
@@ -229,7 +229,7 @@
                     "ps_supplierlist": 14,
                     "ps_crossselling": 21,
                     "ps_dataprivacy": 14,
-                    "ps_cashondelivery": 96,
+                    "ps_cashondelivery": 98,
                     "ps_viewedproduct": 15,
                     "ps_faviconnotificationbo": 7,
                     "ps_qualityassurance": 1,
@@ -242,7 +242,7 @@
                 }
             },
             "tools": {
-                "total": 953,
+                "total": 956,
                 "repositories": {
                     "docker": 40,
                     "docker-ci": 4,
@@ -252,16 +252,16 @@
                     "nightly-board": 46,
                     "PrestaShop-webservice-lib": 4,
                     "presthubot": 421,
-                    "QANightlyResults": 304,
-                    "TopContributors": 85,
+                    "QANightlyResults": 306,
+                    "TopContributors": 86,
                     "TopTranslators": 1,
                     "traces": 37
                 }
             },
             "tests": {
-                "total": 1031,
+                "total": 1036,
                 "repositories": {
-                    "ui-testing-library": 943,
+                    "ui-testing-library": 948,
                     "ga.tests.ui.pr": 88
                 }
             },
@@ -296,9 +296,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 6736,
+        "contributions": 6739,
         "repositories": {
-            "PrestaShop": 5531,
+            "PrestaShop": 5533,
             "dashgoals": 1,
             "dashproducts": 3,
             "dashtrends": 2,
@@ -330,7 +330,7 @@
             "ps_newproducts": 1,
             "ps_cashondelivery": 1,
             "ps_viewedproduct": 2,
-            "traces": 5,
+            "traces": 6,
             "TopContributors": 2,
             "TranslationFiles": 23,
             "ps_googleanalytics": 5,
@@ -370,9 +370,9 @@
         },
         "categories": {
             "core": {
-                "total": 5623,
+                "total": 5625,
                 "repositories": {
-                    "PrestaShop": 5531,
+                    "PrestaShop": 5533,
                     "prestashop-ui-kit": 16,
                     "TranslationToolsBundle": 14,
                     "LocalizationFiles": 3,
@@ -438,7 +438,7 @@
                 }
             },
             "tools": {
-                "total": 136,
+                "total": 137,
                 "repositories": {
                     "docker": 79,
                     "docker-ci": 1,
@@ -448,7 +448,7 @@
                     "presthubot": 2,
                     "QANightlyResults": 1,
                     "TopContributors": 2,
-                    "traces": 5,
+                    "traces": 6,
                     "kanbanbot": 1,
                     "SeamlessUpgradeToolbox": 2
                 }
@@ -495,7 +495,7 @@
         "location": "Amiens - France",
         "bio": "Senior engineering manager",
         "email_domain": "",
-        "contributions": 5369,
+        "contributions": 5370,
         "repositories": {
             "PrestaShop": 2096,
             "PrestaShop-modules": 3,
@@ -569,7 +569,7 @@
             "ps_crossselling": 22,
             "ps_dataprivacy": 9,
             "ps_viewedproduct": 5,
-            "traces": 9,
+            "traces": 10,
             "TopContributors": 18,
             "TranslationFiles": 4,
             "ps_googleanalytics": 15,
@@ -730,7 +730,7 @@
                 }
             },
             "tools": {
-                "total": 213,
+                "total": 214,
                 "repositories": {
                     "docker": 39,
                     "docker-ci": 1,
@@ -746,7 +746,7 @@
                     "QANightlyResults": 1,
                     "TopContributors": 18,
                     "TopTranslators": 49,
-                    "traces": 9,
+                    "traces": 10,
                     "kanbanbot": 10,
                     "psssst": 1
                 }
@@ -922,7 +922,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 4496,
+        "contributions": 4497,
         "repositories": {
             "PrestaShop": 1695,
             "PrestaShop-modules": 349,
@@ -953,7 +953,7 @@
             "statssearch": 2,
             "statsstock": 2,
             "blockwishlist": 38,
-            "autoupgrade": 1175,
+            "autoupgrade": 1176,
             "gsitemap": 6,
             "prestashop.github.io": 17,
             "docker": 311,
@@ -1039,7 +1039,7 @@
                 }
             },
             "modules": {
-                "total": 1959,
+                "total": 1960,
                 "repositories": {
                     "PrestaShop-modules": 349,
                     "dashactivity": 1,
@@ -1068,7 +1068,7 @@
                     "statssearch": 2,
                     "statsstock": 2,
                     "blockwishlist": 38,
-                    "autoupgrade": 1175,
+                    "autoupgrade": 1176,
                     "gsitemap": 6,
                     "contactform": 1,
                     "ps_sharebuttons": 8,
@@ -2280,7 +2280,7 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 1993,
+        "contributions": 1994,
         "repositories": {
             "PrestaShop": 888,
             "PrestaShop-webservice-lib": 1,
@@ -2312,7 +2312,7 @@
             "blockwishlist": 12,
             "productcomments": 18,
             "autoupgrade": 136,
-            "gsitemap": 32,
+            "gsitemap": 33,
             "prestashop.github.io": 5,
             "docker": 1,
             "contactform": 9,
@@ -2394,7 +2394,7 @@
                 }
             },
             "modules": {
-                "total": 849,
+                "total": 850,
                 "repositories": {
                     "dashactivity": 13,
                     "dashgoals": 3,
@@ -2424,7 +2424,7 @@
                     "blockwishlist": 12,
                     "productcomments": 18,
                     "autoupgrade": 136,
-                    "gsitemap": 32,
+                    "gsitemap": 33,
                     "contactform": 9,
                     "blockreassurance": 11,
                     "ps_socialfollow": 7,
@@ -3761,9 +3761,9 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1246,
+        "contributions": 1251,
         "repositories": {
-            "PrestaShop": 671,
+            "PrestaShop": 675,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 3,
             "dashgoals": 1,
@@ -3806,7 +3806,7 @@
             "ps_specials": 2,
             "ps_dataprivacy": 1,
             "ps_cashondelivery": 2,
-            "traces": 4,
+            "traces": 5,
             "TopContributors": 7,
             "ps_googleanalytics": 4,
             "ps_themecusto": 3,
@@ -3840,9 +3840,9 @@
         },
         "categories": {
             "core": {
-                "total": 682,
+                "total": 686,
                 "repositories": {
-                    "PrestaShop": 671,
+                    "PrestaShop": 675,
                     "prestashop-ui-kit": 1,
                     "LocalizationFiles": 8,
                     "php-dev-tools": 2
@@ -3916,7 +3916,7 @@
                 }
             },
             "tools": {
-                "total": 169,
+                "total": 170,
                 "repositories": {
                     "docker": 6,
                     "docker-ci": 1,
@@ -3928,7 +3928,7 @@
                     "QANightlyResults": 77,
                     "TopContributors": 7,
                     "TopTranslators": 1,
-                    "traces": 4,
+                    "traces": 5,
                     "kanbanbot": 13,
                     "SeamlessUpgradeToolbox": 1
                 }
@@ -4356,10 +4356,10 @@
         "location": "74100 Annemasse, France",
         "bio": null,
         "email_domain": "",
-        "contributions": 931,
+        "contributions": 932,
         "repositories": {
             "PrestaShop": 10,
-            "autoupgrade": 814,
+            "autoupgrade": 815,
             "prestashop.github.io": 5,
             "ps_imageslider": 1,
             "docs": 4,
@@ -4393,9 +4393,9 @@
                 }
             },
             "modules": {
-                "total": 816,
+                "total": 817,
                 "repositories": {
-                    "autoupgrade": 814,
+                    "autoupgrade": 815,
                     "ps_imageslider": 1,
                     "ps_wirepayment": 1
                 }
@@ -6314,7 +6314,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 460,
+        "contributions": 461,
         "repositories": {
             "PrestaShop": 232,
             "dashactivity": 4,
@@ -6331,7 +6331,7 @@
             "blockwishlist": 6,
             "productcomments": 8,
             "autoupgrade": 16,
-            "gsitemap": 2,
+            "gsitemap": 3,
             "docker": 2,
             "contactform": 3,
             "blockreassurance": 10,
@@ -6397,7 +6397,7 @@
                 }
             },
             "modules": {
-                "total": 115,
+                "total": 116,
                 "repositories": {
                     "dashactivity": 4,
                     "dashgoals": 2,
@@ -6413,7 +6413,7 @@
                     "blockwishlist": 6,
                     "productcomments": 8,
                     "autoupgrade": 16,
-                    "gsitemap": 2,
+                    "gsitemap": 3,
                     "contactform": 3,
                     "blockreassurance": 10,
                     "ps_emailsubscription": 1,
@@ -47463,5 +47463,5 @@
             }
         }
     },
-    "updatedAt": "2025-07-21 06:08:45"
+    "updatedAt": "2025-07-22 07:42:15"
 }
