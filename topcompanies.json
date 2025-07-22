@@ -1,43 +1,49 @@
 [
     {
-        "name": "Open Source Community",
-        "rank": 1,
-        "contributions": 19776,
-        "avatar_url": "",
-        "html_url": "https:\/\/www.prestashop-project.org"
-    },
-    {
         "name": "PrestaShop",
-        "rank": 2,
-        "contributions": 5078,
+        "rank": 1,
+        "contributions": 6687,
+        "contribution_percent": 26.6,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2815696?s=200&v=4",
         "html_url": "https:\/\/www.prestashop.com"
     },
     {
-        "name": "Codencode",
-        "rank": 3,
-        "contributions": 51,
+        "name": "Trendo",
+        "rank": 2,
+        "contributions": 792,
+        "contribution_percent": 3.15,
         "avatar_url": "",
-        "html_url": "https:\/\/www.codencode.it\/"
-    },
-    {
-        "name": "OpenServis",
-        "rank": 4,
-        "contributions": 50,
-        "avatar_url": "",
-        "html_url": "https:\/\/www.openservis.cz\/"
+        "html_url": "https:\/\/www.trendo.cz"
     },
     {
         "name": "Creabilis",
-        "rank": 5,
-        "contributions": 35,
-        "avatar_url": "",
+        "rank": 3,
+        "contributions": 210,
+        "contribution_percent": 0.84,
+        "avatar_url": "https:\/\/www.creabilis.com\/images\/newLogo.png",
         "html_url": "https:\/\/www.creabilis.com\/"
+    },
+    {
+        "name": "Codencode",
+        "rank": 4,
+        "contributions": 52,
+        "contribution_percent": 0.21,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.codencode.it"
+    },
+    {
+        "name": "OpenServis",
+        "rank": 5,
+        "contributions": 50,
+        "contribution_percent": 0.2,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.openservis.cz\/"
     },
     {
         "name": "Evolutive",
         "rank": 6,
         "contributions": 24,
+        "contribution_percent": 0.1,
         "avatar_url": "",
         "html_url": "https:\/\/www.evolutive.com\/"
     },
@@ -45,91 +51,480 @@
         "name": "Friends of Presta",
         "rank": 7,
         "contributions": 21,
+        "contribution_percent": 0.08,
         "avatar_url": "",
         "html_url": "https:\/\/friendsofpresta.org\/"
     },
     {
-        "name": "Trendo",
-        "rank": 8,
-        "contributions": 19,
-        "avatar_url": "",
-        "html_url": "https:\/\/www.trendo.cz\/"
-    },
-    {
         "name": "Franck Lef\u00e8vre",
-        "rank": 9,
+        "rank": 8,
         "contributions": 11,
-        "avatar_url": "",
+        "contribution_percent": 0.04,
+        "avatar_url": "https:\/\/lefevre.dev\/progi1984.png",
         "html_url": "https:\/\/lefevre.dev\/"
     },
     {
         "name": "PrestaWorks",
-        "rank": 10,
+        "rank": 9,
         "contributions": 10,
+        "contribution_percent": 0.04,
         "avatar_url": "",
         "html_url": "https:\/\/www.prestaworks.se\/"
     },
     {
         "name": "Soci\u00e9t\u00e9 Biblique de Gen\u00e8ve",
-        "rank": 11,
+        "rank": 10,
         "contributions": 9,
+        "contribution_percent": 0.04,
         "avatar_url": "",
         "html_url": "https:\/\/societebiblique.com"
     },
     {
         "name": "Wepika",
-        "rank": 11,
+        "rank": 10,
         "contributions": 9,
+        "contribution_percent": 0.04,
         "avatar_url": "",
-        "html_url": "https:\/\/www.wepika.com\/"
+        "html_url": "https:\/\/www.wepika.com"
     },
     {
         "name": "202 ecommerce",
-        "rank": 12,
+        "rank": 11,
         "contributions": 4,
+        "contribution_percent": 0.02,
         "avatar_url": "",
-        "html_url": "https:\/\/www.202-ecommerce.com\/"
+        "html_url": "https:\/\/www.202-ecommerce.com"
     },
     {
         "name": "Fintecture",
-        "rank": 12,
+        "rank": 11,
         "contributions": 4,
+        "contribution_percent": 0.02,
         "avatar_url": "",
         "html_url": "https:\/\/www.fintecture.com\/"
     },
     {
         "name": "Kiwik",
-        "rank": 12,
+        "rank": 11,
         "contributions": 4,
+        "contribution_percent": 0.02,
         "avatar_url": "",
         "html_url": "https:\/\/www.kiwik.com\/"
     },
     {
         "name": "Head Issue",
-        "rank": 13,
+        "rank": 12,
         "contributions": 3,
+        "contribution_percent": 0.01,
         "avatar_url": "",
         "html_url": "https:\/\/www.headissue.com\/"
     },
     {
         "name": "Idnovate",
-        "rank": 13,
+        "rank": 12,
         "contributions": 3,
+        "contribution_percent": 0.01,
         "avatar_url": "",
         "html_url": "idnovate.com"
     },
     {
         "name": "Krystian Podemski",
-        "rank": 13,
+        "rank": 12,
         "contributions": 3,
+        "contribution_percent": 0.01,
         "avatar_url": "",
         "html_url": "https:\/\/podemski.dev\/"
     },
     {
         "name": "Profileo",
-        "rank": 13,
+        "rank": 12,
         "contributions": 3,
+        "contribution_percent": 0.01,
         "avatar_url": "",
         "html_url": "https:\/\/www.profileo.com\/"
+    },
+    {
+        "name": "Arkonsoft",
+        "rank": 13,
+        "contributions": 2,
+        "contribution_percent": 0.01,
+        "avatar_url": "",
+        "html_url": "https:\/\/arkonsoft.pl"
+    },
+    {
+        "name": "Com'onSoft",
+        "rank": 13,
+        "contributions": 2,
+        "contribution_percent": 0.01,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.comonsoft.com"
+    },
+    {
+        "name": "Code Olympus Studio",
+        "rank": 13,
+        "contributions": 2,
+        "contribution_percent": 0.01,
+        "avatar_url": "",
+        "html_url": "https:\/\/codeolympus.studio"
+    },
+    {
+        "name": "Coquille Consulting",
+        "rank": 13,
+        "contributions": 2,
+        "contribution_percent": 0.01,
+        "avatar_url": "",
+        "html_url": "https:\/\/coquille.fr"
+    },
+    {
+        "name": "Griiv",
+        "rank": 13,
+        "contributions": 2,
+        "contribution_percent": 0.01,
+        "avatar_url": "",
+        "html_url": "https:\/\/griiv.fr"
+    },
+    {
+        "name": "Hostinato",
+        "rank": 13,
+        "contributions": 2,
+        "contribution_percent": 0.01,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.hostinato.it"
+    },
+    {
+        "name": "Klemart 3D",
+        "rank": 13,
+        "contributions": 2,
+        "contribution_percent": 0.01,
+        "avatar_url": "",
+        "html_url": "https:\/\/klemart3d.fr"
+    },
+    {
+        "name": "Novius",
+        "rank": 13,
+        "contributions": 2,
+        "contribution_percent": 0.01,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.novius.com"
+    },
+    {
+        "name": "Softizy",
+        "rank": 13,
+        "contributions": 2,
+        "contribution_percent": 0.01,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.softizy.com"
+    },
+    {
+        "name": "Waynet",
+        "rank": 13,
+        "contributions": 2,
+        "contribution_percent": 0.01,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.waynet.io"
+    },
+    {
+        "name": "Web Area",
+        "rank": 13,
+        "contributions": 2,
+        "contribution_percent": 0.01,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.webarea.fr"
+    },
+    {
+        "name": "Web Cooking Factory",
+        "rank": 13,
+        "contributions": 2,
+        "contribution_percent": 0.01,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.web-cooking-factory.com"
+    },
+    {
+        "name": "Webimpacto Consulting",
+        "rank": 13,
+        "contributions": 2,
+        "contribution_percent": 0.01,
+        "avatar_url": "",
+        "html_url": "https:\/\/webimpacto.consulting"
+    },
+    {
+        "name": "AD-Dev",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.ad-dev.be"
+    },
+    {
+        "name": "Adilis",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.adilis.fr"
+    },
+    {
+        "name": "A\u00e9rographe Discount",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.aerographediscount.fr"
+    },
+    {
+        "name": "AGRO-LA",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/agrola.cz"
+    },
+    {
+        "name": "Avalanche Media",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/avalanchemedia.cz"
+    },
+    {
+        "name": "Bakhouche Akram",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/bak-dev.com"
+    },
+    {
+        "name": "BM Services",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.bm-services.com"
+    },
+    {
+        "name": "Borja Garc\u00eda",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/boki.es"
+    },
+    {
+        "name": "Cubix Tech",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.cubixtech.in"
+    },
+    {
+        "name": "Daniel Hlav\u00e1\u010dek",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/danielhlavacek.cz"
+    },
+    {
+        "name": "ECM",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.ecommerce-manager.it"
+    },
+    {
+        "name": "eflyshop",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.eflyshop.com.ar"
+    },
+    {
+        "name": "Habitium",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/habitium.com"
+    },
+    {
+        "name": "Jos\u00e9 Carlos",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/josecarlosphp.com"
+    },
+    {
+        "name": "Kijam L\u00f3pez",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/kijam.com"
+    },
+    {
+        "name": "Kosmo",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/e-kosmo.com"
+    },
+    {
+        "name": "Le Vapoteur Discount",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.levapoteur-discount.fr"
+    },
+    {
+        "name": "Lord of Web",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.lordofweb.com"
+    },
+    {
+        "name": "Make Digital",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/makedigital.fr"
+    },
+    {
+        "name": "MariaDB Foundation",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "https:\/\/mariadb.org\/wp-content\/themes\/twentynineteen-child\/icons\/mariadb_org_rgb_h.svg",
+        "html_url": "https:\/\/mariadb.org"
+    },
+    {
+        "name": "Mediacom87",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/mediacom87.fr"
+    },
+    {
+        "name": "New Orange",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/neworange.agency"
+    },
+    {
+        "name": "ohmyweb!",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.ohmyweb.fr"
+    },
+    {
+        "name": "PululuK",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": ""
+    },
+    {
+        "name": "Rub\u00e9n",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/rubenrc.dev"
+    },
+    {
+        "name": "ShopRunners",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.shoprunners.de"
+    },
+    {
+        "name": "Sleed",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.sleed.com\/"
+    },
+    {
+        "name": "Tesla Cool Lab",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/teslacoollab.com"
+    },
+    {
+        "name": "Thersane",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.thersane.fr"
+    },
+    {
+        "name": "Vaisonet",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.vaisonet.com"
+    },
+    {
+        "name": "Vendi Facile Online",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/vendifacileonline.com\/"
+    },
+    {
+        "name": "Vilkas",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.vilkas.fi"
+    },
+    {
+        "name": "WAM",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/wamkey.com"
+    },
+    {
+        "name": "Web Helpers",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.web-helpers.io"
+    },
+    {
+        "name": "Web Premiere",
+        "rank": 14,
+        "contributions": 1,
+        "contribution_percent": 0,
+        "avatar_url": "",
+        "html_url": "https:\/\/www.web-premiere.fr"
     }
 ]
