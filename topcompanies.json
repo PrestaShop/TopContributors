@@ -2,42 +2,42 @@
     {
         "name": "PrestaShop",
         "rank": 1,
-        "contributions": 6687,
-        "contribution_percent": 26.6,
+        "contributions": 7460,
+        "contribution_percent": 29.65,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2815696?s=200&v=4",
         "html_url": "https:\/\/www.prestashop.com"
     },
     {
         "name": "Trendo",
         "rank": 2,
-        "contributions": 792,
-        "contribution_percent": 3.15,
-        "avatar_url": "",
+        "contributions": 795,
+        "contribution_percent": 3.16,
+        "avatar_url": "https:\/\/www.trendo.cz\/img\/logos\/logo_square_400_inverted.png",
         "html_url": "https:\/\/www.trendo.cz"
     },
     {
         "name": "Creabilis",
         "rank": 3,
         "contributions": 210,
-        "contribution_percent": 0.84,
+        "contribution_percent": 0.83,
         "avatar_url": "https:\/\/www.creabilis.com\/images\/newLogo.png",
         "html_url": "https:\/\/www.creabilis.com\/"
     },
     {
-        "name": "Codencode",
+        "name": "OpenServis",
         "rank": 4,
+        "contributions": 57,
+        "contribution_percent": 0.23,
+        "avatar_url": "https:\/\/www.openservis.cz\/logo_square_400.png",
+        "html_url": "https:\/\/www.openservis.cz\/"
+    },
+    {
+        "name": "Codencode",
+        "rank": 5,
         "contributions": 52,
         "contribution_percent": 0.21,
         "avatar_url": "",
         "html_url": "https:\/\/www.codencode.it"
-    },
-    {
-        "name": "OpenServis",
-        "rank": 5,
-        "contributions": 50,
-        "contribution_percent": 0.2,
-        "avatar_url": "",
-        "html_url": "https:\/\/www.openservis.cz\/"
     },
     {
         "name": "Evolutive",
