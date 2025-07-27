@@ -2,8 +2,8 @@
     "community": {
         "name": "Open Source Community",
         "rank": 0,
-        "merged_pull_requests": 16407,
-        "pull_requests_percent": 65.17,
+        "merged_pull_requests": 16405,
+        "pull_requests_percent": 65.16,
         "avatar_url": "",
         "html_url": "https:\/\/www.prestashop-project.org"
     },
@@ -49,20 +49,20 @@
             "html_url": "https:\/\/www.codencode.it"
         },
         {
-            "name": "Evolutive",
+            "name": "Friends of Presta",
             "rank": 6,
+            "merged_pull_requests": 25,
+            "pull_requests_percent": 0.1,
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/42359739?s=200&v=4",
+            "html_url": "https:\/\/friendsofpresta.org\/"
+        },
+        {
+            "name": "Evolutive",
+            "rank": 7,
             "merged_pull_requests": 24,
             "pull_requests_percent": 0.1,
             "avatar_url": "",
             "html_url": "https:\/\/www.evolutive.com\/"
-        },
-        {
-            "name": "Friends of Presta",
-            "rank": 7,
-            "merged_pull_requests": 23,
-            "pull_requests_percent": 0.09,
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/42359739?s=200&v=4",
-            "html_url": "https:\/\/friendsofpresta.org\/"
         },
         {
             "name": "Franck Lef\u00e8vre",
