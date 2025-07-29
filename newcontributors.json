@@ -23,6 +23,14 @@
         "contributions": 1,
         "firstContributionAt": "2025-06-17T08:18:54Z"
     },
+    "sessadek": {
+        "login": "sessadek",
+        "name": "ESSADEK Salim",
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/32558259?v=4",
+        "html_url": "https:\/\/github.com\/sessadek",
+        "contributions": 1,
+        "firstContributionAt": "2025-06-06T12:49:52Z"
+    },
     "Mch0": {
         "login": "Mch0",
         "name": "Arnaud",
@@ -60,7 +68,7 @@
         "name": null,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/156076965?v=4",
         "html_url": "https:\/\/github.com\/Touxten",
-        "contributions": 467,
+        "contributions": 470,
         "firstContributionAt": "2024-11-23T20:21:15Z"
     },
     "Roxayl": {
@@ -70,13 +78,5 @@
         "html_url": "https:\/\/github.com\/Roxayl",
         "contributions": 1,
         "firstContributionAt": "2024-11-06T09:49:18Z"
-    },
-    "dylanDenizonPresta": {
-        "login": "dylanDenizonPresta",
-        "name": null,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/119846866?v=4",
-        "html_url": "https:\/\/github.com\/dylanDenizonPresta",
-        "contributions": 9,
-        "firstContributionAt": "2024-10-28T08:15:38Z"
     }
 }
