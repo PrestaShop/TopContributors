@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 9341,
+        "contributions": 9343,
         "repositories": {
             "PrestaShop": 4169,
             "PrestaShop-modules": 31,
@@ -85,7 +85,7 @@
             "ps_dataprivacy": 14,
             "ps_cashondelivery": 101,
             "ps_viewedproduct": 15,
-            "traces": 77,
+            "traces": 78,
             "TopContributors": 86,
             "TranslationFiles": 3,
             "ps_googleanalytics": 20,
@@ -107,7 +107,7 @@
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
-            "test-scenarios": 855,
+            "test-scenarios": 856,
             "user-documentation-it": 2,
             "user-documentation-en": 1,
             "hummingbird": 6,
@@ -148,12 +148,12 @@
                 }
             },
             "documentation": {
-                "total": 1039,
+                "total": 1040,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-en": 1,
                     "user-documentation-it": 2,
-                    "test-scenarios": 855,
+                    "test-scenarios": 856,
                     "example-modules": 6,
                     "open-source": 31
                 }
@@ -242,7 +242,7 @@
                 }
             },
             "tools": {
-                "total": 1002,
+                "total": 1003,
                 "repositories": {
                     "docker": 40,
                     "docker-ci": 4,
@@ -255,7 +255,7 @@
                     "QANightlyResults": 307,
                     "TopContributors": 86,
                     "TopTranslators": 1,
-                    "traces": 77
+                    "traces": 78
                 }
             },
             "tests": {
@@ -922,7 +922,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 4504,
+        "contributions": 4505,
         "repositories": {
             "PrestaShop": 1697,
             "PrestaShop-modules": 349,
@@ -953,7 +953,7 @@
             "statssearch": 2,
             "statsstock": 2,
             "blockwishlist": 38,
-            "autoupgrade": 1178,
+            "autoupgrade": 1179,
             "gsitemap": 6,
             "prestashop.github.io": 17,
             "docker": 311,
@@ -1039,7 +1039,7 @@
                 }
             },
             "modules": {
-                "total": 1962,
+                "total": 1963,
                 "repositories": {
                     "PrestaShop-modules": 349,
                     "dashactivity": 1,
@@ -1068,7 +1068,7 @@
                     "statssearch": 2,
                     "statsstock": 2,
                     "blockwishlist": 38,
-                    "autoupgrade": 1178,
+                    "autoupgrade": 1179,
                     "gsitemap": 6,
                     "contactform": 1,
                     "ps_sharebuttons": 8,
@@ -1670,9 +1670,9 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2931,
+        "contributions": 2937,
         "repositories": {
-            "PrestaShop": 708,
+            "PrestaShop": 710,
             "PrestaShop-modules": 4,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 1,
@@ -1704,7 +1704,7 @@
             "productcomments": 24,
             "autoupgrade": 45,
             "gsitemap": 3,
-            "prestashop.github.io": 767,
+            "prestashop.github.io": 771,
             "contactform": 8,
             "paymentexample": 7,
             "prestashop-ui-kit": 4,
@@ -1778,9 +1778,9 @@
         },
         "categories": {
             "core": {
-                "total": 734,
+                "total": 736,
                 "repositories": {
-                    "PrestaShop": 708,
+                    "PrestaShop": 710,
                     "prestashop-ui-kit": 4,
                     "LocalizationFiles": 19,
                     "stylelint-browser-compatibility": 1,
@@ -1905,9 +1905,9 @@
                 }
             },
             "blog": {
-                "total": 767,
+                "total": 771,
                 "repositories": {
-                    "prestashop.github.io": 767
+                    "prestashop.github.io": 771
                 }
             },
             "others": {
@@ -15963,6 +15963,75 @@
             }
         }
     },
+    "clotairer": {
+        "login": "clotairer",
+        "id": 52157233,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/52157233?v=4",
+        "html_url": "https:\/\/github.com\/clotairer",
+        "name": "Clotaire",
+        "company": "@202ecommerce",
+        "blog": "",
+        "location": "Paris",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 28,
+        "repositories": {
+            "PrestaShop": 18,
+            "productcomments": 2,
+            "docs": 1,
+            "ps_facetedsearch": 1,
+            "traces": 4,
+            "psgdpr": 2
+        },
+        "categories": {
+            "core": {
+                "total": 18,
+                "repositories": {
+                    "PrestaShop": 18
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 1,
+                "repositories": {
+                    "docs": 1
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 5,
+                "repositories": {
+                    "productcomments": 2,
+                    "ps_facetedsearch": 1,
+                    "psgdpr": 2
+                }
+            },
+            "tools": {
+                "total": 4,
+                "repositories": {
+                    "traces": 4
+                }
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "erouvier29": {
         "login": "erouvier29",
         "id": 9985812,
@@ -16655,72 +16724,6 @@
                 "total": 1,
                 "repositories": {
                     "autoupgrade": 1
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "clotairer": {
-        "login": "clotairer",
-        "id": 52157233,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/52157233?v=4",
-        "html_url": "https:\/\/github.com\/clotairer",
-        "name": "Clotaire",
-        "company": "@202ecommerce",
-        "blog": "",
-        "location": "Paris",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 24,
-        "repositories": {
-            "PrestaShop": 18,
-            "productcomments": 2,
-            "docs": 1,
-            "ps_facetedsearch": 1,
-            "psgdpr": 2
-        },
-        "categories": {
-            "core": {
-                "total": 18,
-                "repositories": {
-                    "PrestaShop": 18
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 1,
-                "repositories": {
-                    "docs": 1
-                }
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 5,
-                "repositories": {
-                    "productcomments": 2,
-                    "ps_facetedsearch": 1,
-                    "psgdpr": 2
                 }
             },
             "tools": {
@@ -47563,5 +47566,5 @@
             }
         }
     },
-    "updatedAt": "2025-07-31 06:41:42"
+    "updatedAt": "2025-07-31 14:17:24"
 }
