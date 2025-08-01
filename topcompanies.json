@@ -2,8 +2,8 @@
     "community": {
         "name": "Open Source Community",
         "rank": 0,
-        "merged_pull_requests": 13452,
-        "pull_requests_percent": 53.32,
+        "merged_pull_requests": 13438,
+        "pull_requests_percent": 53.25,
         "avatar_url": "",
         "html_url": "https:\/\/www.prestashop-project.org"
     },
@@ -11,16 +11,16 @@
         {
             "name": "PrestaShop",
             "rank": 1,
-            "merged_pull_requests": 9899,
-            "pull_requests_percent": 39.24,
+            "merged_pull_requests": 9919,
+            "pull_requests_percent": 39.3,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2815696?s=200&v=4",
             "html_url": "https:\/\/www.prestashop.com"
         },
         {
             "name": "Trendo",
             "rank": 2,
-            "merged_pull_requests": 798,
-            "pull_requests_percent": 3.16,
+            "merged_pull_requests": 799,
+            "pull_requests_percent": 3.17,
             "avatar_url": "https:\/\/www.trendo.cz\/img\/logos\/logo_square_400_inverted.png",
             "html_url": "https:\/\/www.trendo.cz"
         },
@@ -51,7 +51,7 @@
         {
             "name": "Friends of Presta",
             "rank": 6,
-            "merged_pull_requests": 78,
+            "merged_pull_requests": 79,
             "pull_requests_percent": 0.31,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/42359739?s=200&v=4",
             "html_url": "https:\/\/friendsofpresta.org\/"
