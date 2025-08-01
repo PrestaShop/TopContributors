@@ -93,6 +93,7 @@ jobs:
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         run: |
           mv ./traces/contributors.json ./dist
+          mv ./traces/contributors_prs.json ./dist
 
       - name: Move file (TopCompanies) 📁
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
