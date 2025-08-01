@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 9357,
+        "contributions": 9359,
         "repositories": {
             "PrestaShop": 4171,
             "PrestaShop-modules": 31,
@@ -86,7 +86,7 @@
             "ps_cashondelivery": 101,
             "ps_viewedproduct": 15,
             "traces": 83,
-            "TopContributors": 86,
+            "TopContributors": 88,
             "TranslationFiles": 3,
             "ps_googleanalytics": 20,
             "decimal": 11,
@@ -242,7 +242,7 @@
                 }
             },
             "tools": {
-                "total": 1009,
+                "total": 1011,
                 "repositories": {
                     "docker": 40,
                     "docker-ci": 4,
@@ -253,7 +253,7 @@
                     "PrestaShop-webservice-lib": 4,
                     "presthubot": 427,
                     "QANightlyResults": 307,
-                    "TopContributors": 86,
+                    "TopContributors": 88,
                     "TopTranslators": 1,
                     "traces": 83
                 }
@@ -922,7 +922,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 4520,
+        "contributions": 4518,
         "repositories": {
             "PrestaShop": 1697,
             "PrestaShop-modules": 349,
@@ -1004,7 +1004,7 @@
             "eslint-config": 1,
             "open-source": 6,
             "php-dev-tools": 66,
-            "distribution-api": 19,
+            "distribution-api": 17,
             "classic-theme": 61,
             "SeamlessUpgradeToolbox": 5
         },
@@ -1130,9 +1130,9 @@
                 }
             },
             "others": {
-                "total": 19,
+                "total": 17,
                 "repositories": {
-                    "distribution-api": 19
+                    "distribution-api": 17
                 }
             }
         }
@@ -47568,5 +47568,5 @@
             }
         }
     },
-    "updatedAt": "2025-08-01 14:36:46"
+    "updatedAt": "2025-08-01 14:57:42"
 }
