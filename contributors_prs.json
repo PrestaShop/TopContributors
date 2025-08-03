@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 2015,
+        "contributions": 2016,
         "repositories": {
             "PrestaShop": 1013,
             "PrestaShop-modules": 2,
@@ -84,7 +84,7 @@
             "ps_dataprivacy": 5,
             "ps_cashondelivery": 17,
             "ps_viewedproduct": 3,
-            "traces": 19,
+            "traces": 20,
             "TopContributors": 39,
             "TranslationFiles": 3,
             "ps_googleanalytics": 8,
@@ -225,14 +225,14 @@
                 }
             },
             "tools": {
-                "total": 173,
+                "total": 174,
                 "repositories": {
                     "PrestaShop-webservice-lib": 1,
                     "docker": 13,
                     "docker-ci": 2,
                     "docker-internal-images": 1,
                     "TopTranslators": 1,
-                    "traces": 19,
+                    "traces": 20,
                     "TopContributors": 39,
                     "issuebot": 2,
                     "nightly-board": 11,
@@ -14627,7 +14627,7 @@
         "blog": "presta.info",
         "location": "Germany",
         "bio": "Developer on PHP, JS",
-        "email_domain": "mail.ru",
+        "email_domain": "",
         "contributions": 9,
         "repositories": {
             "PrestaShop": 9

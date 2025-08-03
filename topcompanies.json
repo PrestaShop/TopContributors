@@ -2,8 +2,8 @@
     "community": {
         "name": "Open Source Community",
         "rank": 0,
-        "merged_pull_requests": 13438,
-        "pull_requests_percent": 53.25,
+        "merged_pull_requests": 10996,
+        "pull_requests_percent": 43.57,
         "avatar_url": "",
         "html_url": "https:\/\/www.prestashop-project.org"
     },
@@ -11,8 +11,8 @@
         {
             "name": "PrestaShop",
             "rank": 1,
-            "merged_pull_requests": 9921,
-            "pull_requests_percent": 39.31,
+            "merged_pull_requests": 12364,
+            "pull_requests_percent": 48.99,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2815696?s=200&v=4",
             "html_url": "https:\/\/www.prestashop.com"
         },
