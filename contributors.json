@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 9380,
+        "contributions": 9386,
         "repositories": {
             "PrestaShop": 4172,
             "PrestaShop-modules": 31,
@@ -85,7 +85,7 @@
             "ps_dataprivacy": 14,
             "ps_cashondelivery": 101,
             "ps_viewedproduct": 15,
-            "traces": 88,
+            "traces": 94,
             "TopContributors": 89,
             "TranslationFiles": 3,
             "ps_googleanalytics": 20,
@@ -242,7 +242,7 @@
                 }
             },
             "tools": {
-                "total": 1028,
+                "total": 1034,
                 "repositories": {
                     "docker": 40,
                     "docker-ci": 4,
@@ -255,7 +255,7 @@
                     "QANightlyResults": 314,
                     "TopContributors": 89,
                     "TopTranslators": 1,
-                    "traces": 88
+                    "traces": 94
                 }
             },
             "tests": {
@@ -17511,7 +17511,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3728536?v=4",
         "html_url": "https:\/\/github.com\/jorgevrgs",
         "name": "Jorge Vargas",
-        "company": "@FormulaMonks ",
+        "company": null,
         "blog": "",
         "location": "Colombia",
         "bio": "Node.js & JavaScript Developer. Learning AWS Amplify, Prisma, Nest.",
@@ -47575,5 +47575,5 @@
             }
         }
     },
-    "updatedAt": "2025-08-05 12:23:50"
+    "updatedAt": "2025-08-05 13:54:29"
 }

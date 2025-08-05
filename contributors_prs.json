@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 2020,
+        "contributions": 2023,
         "repositories": {
-            "PrestaShop": 1015,
+            "PrestaShop": 1017,
             "PrestaShop-modules": 2,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 4,
@@ -84,7 +84,7 @@
             "ps_dataprivacy": 5,
             "ps_cashondelivery": 17,
             "ps_viewedproduct": 3,
-            "traces": 21,
+            "traces": 22,
             "TopContributors": 39,
             "TranslationFiles": 3,
             "ps_googleanalytics": 8,
@@ -116,9 +116,9 @@
         },
         "categories": {
             "core": {
-                "total": 1029,
+                "total": 1031,
                 "repositories": {
-                    "PrestaShop": 1015,
+                    "PrestaShop": 1017,
                     "prestashop-ui-kit": 1,
                     "TranslationToolsBundle": 2,
                     "TranslationFiles": 3,
@@ -225,14 +225,14 @@
                 }
             },
             "tools": {
-                "total": 176,
+                "total": 177,
                 "repositories": {
                     "PrestaShop-webservice-lib": 1,
                     "docker": 13,
                     "docker-ci": 2,
                     "docker-internal-images": 1,
                     "TopTranslators": 1,
-                    "traces": 21,
+                    "traces": 22,
                     "TopContributors": 39,
                     "issuebot": 2,
                     "nightly-board": 11,
@@ -14570,7 +14570,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3728536?v=4",
         "html_url": "https:\/\/github.com\/jorgevrgs",
         "name": "Jorge Vargas",
-        "company": "@FormulaMonks ",
+        "company": null,
         "blog": "",
         "location": "Colombia",
         "bio": "Node.js & JavaScript Developer. Learning AWS Amplify, Prisma, Nest.",
