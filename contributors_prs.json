@@ -545,9 +545,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 996,
+        "contributions": 1000,
         "repositories": {
-            "PrestaShop": 651,
+            "PrestaShop": 654,
             "dashproducts": 1,
             "blockwishlist": 3,
             "productcomments": 10,
@@ -564,7 +564,7 @@
             "TranslationToolsBundle": 3,
             "ps_emailalerts": 1,
             "ps_viewedproduct": 1,
-            "traces": 4,
+            "traces": 5,
             "TopContributors": 1,
             "TranslationFiles": 12,
             "ps_googleanalytics": 1,
@@ -593,9 +593,9 @@
         },
         "categories": {
             "core": {
-                "total": 687,
+                "total": 690,
                 "repositories": {
-                    "PrestaShop": 651,
+                    "PrestaShop": 654,
                     "prestashop-ui-kit": 10,
                     "TranslationToolsBundle": 3,
                     "TranslationFiles": 12,
@@ -646,10 +646,10 @@
                 }
             },
             "tools": {
-                "total": 31,
+                "total": 32,
                 "repositories": {
                     "docker": 22,
-                    "traces": 4,
+                    "traces": 5,
                     "TopContributors": 1,
                     "mjml-theme-converter": 3,
                     "SeamlessUpgradeToolbox": 1
@@ -692,9 +692,9 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 974,
+        "contributions": 975,
         "repositories": {
-            "PrestaShop": 392,
+            "PrestaShop": 393,
             "PrestaShop-modules": 14,
             "graphnvd3": 3,
             "statscheckup": 1,
@@ -747,9 +747,9 @@
         },
         "categories": {
             "core": {
-                "total": 426,
+                "total": 427,
                 "repositories": {
-                    "PrestaShop": 392,
+                    "PrestaShop": 393,
                     "prestashop-ui-kit": 3,
                     "TranslationToolsBundle": 3,
                     "eslint-config": 1,
@@ -2331,7 +2331,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 398,
+        "contributions": 399,
         "repositories": {
             "PrestaShop": 218,
             "PrestaShop-modules": 4,
@@ -2382,7 +2382,7 @@
             "ps_supplierlist": 1,
             "ps_crossselling": 1,
             "ps_dataprivacy": 1,
-            "traces": 8,
+            "traces": 9,
             "TopContributors": 5,
             "psssst": 1,
             "ps_themecusto": 1,
@@ -2479,10 +2479,10 @@
                 }
             },
             "tools": {
-                "total": 18,
+                "total": 19,
                 "repositories": {
                     "PrestaShop-webservice-lib": 1,
-                    "traces": 8,
+                    "traces": 9,
                     "TopContributors": 5,
                     "psssst": 1,
                     "presthubot": 1,
@@ -5921,9 +5921,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 99,
+        "contributions": 100,
         "repositories": {
-            "PrestaShop": 69,
+            "PrestaShop": 70,
             "productcomments": 2,
             "autoupgrade": 3,
             "docker": 2,
@@ -5942,9 +5942,9 @@
         },
         "categories": {
             "core": {
-                "total": 69,
+                "total": 70,
                 "repositories": {
-                    "PrestaShop": 69
+                    "PrestaShop": 70
                 }
             },
             "specs": {
@@ -6847,9 +6847,9 @@
         "location": "Paris",
         "bio": "Payment squad developer",
         "email_domain": "",
-        "contributions": 54,
+        "contributions": 55,
         "repositories": {
-            "PrestaShop": 25,
+            "PrestaShop": 26,
             "statscheckup": 1,
             "statspersonalinfos": 1,
             "blockwishlist": 3,
@@ -6868,9 +6868,9 @@
         },
         "categories": {
             "core": {
-                "total": 25,
+                "total": 26,
                 "repositories": {
-                    "PrestaShop": 25
+                    "PrestaShop": 26
                 }
             },
             "specs": {
