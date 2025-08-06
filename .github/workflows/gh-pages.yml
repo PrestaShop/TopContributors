@@ -32,7 +32,7 @@ jobs:
 
       - name: Get Composer Cache Directory
         id: composer-cache
-        run: echo "::set-output name=dir::$(composer config cache-files-dir)"
+        run: echo "dir=$(composer config cache-files-dir)" >> $GITHUB_OUTPUT
 
       - name: Cache Composer Directory 📦
         uses: actions/cache@v4
@@ -63,7 +63,7 @@ jobs:
       - name: Execute `traces:fetch:repositories` 🔧
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         working-directory: ./traces
-        run: php bin/console traces:fetch:repositories --ghtoken=${ENV_USER_PASS}
+        run: php bin/console traces:fetch:repositories --ghtoken=${ENV_USER_PASS} --config="./config.dist.yml"
 
       - name: Execute `traces:fetch:contributors` 🔧
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
@@ -97,7 +97,9 @@ jobs:
 
       - name: Move file (TopCompanies) 📁
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
-        run: mv ./traces/topcompanies.json ./dist
+        run: |
+          mv ./traces/topcompanies.json ./dist
+          mv ./traces/topcompanies_prs.json ./dist
 
       - name: Move file (NewContributors) 📁
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
