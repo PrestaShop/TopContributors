@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 9466,
+        "contributions": 9469,
         "repositories": {
             "PrestaShop": 4176,
             "PrestaShop-modules": 31,
@@ -92,7 +92,7 @@
             "ps_carriercomparison": 3,
             "ps_viewedproduct": 15,
             "ps_feeder": 1,
-            "traces": 103,
+            "traces": 106,
             "core-weekly-generator": 6,
             "TopContributors": 91,
             "TranslationFiles": 3,
@@ -269,7 +269,7 @@
                 }
             },
             "tools": {
-                "total": 1066,
+                "total": 1069,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 41,
@@ -284,7 +284,7 @@
                     "QANightlyResults": 314,
                     "TopContributors": 91,
                     "TopTranslators": 1,
-                    "traces": 103,
+                    "traces": 106,
                     "ps-project-metrics": 4
                 }
             },
@@ -1294,7 +1294,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 4639,
+        "contributions": 4646,
         "repositories": {
             "PrestaShop": 1698,
             "PrestaShop-modules": 349,
@@ -1331,7 +1331,7 @@
             "gsitemap": 6,
             "prestafraud": 1,
             "prestashop.github.io": 17,
-            "docker": 329,
+            "docker": 336,
             "StarterTheme": 28,
             "contactform": 1,
             "paymentexample": 1,
@@ -1492,12 +1492,12 @@
                 }
             },
             "tools": {
-                "total": 534,
+                "total": 541,
                 "repositories": {
                     "azure-template-basic": 6,
                     "azure-template-high-performance": 10,
                     "azure-template-performance": 13,
-                    "docker": 329,
+                    "docker": 336,
                     "docker-ci": 47,
                     "docker-internal-images": 102,
                     "docker-templates": 15,
@@ -1784,7 +1784,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2981,
+        "contributions": 2982,
         "repositories": {
             "PrestaShop": 714,
             "PrestaShop-modules": 4,
@@ -1855,7 +1855,7 @@
             "ps_crossselling": 2,
             "ps_dataprivacy": 1,
             "ps_cashondelivery": 1,
-            "traces": 6,
+            "traces": 7,
             "core-weekly-generator": 2,
             "TopContributors": 5,
             "ps_googleanalytics": 5,
@@ -2010,7 +2010,7 @@
                 }
             },
             "tools": {
-                "total": 33,
+                "total": 34,
                 "repositories": {
                     "core-weekly-generator": 2,
                     "issuebot": 1,
@@ -2020,7 +2020,7 @@
                     "presthubot": 10,
                     "ps-monitor-module-releases": 4,
                     "TopContributors": 5,
-                    "traces": 6,
+                    "traces": 7,
                     "ps-project-metrics": 1,
                     "phpstan-prestashop": 1
                 }
@@ -9536,9 +9536,9 @@
         "html_url": "https:\/\/github.com\/gaillafr",
         "name": "Fran\u00e7ois Gaillard",
         "company": "Greenweez",
-        "blog": "http:\/\/www.francois-gaillard.fr",
+        "blog": "",
         "location": "Annecy",
-        "bio": "Passionate - PHP Lead Developer \/ Symfony Expert \/ DevOps",
+        "bio": "Passionate - Former PHP Lead Developer \/ Symfony Expert \/ DevOps\r\nCTO @Greenweez.com",
         "email_domain": "gmail.com",
         "contributions": 162,
         "repositories": {
@@ -49174,5 +49174,5 @@
             }
         }
     },
-    "updatedAt": "2025-08-07 09:03:14"
+    "updatedAt": "2025-08-07 11:39:40"
 }

@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 9466,
+        "contributions": 9469,
         "repositories": {
             "PrestaShop": 1019,
             "PrestaShop-modules": 2,
@@ -86,7 +86,7 @@
             "ps_dataprivacy": 5,
             "ps_cashondelivery": 17,
             "ps_viewedproduct": 3,
-            "traces": 24,
+            "traces": 25,
             "core-weekly-generator": 1,
             "TopContributors": 41,
             "TranslationFiles": 3,
@@ -234,7 +234,7 @@
                 }
             },
             "tools": {
-                "total": 186,
+                "total": 187,
                 "repositories": {
                     "PrestaShop-webservice-lib": 1,
                     "docker": 14,
@@ -242,7 +242,7 @@
                     "docker-internal-images": 1,
                     "prestonbot": 1,
                     "TopTranslators": 1,
-                    "traces": 24,
+                    "traces": 25,
                     "core-weekly-generator": 1,
                     "TopContributors": 41,
                     "issuebot": 2,
@@ -272,7 +272,7 @@
                 }
             }
         },
-        "mergedPullRequests": 2041
+        "mergedPullRequests": 2042
     },
     "matks": {
         "login": "matks",
@@ -719,7 +719,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 4639,
+        "contributions": 4646,
         "repositories": {
             "PrestaShop": 393,
             "PrestaShop-modules": 14,
@@ -729,7 +729,7 @@
             "autoupgrade": 220,
             "gsitemap": 2,
             "prestashop.github.io": 6,
-            "docker": 83,
+            "docker": 84,
             "StarterTheme": 14,
             "contactform": 1,
             "paymentexample": 1,
@@ -844,9 +844,9 @@
                 }
             },
             "tools": {
-                "total": 151,
+                "total": 152,
                 "repositories": {
-                    "docker": 83,
+                    "docker": 84,
                     "docker-ci": 14,
                     "azure-template-performance": 5,
                     "azure-template-high-performance": 3,
@@ -878,7 +878,7 @@
                 }
             }
         },
-        "mergedPullRequests": 1005
+        "mergedPullRequests": 1006
     },
     "PierreRambaud": {
         "login": "PierreRambaud",
@@ -1991,7 +1991,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2981,
+        "contributions": 2982,
         "repositories": {
             "PrestaShop": 151,
             "PrestaShop-modules": 3,
@@ -2021,7 +2021,7 @@
             "ps_searchbar": 1,
             "ps_checkpayment": 1,
             "ps_emailalerts": 10,
-            "traces": 3,
+            "traces": 4,
             "core-weekly-generator": 2,
             "psgdpr": 4,
             "prestashop-specs": 1,
@@ -2106,9 +2106,9 @@
                 }
             },
             "tools": {
-                "total": 13,
+                "total": 14,
                 "repositories": {
-                    "traces": 3,
+                    "traces": 4,
                     "core-weekly-generator": 2,
                     "nightly-board": 1,
                     "presthubot": 5,
@@ -2135,7 +2135,7 @@
                 }
             }
         },
-        "mergedPullRequests": 483
+        "mergedPullRequests": 484
     },
     "atomiix": {
         "login": "atomiix",
@@ -12826,9 +12826,9 @@
         "html_url": "https:\/\/github.com\/gaillafr",
         "name": "Fran\u00e7ois Gaillard",
         "company": "Greenweez",
-        "blog": "http:\/\/www.francois-gaillard.fr",
+        "blog": "",
         "location": "Annecy",
-        "bio": "Passionate - PHP Lead Developer \/ Symfony Expert \/ DevOps",
+        "bio": "Passionate - Former PHP Lead Developer \/ Symfony Expert \/ DevOps\r\nCTO @Greenweez.com",
         "email_domain": "gmail.com",
         "contributions": 162,
         "repositories": {
