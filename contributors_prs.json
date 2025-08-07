@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 9463,
+        "contributions": 9466,
         "repositories": {
-            "PrestaShop": 1018,
+            "PrestaShop": 1019,
             "PrestaShop-modules": 2,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 4,
@@ -121,9 +121,9 @@
         },
         "categories": {
             "core": {
-                "total": 1032,
+                "total": 1033,
                 "repositories": {
-                    "PrestaShop": 1018,
+                    "PrestaShop": 1019,
                     "prestashop-ui-kit": 1,
                     "TranslationToolsBundle": 2,
                     "TranslationFiles": 3,
@@ -272,7 +272,7 @@
                 }
             }
         },
-        "mergedPullRequests": 2040
+        "mergedPullRequests": 2041
     },
     "matks": {
         "login": "matks",
@@ -567,7 +567,7 @@
         "email_domain": "",
         "contributions": 6843,
         "repositories": {
-            "PrestaShop": 654,
+            "PrestaShop": 656,
             "dashproducts": 1,
             "blockwishlist": 3,
             "productcomments": 10,
@@ -616,9 +616,9 @@
         },
         "categories": {
             "core": {
-                "total": 690,
+                "total": 692,
                 "repositories": {
-                    "PrestaShop": 654,
+                    "PrestaShop": 656,
                     "prestashop-ui-kit": 10,
                     "TranslationToolsBundle": 3,
                     "TranslationFiles": 12,
@@ -706,7 +706,7 @@
                 }
             }
         },
-        "mergedPullRequests": 1010
+        "mergedPullRequests": 1012
     },
     "Quetzacoalt91": {
         "login": "Quetzacoalt91",
@@ -1991,7 +1991,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2977,
+        "contributions": 2981,
         "repositories": {
             "PrestaShop": 151,
             "PrestaShop-modules": 3,
@@ -2001,7 +2001,7 @@
             "blockwishlist": 4,
             "productcomments": 4,
             "autoupgrade": 6,
-            "prestashop.github.io": 140,
+            "prestashop.github.io": 141,
             "StarterTheme": 3,
             "contactform": 3,
             "paymentexample": 1,
@@ -2021,7 +2021,7 @@
             "ps_searchbar": 1,
             "ps_checkpayment": 1,
             "ps_emailalerts": 10,
-            "traces": 2,
+            "traces": 3,
             "core-weekly-generator": 2,
             "psgdpr": 4,
             "prestashop-specs": 1,
@@ -2106,9 +2106,9 @@
                 }
             },
             "tools": {
-                "total": 12,
+                "total": 13,
                 "repositories": {
-                    "traces": 2,
+                    "traces": 3,
                     "core-weekly-generator": 2,
                     "nightly-board": 1,
                     "presthubot": 5,
@@ -2123,9 +2123,9 @@
                 }
             },
             "blog": {
-                "total": 140,
+                "total": 141,
                 "repositories": {
-                    "prestashop.github.io": 140
+                    "prestashop.github.io": 141
                 }
             },
             "others": {
@@ -2135,7 +2135,7 @@
                 }
             }
         },
-        "mergedPullRequests": 481
+        "mergedPullRequests": 483
     },
     "atomiix": {
         "login": "atomiix",
@@ -2457,7 +2457,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 620,
+        "contributions": 621,
         "repositories": {
             "PrestaShop": 218,
             "PrestaShop-modules": 4,
@@ -2512,7 +2512,7 @@
             "ps_supplierlist": 1,
             "ps_crossselling": 1,
             "ps_dataprivacy": 1,
-            "traces": 11,
+            "traces": 12,
             "TopContributors": 5,
             "psssst": 1,
             "ps_themecusto": 1,
@@ -2614,11 +2614,11 @@
                 }
             },
             "tools": {
-                "total": 22,
+                "total": 23,
                 "repositories": {
                     "PrestaShop-webservice-lib": 1,
                     "docker": 1,
-                    "traces": 11,
+                    "traces": 12,
                     "TopContributors": 5,
                     "psssst": 1,
                     "presthubot": 1,
@@ -2641,7 +2641,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 408
+        "mergedPullRequests": 409
     },
     "aleeks": {
         "login": "aleeks",

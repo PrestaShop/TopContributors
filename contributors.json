@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 9463,
+        "contributions": 9466,
         "repositories": {
             "PrestaShop": 4176,
             "PrestaShop-modules": 31,
@@ -92,7 +92,7 @@
             "ps_carriercomparison": 3,
             "ps_viewedproduct": 15,
             "ps_feeder": 1,
-            "traces": 101,
+            "traces": 103,
             "core-weekly-generator": 6,
             "TopContributors": 91,
             "TranslationFiles": 3,
@@ -118,7 +118,7 @@
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
-            "test-scenarios": 860,
+            "test-scenarios": 861,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -160,7 +160,7 @@
                 }
             },
             "documentation": {
-                "total": 1077,
+                "total": 1078,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -168,7 +168,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 860,
+                    "test-scenarios": 861,
                     "example-modules": 6,
                     "open-source": 31,
                     "example_module_mailtheme": 4,
@@ -269,7 +269,7 @@
                 }
             },
             "tools": {
-                "total": 1064,
+                "total": 1066,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 41,
@@ -284,7 +284,7 @@
                     "QANightlyResults": 314,
                     "TopContributors": 91,
                     "TopTranslators": 1,
-                    "traces": 101,
+                    "traces": 103,
                     "ps-project-metrics": 4
                 }
             },
@@ -1784,7 +1784,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2977,
+        "contributions": 2981,
         "repositories": {
             "PrestaShop": 714,
             "PrestaShop-modules": 4,
@@ -1818,7 +1818,7 @@
             "productcomments": 24,
             "autoupgrade": 45,
             "gsitemap": 3,
-            "prestashop.github.io": 775,
+            "prestashop.github.io": 777,
             "StarterTheme": 3,
             "contactform": 8,
             "paymentexample": 7,
@@ -1855,7 +1855,7 @@
             "ps_crossselling": 2,
             "ps_dataprivacy": 1,
             "ps_cashondelivery": 1,
-            "traces": 4,
+            "traces": 6,
             "core-weekly-generator": 2,
             "TopContributors": 5,
             "ps_googleanalytics": 5,
@@ -2010,7 +2010,7 @@
                 }
             },
             "tools": {
-                "total": 31,
+                "total": 33,
                 "repositories": {
                     "core-weekly-generator": 2,
                     "issuebot": 1,
@@ -2020,7 +2020,7 @@
                     "presthubot": 10,
                     "ps-monitor-module-releases": 4,
                     "TopContributors": 5,
-                    "traces": 4,
+                    "traces": 6,
                     "ps-project-metrics": 1,
                     "phpstan-prestashop": 1
                 }
@@ -2033,9 +2033,9 @@
                 }
             },
             "blog": {
-                "total": 775,
+                "total": 777,
                 "repositories": {
-                    "prestashop.github.io": 775
+                    "prestashop.github.io": 777
                 }
             },
             "others": {
@@ -5568,7 +5568,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 620,
+        "contributions": 621,
         "repositories": {
             "PrestaShop": 406,
             "PrestaShop-modules": 5,
@@ -5625,7 +5625,7 @@
             "ps_supplierlist": 1,
             "ps_crossselling": 1,
             "ps_dataprivacy": 1,
-            "traces": 20,
+            "traces": 21,
             "TopContributors": 6,
             "psssst": 1,
             "ps_themecusto": 1,
@@ -5729,14 +5729,14 @@
                 }
             },
             "tools": {
-                "total": 32,
+                "total": 33,
                 "repositories": {
                     "docker": 1,
                     "PrestaShop-webservice-lib": 1,
                     "presthubot": 1,
                     "ps-monitor-module-releases": 1,
                     "TopContributors": 6,
-                    "traces": 20,
+                    "traces": 21,
                     "psssst": 1,
                     "SeamlessUpgradeToolbox": 1
                 }
@@ -49174,5 +49174,5 @@
             }
         }
     },
-    "updatedAt": "2025-08-07 06:59:16"
+    "updatedAt": "2025-08-07 09:03:14"
 }
