@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 9469,
+        "contributions": 9470,
         "repositories": {
             "PrestaShop": 4176,
             "PrestaShop-modules": 31,
@@ -135,7 +135,7 @@
             "ps_fixturescreator": 11,
             "ws-client": 25,
             "ps_apiresources": 3,
-            "ui-testing-library": 971
+            "ui-testing-library": 972
         },
         "categories": {
             "core": {
@@ -289,9 +289,9 @@
                 }
             },
             "tests": {
-                "total": 1059,
+                "total": 1060,
                 "repositories": {
-                    "ui-testing-library": 971,
+                    "ui-testing-library": 972,
                     "ga.tests.ui.pr": 88
                 }
             },
@@ -320,7 +320,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 6843,
+        "contributions": 6844,
         "repositories": {
             "PrestaShop": 5566,
             "dashgoals": 1,
@@ -394,7 +394,7 @@
             "ps_apiresources": 107,
             "CoreUpgradeBundle": 1,
             "CLIUpgrade": 1,
-            "ui-testing-library": 35,
+            "ui-testing-library": 36,
             "SeamlessUpgradeToolbox": 2
         },
         "categories": {
@@ -494,9 +494,9 @@
                 }
             },
             "tests": {
-                "total": 99,
+                "total": 100,
                 "repositories": {
-                    "ui-testing-library": 35,
+                    "ui-testing-library": 36,
                     "ga.tests.ui.pr": 64
                 }
             },
@@ -1784,7 +1784,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2982,
+        "contributions": 2983,
         "repositories": {
             "PrestaShop": 714,
             "PrestaShop-modules": 4,
@@ -1837,7 +1837,7 @@
             "ps_mainmenu": 2,
             "ps_customersignin": 4,
             "ps_categorytree": 5,
-            "docs": 430,
+            "docs": 431,
             "ps_wirepayment": 1,
             "ps_shoppingcart": 4,
             "ps_currencyselector": 7,
@@ -1913,10 +1913,10 @@
                 }
             },
             "documentation": {
-                "total": 731,
+                "total": 732,
                 "repositories": {
                     "paymentexample": 7,
-                    "docs": 430,
+                    "docs": 431,
                     "user-documentation-en": 1,
                     "ADR": 6,
                     "example-modules": 73,
@@ -5568,7 +5568,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 621,
+        "contributions": 622,
         "repositories": {
             "PrestaShop": 406,
             "PrestaShop-modules": 5,
@@ -5612,7 +5612,7 @@
             "ps_mainmenu": 1,
             "ps_customersignin": 1,
             "ps_legalcompliance": 2,
-            "docs": 51,
+            "docs": 52,
             "ps_wirepayment": 1,
             "ps_currencyselector": 1,
             "ps_languageselector": 1,
@@ -5655,9 +5655,9 @@
                 }
             },
             "documentation": {
-                "total": 54,
+                "total": 55,
                 "repositories": {
-                    "docs": 51,
+                    "docs": 52,
                     "example-modules": 2,
                     "open-source": 1
                 }
@@ -30770,7 +30770,7 @@
         "html_url": "https:\/\/github.com\/opensourceame",
         "name": "David Kelly",
         "company": "Futures Bright B.V.",
-        "blog": "http:\/\/futuresbright.com",
+        "blog": "https:\/\/futuresbright.com",
         "location": "Amsterdam",
         "bio": "I started programming at age 10 and wrote my first business application at age 16.",
         "email_domain": "",
@@ -49174,5 +49174,5 @@
             }
         }
     },
-    "updatedAt": "2025-08-07 11:39:40"
+    "updatedAt": "2025-08-08 06:19:23"
 }
