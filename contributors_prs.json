@@ -12,7 +12,7 @@
         "email_domain": "gmail.com",
         "contributions": 9472,
         "repositories": {
-            "PrestaShop": 1022,
+            "PrestaShop": 1023,
             "PrestaShop-modules": 2,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 4,
@@ -121,9 +121,9 @@
         },
         "categories": {
             "core": {
-                "total": 1036,
+                "total": 1037,
                 "repositories": {
-                    "PrestaShop": 1022,
+                    "PrestaShop": 1023,
                     "prestashop-ui-kit": 1,
                     "TranslationToolsBundle": 2,
                     "TranslationFiles": 3,
@@ -272,7 +272,7 @@
                 }
             }
         },
-        "mergedPullRequests": 2045
+        "mergedPullRequests": 2046
     },
     "matks": {
         "login": "matks",

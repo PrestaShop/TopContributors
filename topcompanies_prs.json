@@ -116,7 +116,7 @@
                 "2014": 284,
                 "2013": 24
             },
-            "pull_requests_percent": 52.73,
+            "pull_requests_percent": 52.72,
             "contributions": 65976,
             "contributions_by_version": {
                 "9.1": 1475,
@@ -629,26 +629,26 @@
             "rank": 12,
             "rank_contributions": 13,
             "rank_pull_requests": 12,
-            "merged_pull_requests": 21,
+            "merged_pull_requests": 22,
             "merged_pull_requests_by_version": {
-                "9.0": 14,
+                "9.0": 15,
                 "8.2": 2,
                 "8.1": 1
             },
             "merged_pull_requests_by_year": {
-                "2025": 19,
+                "2025": 20,
                 "2024": 1,
                 "2023": 1
             },
             "pull_requests_percent": 0.08,
-            "contributions": 23,
+            "contributions": 24,
             "contributions_by_version": {
-                "9.0": 14,
+                "9.0": 15,
                 "8.2": 2,
                 "8.1": 1
             },
             "contributions_by_year": {
-                "2025": 20,
+                "2025": 21,
                 "2024": 1,
                 "2023": 2
             },
