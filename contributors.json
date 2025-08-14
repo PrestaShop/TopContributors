@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 9474,
+        "contributions": 9475,
         "repositories": {
             "PrestaShop": 4176,
             "PrestaShop-modules": 31,
@@ -118,7 +118,7 @@
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
-            "test-scenarios": 862,
+            "test-scenarios": 863,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -160,7 +160,7 @@
                 }
             },
             "documentation": {
-                "total": 1079,
+                "total": 1080,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -168,7 +168,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 862,
+                    "test-scenarios": 863,
                     "example-modules": 6,
                     "open-source": 31,
                     "example_module_mailtheme": 4,
@@ -320,9 +320,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 6873,
+        "contributions": 6874,
         "repositories": {
-            "PrestaShop": 5590,
+            "PrestaShop": 5591,
             "dashgoals": 1,
             "dashproducts": 3,
             "dashtrends": 2,
@@ -399,9 +399,9 @@
         },
         "categories": {
             "core": {
-                "total": 5682,
+                "total": 5683,
                 "repositories": {
-                    "PrestaShop": 5590,
+                    "PrestaShop": 5591,
                     "prestashop-ui-kit": 16,
                     "TranslationToolsBundle": 14,
                     "LocalizationFiles": 3,
@@ -2545,7 +2545,7 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 2063,
+        "contributions": 2069,
         "repositories": {
             "PrestaShop": 928,
             "PrestaShop-webservice-lib": 1,
@@ -2563,8 +2563,8 @@
             "statsbestsuppliers": 3,
             "statsbestvouchers": 4,
             "statscarrier": 1,
-            "statscatalog": 8,
-            "statscheckup": 7,
+            "statscatalog": 11,
+            "statscheckup": 10,
             "statsdata": 3,
             "statsforecast": 7,
             "statsnewsletter": 2,
@@ -2661,7 +2661,7 @@
                 }
             },
             "modules": {
-                "total": 873,
+                "total": 879,
                 "repositories": {
                     "dashactivity": 13,
                     "dashgoals": 3,
@@ -2677,8 +2677,8 @@
                     "statsbestsuppliers": 3,
                     "statsbestvouchers": 4,
                     "statscarrier": 1,
-                    "statscatalog": 8,
-                    "statscheckup": 7,
+                    "statscatalog": 11,
+                    "statscheckup": 10,
                     "statsdata": 3,
                     "statsforecast": 7,
                     "statsnewsletter": 2,
@@ -9681,9 +9681,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 158,
+        "contributions": 159,
         "repositories": {
-            "PrestaShop": 122,
+            "PrestaShop": 123,
             "productcomments": 2,
             "autoupgrade": 2,
             "docker": 3,
@@ -9702,9 +9702,9 @@
         },
         "categories": {
             "core": {
-                "total": 122,
+                "total": 123,
                 "repositories": {
-                    "PrestaShop": 122
+                    "PrestaShop": 123
                 }
             },
             "specs": {
@@ -49176,5 +49176,5 @@
             }
         }
     },
-    "updatedAt": "2025-08-13 06:14:21"
+    "updatedAt": "2025-08-14 06:07:51"
 }
