@@ -4,10 +4,10 @@
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 10181,
+        "merged_pull_requests": 10183,
         "merged_pull_requests_by_version": {
-            "9.1": 32,
-            "9.0": 471,
+            "9.1": 33,
+            "9.0": 472,
             "8.2": 26,
             "8.1": 328,
             "8.0": 361,
@@ -23,7 +23,7 @@
             "1.6.1": 338
         },
         "merged_pull_requests_by_year": {
-            "2025": 304,
+            "2025": 306,
             "2024": 539,
             "2023": 891,
             "2022": 807,
@@ -38,11 +38,11 @@
             "2013": 506,
             "2012": 32
         },
-        "pull_requests_percent": 39.02,
-        "contributions": 41797,
+        "pull_requests_percent": 39.03,
+        "contributions": 41799,
         "contributions_by_version": {
-            "9.1": 494,
-            "9.0": 3262,
+            "9.1": 495,
+            "9.0": 3263,
             "8.2": 37,
             "8.1": 1786,
             "8.0": 2391,
@@ -58,7 +58,7 @@
             "1.6.1": 461
         },
         "contributions_by_year": {
-            "2025": 1311,
+            "2025": 1313,
             "2024": 2672,
             "2023": 4577,
             "2022": 4771,
@@ -116,7 +116,7 @@
                 "2014": 284,
                 "2013": 24
             },
-            "pull_requests_percent": 52.7,
+            "pull_requests_percent": 52.69,
             "contributions": 65980,
             "contributions_by_version": {
                 "9.1": 1476,
@@ -159,10 +159,10 @@
             "rank": 2,
             "rank_contributions": 2,
             "rank_pull_requests": 2,
-            "merged_pull_requests": 808,
+            "merged_pull_requests": 809,
             "merged_pull_requests_by_version": {
                 "9.1": 1,
-                "9.0": 146,
+                "9.0": 147,
                 "8.2": 9,
                 "8.1": 121,
                 "8.0": 38,
@@ -170,7 +170,7 @@
                 "1.7.7": 5
             },
             "merged_pull_requests_by_year": {
-                "2025": 69,
+                "2025": 70,
                 "2024": 192,
                 "2023": 387,
                 "2022": 72,
@@ -179,10 +179,10 @@
                 "2019": 3
             },
             "pull_requests_percent": 3.1,
-            "contributions": 4206,
+            "contributions": 4207,
             "contributions_by_version": {
                 "9.1": 2,
-                "9.0": 299,
+                "9.0": 300,
                 "8.2": 13,
                 "8.1": 213,
                 "8.0": 88,
@@ -190,7 +190,7 @@
                 "1.7.7": 6
             },
             "contributions_by_year": {
-                "2025": 191,
+                "2025": 192,
                 "2024": 634,
                 "2023": 2222,
                 "2022": 920,

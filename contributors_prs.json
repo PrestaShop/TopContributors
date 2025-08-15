@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 9475,
+        "contributions": 9476,
         "repositories": {
             "PrestaShop": 1024,
             "PrestaShop-modules": 2,
@@ -565,7 +565,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 6874,
+        "contributions": 6875,
         "repositories": {
             "PrestaShop": 659,
             "dashproducts": 1,
@@ -1129,7 +1129,7 @@
         "email_domain": "",
         "contributions": 2069,
         "repositories": {
-            "PrestaShop": 337,
+            "PrestaShop": 338,
             "dashactivity": 4,
             "dashgoals": 4,
             "dashproducts": 6,
@@ -1211,9 +1211,9 @@
         },
         "categories": {
             "core": {
-                "total": 342,
+                "total": 343,
                 "repositories": {
-                    "PrestaShop": 337,
+                    "PrestaShop": 338,
                     "prestashop-ui-kit": 3,
                     "circuit-breaker": 1,
                     "LocalizationFiles": 1
@@ -1334,7 +1334,7 @@
                 }
             }
         },
-        "mergedPullRequests": 820
+        "mergedPullRequests": 821
     },
     "nesrineabdmouleh": {
         "login": "nesrineabdmouleh",
@@ -2982,9 +2982,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 475,
+        "contributions": 476,
         "repositories": {
-            "PrestaShop": 95,
+            "PrestaShop": 96,
             "blockwishlist": 1,
             "productcomments": 5,
             "autoupgrade": 129,
@@ -3010,9 +3010,9 @@
         },
         "categories": {
             "core": {
-                "total": 96,
+                "total": 97,
                 "repositories": {
-                    "PrestaShop": 95,
+                    "PrestaShop": 96,
                     "TranslationToolsBundle": 1
                 }
             },
@@ -3074,7 +3074,7 @@
                 }
             }
         },
-        "mergedPullRequests": 322
+        "mergedPullRequests": 323
     },
     "djfm": {
         "login": "djfm",
