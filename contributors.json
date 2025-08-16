@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 9476,
+        "contributions": 9477,
         "repositories": {
             "PrestaShop": 4176,
             "PrestaShop-modules": 31,
@@ -118,7 +118,7 @@
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
-            "test-scenarios": 864,
+            "test-scenarios": 865,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -160,7 +160,7 @@
                 }
             },
             "documentation": {
-                "total": 1081,
+                "total": 1082,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -168,7 +168,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 864,
+                    "test-scenarios": 865,
                     "example-modules": 6,
                     "open-source": 31,
                     "example_module_mailtheme": 4,
@@ -1784,9 +1784,9 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2988,
+        "contributions": 2989,
         "repositories": {
-            "PrestaShop": 716,
+            "PrestaShop": 717,
             "PrestaShop-modules": 4,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 1,
@@ -1896,9 +1896,9 @@
         },
         "categories": {
             "core": {
-                "total": 742,
+                "total": 743,
                 "repositories": {
-                    "PrestaShop": 716,
+                    "PrestaShop": 717,
                     "prestashop-ui-kit": 4,
                     "LocalizationFiles": 19,
                     "stylelint-browser-compatibility": 1,
@@ -49176,5 +49176,5 @@
             }
         }
     },
-    "updatedAt": "2025-08-15 06:15:24"
+    "updatedAt": "2025-08-16 06:06:56"
 }

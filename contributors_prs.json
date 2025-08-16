@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 9476,
+        "contributions": 9477,
         "repositories": {
             "PrestaShop": 1024,
             "PrestaShop-modules": 2,
@@ -1991,7 +1991,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2988,
+        "contributions": 2989,
         "repositories": {
             "PrestaShop": 151,
             "PrestaShop-modules": 3,
@@ -7176,7 +7176,7 @@
         "email_domain": "gmail.com",
         "contributions": 135,
         "repositories": {
-            "PrestaShop": 46,
+            "PrestaShop": 48,
             "autoupgrade": 3,
             "gsitemap": 1,
             "prestashop.github.io": 3,
@@ -7186,9 +7186,9 @@
         },
         "categories": {
             "core": {
-                "total": 48,
+                "total": 50,
                 "repositories": {
-                    "PrestaShop": 46,
+                    "PrestaShop": 48,
                     "LocalizationFiles": 2
                 }
             },
@@ -7233,7 +7233,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 57
+        "mergedPullRequests": 59
     },
     "Matt75": {
         "login": "Matt75",
