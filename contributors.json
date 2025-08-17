@@ -37033,7 +37033,7 @@
         "company": "@ifriend ",
         "blog": "",
         "location": "Belo Horizonte, MG, Brazil",
-        "bio": "PHP Web Developer (since 2002)\r\nExperience with Symfony, Ionic Framework, Kubernetes, Google Cloud",
+        "bio": "\ud83d\udc4b Ol\u00e1, eu sou Glauber Portella\r\n\ud83d\udca1 Desenvolvedor h\u00e1 22 anos | Empreendedor h\u00e1 5 anos\r\n\ud83d\udee0\ufe0f Trabalho com Node.js, PHP, Python e JavaScript\r\n\ud83d\udcca Bancos SQL & NoSQL",
         "email_domain": "gmail.com",
         "contributions": 1,
         "repositories": {
@@ -49176,5 +49176,5 @@
             }
         }
     },
-    "updatedAt": "2025-08-16 06:06:56"
+    "updatedAt": "2025-08-17 06:08:17"
 }
