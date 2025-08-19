@@ -12,7 +12,7 @@
         "email_domain": "gmail.com",
         "contributions": 9477,
         "repositories": {
-            "PrestaShop": 1024,
+            "PrestaShop": 1025,
             "PrestaShop-modules": 2,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 4,
@@ -121,9 +121,9 @@
         },
         "categories": {
             "core": {
-                "total": 1038,
+                "total": 1039,
                 "repositories": {
-                    "PrestaShop": 1024,
+                    "PrestaShop": 1025,
                     "prestashop-ui-kit": 1,
                     "TranslationToolsBundle": 2,
                     "TranslationFiles": 3,
@@ -272,7 +272,7 @@
                 }
             }
         },
-        "mergedPullRequests": 2047
+        "mergedPullRequests": 2048
     },
     "matks": {
         "login": "matks",
@@ -4072,7 +4072,7 @@
         "email_domain": "",
         "contributions": 557,
         "repositories": {
-            "PrestaShop": 110,
+            "PrestaShop": 111,
             "productcomments": 1,
             "autoupgrade": 5,
             "ps_emailsubscription": 1,
@@ -4093,9 +4093,9 @@
         },
         "categories": {
             "core": {
-                "total": 113,
+                "total": 114,
                 "repositories": {
-                    "PrestaShop": 110,
+                    "PrestaShop": 111,
                     "circuit-breaker": 3
                 }
             },
@@ -4152,7 +4152,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 187
+        "mergedPullRequests": 188
     },
     "thierrymarianne": {
         "login": "thierrymarianne",
@@ -8315,7 +8315,7 @@
         "email_domain": "",
         "contributions": 485,
         "repositories": {
-            "PrestaShop": 5,
+            "PrestaShop": 6,
             "dashactivity": 1,
             "dashgoals": 1,
             "dashtrends": 1,
@@ -8343,9 +8343,9 @@
         },
         "categories": {
             "core": {
-                "total": 5,
+                "total": 6,
                 "repositories": {
-                    "PrestaShop": 5
+                    "PrestaShop": 6
                 }
             },
             "specs": {
@@ -8412,7 +8412,7 @@
                 }
             }
         },
-        "mergedPullRequests": 40
+        "mergedPullRequests": 41
     },
     "TMMeilleur": {
         "login": "TMMeilleur",
@@ -13292,6 +13292,69 @@
         },
         "mergedPullRequests": 14
     },
+    "alexandrebrubeyonds": {
+        "login": "alexandrebrubeyonds",
+        "id": 92941405,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/92941405?v=4",
+        "html_url": "https:\/\/github.com\/alexandrebrubeyonds",
+        "name": "Alexandre BRU",
+        "company": "@beyondsagency",
+        "blog": "https:\/\/www.beyonds.fr\/",
+        "location": "Paris, France",
+        "bio": "Co-founder of @beyondsagency ",
+        "email_domain": "",
+        "contributions": 16,
+        "repositories": {
+            "PrestaShop": 10,
+            "docs": 2,
+            "ps_facetedsearch": 2
+        },
+        "categories": {
+            "core": {
+                "total": 10,
+                "repositories": {
+                    "PrestaShop": 10
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 2,
+                "repositories": {
+                    "docs": 2
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 2,
+                "repositories": {
+                    "ps_facetedsearch": 2
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 14
+    },
     "davidPrestashop": {
         "login": "davidPrestashop",
         "id": 108662283,
@@ -13406,69 +13469,6 @@
                     "traces": 2,
                     "TopContributors": 1
                 }
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 13
-    },
-    "alexandrebrubeyonds": {
-        "login": "alexandrebrubeyonds",
-        "id": 92941405,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/92941405?v=4",
-        "html_url": "https:\/\/github.com\/alexandrebrubeyonds",
-        "name": "Alexandre BRU",
-        "company": "@beyondsagency",
-        "blog": "https:\/\/www.beyonds.fr\/",
-        "location": "Paris, France",
-        "bio": "Co-founder of @beyondsagency ",
-        "email_domain": "",
-        "contributions": 16,
-        "repositories": {
-            "PrestaShop": 9,
-            "docs": 2,
-            "ps_facetedsearch": 2
-        },
-        "categories": {
-            "core": {
-                "total": 9,
-                "repositories": {
-                    "PrestaShop": 9
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 2,
-                "repositories": {
-                    "docs": 2
-                }
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 2,
-                "repositories": {
-                    "ps_facetedsearch": 2
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
             },
             "tests": {
                 "total": 0,
@@ -33225,7 +33225,7 @@
         "name": "Emmanuel Gautier",
         "company": "@cerberauth",
         "blog": "https:\/\/www.emmanuelgautier.com\/",
-        "location": "France",
+        "location": "Nantes, France",
         "bio": "Digging into CIAM, OpenID Connect and API vulnerabilities with @cerberauth.",
         "email_domain": "",
         "contributions": 4,

@@ -28216,7 +28216,7 @@
         "name": "Emmanuel Gautier",
         "company": "@cerberauth",
         "blog": "https:\/\/www.emmanuelgautier.com\/",
-        "location": "France",
+        "location": "Nantes, France",
         "bio": "Digging into CIAM, OpenID Connect and API vulnerabilities with @cerberauth.",
         "email_domain": "",
         "contributions": 4,
@@ -49176,5 +49176,5 @@
             }
         }
     },
-    "updatedAt": "2025-08-18 06:14:54"
+    "updatedAt": "2025-08-19 06:08:44"
 }
