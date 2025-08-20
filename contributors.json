@@ -1784,7 +1784,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2989,
+        "contributions": 2993,
         "repositories": {
             "PrestaShop": 717,
             "PrestaShop-modules": 4,
@@ -1837,7 +1837,7 @@
             "ps_mainmenu": 2,
             "ps_customersignin": 4,
             "ps_categorytree": 5,
-            "docs": 432,
+            "docs": 436,
             "ps_wirepayment": 1,
             "ps_shoppingcart": 4,
             "ps_currencyselector": 7,
@@ -1913,10 +1913,10 @@
                 }
             },
             "documentation": {
-                "total": 733,
+                "total": 737,
                 "repositories": {
                     "paymentexample": 7,
-                    "docs": 432,
+                    "docs": 436,
                     "user-documentation-en": 1,
                     "ADR": 6,
                     "example-modules": 73,
@@ -49176,5 +49176,5 @@
             }
         }
     },
-    "updatedAt": "2025-08-19 06:08:44"
+    "updatedAt": "2025-08-20 06:11:19"
 }
