@@ -1784,9 +1784,9 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2995,
+        "contributions": 2998,
         "repositories": {
-            "PrestaShop": 718,
+            "PrestaShop": 720,
             "PrestaShop-modules": 4,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 1,
@@ -1837,7 +1837,7 @@
             "ps_mainmenu": 2,
             "ps_customersignin": 4,
             "ps_categorytree": 5,
-            "docs": 437,
+            "docs": 438,
             "ps_wirepayment": 1,
             "ps_shoppingcart": 4,
             "ps_currencyselector": 7,
@@ -1896,9 +1896,9 @@
         },
         "categories": {
             "core": {
-                "total": 744,
+                "total": 746,
                 "repositories": {
-                    "PrestaShop": 718,
+                    "PrestaShop": 720,
                     "prestashop-ui-kit": 4,
                     "LocalizationFiles": 19,
                     "stylelint-browser-compatibility": 1,
@@ -1913,10 +1913,10 @@
                 }
             },
             "documentation": {
-                "total": 738,
+                "total": 739,
                 "repositories": {
                     "paymentexample": 7,
-                    "docs": 437,
+                    "docs": 438,
                     "user-documentation-en": 1,
                     "ADR": 6,
                     "example-modules": 73,
@@ -4038,7 +4038,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1259,
+        "contributions": 1260,
         "repositories": {
             "PrestaShop": 680,
             "PrestaShop-webservice-lib": 1,
@@ -4096,7 +4096,7 @@
             "php-dev-tools": 2,
             "QANightlyResults": 78,
             "LocalizationFiles": 8,
-            "presthubot": 55,
+            "presthubot": 56,
             "example-modules": 7,
             "ps_qualityassurance": 3,
             "test-scenarios": 1,
@@ -4197,7 +4197,7 @@
                 }
             },
             "tools": {
-                "total": 174,
+                "total": 175,
                 "repositories": {
                     "bootstrap-compatibility-layer": 1,
                     "docker": 6,
@@ -4206,7 +4206,7 @@
                     "mjml-theme-converter": 1,
                     "nightly-board": 1,
                     "PrestaShop-webservice-lib": 1,
-                    "presthubot": 55,
+                    "presthubot": 56,
                     "prestonbot": 1,
                     "QANightlyResults": 78,
                     "TopContributors": 7,
@@ -42848,6 +42848,62 @@
             }
         }
     },
+    "Paddimir": {
+        "login": "Paddimir",
+        "id": 9449749,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9449749?v=4",
+        "html_url": "https:\/\/github.com\/Paddimir",
+        "name": "Patrik Kopeck\u00fd",
+        "company": null,
+        "blog": "",
+        "location": "Czech Republic",
+        "bio": "I read docs and write code. Sometimes, I even enjoy it.",
+        "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "docs": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 1,
+                "repositories": {
+                    "docs": 1
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "Farelion": {
         "login": "Farelion",
         "id": 16526340,
@@ -44024,62 +44080,6 @@
             }
         }
     },
-    "Paddimir": {
-        "login": "Paddimir",
-        "id": 9449749,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9449749?v=4",
-        "html_url": "https:\/\/github.com\/Paddimir",
-        "name": "Patrik Kopeck\u00fd",
-        "company": null,
-        "blog": "",
-        "location": "Czech Republic",
-        "bio": "I read docs and write code. Sometimes, I even enjoy it.",
-        "email_domain": "",
-        "contributions": 1,
-        "repositories": {
-            "docs": 1
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 1,
-                "repositories": {
-                    "docs": 1
-                }
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
     "npankaj365": {
         "login": "npankaj365",
         "id": 22147066,
@@ -44370,6 +44370,62 @@
         "blog": "",
         "location": "Beaumontel, France",
         "bio": null,
+        "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "docs": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 1,
+                "repositories": {
+                    "docs": 1
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "MattKelvin": {
+        "login": "MattKelvin",
+        "id": 6407640,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6407640?v=4",
+        "html_url": "https:\/\/github.com\/MattKelvin",
+        "name": null,
+        "company": "Mademoiselle bio",
+        "blog": "https:\/\/mkdaous.fr",
+        "location": "Paris",
+        "bio": "Web developer ",
         "email_domain": "",
         "contributions": 1,
         "repositories": {
@@ -49176,5 +49232,5 @@
             }
         }
     },
-    "updatedAt": "2025-08-21 06:11:22"
+    "updatedAt": "2025-08-22 06:09:45"
 }
