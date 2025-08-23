@@ -567,7 +567,7 @@
         "email_domain": "",
         "contributions": 6875,
         "repositories": {
-            "PrestaShop": 660,
+            "PrestaShop": 661,
             "dashproducts": 1,
             "blockwishlist": 3,
             "productcomments": 10,
@@ -616,9 +616,9 @@
         },
         "categories": {
             "core": {
-                "total": 696,
+                "total": 697,
                 "repositories": {
-                    "PrestaShop": 660,
+                    "PrestaShop": 661,
                     "prestashop-ui-kit": 10,
                     "TranslationToolsBundle": 3,
                     "TranslationFiles": 12,
@@ -706,7 +706,7 @@
                 }
             }
         },
-        "mergedPullRequests": 1020
+        "mergedPullRequests": 1021
     },
     "Quetzacoalt91": {
         "login": "Quetzacoalt91",
@@ -1993,7 +1993,7 @@
         "email_domain": "",
         "contributions": 2998,
         "repositories": {
-            "PrestaShop": 152,
+            "PrestaShop": 153,
             "PrestaShop-modules": 3,
             "pagesnotfound": 1,
             "statsdata": 1,
@@ -2043,9 +2043,9 @@
         },
         "categories": {
             "core": {
-                "total": 152,
+                "total": 153,
                 "repositories": {
-                    "PrestaShop": 152
+                    "PrestaShop": 153
                 }
             },
             "specs": {
@@ -2135,7 +2135,7 @@
                 }
             }
         },
-        "mergedPullRequests": 488
+        "mergedPullRequests": 489
     },
     "atomiix": {
         "login": "atomiix",
@@ -11020,6 +11020,63 @@
         },
         "mergedPullRequests": 23
     },
+    "iNem0o": {
+        "login": "iNem0o",
+        "id": 1144755,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1144755?v=4",
+        "html_url": "https:\/\/github.com\/iNem0o",
+        "name": "L\u00e9o",
+        "company": "e-Frogg",
+        "blog": "http:\/\/leo.cuneaz.fr",
+        "location": "France",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 14,
+        "repositories": {
+            "PrestaShop": 23
+        },
+        "categories": {
+            "core": {
+                "total": 23,
+                "repositories": {
+                    "PrestaShop": 23
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 23
+    },
     "coffrep": {
         "login": "coffrep",
         "id": 103060695,
@@ -11245,63 +11302,6 @@
                 "repositories": {
                     "ps_contactinfo": 1
                 }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 22
-    },
-    "iNem0o": {
-        "login": "iNem0o",
-        "id": 1144755,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1144755?v=4",
-        "html_url": "https:\/\/github.com\/iNem0o",
-        "name": "L\u00e9o",
-        "company": "e-Frogg",
-        "blog": "http:\/\/leo.cuneaz.fr",
-        "location": "France",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 14,
-        "repositories": {
-            "PrestaShop": 22
-        },
-        "categories": {
-            "core": {
-                "total": 22,
-                "repositories": {
-                    "PrestaShop": 22
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
             },
             "tools": {
                 "total": 0,
