@@ -38592,62 +38592,6 @@
             }
         }
     },
-    "pimuzzo": {
-        "login": "pimuzzo",
-        "id": 1621205,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1621205?v=4",
-        "html_url": "https:\/\/github.com\/pimuzzo",
-        "name": "Simone Locci",
-        "company": "@TinextaCyber",
-        "blog": "https:\/\/www.linkedin.com\/in\/simone-locci\/",
-        "location": "Pisa, Italy",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 1,
-        "repositories": {
-            "docker": 1
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 1,
-                "repositories": {
-                    "docker": 1
-                }
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
     "sergioregueira": {
         "login": "sergioregueira",
         "id": 16188556,
@@ -49232,5 +49176,5 @@
             }
         }
     },
-    "updatedAt": "2025-08-23 06:07:55"
+    "updatedAt": "2025-08-24 06:09:19"
 }
