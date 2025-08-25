@@ -40394,7 +40394,7 @@
         "blog": "https:\/\/roxayl.fr\/portfolio",
         "location": "Aix-en-Provence\/Marseille, France",
         "bio": "Full-stack Web Developer and Software Engineer @ WAM Dental \/ Alumni @ MIAGE Aix-Marseille",
-        "email_domain": "outlook.com",
+        "email_domain": "outlook.fr",
         "contributions": 1,
         "repositories": {
             "ps_categorytree": 1
@@ -46439,7 +46439,7 @@
         "html_url": "https:\/\/github.com\/johnnypeck",
         "name": "Peck",
         "company": null,
-        "blog": "",
+        "blog": "https:\/\/johnnypeck.com",
         "location": "Washington, DC",
         "bio": null,
         "email_domain": "",
@@ -49176,5 +49176,5 @@
             }
         }
     },
-    "updatedAt": "2025-08-24 06:09:19"
+    "updatedAt": "2025-08-25 06:08:44"
 }
