@@ -565,9 +565,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 6875,
+        "contributions": 6885,
         "repositories": {
-            "PrestaShop": 661,
+            "PrestaShop": 662,
             "dashproducts": 1,
             "blockwishlist": 3,
             "productcomments": 10,
@@ -616,9 +616,9 @@
         },
         "categories": {
             "core": {
-                "total": 697,
+                "total": 698,
                 "repositories": {
-                    "PrestaShop": 661,
+                    "PrestaShop": 662,
                     "prestashop-ui-kit": 10,
                     "TranslationToolsBundle": 3,
                     "TranslationFiles": 12,
@@ -706,7 +706,7 @@
                 }
             }
         },
-        "mergedPullRequests": 1021
+        "mergedPullRequests": 1022
     },
     "Quetzacoalt91": {
         "login": "Quetzacoalt91",
@@ -1127,7 +1127,7 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 2069,
+        "contributions": 2073,
         "repositories": {
             "PrestaShop": 339,
             "dashactivity": 4,
@@ -1991,7 +1991,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 2998,
+        "contributions": 3001,
         "repositories": {
             "PrestaShop": 153,
             "PrestaShop-modules": 3,
@@ -4070,7 +4070,7 @@
         "location": "France",
         "bio": "Developper from father to son with +12 years experience, and commiter for @PrestaShop!",
         "email_domain": "",
-        "contributions": 557,
+        "contributions": 562,
         "repositories": {
             "PrestaShop": 111,
             "productcomments": 1,
@@ -4433,7 +4433,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1260,
+        "contributions": 1262,
         "repositories": {
             "PrestaShop": 106,
             "blockwishlist": 6,
@@ -6307,9 +6307,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 159,
+        "contributions": 160,
         "repositories": {
-            "PrestaShop": 71,
+            "PrestaShop": 72,
             "productcomments": 2,
             "autoupgrade": 3,
             "docker": 2,
@@ -6328,9 +6328,9 @@
         },
         "categories": {
             "core": {
-                "total": 71,
+                "total": 72,
                 "repositories": {
-                    "PrestaShop": 71
+                    "PrestaShop": 72
                 }
             },
             "specs": {
@@ -6386,7 +6386,7 @@
                 }
             }
         },
-        "mergedPullRequests": 102
+        "mergedPullRequests": 103
     },
     "mflasquin": {
         "login": "mflasquin",
@@ -6545,7 +6545,7 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Siamo un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 134,
+        "contributions": 137,
         "repositories": {
             "PrestaShop": 67,
             "dashactivity": 1,
@@ -7113,7 +7113,7 @@
         "location": "Cel\u00e1 \u010cR",
         "bio": "www.openservis.cz (PrestaShop webhosting) | www.psmoduly.cz  (PrestaShop modules) + EN version www.prestahouse.eu | www.smartmailer.cz (PrestaShop newsletter) |",
         "email_domain": "gmail.com",
-        "contributions": 135,
+        "contributions": 138,
         "repositories": {
             "PrestaShop": 50,
             "autoupgrade": 3,
@@ -8315,7 +8315,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 485,
+        "contributions": 500,
         "repositories": {
             "PrestaShop": 6,
             "dashactivity": 1,
