@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 9478,
+        "contributions": 9479,
         "repositories": {
             "PrestaShop": 4176,
             "PrestaShop-modules": 31,
@@ -135,7 +135,7 @@
             "ps_fixturescreator": 11,
             "ws-client": 25,
             "ps_apiresources": 3,
-            "ui-testing-library": 973
+            "ui-testing-library": 974
         },
         "categories": {
             "core": {
@@ -289,9 +289,9 @@
                 }
             },
             "tests": {
-                "total": 1061,
+                "total": 1062,
                 "repositories": {
-                    "ui-testing-library": 973,
+                    "ui-testing-library": 974,
                     "ga.tests.ui.pr": 88
                 }
             },
@@ -320,7 +320,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 6890,
+        "contributions": 6891,
         "repositories": {
             "PrestaShop": 5607,
             "dashgoals": 1,
@@ -394,7 +394,7 @@
             "ps_apiresources": 107,
             "CoreUpgradeBundle": 1,
             "CLIUpgrade": 1,
-            "ui-testing-library": 37,
+            "ui-testing-library": 38,
             "SeamlessUpgradeToolbox": 2
         },
         "categories": {
@@ -494,9 +494,9 @@
                 }
             },
             "tests": {
-                "total": 103,
+                "total": 104,
                 "repositories": {
-                    "ui-testing-library": 37,
+                    "ui-testing-library": 38,
                     "ga.tests.ui.pr": 66
                 }
             },
@@ -1294,7 +1294,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 4666,
+        "contributions": 4670,
         "repositories": {
             "PrestaShop": 1699,
             "PrestaShop-modules": 349,
@@ -1327,11 +1327,11 @@
             "blockwishlist": 38,
             "pscleaner": 3,
             "themeinstallator": 3,
-            "autoupgrade": 1193,
+            "autoupgrade": 1194,
             "gsitemap": 6,
             "prestafraud": 1,
             "prestashop.github.io": 17,
-            "docker": 340,
+            "docker": 343,
             "StarterTheme": 28,
             "contactform": 1,
             "paymentexample": 1,
@@ -1424,7 +1424,7 @@
                 }
             },
             "modules": {
-                "total": 1990,
+                "total": 1991,
                 "repositories": {
                     "PrestaShop-modules": 349,
                     "dashactivity": 1,
@@ -1454,7 +1454,7 @@
                     "statsstock": 2,
                     "blockwishlist": 38,
                     "pscleaner": 3,
-                    "autoupgrade": 1193,
+                    "autoupgrade": 1194,
                     "gsitemap": 6,
                     "prestafraud": 1,
                     "contactform": 1,
@@ -1492,12 +1492,12 @@
                 }
             },
             "tools": {
-                "total": 549,
+                "total": 552,
                 "repositories": {
                     "azure-template-basic": 6,
                     "azure-template-high-performance": 10,
                     "azure-template-performance": 13,
-                    "docker": 340,
+                    "docker": 343,
                     "docker-ci": 47,
                     "docker-internal-images": 106,
                     "docker-templates": 15,
@@ -10290,11 +10290,11 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Siamo un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 137,
+        "contributions": 138,
         "repositories": {
             "PrestaShop": 100,
             "dashactivity": 2,
-            "autoupgrade": 2,
+            "autoupgrade": 3,
             "blockreassurance": 2,
             "ps_emailsubscription": 21,
             "ps_imageslider": 2,
@@ -10328,10 +10328,10 @@
                 }
             },
             "modules": {
-                "total": 31,
+                "total": 32,
                 "repositories": {
                     "dashactivity": 2,
-                    "autoupgrade": 2,
+                    "autoupgrade": 3,
                     "blockreassurance": 2,
                     "ps_emailsubscription": 21,
                     "ps_imageslider": 2,
@@ -37145,7 +37145,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/517889?v=4",
         "html_url": "https:\/\/github.com\/acusti",
         "name": "Andrew Patton",
-        "company": "Time Sites",
+        "company": "@outlyne",
         "blog": "http:\/\/www.acusti.ca",
         "location": "Truckee, CA",
         "bio": "Co-founder and CEO of Outlyne.ai",
@@ -49179,5 +49179,5 @@
             }
         }
     },
-    "updatedAt": "2025-08-27 06:09:27"
+    "updatedAt": "2025-08-28 06:11:37"
 }

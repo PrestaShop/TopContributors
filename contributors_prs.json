@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 9478,
+        "contributions": 9479,
         "repositories": {
             "PrestaShop": 1025,
             "PrestaShop-modules": 2,
@@ -565,7 +565,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 6890,
+        "contributions": 6891,
         "repositories": {
             "PrestaShop": 663,
             "dashproducts": 1,
@@ -611,7 +611,7 @@
             "keycloak_connector_demo": 8,
             "ps_fixturescreator": 3,
             "ps_apiresources": 29,
-            "ui-testing-library": 21,
+            "ui-testing-library": 22,
             "SeamlessUpgradeToolbox": 1
         },
         "categories": {
@@ -686,10 +686,10 @@
                 }
             },
             "tests": {
-                "total": 42,
+                "total": 43,
                 "repositories": {
                     "ga.tests.ui.pr": 21,
-                    "ui-testing-library": 21
+                    "ui-testing-library": 22
                 }
             },
             "blog": {
@@ -706,7 +706,7 @@
                 }
             }
         },
-        "mergedPullRequests": 1023
+        "mergedPullRequests": 1024
     },
     "Quetzacoalt91": {
         "login": "Quetzacoalt91",
@@ -719,7 +719,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 4666,
+        "contributions": 4670,
         "repositories": {
             "PrestaShop": 393,
             "PrestaShop-modules": 14,
@@ -729,7 +729,7 @@
             "autoupgrade": 222,
             "gsitemap": 2,
             "prestashop.github.io": 6,
-            "docker": 85,
+            "docker": 86,
             "StarterTheme": 14,
             "contactform": 1,
             "paymentexample": 1,
@@ -844,9 +844,9 @@
                 }
             },
             "tools": {
-                "total": 154,
+                "total": 155,
                 "repositories": {
-                    "docker": 85,
+                    "docker": 86,
                     "docker-ci": 14,
                     "azure-template-performance": 5,
                     "azure-template-high-performance": 3,
@@ -878,7 +878,7 @@
                 }
             }
         },
-        "mergedPullRequests": 1010
+        "mergedPullRequests": 1011
     },
     "PierreRambaud": {
         "login": "PierreRambaud",
@@ -6545,11 +6545,11 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Siamo un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 137,
+        "contributions": 138,
         "repositories": {
             "PrestaShop": 67,
             "dashactivity": 1,
-            "autoupgrade": 2,
+            "autoupgrade": 3,
             "blockreassurance": 1,
             "ps_emailsubscription": 3,
             "ps_imageslider": 2,
@@ -6583,10 +6583,10 @@
                 }
             },
             "modules": {
-                "total": 11,
+                "total": 12,
                 "repositories": {
                     "dashactivity": 1,
-                    "autoupgrade": 2,
+                    "autoupgrade": 3,
                     "blockreassurance": 1,
                     "ps_emailsubscription": 3,
                     "ps_imageslider": 2,
@@ -6611,7 +6611,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 82
+        "mergedPullRequests": 83
     },
     "davidglezz": {
         "login": "davidglezz",
@@ -36705,7 +36705,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/517889?v=4",
         "html_url": "https:\/\/github.com\/acusti",
         "name": "Andrew Patton",
-        "company": "Time Sites",
+        "company": "@outlyne",
         "blog": "http:\/\/www.acusti.ca",
         "location": "Truckee, CA",
         "bio": "Co-founder and CEO of Outlyne.ai",
