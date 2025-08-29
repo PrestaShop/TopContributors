@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 9479,
+        "contributions": 9480,
         "repositories": {
             "PrestaShop": 4176,
             "PrestaShop-modules": 31,
@@ -118,7 +118,7 @@
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
-            "test-scenarios": 865,
+            "test-scenarios": 866,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -160,7 +160,7 @@
                 }
             },
             "documentation": {
-                "total": 1082,
+                "total": 1083,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -168,7 +168,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 865,
+                    "test-scenarios": 866,
                     "example-modules": 6,
                     "open-source": 31,
                     "example_module_mailtheme": 4,
@@ -4038,7 +4038,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1262,
+        "contributions": 1263,
         "repositories": {
             "PrestaShop": 680,
             "PrestaShop-webservice-lib": 1,
@@ -4068,7 +4068,7 @@
             "ps_imageslider": 5,
             "ps_mainmenu": 2,
             "ps_categorytree": 3,
-            "docs": 13,
+            "docs": 14,
             "docker-ci": 1,
             "ps_wirepayment": 1,
             "ps_shoppingcart": 1,
@@ -4131,9 +4131,9 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 85,
+                "total": 86,
                 "repositories": {
-                    "docs": 13,
+                    "docs": 14,
                     "user-documentation-v8-en": 1,
                     "test-scenarios": 1,
                     "example-modules": 7,
@@ -5568,7 +5568,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 626,
+        "contributions": 627,
         "repositories": {
             "PrestaShop": 409,
             "PrestaShop-modules": 5,
@@ -5612,7 +5612,7 @@
             "ps_mainmenu": 1,
             "ps_customersignin": 1,
             "ps_legalcompliance": 2,
-            "docs": 52,
+            "docs": 53,
             "ps_wirepayment": 1,
             "ps_currencyselector": 1,
             "ps_languageselector": 1,
@@ -5655,9 +5655,9 @@
                 }
             },
             "documentation": {
-                "total": 55,
+                "total": 56,
                 "repositories": {
-                    "docs": 52,
+                    "docs": 53,
                     "example-modules": 2,
                     "open-source": 1
                 }
@@ -49179,5 +49179,5 @@
             }
         }
     },
-    "updatedAt": "2025-08-28 06:11:37"
+    "updatedAt": "2025-08-29 06:34:33"
 }
