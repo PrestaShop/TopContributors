@@ -73,7 +73,7 @@
             "2013": 1004,
             "2012": 56
         },
-        "contributions_percent": 36.55,
+        "contributions_percent": 36.54,
         "avatar_url": "",
         "html_url": "https:\/\/www.prestashop-project.org"
     },
@@ -83,10 +83,10 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 13759,
+            "merged_pull_requests": 13762,
             "merged_pull_requests_by_version": {
-                "9.1": 74,
-                "9.0": 853,
+                "9.1": 75,
+                "9.0": 854,
                 "8.2": 29,
                 "8.1": 404,
                 "8.0": 752,
@@ -102,7 +102,7 @@
                 "1.6.1": 288
             },
             "merged_pull_requests_by_year": {
-                "2025": 804,
+                "2025": 807,
                 "2024": 1295,
                 "2023": 1368,
                 "2022": 1434,
@@ -116,11 +116,11 @@
                 "2014": 284,
                 "2013": 24
             },
-            "pull_requests_percent": 52.65,
-            "contributions": 65999,
+            "pull_requests_percent": 52.66,
+            "contributions": 66038,
             "contributions_by_version": {
-                "9.1": 1479,
-                "9.0": 3530,
+                "9.1": 1512,
+                "9.0": 3531,
                 "8.2": 71,
                 "8.1": 2630,
                 "8.0": 4954,
@@ -136,7 +136,7 @@
                 "1.6.1": 355
             },
             "contributions_by_year": {
-                "2025": 2939,
+                "2025": 2978,
                 "2024": 5080,
                 "2023": 5427,
                 "2022": 8630,
@@ -150,7 +150,7 @@
                 "2014": 612,
                 "2013": 36
             },
-            "contributions_percent": 57.63,
+            "contributions_percent": 57.64,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2815696?s=200&v=4",
             "html_url": "https:\/\/www.prestashop.com"
         },
