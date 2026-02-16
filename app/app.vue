@@ -29,7 +29,7 @@ onMounted(async () => {
     const data = await response.json()
 
     companiesData.value = data.companies
-    topCompanies.value = data.companies.slice(0, 5)
+    topCompanies.value = data.companies
     const total: number
       = data.companies.reduce(
         (acc: number, company: Company) => acc + company.merged_pull_requests,
@@ -62,7 +62,7 @@ onMounted(async () => {
       return contributor
     })
     contributorsData.value = contributorsOnly
-    topContributors.value = contributorsOnly.slice(0, 5)
+    topContributors.value = contributorsOnly
   }
   catch (error) {
     console.error('Error loading contributors data:', error)

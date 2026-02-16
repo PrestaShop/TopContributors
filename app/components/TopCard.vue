@@ -1,8 +1,10 @@
 <script setup lang="ts">
+import { ref, computed, onMounted, onUnmounted } from 'vue'
 import type { PuikTableHeader } from '@prestashopcorp/puik-components'
+import { PuikPaginationVariants } from '@prestashopcorp/puik-components'
 import type { Company, Contributor } from '@/types'
 
-defineProps<{
+const props = defineProps<{
   title: string
   description?: string
   linkHref?: string
@@ -17,6 +19,43 @@ defineEmits<{
   (e: 'view', item: Company | Contributor): void
   (e: 'action', payload: unknown): void
 }>()
+
+const page = ref(1)
+const itemsPerPage = ref(5)
+const paginationVariant = ref<PuikPaginationVariants>(PuikPaginationVariants.Large)
+
+const paginatedItems = computed(() =>
+  props.items.slice((page.value - 1) * itemsPerPage.value, page.value * itemsPerPage.value),
+)
+
+const updatePaginationVariant = () => {
+  const width = window.innerWidth
+  if (width < 768) {
+    paginationVariant.value = PuikPaginationVariants.Mobile
+  }
+  else if (width < 1024) {
+    paginationVariant.value = PuikPaginationVariants.Medium
+  }
+  else {
+    paginationVariant.value = PuikPaginationVariants.Large
+  }
+}
+
+let mobileMq: MediaQueryList
+let tabletMq: MediaQueryList
+
+onMounted(() => {
+  updatePaginationVariant()
+  mobileMq = window.matchMedia('(max-width: 767px)')
+  tabletMq = window.matchMedia('(min-width: 768px) and (max-width: 1023px)')
+  mobileMq.addEventListener('change', updatePaginationVariant)
+  tabletMq.addEventListener('change', updatePaginationVariant)
+})
+
+onUnmounted(() => {
+  mobileMq?.removeEventListener('change', updatePaginationVariant)
+  tabletMq?.removeEventListener('change', updatePaginationVariant)
+})
 </script>
 
 <template>
@@ -50,7 +89,7 @@ defineEmits<{
     <puik-table
       v-if="items?.length"
       :headers="headers"
-      :items="items"
+      :items="paginatedItems"
       :sticky-last-col="stickyLastCol"
       :full-width="fullWidth"
     >
@@ -67,6 +106,15 @@ defineEmits<{
         </slot>
       </template>
     </puik-table>
+
+    <puik-pagination
+      v-if="items?.length > itemsPerPage"
+      v-model:page="page"
+      v-model:items-per-page="itemsPerPage"
+      :variant="paginationVariant"
+      :total-item="items.length"
+      class="wof-top-card__pagination"
+    />
   </puik-card>
 </template>
 
@@ -95,5 +143,9 @@ defineEmits<{
   .wof-top-card__title {
     font-size: var(--wof-top-card-title-size-sm);
   }
+}
+.wof-top-card__pagination {
+  align-self: center;
+  margin-top: 1rem;
 }
 </style>
