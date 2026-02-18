@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10227,
+        "contributions": 10244,
         "repositories": {
-            "PrestaShop": 1135,
+            "PrestaShop": 1136,
             "PrestaShop-modules": 2,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 4,
@@ -84,7 +84,7 @@
             "ps_supplierlist": 1,
             "ps_crossselling": 7,
             "ps_dataprivacy": 5,
-            "ps_cashondelivery": 18,
+            "ps_cashondelivery": 19,
             "ps_viewedproduct": 3,
             "traces": 44,
             "core-weekly-generator": 1,
@@ -121,9 +121,9 @@
         },
         "categories": {
             "core": {
-                "total": 1149,
+                "total": 1150,
                 "repositories": {
-                    "PrestaShop": 1135,
+                    "PrestaShop": 1136,
                     "prestashop-ui-kit": 1,
                     "TranslationToolsBundle": 2,
                     "TranslationFiles": 3,
@@ -157,7 +157,7 @@
                 }
             },
             "modules": {
-                "total": 403,
+                "total": 404,
                 "repositories": {
                     "PrestaShop-modules": 2,
                     "dashactivity": 4,
@@ -220,7 +220,7 @@
                     "ps_supplierlist": 1,
                     "ps_crossselling": 7,
                     "ps_dataprivacy": 5,
-                    "ps_cashondelivery": 18,
+                    "ps_cashondelivery": 19,
                     "ps_viewedproduct": 3,
                     "ps_livetranslation": 4,
                     "ps_googleanalytics": 8,
@@ -272,7 +272,7 @@
                 }
             }
         },
-        "mergedPullRequests": 2234
+        "mergedPullRequests": 2236
     },
     "matks": {
         "login": "matks",
@@ -777,9 +777,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7244,
+        "contributions": 7246,
         "repositories": {
-            "PrestaShop": 727,
+            "PrestaShop": 730,
             "dashproducts": 2,
             "blockwishlist": 3,
             "productcomments": 10,
@@ -829,9 +829,9 @@
         },
         "categories": {
             "core": {
-                "total": 763,
+                "total": 766,
                 "repositories": {
-                    "PrestaShop": 727,
+                    "PrestaShop": 730,
                     "prestashop-ui-kit": 10,
                     "TranslationToolsBundle": 3,
                     "TranslationFiles": 12,
@@ -920,7 +920,7 @@
                 }
             }
         },
-        "mergedPullRequests": 1120
+        "mergedPullRequests": 1123
     },
     "Hlavtox": {
         "login": "Hlavtox",
@@ -2963,9 +2963,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 542,
+        "contributions": 549,
         "repositories": {
-            "PrestaShop": 106,
+            "PrestaShop": 107,
             "blockwishlist": 1,
             "productcomments": 5,
             "autoupgrade": 136,
@@ -2973,6 +2973,7 @@
             "ps_banner": 1,
             "docs": 31,
             "TranslationToolsBundle": 1,
+            "ps_emailalerts": 1,
             "traces": 1,
             "docker-templates": 2,
             "psgdpr": 4,
@@ -2993,9 +2994,9 @@
         },
         "categories": {
             "core": {
-                "total": 107,
+                "total": 108,
                 "repositories": {
-                    "PrestaShop": 106,
+                    "PrestaShop": 107,
                     "TranslationToolsBundle": 1
                 }
             },
@@ -3022,13 +3023,14 @@
                 }
             },
             "modules": {
-                "total": 160,
+                "total": 161,
                 "repositories": {
                     "blockwishlist": 1,
                     "productcomments": 5,
                     "autoupgrade": 136,
                     "ps_linklist": 6,
                     "ps_banner": 1,
+                    "ps_emailalerts": 1,
                     "psgdpr": 4,
                     "ps_distributionapiclient": 2,
                     "ps_apiresources": 5
@@ -3060,7 +3062,7 @@
                 }
             }
         },
-        "mergedPullRequests": 348
+        "mergedPullRequests": 350
     },
     "zuk3975": {
         "login": "zuk3975",
@@ -4520,7 +4522,7 @@
         "location": "74100 Annemasse, France",
         "bio": null,
         "email_domain": "",
-        "contributions": 1186,
+        "contributions": 1189,
         "repositories": {
             "PrestaShop": 5,
             "statscatalog": 1,
@@ -4529,7 +4531,7 @@
             "statspersonalinfos": 1,
             "statssearch": 1,
             "productcomments": 2,
-            "autoupgrade": 108,
+            "autoupgrade": 109,
             "prestashop.github.io": 4,
             "ps_socialfollow": 3,
             "ps_customtext": 1,
@@ -4569,7 +4571,7 @@
                 }
             },
             "modules": {
-                "total": 124,
+                "total": 125,
                 "repositories": {
                     "statscatalog": 1,
                     "statscheckup": 2,
@@ -4577,7 +4579,7 @@
                     "statspersonalinfos": 1,
                     "statssearch": 1,
                     "productcomments": 2,
-                    "autoupgrade": 108,
+                    "autoupgrade": 109,
                     "ps_socialfollow": 3,
                     "ps_customtext": 1,
                     "ps_categorytree": 3,
@@ -4610,7 +4612,7 @@
                 }
             }
         },
-        "mergedPullRequests": 178
+        "mergedPullRequests": 179
     },
     "thomasnares": {
         "login": "thomasnares",
@@ -5473,7 +5475,7 @@
         "email_domain": "codencode.it",
         "contributions": 271,
         "repositories": {
-            "PrestaShop": 103,
+            "PrestaShop": 104,
             "dashactivity": 1,
             "autoupgrade": 6,
             "blockreassurance": 1,
@@ -5485,15 +5487,15 @@
             "docs": 2,
             "ps_facetedsearch": 4,
             "LocalizationFiles": 2,
-            "hummingbird": 1,
+            "hummingbird": 2,
             "classic-theme": 2,
             "ps_apiresources": 9
         },
         "categories": {
             "core": {
-                "total": 105,
+                "total": 106,
                 "repositories": {
-                    "PrestaShop": 103,
+                    "PrestaShop": 104,
                     "LocalizationFiles": 2
                 }
             },
@@ -5508,9 +5510,9 @@
                 }
             },
             "themes": {
-                "total": 3,
+                "total": 4,
                 "repositories": {
-                    "hummingbird": 1,
+                    "hummingbird": 2,
                     "classic-theme": 2
                 }
             },
@@ -5546,7 +5548,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 140
+        "mergedPullRequests": 142
     },
     "jnadaud": {
         "login": "jnadaud",
