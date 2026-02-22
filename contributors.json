@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10254,
+        "contributions": 10256,
         "repositories": {
             "PrestaShop": 4420,
             "PrestaShop-modules": 31,
@@ -94,7 +94,7 @@
             "ps_feeder": 1,
             "traces": 186,
             "core-weekly-generator": 6,
-            "TopContributors": 108,
+            "TopContributors": 109,
             "TranslationFiles": 3,
             "ps_livetranslation": 13,
             "ps_googleanalytics": 20,
@@ -118,7 +118,7 @@
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
-            "test-scenarios": 963,
+            "test-scenarios": 964,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -160,7 +160,7 @@
                 }
             },
             "documentation": {
-                "total": 1180,
+                "total": 1181,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -168,7 +168,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 963,
+                    "test-scenarios": 964,
                     "example-modules": 6,
                     "open-source": 31,
                     "example_module_mailtheme": 4,
@@ -269,7 +269,7 @@
                 }
             },
             "tools": {
-                "total": 1283,
+                "total": 1284,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -282,7 +282,7 @@
                     "presthubot": 486,
                     "prestonbot": 10,
                     "QANightlyResults": 372,
-                    "TopContributors": 108,
+                    "TopContributors": 109,
                     "TopTranslators": 1,
                     "traces": 186,
                     "ps-project-metrics": 4
@@ -50080,5 +50080,5 @@
             }
         }
     },
-    "updatedAt": "2026-02-21 06:13:41"
+    "updatedAt": "2026-02-22 06:18:12"
 }
