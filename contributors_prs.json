@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10256,
+        "contributions": 10257,
         "repositories": {
             "PrestaShop": 1137,
             "PrestaShop-modules": 2,
@@ -19869,7 +19869,7 @@
         "blog": "https:\/\/cvng.dev",
         "location": "Paris, France",
         "bio": "software engineer - building modern postgres tooling",
-        "email_domain": "cvng.dev",
+        "email_domain": "",
         "contributions": 8,
         "repositories": {
             "PrestaShop": 3,
