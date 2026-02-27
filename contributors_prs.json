@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10266,
+        "contributions": 10281,
         "repositories": {
-            "PrestaShop": 1138,
+            "PrestaShop": 1141,
             "PrestaShop-modules": 2,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 4,
@@ -110,7 +110,7 @@
             "ps_qualityassurance": 1,
             "test-scenarios": 17,
             "hummingbird": 3,
-            "ga.tests.ui.pr": 34,
+            "ga.tests.ui.pr": 35,
             "ps-project-metrics": 2,
             "classic-theme": 7,
             "keycloak_connector_demo": 2,
@@ -121,9 +121,9 @@
         },
         "categories": {
             "core": {
-                "total": 1152,
+                "total": 1155,
                 "repositories": {
-                    "PrestaShop": 1138,
+                    "PrestaShop": 1141,
                     "prestashop-ui-kit": 1,
                     "TranslationToolsBundle": 2,
                     "TranslationFiles": 3,
@@ -253,9 +253,9 @@
                 }
             },
             "tests": {
-                "total": 374,
+                "total": 375,
                 "repositories": {
-                    "ga.tests.ui.pr": 34,
+                    "ga.tests.ui.pr": 35,
                     "ui-testing-library": 340
                 }
             },
@@ -272,7 +272,7 @@
                 }
             }
         },
-        "mergedPullRequests": 2240
+        "mergedPullRequests": 2244
     },
     "matks": {
         "login": "matks",
@@ -565,7 +565,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5012,
+        "contributions": 5014,
         "repositories": {
             "PrestaShop": 396,
             "PrestaShop-modules": 14,
@@ -777,7 +777,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7280,
+        "contributions": 7282,
         "repositories": {
             "PrestaShop": 732,
             "dashproducts": 2,
@@ -933,7 +933,7 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 2351,
+        "contributions": 2358,
         "repositories": {
             "PrestaShop": 379,
             "dashactivity": 4,
@@ -1786,7 +1786,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3337,
+        "contributions": 3340,
         "repositories": {
             "PrestaShop": 171,
             "PrestaShop-modules": 3,
@@ -3521,7 +3521,7 @@
         "location": "France",
         "bio": "Developper from father to son with +13 years experience, commiter and member of @PrestaShop Tech Council!",
         "email_domain": "",
-        "contributions": 668,
+        "contributions": 673,
         "repositories": {
             "PrestaShop": 132,
             "productcomments": 1,
@@ -4965,7 +4965,7 @@
         "location": "Toulouse \/ France",
         "bio": "e-commerce, dev, founder of Creabilis Agency",
         "email_domain": "",
-        "contributions": 346,
+        "contributions": 349,
         "repositories": {
             "PrestaShop": 64,
             "PrestaShop-webservice-lib": 1,
@@ -4980,7 +4980,7 @@
             "ps_featuredproducts": 1,
             "ps_customersignin": 1,
             "ps_categorytree": 1,
-            "docs": 48,
+            "docs": 50,
             "ps_shoppingcart": 1,
             "ps_facetedsearch": 1,
             "ps_customeraccountlinks": 1,
@@ -5015,9 +5015,9 @@
                 }
             },
             "documentation": {
-                "total": 50,
+                "total": 52,
                 "repositories": {
-                    "docs": 48,
+                    "docs": 50,
                     "open-source": 2
                 }
             },
@@ -5076,7 +5076,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 163
+        "mergedPullRequests": 165
     },
     "leemyongpakvn": {
         "login": "leemyongpakvn",
@@ -5375,7 +5375,7 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 278,
+        "contributions": 279,
         "repositories": {
             "PrestaShop": 106,
             "dashactivity": 1,
@@ -6897,7 +6897,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 632,
+        "contributions": 633,
         "repositories": {
             "PrestaShop": 14,
             "dashactivity": 1,
@@ -13736,6 +13736,69 @@
         },
         "mergedPullRequests": 13
     },
+    "Kaikina": {
+        "login": "Kaikina",
+        "id": 14168333,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14168333?v=4",
+        "html_url": "https:\/\/github.com\/Kaikina",
+        "name": "Tom Girou",
+        "company": "Evolutive",
+        "blog": "https:\/\/www.linkedin.com\/in\/tgirou\/",
+        "location": "La Valla-en-Gier, France",
+        "bio": "I build practical web apps, often around marketplaces, automation, and e-commerce.\r\nI like clean code, clear logic, and projects that solve real problems.",
+        "email_domain": "",
+        "contributions": 31,
+        "repositories": {
+            "PrestaShop": 8,
+            "autoupgrade": 1,
+            "docs": 4
+        },
+        "categories": {
+            "core": {
+                "total": 8,
+                "repositories": {
+                    "PrestaShop": 8
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 4,
+                "repositories": {
+                    "docs": 4
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 1,
+                "repositories": {
+                    "autoupgrade": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 13
+    },
     "intraordinaire": {
         "login": "intraordinaire",
         "id": 1721887,
@@ -14014,69 +14077,6 @@
             "modules": {
                 "total": 0,
                 "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 12
-    },
-    "Kaikina": {
-        "login": "Kaikina",
-        "id": 14168333,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14168333?v=4",
-        "html_url": "https:\/\/github.com\/Kaikina",
-        "name": "Tom Girou",
-        "company": "Evolutive",
-        "blog": "https:\/\/www.linkedin.com\/in\/tgirou\/",
-        "location": "La Valla-en-Gier, France",
-        "bio": "I build practical web apps, often around marketplaces, automation, and e-commerce.\r\nI like clean code, clear logic, and projects that solve real problems.",
-        "email_domain": "",
-        "contributions": 31,
-        "repositories": {
-            "PrestaShop": 8,
-            "autoupgrade": 1,
-            "docs": 3
-        },
-        "categories": {
-            "core": {
-                "total": 8,
-                "repositories": {
-                    "PrestaShop": 8
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 3,
-                "repositories": {
-                    "docs": 3
-                }
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 1,
-                "repositories": {
-                    "autoupgrade": 1
-                }
             },
             "tools": {
                 "total": 0,
