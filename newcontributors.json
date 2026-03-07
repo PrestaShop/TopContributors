@@ -1,4 +1,12 @@
 {
+    "kseghair": {
+        "login": "kseghair",
+        "name": "K\u00e9vin S\u00e9ghair",
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16594134?v=4",
+        "html_url": "https:\/\/github.com\/kseghair",
+        "contributions": 1,
+        "firstContributionAt": "2026-03-06T12:12:19Z"
+    },
     "nekoprog": {
         "login": "nekoprog",
         "name": "Neko Prog",
@@ -70,13 +78,5 @@
         "html_url": "https:\/\/github.com\/sanctusmob",
         "contributions": 1,
         "firstContributionAt": "2025-11-21T15:04:16Z"
-    },
-    "novomusica": {
-        "login": "novomusica",
-        "name": null,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/186070655?v=4",
-        "html_url": "https:\/\/github.com\/novomusica",
-        "contributions": 1,
-        "firstContributionAt": "2025-11-10T14:49:31Z"
     }
 }

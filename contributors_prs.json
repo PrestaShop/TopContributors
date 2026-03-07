@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10320,
+        "contributions": 10321,
         "repositories": {
             "PrestaShop": 1148,
             "PrestaShop-modules": 2,
@@ -565,7 +565,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5053,
+        "contributions": 5057,
         "repositories": {
             "PrestaShop": 396,
             "PrestaShop-modules": 14,
@@ -590,7 +590,7 @@
             "statssearch": 2,
             "statsstock": 3,
             "blockwishlist": 17,
-            "autoupgrade": 277,
+            "autoupgrade": 278,
             "gsitemap": 2,
             "prestashop.github.io": 6,
             "docker": 90,
@@ -673,7 +673,7 @@
                 }
             },
             "modules": {
-                "total": 440,
+                "total": 441,
                 "repositories": {
                     "PrestaShop-modules": 14,
                     "dashproducts": 2,
@@ -697,7 +697,7 @@
                     "statssearch": 2,
                     "statsstock": 3,
                     "blockwishlist": 17,
-                    "autoupgrade": 277,
+                    "autoupgrade": 278,
                     "gsitemap": 2,
                     "contactform": 1,
                     "pstagger": 1,
@@ -764,7 +764,7 @@
                 }
             }
         },
-        "mergedPullRequests": 1146
+        "mergedPullRequests": 1147
     },
     "jolelievre": {
         "login": "jolelievre",
@@ -777,9 +777,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7324,
+        "contributions": 7341,
         "repositories": {
-            "PrestaShop": 735,
+            "PrestaShop": 736,
             "dashproducts": 2,
             "blockwishlist": 3,
             "productcomments": 10,
@@ -829,9 +829,9 @@
         },
         "categories": {
             "core": {
-                "total": 771,
+                "total": 772,
                 "repositories": {
-                    "PrestaShop": 735,
+                    "PrestaShop": 736,
                     "prestashop-ui-kit": 10,
                     "TranslationToolsBundle": 3,
                     "TranslationFiles": 12,
@@ -920,7 +920,7 @@
                 }
             }
         },
-        "mergedPullRequests": 1139
+        "mergedPullRequests": 1140
     },
     "Hlavtox": {
         "login": "Hlavtox",
@@ -933,7 +933,7 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 2358,
+        "contributions": 2363,
         "repositories": {
             "PrestaShop": 379,
             "dashactivity": 4,
@@ -1389,7 +1389,7 @@
         "location": "Paris, France",
         "bio": "QA Automation Engineer",
         "email_domain": "gmail.com",
-        "contributions": 3428,
+        "contributions": 3429,
         "repositories": {
             "PrestaShop": 664,
             "autoupgrade": 44,
@@ -1786,7 +1786,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3352,
+        "contributions": 3353,
         "repositories": {
             "PrestaShop": 171,
             "PrestaShop-modules": 3,
@@ -3523,7 +3523,7 @@
         "location": "74100 Annemasse, France",
         "bio": null,
         "email_domain": "",
-        "contributions": 1273,
+        "contributions": 1274,
         "repositories": {
             "PrestaShop": 7,
             "dashactivity": 1,
@@ -3903,9 +3903,9 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1509,
+        "contributions": 1513,
         "repositories": {
-            "PrestaShop": 134,
+            "PrestaShop": 135,
             "blockwishlist": 6,
             "autoupgrade": 2,
             "gsitemap": 1,
@@ -3937,9 +3937,9 @@
         },
         "categories": {
             "core": {
-                "total": 136,
+                "total": 137,
                 "repositories": {
-                    "PrestaShop": 134,
+                    "PrestaShop": 135,
                     "LocalizationFiles": 2
                 }
             },
@@ -4010,7 +4010,7 @@
                 }
             }
         },
-        "mergedPullRequests": 208
+        "mergedPullRequests": 209
     },
     "ttoine": {
         "login": "ttoine",
@@ -4264,7 +4264,7 @@
         "location": null,
         "bio": "Web Integrator",
         "email_domain": "",
-        "contributions": 761,
+        "contributions": 767,
         "repositories": {
             "PrestaShop": 13,
             "productcomments": 2,
@@ -4276,7 +4276,7 @@
             "ps_searchbar": 1,
             "traces": 1,
             "open-source": 1,
-            "hummingbird": 105,
+            "hummingbird": 107,
             "classic-theme": 1,
             "bootstrap-compatibility-layer": 4,
             "Prestashop-BO-themes-package": 3
@@ -4301,9 +4301,9 @@
                 }
             },
             "themes": {
-                "total": 106,
+                "total": 108,
                 "repositories": {
-                    "hummingbird": 105,
+                    "hummingbird": 107,
                     "classic-theme": 1
                 }
             },
@@ -4340,7 +4340,7 @@
                 }
             }
         },
-        "mergedPullRequests": 200
+        "mergedPullRequests": 202
     },
     "LouiseBonnard": {
         "login": "LouiseBonnard",
@@ -4426,7 +4426,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/15143151?v=4",
         "html_url": "https:\/\/github.com\/sarjon",
         "name": "\u0160ar\u016bnas Jonu\u0161as",
-        "company": "@eneba-games",
+        "company": null,
         "blog": "",
         "location": "Kaunas, Lithuania",
         "bio": "Software Engineer",
@@ -5487,7 +5487,7 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 284,
+        "contributions": 288,
         "repositories": {
             "PrestaShop": 108,
             "dashactivity": 1,
@@ -6216,7 +6216,7 @@
         "location": "France",
         "bio": null,
         "email_domain": "presta-module.com",
-        "contributions": 127,
+        "contributions": 128,
         "repositories": {
             "PrestaShop": 106,
             "PrestaShop-modules": 1,
@@ -7013,7 +7013,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 648,
+        "contributions": 649,
         "repositories": {
             "PrestaShop": 14,
             "dashactivity": 1,
@@ -8392,9 +8392,9 @@
         "location": "Sweden",
         "bio": null,
         "email_domain": "",
-        "contributions": 88,
+        "contributions": 89,
         "repositories": {
-            "PrestaShop": 34,
+            "PrestaShop": 35,
             "autoupgrade": 6,
             "ps_linklist": 1,
             "ps_imageslider": 1,
@@ -8403,9 +8403,9 @@
         },
         "categories": {
             "core": {
-                "total": 34,
+                "total": 35,
                 "repositories": {
-                    "PrestaShop": 34
+                    "PrestaShop": 35
                 }
             },
             "specs": {
@@ -8448,7 +8448,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 49
+        "mergedPullRequests": 50
     },
     "moncef-essid": {
         "login": "moncef-essid",
@@ -28661,6 +28661,66 @@
         },
         "mergedPullRequests": 2
     },
+    "aeyoll": {
+        "login": "aeyoll",
+        "id": 1472285,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1472285?v=4",
+        "html_url": "https:\/\/github.com\/aeyoll",
+        "name": "Jean-Philippe Bidegain",
+        "company": "Kaizen Developments",
+        "blog": "https:\/\/jp.bidega.in",
+        "location": "Bordeaux",
+        "bio": "CTO @KaizenDevelopments. PHP, Python and Rust enthusiast.",
+        "email_domain": "",
+        "contributions": 2,
+        "repositories": {
+            "contactform": 1,
+            "hummingbird": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 1,
+                "repositories": {
+                    "hummingbird": 1
+                }
+            },
+            "modules": {
+                "total": 1,
+                "repositories": {
+                    "contactform": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 2
+    },
     "watou": {
         "login": "watou",
         "id": 3008217,
@@ -30397,66 +30457,6 @@
             "themes": {
                 "total": 0,
                 "repositories": []
-            },
-            "modules": {
-                "total": 1,
-                "repositories": {
-                    "contactform": 1
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 2
-    },
-    "aeyoll": {
-        "login": "aeyoll",
-        "id": 1472285,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1472285?v=4",
-        "html_url": "https:\/\/github.com\/aeyoll",
-        "name": "Jean-Philippe Bidegain",
-        "company": "Kaizen Developments",
-        "blog": "https:\/\/jp.bidega.in",
-        "location": "Bordeaux",
-        "bio": "CTO @KaizenDevelopments. PHP, Python and Rust enthusiast.",
-        "email_domain": "",
-        "contributions": 1,
-        "repositories": {
-            "contactform": 1,
-            "hummingbird": 1
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 1,
-                "repositories": {
-                    "hummingbird": 1
-                }
             },
             "modules": {
                 "total": 1,
@@ -38064,6 +38064,63 @@
         "blog": "https:\/\/valentin-gratz.xyz\/",
         "location": "Wingles",
         "bio": "J'expose mes projets\/sites en tant que d\u00e9butant en programmation web.\r\n\r\nJ'y exposerais aussi des projets que j'aime. Ils peuvent provenir d'autre git qu'ici",
+        "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "autoupgrade": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 1,
+                "repositories": {
+                    "autoupgrade": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 1
+    },
+    "kseghair": {
+        "login": "kseghair",
+        "id": 16594134,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16594134?v=4",
+        "html_url": "https:\/\/github.com\/kseghair",
+        "name": "K\u00e9vin S\u00e9ghair",
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
         "email_domain": "",
         "contributions": 1,
         "repositories": {
