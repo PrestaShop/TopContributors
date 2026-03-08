@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10321,
+        "contributions": 10322,
         "repositories": {
             "PrestaShop": 4432,
             "PrestaShop-modules": 31,
@@ -118,7 +118,7 @@
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
-            "test-scenarios": 974,
+            "test-scenarios": 975,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -160,7 +160,7 @@
                 }
             },
             "documentation": {
-                "total": 1191,
+                "total": 1192,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -168,7 +168,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 974,
+                    "test-scenarios": 975,
                     "example-modules": 6,
                     "open-source": 31,
                     "example_module_mailtheme": 4,
@@ -6116,7 +6116,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 649,
+        "contributions": 652,
         "repositories": {
             "PrestaShop": 301,
             "dashactivity": 4,
@@ -6145,6 +6145,7 @@
             "ps_customtext": 3,
             "ps_contactinfo": 1,
             "ps_emailsubscription": 6,
+            "ps_banner": 3,
             "ps_imageslider": 7,
             "ps_mainmenu": 6,
             "ps_customersignin": 8,
@@ -6216,7 +6217,7 @@
                 }
             },
             "modules": {
-                "total": 198,
+                "total": 201,
                 "repositories": {
                     "dashactivity": 4,
                     "dashgoals": 3,
@@ -6242,6 +6243,7 @@
                     "ps_customtext": 3,
                     "ps_contactinfo": 1,
                     "ps_emailsubscription": 6,
+                    "ps_banner": 3,
                     "ps_imageslider": 7,
                     "ps_mainmenu": 6,
                     "ps_customersignin": 8,
@@ -8279,7 +8281,7 @@
         "location": "Toulouse \/ France",
         "bio": "e-commerce, dev, founder of Creabilis Agency",
         "email_domain": "",
-        "contributions": 349,
+        "contributions": 350,
         "repositories": {
             "PrestaShop": 182,
             "PrestaShop-webservice-lib": 1,
@@ -8292,6 +8294,7 @@
             "contactform": 1,
             "ps_customtext": 1,
             "ps_emailsubscription": 13,
+            "ps_banner": 1,
             "ps_featuredproducts": 1,
             "ps_imageslider": 1,
             "ps_customersignin": 1,
@@ -8348,7 +8351,7 @@
                 }
             },
             "modules": {
-                "total": 76,
+                "total": 77,
                 "repositories": {
                     "dashproducts": 4,
                     "statsbestcustomers": 2,
@@ -8359,6 +8362,7 @@
                     "contactform": 1,
                     "ps_customtext": 1,
                     "ps_emailsubscription": 13,
+                    "ps_banner": 1,
                     "ps_featuredproducts": 1,
                     "ps_imageslider": 1,
                     "ps_customersignin": 1,
@@ -50295,5 +50299,5 @@
             }
         }
     },
-    "updatedAt": "2026-03-07 06:10:33"
+    "updatedAt": "2026-03-08 06:15:32"
 }
