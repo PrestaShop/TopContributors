@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10322,
+        "contributions": 10323,
         "repositories": {
             "PrestaShop": 4432,
             "PrestaShop-modules": 31,
@@ -114,7 +114,7 @@
             "php-dev-tools": 4,
             "QANightlyResults": 378,
             "LocalizationFiles": 9,
-            "presthubot": 489,
+            "presthubot": 490,
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
@@ -269,7 +269,7 @@
                 }
             },
             "tools": {
-                "total": 1299,
+                "total": 1300,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -279,7 +279,7 @@
                     "mjml-theme-converter": 1,
                     "nightly-board": 47,
                     "PrestaShop-webservice-lib": 4,
-                    "presthubot": 489,
+                    "presthubot": 490,
                     "prestonbot": 10,
                     "QANightlyResults": 378,
                     "TopContributors": 110,
@@ -1005,7 +1005,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5057,
+        "contributions": 5059,
         "repositories": {
             "PrestaShop": 1710,
             "PrestaShop-modules": 349,
@@ -1043,7 +1043,7 @@
             "gsitemap": 6,
             "prestafraud": 1,
             "prestashop.github.io": 17,
-            "docker": 367,
+            "docker": 369,
             "StarterTheme": 28,
             "contactform": 1,
             "paymentexample": 1,
@@ -1208,12 +1208,12 @@
                 }
             },
             "tools": {
-                "total": 584,
+                "total": 586,
                 "repositories": {
                     "azure-template-basic": 6,
                     "azure-template-high-performance": 10,
                     "azure-template-performance": 13,
-                    "docker": 367,
+                    "docker": 369,
                     "docker-ci": 47,
                     "docker-internal-images": 112,
                     "docker-templates": 17,
@@ -47338,7 +47338,7 @@
         "html_url": "https:\/\/github.com\/johnnypeck",
         "name": "Peck",
         "company": null,
-        "blog": "",
+        "blog": "https:\/\/johnnypeck.com",
         "location": "Washington, DC",
         "bio": null,
         "email_domain": "",
@@ -50299,5 +50299,5 @@
             }
         }
     },
-    "updatedAt": "2026-03-08 06:15:32"
+    "updatedAt": "2026-03-09 12:29:30"
 }
