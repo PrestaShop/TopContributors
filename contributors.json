@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10323,
+        "contributions": 10333,
         "repositories": {
             "PrestaShop": 4432,
             "PrestaShop-modules": 31,
@@ -56,7 +56,7 @@
             "ps_customtext": 19,
             "ps_contactinfo": 9,
             "ps_emailsubscription": 36,
-            "ps_banner": 10,
+            "ps_banner": 12,
             "ps_featuredproducts": 21,
             "ps_imageslider": 30,
             "ps_mainmenu": 21,
@@ -92,7 +92,7 @@
             "ps_carriercomparison": 3,
             "ps_viewedproduct": 15,
             "ps_feeder": 1,
-            "traces": 191,
+            "traces": 194,
             "core-weekly-generator": 6,
             "TopContributors": 110,
             "TranslationFiles": 3,
@@ -112,13 +112,13 @@
             "open-source": 31,
             "mjml-theme-converter": 1,
             "php-dev-tools": 4,
-            "QANightlyResults": 378,
+            "QANightlyResults": 380,
             "LocalizationFiles": 9,
             "presthubot": 490,
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
-            "test-scenarios": 975,
+            "test-scenarios": 976,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -135,7 +135,7 @@
             "ps_fixturescreator": 11,
             "ws-client": 25,
             "ps_apiresources": 3,
-            "ui-testing-library": 1150
+            "ui-testing-library": 1152
         },
         "categories": {
             "core": {
@@ -160,7 +160,7 @@
                 }
             },
             "documentation": {
-                "total": 1192,
+                "total": 1193,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -168,7 +168,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 975,
+                    "test-scenarios": 976,
                     "example-modules": 6,
                     "open-source": 31,
                     "example_module_mailtheme": 4,
@@ -185,7 +185,7 @@
                 }
             },
             "modules": {
-                "total": 1753,
+                "total": 1755,
                 "repositories": {
                     "PrestaShop-modules": 31,
                     "dashactivity": 14,
@@ -226,7 +226,7 @@
                     "ps_customtext": 19,
                     "ps_contactinfo": 9,
                     "ps_emailsubscription": 36,
-                    "ps_banner": 10,
+                    "ps_banner": 12,
                     "ps_featuredproducts": 21,
                     "ps_imageslider": 30,
                     "ps_mainmenu": 21,
@@ -269,7 +269,7 @@
                 }
             },
             "tools": {
-                "total": 1300,
+                "total": 1305,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -281,17 +281,17 @@
                     "PrestaShop-webservice-lib": 4,
                     "presthubot": 490,
                     "prestonbot": 10,
-                    "QANightlyResults": 378,
+                    "QANightlyResults": 380,
                     "TopContributors": 110,
                     "TopTranslators": 1,
-                    "traces": 191,
+                    "traces": 194,
                     "ps-project-metrics": 4
                 }
             },
             "tests": {
-                "total": 1251,
+                "total": 1253,
                 "repositories": {
-                    "ui-testing-library": 1150,
+                    "ui-testing-library": 1152,
                     "ga.tests.ui.pr": 101
                 }
             },
@@ -1005,7 +1005,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5059,
+        "contributions": 5065,
         "repositories": {
             "PrestaShop": 1710,
             "PrestaShop-modules": 349,
@@ -1039,7 +1039,7 @@
             "productcomments": 1,
             "pscleaner": 3,
             "themeinstallator": 3,
-            "autoupgrade": 1416,
+            "autoupgrade": 1422,
             "gsitemap": 6,
             "prestafraud": 1,
             "prestashop.github.io": 17,
@@ -1138,7 +1138,7 @@
                 }
             },
             "modules": {
-                "total": 2315,
+                "total": 2321,
                 "repositories": {
                     "PrestaShop-modules": 349,
                     "dashactivity": 1,
@@ -1169,7 +1169,7 @@
                     "blockwishlist": 38,
                     "productcomments": 1,
                     "pscleaner": 3,
-                    "autoupgrade": 1416,
+                    "autoupgrade": 1422,
                     "gsitemap": 6,
                     "prestafraud": 1,
                     "contactform": 1,
@@ -5468,11 +5468,11 @@
         "location": null,
         "bio": "Web Integrator",
         "email_domain": "",
-        "contributions": 767,
+        "contributions": 769,
         "repositories": {
             "PrestaShop": 45,
             "productcomments": 5,
-            "autoupgrade": 169,
+            "autoupgrade": 171,
             "prestashop.github.io": 42,
             "prestashop-ui-kit": 14,
             "ps_imageslider": 3,
@@ -5512,10 +5512,10 @@
                 }
             },
             "modules": {
-                "total": 178,
+                "total": 180,
                 "repositories": {
                     "productcomments": 5,
-                    "autoupgrade": 169,
+                    "autoupgrade": 171,
                     "ps_imageslider": 3,
                     "ps_searchbar": 1
                 }
@@ -50299,5 +50299,5 @@
             }
         }
     },
-    "updatedAt": "2026-03-09 12:29:30"
+    "updatedAt": "2026-03-10 06:16:28"
 }

@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10323,
+        "contributions": 10333,
         "repositories": {
-            "PrestaShop": 1148,
+            "PrestaShop": 1149,
             "PrestaShop-modules": 2,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 4,
@@ -55,7 +55,7 @@
             "ps_customtext": 3,
             "ps_contactinfo": 1,
             "ps_emailsubscription": 8,
-            "ps_banner": 2,
+            "ps_banner": 3,
             "ps_featuredproducts": 4,
             "ps_imageslider": 7,
             "ps_mainmenu": 4,
@@ -117,13 +117,13 @@
             "ps_fixturescreator": 4,
             "ws-client": 3,
             "ps_apiresources": 12,
-            "ui-testing-library": 344
+            "ui-testing-library": 345
         },
         "categories": {
             "core": {
-                "total": 1162,
+                "total": 1163,
                 "repositories": {
-                    "PrestaShop": 1148,
+                    "PrestaShop": 1149,
                     "prestashop-ui-kit": 1,
                     "TranslationToolsBundle": 2,
                     "TranslationFiles": 3,
@@ -157,7 +157,7 @@
                 }
             },
             "modules": {
-                "total": 404,
+                "total": 405,
                 "repositories": {
                     "PrestaShop-modules": 2,
                     "dashactivity": 4,
@@ -197,7 +197,7 @@
                     "ps_customtext": 3,
                     "ps_contactinfo": 1,
                     "ps_emailsubscription": 8,
-                    "ps_banner": 2,
+                    "ps_banner": 3,
                     "ps_featuredproducts": 4,
                     "ps_imageslider": 7,
                     "ps_mainmenu": 4,
@@ -253,10 +253,10 @@
                 }
             },
             "tests": {
-                "total": 379,
+                "total": 380,
                 "repositories": {
                     "ga.tests.ui.pr": 35,
-                    "ui-testing-library": 344
+                    "ui-testing-library": 345
                 }
             },
             "blog": {
@@ -272,7 +272,7 @@
                 }
             }
         },
-        "mergedPullRequests": 2255
+        "mergedPullRequests": 2258
     },
     "matks": {
         "login": "matks",
@@ -565,7 +565,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5059,
+        "contributions": 5065,
         "repositories": {
             "PrestaShop": 396,
             "PrestaShop-modules": 14,
@@ -590,7 +590,7 @@
             "statssearch": 2,
             "statsstock": 3,
             "blockwishlist": 17,
-            "autoupgrade": 278,
+            "autoupgrade": 279,
             "gsitemap": 2,
             "prestashop.github.io": 6,
             "docker": 90,
@@ -673,7 +673,7 @@
                 }
             },
             "modules": {
-                "total": 441,
+                "total": 442,
                 "repositories": {
                     "PrestaShop-modules": 14,
                     "dashproducts": 2,
@@ -697,7 +697,7 @@
                     "statssearch": 2,
                     "statsstock": 3,
                     "blockwishlist": 17,
-                    "autoupgrade": 278,
+                    "autoupgrade": 279,
                     "gsitemap": 2,
                     "contactform": 1,
                     "pstagger": 1,
@@ -764,7 +764,7 @@
                 }
             }
         },
-        "mergedPullRequests": 1147
+        "mergedPullRequests": 1148
     },
     "jolelievre": {
         "login": "jolelievre",
@@ -4264,7 +4264,7 @@
         "location": null,
         "bio": "Web Integrator",
         "email_domain": "",
-        "contributions": 767,
+        "contributions": 769,
         "repositories": {
             "PrestaShop": 13,
             "productcomments": 2,
