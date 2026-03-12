@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10368,
+        "contributions": 10370,
         "repositories": {
             "PrestaShop": 1153,
             "PrestaShop-modules": 2,
@@ -86,7 +86,7 @@
             "ps_dataprivacy": 5,
             "ps_cashondelivery": 20,
             "ps_viewedproduct": 3,
-            "traces": 44,
+            "traces": 45,
             "core-weekly-generator": 1,
             "TopContributors": 43,
             "TranslationFiles": 3,
@@ -234,7 +234,7 @@
                 }
             },
             "tools": {
-                "total": 215,
+                "total": 216,
                 "repositories": {
                     "PrestaShop-webservice-lib": 1,
                     "docker": 19,
@@ -242,7 +242,7 @@
                     "docker-internal-images": 1,
                     "prestonbot": 1,
                     "TopTranslators": 1,
-                    "traces": 44,
+                    "traces": 45,
                     "core-weekly-generator": 1,
                     "TopContributors": 43,
                     "issuebot": 2,
@@ -272,7 +272,7 @@
                 }
             }
         },
-        "mergedPullRequests": 2264
+        "mergedPullRequests": 2265
     },
     "matks": {
         "login": "matks",
@@ -777,7 +777,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7349,
+        "contributions": 7350,
         "repositories": {
             "PrestaShop": 736,
             "dashproducts": 2,
@@ -1786,7 +1786,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3364,
+        "contributions": 3378,
         "repositories": {
             "PrestaShop": 171,
             "PrestaShop-modules": 3,
@@ -1824,7 +1824,7 @@
             "nightly-board": 1,
             "open-source": 23,
             "presthubot": 7,
-            "example-modules": 5,
+            "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 1,
             "ps-org-theme": 4,
@@ -1852,13 +1852,13 @@
                 }
             },
             "documentation": {
-                "total": 108,
+                "total": 109,
                 "repositories": {
                     "paymentexample": 1,
                     "docs": 58,
                     "ADR": 2,
                     "open-source": 23,
-                    "example-modules": 5,
+                    "example-modules": 6,
                     "ps-docs-theme": 13,
                     "devdocs-site": 6
                 }
@@ -1934,7 +1934,7 @@
                 }
             }
         },
-        "mergedPullRequests": 553
+        "mergedPullRequests": 554
     },
     "eternoendless": {
         "login": "eternoendless",
@@ -3903,7 +3903,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1513,
+        "contributions": 1514,
         "repositories": {
             "PrestaShop": 135,
             "blockwishlist": 6,
@@ -3933,7 +3933,7 @@
             "ps_fixturescreator": 3,
             "kanbanbot": 3,
             "zip-archives": 2,
-            "ps_apiresources": 6
+            "ps_apiresources": 7
         },
         "categories": {
             "core": {
@@ -3965,7 +3965,7 @@
                 }
             },
             "modules": {
-                "total": 28,
+                "total": 29,
                 "repositories": {
                     "blockwishlist": 6,
                     "autoupgrade": 2,
@@ -3977,7 +3977,7 @@
                     "ps_cashondelivery": 1,
                     "ps_distributionapiclient": 2,
                     "ps_fixturescreator": 3,
-                    "ps_apiresources": 6
+                    "ps_apiresources": 7
                 }
             },
             "tools": {
@@ -4010,7 +4010,7 @@
                 }
             }
         },
-        "mergedPullRequests": 209
+        "mergedPullRequests": 210
     },
     "ttoine": {
         "login": "ttoine",

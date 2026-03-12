@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10368,
+        "contributions": 10370,
         "repositories": {
             "PrestaShop": 4453,
             "PrestaShop-modules": 31,
@@ -92,7 +92,7 @@
             "ps_carriercomparison": 3,
             "ps_viewedproduct": 15,
             "ps_feeder": 1,
-            "traces": 194,
+            "traces": 196,
             "core-weekly-generator": 6,
             "TopContributors": 110,
             "TranslationFiles": 3,
@@ -269,7 +269,7 @@
                 }
             },
             "tools": {
-                "total": 1307,
+                "total": 1309,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -284,7 +284,7 @@
                     "QANightlyResults": 382,
                     "TopContributors": 110,
                     "TopTranslators": 1,
-                    "traces": 194,
+                    "traces": 196,
                     "ps-project-metrics": 4
                 }
             },
@@ -320,7 +320,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7349,
+        "contributions": 7350,
         "repositories": {
             "PrestaShop": 5912,
             "dashactivity": 1,
@@ -407,7 +407,7 @@
             "kanbanbot": 1,
             "zip-archives": 1,
             "bootstrap-compatibility-layer": 1,
-            "ps_apiresources": 164,
+            "ps_apiresources": 165,
             "CoreUpgradeBundle": 1,
             "CLIUpgrade": 1,
             "ui-testing-library": 40,
@@ -451,7 +451,7 @@
                 }
             },
             "modules": {
-                "total": 559,
+                "total": 560,
                 "repositories": {
                     "dashactivity": 1,
                     "dashgoals": 1,
@@ -498,7 +498,7 @@
                     "ps_googleanalytics": 5,
                     "ps_themecusto": 9,
                     "psgdpr": 5,
-                    "ps_apiresources": 164,
+                    "ps_apiresources": 165,
                     "ps_distributionapiclient": 18,
                     "ps_fixturescreator": 13
                 }
@@ -1721,7 +1721,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3364,
+        "contributions": 3378,
         "repositories": {
             "PrestaShop": 810,
             "PrestaShop-modules": 4,
@@ -1811,7 +1811,7 @@
             "LocalizationFiles": 20,
             "presthubot": 14,
             "stylelint-browser-compatibility": 1,
-            "example-modules": 80,
+            "example-modules": 94,
             "ps_qualityassurance": 4,
             ".github": 4,
             "phpstan-prestashop": 1,
@@ -1852,13 +1852,13 @@
                 }
             },
             "documentation": {
-                "total": 851,
+                "total": 865,
                 "repositories": {
                     "paymentexample": 7,
                     "docs": 521,
                     "user-documentation-en": 1,
                     "ADR": 7,
-                    "example-modules": 80,
+                    "example-modules": 94,
                     "open-source": 140,
                     "ps-docs-theme": 64,
                     "devdocs-site": 24,
@@ -3519,7 +3519,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1513,
+        "contributions": 1514,
         "repositories": {
             "PrestaShop": 823,
             "PrestaShop-webservice-lib": 1,
@@ -3594,7 +3594,7 @@
             "kanbanbot": 15,
             "zip-archives": 6,
             "bootstrap-compatibility-layer": 1,
-            "ps_apiresources": 16,
+            "ps_apiresources": 17,
             "SeamlessUpgradeToolbox": 1
         },
         "categories": {
@@ -3631,7 +3631,7 @@
                 }
             },
             "modules": {
-                "total": 256,
+                "total": 257,
                 "repositories": {
                     "dashactivity": 3,
                     "dashgoals": 1,
@@ -3672,7 +3672,7 @@
                     "ps_googleanalytics": 4,
                     "ps_themecusto": 3,
                     "psgdpr": 10,
-                    "ps_apiresources": 16,
+                    "ps_apiresources": 17,
                     "ps_distributionapiclient": 3,
                     "ps_fixturescreator": 3
                 }
@@ -50411,5 +50411,5 @@
             }
         }
     },
-    "updatedAt": "2026-03-12 06:18:49"
+    "updatedAt": "2026-03-12 08:52:18"
 }
