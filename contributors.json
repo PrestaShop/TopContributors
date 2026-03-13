@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10370,
+        "contributions": 10371,
         "repositories": {
-            "PrestaShop": 4453,
+            "PrestaShop": 4454,
             "PrestaShop-modules": 31,
             "PrestaShop-webservice-lib": 4,
             "dashactivity": 14,
@@ -139,9 +139,9 @@
         },
         "categories": {
             "core": {
-                "total": 4556,
+                "total": 4557,
                 "repositories": {
-                    "PrestaShop": 4453,
+                    "PrestaShop": 4454,
                     "prestashop-ui-kit": 50,
                     "TranslationToolsBundle": 9,
                     "LocalizationFiles": 9,
@@ -1005,7 +1005,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5071,
+        "contributions": 5072,
         "repositories": {
             "PrestaShop": 1710,
             "PrestaShop-modules": 349,
@@ -1103,6 +1103,7 @@
             "distribution-api": 29,
             "classic-theme": 61,
             "ps_distributionapiclient": 4,
+            "ps_apiresources": 1,
             "SeamlessUpgradeToolbox": 5
         },
         "categories": {
@@ -1138,7 +1139,7 @@
                 }
             },
             "modules": {
-                "total": 2326,
+                "total": 2327,
                 "repositories": {
                     "PrestaShop-modules": 349,
                     "dashactivity": 1,
@@ -1204,6 +1205,7 @@
                     "ps_googleanalytics": 153,
                     "ps_themecusto": 14,
                     "psgdpr": 8,
+                    "ps_apiresources": 1,
                     "ps_distributionapiclient": 4
                 }
             },
@@ -4296,7 +4298,7 @@
         "location": "74100 Annemasse, France",
         "bio": null,
         "email_domain": "",
-        "contributions": 1281,
+        "contributions": 1288,
         "repositories": {
             "PrestaShop": 68,
             "dashactivity": 1,
@@ -4324,7 +4326,7 @@
             "statsstock": 1,
             "blockwishlist": 2,
             "productcomments": 6,
-            "autoupgrade": 915,
+            "autoupgrade": 922,
             "gsitemap": 1,
             "prestashop.github.io": 15,
             "contactform": 2,
@@ -4402,7 +4404,7 @@
                 }
             },
             "modules": {
-                "total": 1023,
+                "total": 1030,
                 "repositories": {
                     "dashactivity": 1,
                     "dashgoals": 1,
@@ -4429,7 +4431,7 @@
                     "statsstock": 1,
                     "blockwishlist": 2,
                     "productcomments": 6,
-                    "autoupgrade": 915,
+                    "autoupgrade": 922,
                     "gsitemap": 1,
                     "contactform": 2,
                     "blockreassurance": 2,
@@ -28026,6 +28028,64 @@
             }
         }
     },
+    "kseghair": {
+        "login": "kseghair",
+        "id": 16594134,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16594134?v=4",
+        "html_url": "https:\/\/github.com\/kseghair",
+        "name": "K\u00e9vin S\u00e9ghair",
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 4,
+        "repositories": {
+            "autoupgrade": 2,
+            "ps_apiresources": 2
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 4,
+                "repositories": {
+                    "autoupgrade": 2,
+                    "ps_apiresources": 2
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "LaBisquerie": {
         "login": "LaBisquerie",
         "id": 64981161,
@@ -32526,62 +32586,6 @@
         "location": "S\u00e3o Paulo, Brazil",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 2,
-        "repositories": {
-            "autoupgrade": 2
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 2,
-                "repositories": {
-                    "autoupgrade": 2
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "kseghair": {
-        "login": "kseghair",
-        "id": 16594134,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16594134?v=4",
-        "html_url": "https:\/\/github.com\/kseghair",
-        "name": "K\u00e9vin S\u00e9ghair",
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
         "contributions": 2,
         "repositories": {
             "autoupgrade": 2
@@ -50411,5 +50415,5 @@
             }
         }
     },
-    "updatedAt": "2026-03-12 08:52:18"
+    "updatedAt": "2026-03-13 06:17:51"
 }
