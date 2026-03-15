@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10372,
+        "contributions": 10373,
         "repositories": {
             "PrestaShop": 4454,
             "PrestaShop-modules": 31,
@@ -118,7 +118,7 @@
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
-            "test-scenarios": 983,
+            "test-scenarios": 984,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -160,7 +160,7 @@
                 }
             },
             "documentation": {
-                "total": 1200,
+                "total": 1201,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -168,7 +168,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 983,
+                    "test-scenarios": 984,
                     "example-modules": 6,
                     "open-source": 31,
                     "example_module_mailtheme": 4,
@@ -23972,7 +23972,7 @@
         "blog": "https:\/\/cvng.dev",
         "location": "Paris, France",
         "bio": "software engineer - building modern postgres tooling",
-        "email_domain": "",
+        "email_domain": "cvng.dev",
         "contributions": 8,
         "repositories": {
             "PrestaShop": 6,
@@ -50419,5 +50419,5 @@
             }
         }
     },
-    "updatedAt": "2026-03-14 06:16:11"
+    "updatedAt": "2026-03-15 06:22:26"
 }
