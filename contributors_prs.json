@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10373,
+        "contributions": 10375,
         "repositories": {
             "PrestaShop": 1153,
             "PrestaShop-modules": 2,
@@ -1389,9 +1389,9 @@
         "location": "Paris, France",
         "bio": "QA Automation Engineer",
         "email_domain": "gmail.com",
-        "contributions": 3442,
+        "contributions": 3443,
         "repositories": {
-            "PrestaShop": 664,
+            "PrestaShop": 665,
             "autoupgrade": 44,
             "PSFunctionalTests": 5,
             "traces": 2,
@@ -1400,9 +1400,9 @@
         },
         "categories": {
             "core": {
-                "total": 664,
+                "total": 665,
                 "repositories": {
-                    "PrestaShop": 664
+                    "PrestaShop": 665
                 }
             },
             "specs": {
@@ -1446,7 +1446,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 817
+        "mergedPullRequests": 818
     },
     "NeOMakinG": {
         "login": "NeOMakinG",
@@ -19749,6 +19749,69 @@
         },
         "mergedPullRequests": 5
     },
+    "dylanDenizonPresta": {
+        "login": "dylanDenizonPresta",
+        "id": 119846866,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/119846866?v=4",
+        "html_url": "https:\/\/github.com\/dylanDenizonPresta",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 12,
+        "repositories": {
+            "PrestaShop": 3,
+            "ps_apiresources": 1,
+            "ps_onepagecheckout": 1
+        },
+        "categories": {
+            "core": {
+                "total": 3,
+                "repositories": {
+                    "PrestaShop": 3
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 1,
+                "repositories": {
+                    "ps_apiresources": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 1,
+                "repositories": {
+                    "ps_onepagecheckout": 1
+                }
+            }
+        },
+        "mergedPullRequests": 5
+    },
     "remixaz": {
         "login": "remixaz",
         "id": 6286813,
@@ -21712,66 +21775,6 @@
             "modules": {
                 "total": 0,
                 "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 4
-    },
-    "dylanDenizonPresta": {
-        "login": "dylanDenizonPresta",
-        "id": 119846866,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/119846866?v=4",
-        "html_url": "https:\/\/github.com\/dylanDenizonPresta",
-        "name": null,
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 10,
-        "repositories": {
-            "PrestaShop": 3,
-            "ps_apiresources": 1
-        },
-        "categories": {
-            "core": {
-                "total": 3,
-                "repositories": {
-                    "PrestaShop": 3
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 1,
-                "repositories": {
-                    "ps_apiresources": 1
-                }
             },
             "tools": {
                 "total": 0,
