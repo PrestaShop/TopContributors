@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10375,
+        "contributions": 10384,
         "repositories": {
             "PrestaShop": 1153,
             "PrestaShop-modules": 2,
@@ -117,7 +117,7 @@
             "ps_fixturescreator": 4,
             "ws-client": 3,
             "ps_apiresources": 12,
-            "ui-testing-library": 345
+            "ui-testing-library": 346
         },
         "categories": {
             "core": {
@@ -253,10 +253,10 @@
                 }
             },
             "tests": {
-                "total": 380,
+                "total": 381,
                 "repositories": {
                     "ga.tests.ui.pr": 35,
-                    "ui-testing-library": 345
+                    "ui-testing-library": 346
                 }
             },
             "blog": {
@@ -272,7 +272,7 @@
                 }
             }
         },
-        "mergedPullRequests": 2265
+        "mergedPullRequests": 2266
     },
     "matks": {
         "login": "matks",
@@ -565,7 +565,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5075,
+        "contributions": 5076,
         "repositories": {
             "PrestaShop": 396,
             "PrestaShop-modules": 14,
@@ -2967,12 +2967,12 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 562,
+        "contributions": 563,
         "repositories": {
             "PrestaShop": 111,
             "blockwishlist": 1,
             "productcomments": 5,
-            "autoupgrade": 136,
+            "autoupgrade": 137,
             "ps_linklist": 6,
             "ps_banner": 1,
             "docs": 31,
@@ -3027,11 +3027,11 @@
                 }
             },
             "modules": {
-                "total": 161,
+                "total": 162,
                 "repositories": {
                     "blockwishlist": 1,
                     "productcomments": 5,
-                    "autoupgrade": 136,
+                    "autoupgrade": 137,
                     "ps_linklist": 6,
                     "ps_banner": 1,
                     "ps_emailalerts": 1,
@@ -3066,7 +3066,7 @@
                 }
             }
         },
-        "mergedPullRequests": 354
+        "mergedPullRequests": 355
     },
     "zuk3975": {
         "login": "zuk3975",
