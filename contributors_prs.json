@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10384,
+        "contributions": 10390,
         "repositories": {
             "PrestaShop": 1153,
             "PrestaShop-modules": 2,
@@ -565,7 +565,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5076,
+        "contributions": 5078,
         "repositories": {
             "PrestaShop": 396,
             "PrestaShop-modules": 14,
@@ -2967,12 +2967,12 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 563,
+        "contributions": 566,
         "repositories": {
             "PrestaShop": 111,
             "blockwishlist": 1,
             "productcomments": 5,
-            "autoupgrade": 137,
+            "autoupgrade": 138,
             "ps_linklist": 6,
             "ps_banner": 1,
             "docs": 31,
@@ -3027,11 +3027,11 @@
                 }
             },
             "modules": {
-                "total": 162,
+                "total": 163,
                 "repositories": {
                     "blockwishlist": 1,
                     "productcomments": 5,
-                    "autoupgrade": 137,
+                    "autoupgrade": 138,
                     "ps_linklist": 6,
                     "ps_banner": 1,
                     "ps_emailalerts": 1,
@@ -3066,7 +3066,7 @@
                 }
             }
         },
-        "mergedPullRequests": 355
+        "mergedPullRequests": 356
     },
     "zuk3975": {
         "login": "zuk3975",
@@ -5491,7 +5491,7 @@
         "email_domain": "codencode.it",
         "contributions": 297,
         "repositories": {
-            "PrestaShop": 108,
+            "PrestaShop": 109,
             "dashactivity": 1,
             "autoupgrade": 6,
             "contactform": 1,
@@ -5512,9 +5512,9 @@
         },
         "categories": {
             "core": {
-                "total": 110,
+                "total": 111,
                 "repositories": {
-                    "PrestaShop": 108,
+                    "PrestaShop": 109,
                     "LocalizationFiles": 2
                 }
             },
@@ -5571,7 +5571,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 151
+        "mergedPullRequests": 152
     },
     "tleon": {
         "login": "tleon",
