@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10390,
+        "contributions": 10393,
         "repositories": {
-            "PrestaShop": 1153,
+            "PrestaShop": 1154,
             "PrestaShop-modules": 2,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 4,
@@ -86,7 +86,7 @@
             "ps_dataprivacy": 5,
             "ps_cashondelivery": 20,
             "ps_viewedproduct": 3,
-            "traces": 45,
+            "traces": 46,
             "core-weekly-generator": 1,
             "TopContributors": 43,
             "TranslationFiles": 3,
@@ -121,9 +121,9 @@
         },
         "categories": {
             "core": {
-                "total": 1167,
+                "total": 1168,
                 "repositories": {
-                    "PrestaShop": 1153,
+                    "PrestaShop": 1154,
                     "prestashop-ui-kit": 1,
                     "TranslationToolsBundle": 2,
                     "TranslationFiles": 3,
@@ -234,7 +234,7 @@
                 }
             },
             "tools": {
-                "total": 216,
+                "total": 217,
                 "repositories": {
                     "PrestaShop-webservice-lib": 1,
                     "docker": 19,
@@ -242,7 +242,7 @@
                     "docker-internal-images": 1,
                     "prestonbot": 1,
                     "TopTranslators": 1,
-                    "traces": 45,
+                    "traces": 46,
                     "core-weekly-generator": 1,
                     "TopContributors": 43,
                     "issuebot": 2,
@@ -272,7 +272,7 @@
                 }
             }
         },
-        "mergedPullRequests": 2266
+        "mergedPullRequests": 2268
     },
     "matks": {
         "login": "matks",
@@ -1786,7 +1786,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3411,
+        "contributions": 3414,
         "repositories": {
             "PrestaShop": 171,
             "PrestaShop-modules": 3,
@@ -1796,7 +1796,7 @@
             "blockwishlist": 4,
             "productcomments": 4,
             "autoupgrade": 6,
-            "prestashop.github.io": 165,
+            "prestashop.github.io": 166,
             "StarterTheme": 3,
             "contactform": 3,
             "paymentexample": 1,
@@ -1922,9 +1922,9 @@
                 }
             },
             "blog": {
-                "total": 165,
+                "total": 166,
                 "repositories": {
-                    "prestashop.github.io": 165
+                    "prestashop.github.io": 166
                 }
             },
             "others": {
@@ -1936,7 +1936,7 @@
                 }
             }
         },
-        "mergedPullRequests": 557
+        "mergedPullRequests": 558
     },
     "eternoendless": {
         "login": "eternoendless",
