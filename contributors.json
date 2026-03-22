@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10419,
+        "contributions": 10420,
         "repositories": {
             "PrestaShop": 4467,
             "PrestaShop-modules": 31,
@@ -119,7 +119,7 @@
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 992,
+            "test-scenarios": 993,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1210,
+                "total": 1211,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 992,
+                    "test-scenarios": 993,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -12589,7 +12589,7 @@
         "company": "@clauzier-dev ",
         "blog": "https:\/\/clauzier.dev\/",
         "location": "Saint-Denis, Reunion Island",
-        "bio": "lvl 27 hacker, Lead Dev @ https:\/\/opx.co, opensource & web3 enthusiast",
+        "bio": "lvl 27 hacker, Deputy CTO @ https:\/\/opx.co, opensource & web3 enthusiast",
         "email_domain": "clauzier.dev",
         "contributions": 81,
         "repositories": {
@@ -50424,5 +50424,5 @@
             }
         }
     },
-    "updatedAt": "2026-03-21 06:13:40"
+    "updatedAt": "2026-03-22 06:18:41"
 }
