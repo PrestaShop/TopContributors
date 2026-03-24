@@ -1,4 +1,12 @@
 {
+    "Maofree": {
+        "login": "Maofree",
+        "name": "MaoDev",
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/653230?v=4",
+        "html_url": "https:\/\/github.com\/Maofree",
+        "contributions": 1,
+        "firstContributionAt": "2026-03-16T15:00:39Z"
+    },
     "kseghair": {
         "login": "kseghair",
         "name": "K\u00e9vin S\u00e9ghair",
@@ -44,7 +52,7 @@
         "name": "Difadi.com",
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/218950811?v=4",
         "html_url": "https:\/\/github.com\/difadi",
-        "contributions": 2,
+        "contributions": 3,
         "firstContributionAt": "2025-12-29T15:34:30Z"
     },
     "cap340": {
@@ -70,13 +78,5 @@
         "html_url": "https:\/\/github.com\/mgielecinski",
         "contributions": 15,
         "firstContributionAt": "2025-11-24T14:48:48Z"
-    },
-    "sanctusmob": {
-        "login": "sanctusmob",
-        "name": null,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13434486?v=4",
-        "html_url": "https:\/\/github.com\/sanctusmob",
-        "contributions": 1,
-        "firstContributionAt": "2025-11-21T15:04:16Z"
     }
 }
