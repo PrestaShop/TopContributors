@@ -1,4 +1,12 @@
 {
+    "miskovd": {
+        "login": "miskovd",
+        "name": "MISKOV",
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3373480?v=4",
+        "html_url": "https:\/\/github.com\/miskovd",
+        "contributions": 1,
+        "firstContributionAt": "2026-03-27T13:40:00Z"
+    },
     "Maofree": {
         "login": "Maofree",
         "name": "MaoDev",
@@ -70,13 +78,5 @@
         "html_url": "https:\/\/github.com\/soniiix",
         "contributions": 3,
         "firstContributionAt": "2025-12-02T22:18:31Z"
-    },
-    "mgielecinski": {
-        "login": "mgielecinski",
-        "name": "Mateusz Gieleci\u0144ski",
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/70368592?v=4",
-        "html_url": "https:\/\/github.com\/mgielecinski",
-        "contributions": 15,
-        "firstContributionAt": "2025-11-24T14:48:48Z"
     }
 }
