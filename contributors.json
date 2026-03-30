@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10446,
+        "contributions": 10447,
         "repositories": {
             "PrestaShop": 4477,
             "PrestaShop-modules": 31,
@@ -112,7 +112,7 @@
             "open-source": 32,
             "mjml-theme-converter": 1,
             "php-dev-tools": 4,
-            "QANightlyResults": 383,
+            "QANightlyResults": 384,
             "LocalizationFiles": 9,
             "presthubot": 492,
             "stylelint-config": 7,
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1315,
+                "total": 1316,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -282,7 +282,7 @@
                     "PrestaShop-webservice-lib": 4,
                     "presthubot": 492,
                     "prestonbot": 10,
-                    "QANightlyResults": 383,
+                    "QANightlyResults": 384,
                     "TopContributors": 110,
                     "TopTranslators": 1,
                     "traces": 199,
@@ -1007,7 +1007,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5113,
+        "contributions": 5114,
         "repositories": {
             "PrestaShop": 1710,
             "PrestaShop-modules": 349,
@@ -1041,7 +1041,7 @@
             "productcomments": 1,
             "pscleaner": 3,
             "themeinstallator": 3,
-            "autoupgrade": 1456,
+            "autoupgrade": 1457,
             "gsitemap": 6,
             "prestafraud": 1,
             "prestashop.github.io": 17,
@@ -1141,7 +1141,7 @@
                 }
             },
             "modules": {
-                "total": 2356,
+                "total": 2357,
                 "repositories": {
                     "PrestaShop-modules": 349,
                     "dashactivity": 1,
@@ -1172,7 +1172,7 @@
                     "blockwishlist": 38,
                     "productcomments": 1,
                     "pscleaner": 3,
-                    "autoupgrade": 1456,
+                    "autoupgrade": 1457,
                     "gsitemap": 6,
                     "prestafraud": 1,
                     "contactform": 1,
@@ -14016,6 +14016,65 @@
             }
         }
     },
+    "clement-hvt": {
+        "login": "clement-hvt",
+        "id": 83085039,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/83085039?v=4",
+        "html_url": "https:\/\/github.com\/clement-hvt",
+        "name": "Soledis - Cl\u00e9ment Hervouet",
+        "company": null,
+        "blog": "",
+        "location": "Vannes, France",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 51,
+        "repositories": {
+            "PrestaShop": 42,
+            "autoupgrade": 9
+        },
+        "categories": {
+            "core": {
+                "total": 42,
+                "repositories": {
+                    "PrestaShop": 42
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 9,
+                "repositories": {
+                    "autoupgrade": 9
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "ishcherbakov": {
         "login": "ishcherbakov",
         "id": 9960777,
@@ -14183,65 +14242,6 @@
                 "repositories": {
                     "prestashop.github.io": 37
                 }
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "clement-hvt": {
-        "login": "clement-hvt",
-        "id": 83085039,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/83085039?v=4",
-        "html_url": "https:\/\/github.com\/clement-hvt",
-        "name": "Soledis - Cl\u00e9ment Hervouet",
-        "company": null,
-        "blog": "",
-        "location": "Vannes, France",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 48,
-        "repositories": {
-            "PrestaShop": 42,
-            "autoupgrade": 6
-        },
-        "categories": {
-            "core": {
-                "total": 42,
-                "repositories": {
-                    "PrestaShop": 42
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 6,
-                "repositories": {
-                    "autoupgrade": 6
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
             },
             "others": {
                 "total": 0,
@@ -18851,6 +18851,64 @@
             }
         }
     },
+    "ThbPS": {
+        "login": "ThbPS",
+        "id": 109082310,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109082310?v=4",
+        "html_url": "https:\/\/github.com\/ThbPS",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 20,
+        "repositories": {
+            "prestashop-flashlight": 1,
+            "ps_onepagecheckout": 19
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 20,
+                "repositories": {
+                    "prestashop-flashlight": 1,
+                    "ps_onepagecheckout": 19
+                }
+            }
+        }
+    },
     "vincentbz": {
         "login": "vincentbz",
         "id": 7567060,
@@ -19537,64 +19595,6 @@
             "others": {
                 "total": 0,
                 "repositories": []
-            }
-        }
-    },
-    "ThbPS": {
-        "login": "ThbPS",
-        "id": 109082310,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109082310?v=4",
-        "html_url": "https:\/\/github.com\/ThbPS",
-        "name": null,
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 17,
-        "repositories": {
-            "prestashop-flashlight": 1,
-            "ps_onepagecheckout": 16
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 17,
-                "repositories": {
-                    "prestashop-flashlight": 1,
-                    "ps_onepagecheckout": 16
-                }
             }
         }
     },
@@ -50541,5 +50541,5 @@
             }
         }
     },
-    "updatedAt": "2026-03-29 06:37:53"
+    "updatedAt": "2026-03-30 12:01:37"
 }
