@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10447,
+        "contributions": 10451,
         "repositories": {
             "PrestaShop": 1159,
             "PrestaShop-modules": 2,
@@ -3529,7 +3529,7 @@
         "email_domain": "",
         "contributions": 1326,
         "repositories": {
-            "PrestaShop": 7,
+            "PrestaShop": 9,
             "dashactivity": 1,
             "dashgoals": 1,
             "dashproducts": 1,
@@ -3598,7 +3598,7 @@
             "psgdpr": 1,
             "ps_faviconnotificationbo": 1,
             ".github": 6,
-            "hummingbird": 23,
+            "hummingbird": 24,
             "distribution-api": 11,
             "classic-theme": 4,
             "ps_distributionapiclient": 1,
@@ -3608,9 +3608,9 @@
         },
         "categories": {
             "core": {
-                "total": 7,
+                "total": 9,
                 "repositories": {
-                    "PrestaShop": 7
+                    "PrestaShop": 9
                 }
             },
             "specs": {
@@ -3624,9 +3624,9 @@
                 }
             },
             "themes": {
-                "total": 27,
+                "total": 28,
                 "repositories": {
-                    "hummingbird": 23,
+                    "hummingbird": 24,
                     "classic-theme": 4
                 }
             },
@@ -3727,7 +3727,7 @@
                 }
             }
         },
-        "mergedPullRequests": 265
+        "mergedPullRequests": 268
     },
     "boherm": {
         "login": "boherm",
@@ -5493,9 +5493,9 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 302,
+        "contributions": 304,
         "repositories": {
-            "PrestaShop": 110,
+            "PrestaShop": 111,
             "dashactivity": 1,
             "autoupgrade": 6,
             "contactform": 1,
@@ -5516,9 +5516,9 @@
         },
         "categories": {
             "core": {
-                "total": 112,
+                "total": 113,
                 "repositories": {
-                    "PrestaShop": 110,
+                    "PrestaShop": 111,
                     "LocalizationFiles": 2
                 }
             },
@@ -5575,7 +5575,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 155
+        "mergedPullRequests": 156
     },
     "tleon": {
         "login": "tleon",

@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10447,
+        "contributions": 10451,
         "repositories": {
-            "PrestaShop": 4477,
+            "PrestaShop": 4479,
             "PrestaShop-modules": 31,
             "PrestaShop-webservice-lib": 4,
             "dashactivity": 14,
@@ -119,7 +119,7 @@
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 997,
+            "test-scenarios": 998,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -136,13 +136,13 @@
             "ps_fixturescreator": 11,
             "ws-client": 25,
             "ps_apiresources": 3,
-            "ui-testing-library": 1171
+            "ui-testing-library": 1172
         },
         "categories": {
             "core": {
-                "total": 4580,
+                "total": 4582,
                 "repositories": {
-                    "PrestaShop": 4477,
+                    "PrestaShop": 4479,
                     "prestashop-ui-kit": 50,
                     "TranslationToolsBundle": 9,
                     "LocalizationFiles": 9,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1215,
+                "total": 1216,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 997,
+                    "test-scenarios": 998,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -290,9 +290,9 @@
                 }
             },
             "tests": {
-                "total": 1272,
+                "total": 1273,
                 "repositories": {
-                    "ui-testing-library": 1171,
+                    "ui-testing-library": 1172,
                     "ga.tests.ui.pr": 101
                 }
             },
@@ -8707,9 +8707,9 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 302,
+        "contributions": 304,
         "repositories": {
-            "PrestaShop": 198,
+            "PrestaShop": 200,
             "dashactivity": 2,
             "statsforecast": 1,
             "statsstock": 1,
@@ -8732,9 +8732,9 @@
         },
         "categories": {
             "core": {
-                "total": 200,
+                "total": 202,
                 "repositories": {
-                    "PrestaShop": 198,
+                    "PrestaShop": 200,
                     "LocalizationFiles": 2
                 }
             },
@@ -50541,5 +50541,5 @@
             }
         }
     },
-    "updatedAt": "2026-03-30 12:01:37"
+    "updatedAt": "2026-03-31 07:22:24"
 }
