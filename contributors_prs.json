@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10453,
+        "contributions": 10455,
         "repositories": {
             "PrestaShop": 1159,
             "PrestaShop-modules": 2,
@@ -567,7 +567,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5114,
+        "contributions": 5129,
         "repositories": {
             "PrestaShop": 396,
             "PrestaShop-modules": 14,
@@ -592,7 +592,7 @@
             "statssearch": 2,
             "statsstock": 3,
             "blockwishlist": 17,
-            "autoupgrade": 288,
+            "autoupgrade": 293,
             "gsitemap": 2,
             "prestashop.github.io": 6,
             "docker": 91,
@@ -641,7 +641,7 @@
             "open-source": 2,
             "php-dev-tools": 27,
             ".github": 1,
-            "distribution-api": 12,
+            "distribution-api": 13,
             "ps_distributionapiclient": 3,
             "SeamlessUpgradeToolbox": 3
         },
@@ -675,7 +675,7 @@
                 }
             },
             "modules": {
-                "total": 451,
+                "total": 456,
                 "repositories": {
                     "PrestaShop-modules": 14,
                     "dashproducts": 2,
@@ -699,7 +699,7 @@
                     "statssearch": 2,
                     "statsstock": 3,
                     "blockwishlist": 17,
-                    "autoupgrade": 288,
+                    "autoupgrade": 293,
                     "gsitemap": 2,
                     "contactform": 1,
                     "pstagger": 1,
@@ -757,16 +757,16 @@
                 }
             },
             "others": {
-                "total": 18,
+                "total": 19,
                 "repositories": {
                     "InstallUnpacker": 1,
                     "firebaseauthenticator": 4,
                     ".github": 1,
-                    "distribution-api": 12
+                    "distribution-api": 13
                 }
             }
         },
-        "mergedPullRequests": 1164
+        "mergedPullRequests": 1170
     },
     "jolelievre": {
         "login": "jolelievre",
@@ -1155,14 +1155,14 @@
         "location": "Paris, France",
         "bio": "QA Automation Engineer",
         "email_domain": "gmail.com",
-        "contributions": 3482,
+        "contributions": 3484,
         "repositories": {
             "PrestaShop": 669,
             "autoupgrade": 45,
             "PSFunctionalTests": 5,
             "traces": 2,
             "QANightlyResults": 1,
-            "ui-testing-library": 111
+            "ui-testing-library": 112
         },
         "categories": {
             "core": {
@@ -1197,10 +1197,10 @@
                 }
             },
             "tests": {
-                "total": 116,
+                "total": 117,
                 "repositories": {
                     "PSFunctionalTests": 5,
-                    "ui-testing-library": 111
+                    "ui-testing-library": 112
                 }
             },
             "blog": {
@@ -1212,7 +1212,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 833
+        "mergedPullRequests": 834
     },
     "PierreRambaud": {
         "login": "PierreRambaud",
@@ -1788,7 +1788,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3438,
+        "contributions": 3440,
         "repositories": {
             "PrestaShop": 172,
             "PrestaShop-modules": 3,
@@ -7859,6 +7859,91 @@
         },
         "mergedPullRequests": 54
     },
+    "tswfi": {
+        "login": "tswfi",
+        "id": 1352132,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1352132?v=4",
+        "html_url": "https:\/\/github.com\/tswfi",
+        "name": "Tatu Wikman",
+        "company": "Vilkas Group Oy, Binary Solutions",
+        "blog": "http:\/\/twitter.com\/tsw",
+        "location": "Finland",
+        "bio": "Computers make me happy",
+        "email_domain": "",
+        "contributions": 132,
+        "repositories": {
+            "PrestaShop": 23,
+            "blockwishlist": 1,
+            "productcomments": 2,
+            "autoupgrade": 3,
+            "ps_linklist": 1,
+            "docs": 6,
+            "ps_checkpayment": 1,
+            "ps_emailalerts": 1,
+            "ps_faviconnotificationbo": 2,
+            "LocalizationFiles": 3,
+            "example-modules": 1,
+            "hummingbird": 9,
+            "ui-testing-library": 1
+        },
+        "categories": {
+            "core": {
+                "total": 26,
+                "repositories": {
+                    "PrestaShop": 23,
+                    "LocalizationFiles": 3
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 7,
+                "repositories": {
+                    "docs": 6,
+                    "example-modules": 1
+                }
+            },
+            "themes": {
+                "total": 9,
+                "repositories": {
+                    "hummingbird": 9
+                }
+            },
+            "modules": {
+                "total": 11,
+                "repositories": {
+                    "blockwishlist": 1,
+                    "productcomments": 2,
+                    "autoupgrade": 3,
+                    "ps_linklist": 1,
+                    "ps_checkpayment": 1,
+                    "ps_emailalerts": 1,
+                    "ps_faviconnotificationbo": 2
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 1,
+                "repositories": {
+                    "ui-testing-library": 1
+                }
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 54
+    },
     "hibatallahAouadni": {
         "login": "hibatallahAouadni",
         "id": 23308427,
@@ -7925,91 +8010,6 @@
             }
         },
         "mergedPullRequests": 54
-    },
-    "tswfi": {
-        "login": "tswfi",
-        "id": 1352132,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1352132?v=4",
-        "html_url": "https:\/\/github.com\/tswfi",
-        "name": "Tatu Wikman",
-        "company": "Vilkas Group Oy, Binary Solutions",
-        "blog": "http:\/\/twitter.com\/tsw",
-        "location": "Finland",
-        "bio": "Computers make me happy",
-        "email_domain": "",
-        "contributions": 131,
-        "repositories": {
-            "PrestaShop": 23,
-            "blockwishlist": 1,
-            "productcomments": 2,
-            "autoupgrade": 3,
-            "ps_linklist": 1,
-            "docs": 6,
-            "ps_checkpayment": 1,
-            "ps_emailalerts": 1,
-            "ps_faviconnotificationbo": 2,
-            "LocalizationFiles": 2,
-            "example-modules": 1,
-            "hummingbird": 9,
-            "ui-testing-library": 1
-        },
-        "categories": {
-            "core": {
-                "total": 25,
-                "repositories": {
-                    "PrestaShop": 23,
-                    "LocalizationFiles": 2
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 7,
-                "repositories": {
-                    "docs": 6,
-                    "example-modules": 1
-                }
-            },
-            "themes": {
-                "total": 9,
-                "repositories": {
-                    "hummingbird": 9
-                }
-            },
-            "modules": {
-                "total": 11,
-                "repositories": {
-                    "blockwishlist": 1,
-                    "productcomments": 2,
-                    "autoupgrade": 3,
-                    "ps_linklist": 1,
-                    "ps_checkpayment": 1,
-                    "ps_emailalerts": 1,
-                    "ps_faviconnotificationbo": 2
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 1,
-                "repositories": {
-                    "ui-testing-library": 1
-                }
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 53
     },
     "martinfojtik": {
         "login": "martinfojtik",
@@ -26180,6 +26180,65 @@
         },
         "mergedPullRequests": 3
     },
+    "metineren": {
+        "login": "metineren",
+        "id": 1395204,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1395204?v=4",
+        "html_url": "https:\/\/github.com\/metineren",
+        "name": "Metin EREN",
+        "company": null,
+        "blog": "www.metineren.com",
+        "location": "Turkey, Bursa",
+        "bio": null,
+        "email_domain": "msn.com",
+        "contributions": 1,
+        "repositories": {
+            "PrestaShop": 2,
+            "LocalizationFiles": 1
+        },
+        "categories": {
+            "core": {
+                "total": 3,
+                "repositories": {
+                    "PrestaShop": 2,
+                    "LocalizationFiles": 1
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 3
+    },
     "NKoonen": {
         "login": "NKoonen",
         "id": 20778612,
@@ -26481,7 +26540,7 @@
         "location": "Vannes, France",
         "bio": null,
         "email_domain": "",
-        "contributions": 51,
+        "contributions": 54,
         "repositories": {
             "PrestaShop": 2
         },
