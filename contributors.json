@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10467,
+        "contributions": 10473,
         "repositories": {
-            "PrestaShop": 4482,
+            "PrestaShop": 4483,
             "PrestaShop-modules": 31,
             "PrestaShop-webservice-lib": 4,
             "dashactivity": 14,
@@ -88,11 +88,11 @@
             "ps_crossselling": 21,
             "ps_productinfo": 1,
             "ps_dataprivacy": 14,
-            "ps_cashondelivery": 147,
+            "ps_cashondelivery": 149,
             "ps_carriercomparison": 3,
             "ps_viewedproduct": 15,
             "ps_feeder": 1,
-            "traces": 199,
+            "traces": 200,
             "core-weekly-generator": 6,
             "TopContributors": 110,
             "TranslationFiles": 3,
@@ -112,7 +112,7 @@
             "open-source": 32,
             "mjml-theme-converter": 1,
             "php-dev-tools": 4,
-            "QANightlyResults": 384,
+            "QANightlyResults": 385,
             "LocalizationFiles": 9,
             "presthubot": 498,
             "stylelint-config": 7,
@@ -136,13 +136,13 @@
             "ps_fixturescreator": 11,
             "ws-client": 25,
             "ps_apiresources": 3,
-            "ui-testing-library": 1174
+            "ui-testing-library": 1175
         },
         "categories": {
             "core": {
-                "total": 4585,
+                "total": 4586,
                 "repositories": {
-                    "PrestaShop": 4482,
+                    "PrestaShop": 4483,
                     "prestashop-ui-kit": 50,
                     "TranslationToolsBundle": 9,
                     "LocalizationFiles": 9,
@@ -186,7 +186,7 @@
                 }
             },
             "modules": {
-                "total": 1765,
+                "total": 1767,
                 "repositories": {
                     "PrestaShop-modules": 31,
                     "dashactivity": 14,
@@ -253,7 +253,7 @@
                     "ps_crossselling": 21,
                     "ps_productinfo": 1,
                     "ps_dataprivacy": 14,
-                    "ps_cashondelivery": 147,
+                    "ps_cashondelivery": 149,
                     "ps_carriercomparison": 3,
                     "ps_viewedproduct": 15,
                     "ps_feeder": 1,
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1322,
+                "total": 1324,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -282,17 +282,17 @@
                     "PrestaShop-webservice-lib": 4,
                     "presthubot": 498,
                     "prestonbot": 10,
-                    "QANightlyResults": 384,
+                    "QANightlyResults": 385,
                     "TopContributors": 110,
                     "TopTranslators": 1,
-                    "traces": 199,
+                    "traces": 200,
                     "ps-project-metrics": 4
                 }
             },
             "tests": {
-                "total": 1275,
+                "total": 1276,
                 "repositories": {
-                    "ui-testing-library": 1174,
+                    "ui-testing-library": 1175,
                     "ga.tests.ui.pr": 101
                 }
             },
@@ -3525,7 +3525,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1520,
+        "contributions": 1533,
         "repositories": {
             "PrestaShop": 824,
             "PrestaShop-webservice-lib": 1,
@@ -3571,7 +3571,7 @@
             "ps_specials": 2,
             "ps_dataprivacy": 1,
             "ps_cashondelivery": 2,
-            "traces": 15,
+            "traces": 19,
             "TopContributors": 7,
             "ps_googleanalytics": 4,
             "ps_themecusto": 3,
@@ -3581,7 +3581,7 @@
             "open-source": 23,
             "mjml-theme-converter": 1,
             "php-dev-tools": 3,
-            "QANightlyResults": 130,
+            "QANightlyResults": 139,
             "LocalizationFiles": 8,
             "presthubot": 81,
             "example-modules": 7,
@@ -3685,7 +3685,7 @@
                 }
             },
             "tools": {
-                "total": 264,
+                "total": 277,
                 "repositories": {
                     "bootstrap-compatibility-layer": 1,
                     "docker": 7,
@@ -3696,10 +3696,10 @@
                     "PrestaShop-webservice-lib": 1,
                     "presthubot": 81,
                     "prestonbot": 1,
-                    "QANightlyResults": 130,
+                    "QANightlyResults": 139,
                     "TopContributors": 7,
                     "TopTranslators": 1,
-                    "traces": 15,
+                    "traces": 19,
                     "kanbanbot": 15,
                     "SeamlessUpgradeToolbox": 1
                 }
@@ -48590,10 +48590,10 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2211671?v=4",
         "html_url": "https:\/\/github.com\/notklaatu",
         "name": "Seth Kenlon",
-        "company": "Slackermedia",
-        "blog": "http:\/\/slackermedia.info",
+        "company": null,
+        "blog": "http:\/\/seth.kenlon.com",
         "location": "Lou Zealand",
-        "bio": "I keep this account for paid work. My actual public coding life happens at http:\/\/gitlab.com\/notklaatu\r\nand\r\nhttps:\/\/notabug.org\/notklaatu",
+        "bio": "I don't actually use GitHub.\r\nVisit me at http:\/\/gitlab.com\/notklaatu\r\nor\r\nhttps:\/\/notabug.org\/notklaatu",
         "email_domain": "",
         "contributions": 1,
         "repositories": {
@@ -50544,5 +50544,5 @@
             }
         }
     },
-    "updatedAt": "2026-04-06 12:42:12"
+    "updatedAt": "2026-04-07 07:06:07"
 }

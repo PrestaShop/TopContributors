@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10467,
+        "contributions": 10473,
         "repositories": {
             "PrestaShop": 1159,
             "PrestaShop-modules": 2,
@@ -3907,7 +3907,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1520,
+        "contributions": 1533,
         "repositories": {
             "PrestaShop": 137,
             "blockwishlist": 6,
@@ -44933,10 +44933,10 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2211671?v=4",
         "html_url": "https:\/\/github.com\/notklaatu",
         "name": "Seth Kenlon",
-        "company": "Slackermedia",
-        "blog": "http:\/\/slackermedia.info",
+        "company": null,
+        "blog": "http:\/\/seth.kenlon.com",
         "location": "Lou Zealand",
-        "bio": "I keep this account for paid work. My actual public coding life happens at http:\/\/gitlab.com\/notklaatu\r\nand\r\nhttps:\/\/notabug.org\/notklaatu",
+        "bio": "I don't actually use GitHub.\r\nVisit me at http:\/\/gitlab.com\/notklaatu\r\nor\r\nhttps:\/\/notabug.org\/notklaatu",
         "email_domain": "",
         "contributions": 1,
         "repositories": {
