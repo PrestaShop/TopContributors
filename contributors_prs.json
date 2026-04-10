@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10504,
+        "contributions": 10512,
         "repositories": {
             "PrestaShop": 1161,
             "PrestaShop-modules": 2,
@@ -118,7 +118,7 @@
             "ps_fixturescreator": 4,
             "ws-client": 3,
             "ps_apiresources": 13,
-            "ui-testing-library": 349
+            "ui-testing-library": 350
         },
         "categories": {
             "core": {
@@ -254,10 +254,10 @@
                 }
             },
             "tests": {
-                "total": 384,
+                "total": 385,
                 "repositories": {
                     "ga.tests.ui.pr": 35,
-                    "ui-testing-library": 349
+                    "ui-testing-library": 350
                 }
             },
             "blog": {
@@ -274,7 +274,7 @@
                 }
             }
         },
-        "mergedPullRequests": 2290
+        "mergedPullRequests": 2291
     },
     "matks": {
         "login": "matks",
@@ -779,7 +779,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7376,
+        "contributions": 7378,
         "repositories": {
             "PrestaShop": 743,
             "dashproducts": 2,
@@ -4029,7 +4029,7 @@
         "location": null,
         "bio": "Web Integrator",
         "email_domain": "",
-        "contributions": 791,
+        "contributions": 800,
         "repositories": {
             "PrestaShop": 13,
             "productcomments": 2,
@@ -4041,11 +4041,12 @@
             "ps_searchbar": 1,
             "traces": 1,
             "open-source": 1,
-            "hummingbird": 109,
+            "hummingbird": 110,
             "ps-docs-theme": 1,
             "devdocs-site": 1,
             "classic-theme": 1,
             "bootstrap-compatibility-layer": 4,
+            "ps_apiresources": 1,
             "Prestashop-BO-themes-package": 3
         },
         "categories": {
@@ -4070,19 +4071,20 @@
                 }
             },
             "themes": {
-                "total": 110,
+                "total": 111,
                 "repositories": {
-                    "hummingbird": 109,
+                    "hummingbird": 110,
                     "classic-theme": 1
                 }
             },
             "modules": {
-                "total": 55,
+                "total": 56,
                 "repositories": {
                     "productcomments": 2,
                     "autoupgrade": 49,
                     "ps_imageslider": 3,
-                    "ps_searchbar": 1
+                    "ps_searchbar": 1,
+                    "ps_apiresources": 1
                 }
             },
             "tools": {
@@ -4109,7 +4111,7 @@
                 }
             }
         },
-        "mergedPullRequests": 207
+        "mergedPullRequests": 209
     },
     "ttoine": {
         "login": "ttoine",
