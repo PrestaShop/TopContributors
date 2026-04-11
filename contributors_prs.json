@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10512,
+        "contributions": 10515,
         "repositories": {
             "PrestaShop": 1161,
             "PrestaShop-modules": 2,
@@ -567,7 +567,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5134,
+        "contributions": 5137,
         "repositories": {
             "PrestaShop": 396,
             "PrestaShop-modules": 14,
@@ -592,7 +592,7 @@
             "statssearch": 2,
             "statsstock": 3,
             "blockwishlist": 17,
-            "autoupgrade": 296,
+            "autoupgrade": 297,
             "gsitemap": 2,
             "prestashop.github.io": 6,
             "docker": 91,
@@ -675,7 +675,7 @@
                 }
             },
             "modules": {
-                "total": 459,
+                "total": 460,
                 "repositories": {
                     "PrestaShop-modules": 14,
                     "dashproducts": 2,
@@ -699,7 +699,7 @@
                     "statssearch": 2,
                     "statsstock": 3,
                     "blockwishlist": 17,
-                    "autoupgrade": 296,
+                    "autoupgrade": 297,
                     "gsitemap": 2,
                     "contactform": 1,
                     "pstagger": 1,
@@ -766,7 +766,7 @@
                 }
             }
         },
-        "mergedPullRequests": 1173
+        "mergedPullRequests": 1174
     },
     "jolelievre": {
         "login": "jolelievre",
@@ -3415,7 +3415,7 @@
         "location": "74100 Annemasse, France",
         "bio": null,
         "email_domain": "",
-        "contributions": 1361,
+        "contributions": 1366,
         "repositories": {
             "PrestaShop": 10,
             "dashactivity": 1,
@@ -32163,6 +32163,65 @@
         },
         "mergedPullRequests": 2
     },
+    "sylardiere": {
+        "login": "sylardiere",
+        "id": 119854938,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/119854938?v=4",
+        "html_url": "https:\/\/github.com\/sylardiere",
+        "name": "sylardiere",
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "prestashop-flashlight": 1,
+            "ps_onepagecheckout": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 2,
+                "repositories": {
+                    "prestashop-flashlight": 1,
+                    "ps_onepagecheckout": 1
+                }
+            }
+        },
+        "mergedPullRequests": 2
+    },
     "raphaelMalie": {
         "login": "raphaelMalie",
         "id": 2374154,
@@ -46295,63 +46354,6 @@
             "others": {
                 "total": 0,
                 "repositories": []
-            }
-        },
-        "mergedPullRequests": 1
-    },
-    "sylardiere": {
-        "login": "sylardiere",
-        "id": 119854938,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/119854938?v=4",
-        "html_url": "https:\/\/github.com\/sylardiere",
-        "name": "sylardiere",
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 1,
-        "repositories": {
-            "prestashop-flashlight": 1
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 1,
-                "repositories": {
-                    "prestashop-flashlight": 1
-                }
             }
         },
         "mergedPullRequests": 1
