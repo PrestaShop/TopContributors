@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10515,
+        "contributions": 10522,
         "repositories": {
             "PrestaShop": 4492,
             "PrestaShop-modules": 31,
@@ -119,7 +119,7 @@
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1009,
+            "test-scenarios": 1010,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -136,7 +136,7 @@
             "ps_fixturescreator": 11,
             "ws-client": 25,
             "ps_apiresources": 5,
-            "ui-testing-library": 1187
+            "ui-testing-library": 1193
         },
         "categories": {
             "core": {
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1227,
+                "total": 1228,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1009,
+                    "test-scenarios": 1010,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -290,9 +290,9 @@
                 }
             },
             "tests": {
-                "total": 1288,
+                "total": 1294,
                 "repositories": {
-                    "ui-testing-library": 1187,
+                    "ui-testing-library": 1193,
                     "ga.tests.ui.pr": 101
                 }
             },
@@ -50604,5 +50604,5 @@
             }
         }
     },
-    "updatedAt": "2026-04-11 06:25:46"
+    "updatedAt": "2026-04-12 06:33:58"
 }
