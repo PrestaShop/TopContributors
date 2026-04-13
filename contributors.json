@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10522,
+        "contributions": 10523,
         "repositories": {
             "PrestaShop": 4492,
             "PrestaShop-modules": 31,
@@ -119,7 +119,7 @@
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1010,
+            "test-scenarios": 1011,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1228,
+                "total": 1229,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1010,
+                    "test-scenarios": 1011,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -1725,9 +1725,9 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3451,
+        "contributions": 3452,
         "repositories": {
-            "PrestaShop": 812,
+            "PrestaShop": 813,
             "PrestaShop-modules": 4,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 1,
@@ -1840,9 +1840,9 @@
         },
         "categories": {
             "core": {
-                "total": 841,
+                "total": 842,
                 "repositories": {
-                    "PrestaShop": 812,
+                    "PrestaShop": 813,
                     "prestashop-ui-kit": 4,
                     "LocalizationFiles": 22,
                     "stylelint-browser-compatibility": 1,
@@ -2274,7 +2274,7 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 2367,
+        "contributions": 2383,
         "repositories": {
             "PrestaShop": 1064,
             "PrestaShop-webservice-lib": 1,
@@ -2318,7 +2318,7 @@
             "ps_contactinfo": 7,
             "ps_emailsubscription": 28,
             "ps_banner": 1,
-            "ps_featuredproducts": 11,
+            "ps_featuredproducts": 13,
             "ps_imageslider": 17,
             "ps_mainmenu": 21,
             "ps_customersignin": 4,
@@ -2333,16 +2333,16 @@
             "ps_checkpayment": 6,
             "ps_emailalerts": 29,
             "TopTranslators": 1,
-            "ps_bestsellers": 15,
+            "ps_bestsellers": 18,
             "ps_brandlist": 7,
-            "ps_categoryproducts": 11,
-            "ps_newproducts": 10,
-            "ps_specials": 11,
+            "ps_categoryproducts": 15,
+            "ps_newproducts": 13,
+            "ps_specials": 13,
             "ps_supplierlist": 10,
             "ps_crossselling": 7,
             "ps_dataprivacy": 9,
             "ps_cashondelivery": 5,
-            "ps_viewedproduct": 12,
+            "ps_viewedproduct": 14,
             "traces": 4,
             "ps_googleanalytics": 99,
             "ps_themecusto": 8,
@@ -2390,7 +2390,7 @@
                 }
             },
             "modules": {
-                "total": 1020,
+                "total": 1036,
                 "repositories": {
                     "dashactivity": 13,
                     "dashgoals": 3,
@@ -2429,7 +2429,7 @@
                     "ps_contactinfo": 7,
                     "ps_emailsubscription": 28,
                     "ps_banner": 1,
-                    "ps_featuredproducts": 11,
+                    "ps_featuredproducts": 13,
                     "ps_imageslider": 17,
                     "ps_mainmenu": 21,
                     "ps_customersignin": 4,
@@ -2442,16 +2442,16 @@
                     "ps_customeraccountlinks": 2,
                     "ps_checkpayment": 6,
                     "ps_emailalerts": 29,
-                    "ps_bestsellers": 15,
+                    "ps_bestsellers": 18,
                     "ps_brandlist": 7,
-                    "ps_categoryproducts": 11,
-                    "ps_newproducts": 10,
-                    "ps_specials": 11,
+                    "ps_categoryproducts": 15,
+                    "ps_newproducts": 13,
+                    "ps_specials": 13,
                     "ps_supplierlist": 10,
                     "ps_crossselling": 7,
                     "ps_dataprivacy": 9,
                     "ps_cashondelivery": 5,
-                    "ps_viewedproduct": 12,
+                    "ps_viewedproduct": 14,
                     "ps_buybuttonlite": 2,
                     "ps_faviconnotificationbo": 8,
                     "ps_googleanalytics": 99,
@@ -41259,7 +41259,7 @@
         "html_url": "https:\/\/github.com\/Roxayl",
         "name": "Elyn",
         "company": "@wamkey ",
-        "blog": "https:\/\/roxayl.fr\/portfolio",
+        "blog": "",
         "location": "Aix-en-Provence\/Marseille, France",
         "bio": "Full-stack Web Developer and Software Engineer @ WAM Dental \/ Alumni @ MIAGE Aix-Marseille",
         "email_domain": "outlook.fr",
@@ -47692,6 +47692,62 @@
             }
         }
     },
+    "drhide16": {
+        "login": "drhide16",
+        "id": 250846585,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/250846585?v=4",
+        "html_url": "https:\/\/github.com\/drhide16",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "ps_categoryproducts": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 1,
+                "repositories": {
+                    "ps_categoryproducts": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "remi-nukium": {
         "login": "remi-nukium",
         "id": 99896856,
@@ -50604,5 +50660,5 @@
             }
         }
     },
-    "updatedAt": "2026-04-12 06:33:58"
+    "updatedAt": "2026-04-13 12:03:49"
 }

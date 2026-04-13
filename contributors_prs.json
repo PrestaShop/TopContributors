@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10522,
+        "contributions": 10523,
         "repositories": {
-            "PrestaShop": 1161,
+            "PrestaShop": 1162,
             "PrestaShop-modules": 2,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 4,
@@ -122,9 +122,9 @@
         },
         "categories": {
             "core": {
-                "total": 1175,
+                "total": 1176,
                 "repositories": {
-                    "PrestaShop": 1161,
+                    "PrestaShop": 1162,
                     "prestashop-ui-kit": 1,
                     "TranslationToolsBundle": 2,
                     "TranslationFiles": 3,
@@ -274,7 +274,7 @@
                 }
             }
         },
-        "mergedPullRequests": 2291
+        "mergedPullRequests": 2292
     },
     "matks": {
         "login": "matks",
@@ -935,7 +935,7 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 2367,
+        "contributions": 2383,
         "repositories": {
             "PrestaShop": 380,
             "dashactivity": 4,
@@ -977,7 +977,7 @@
             "ps_contactinfo": 3,
             "ps_emailsubscription": 16,
             "ps_banner": 1,
-            "ps_featuredproducts": 10,
+            "ps_featuredproducts": 11,
             "ps_imageslider": 8,
             "ps_mainmenu": 9,
             "ps_customersignin": 1,
@@ -991,16 +991,16 @@
             "ps_customeraccountlinks": 1,
             "ps_checkpayment": 3,
             "ps_emailalerts": 14,
-            "ps_bestsellers": 10,
+            "ps_bestsellers": 11,
             "ps_brandlist": 6,
-            "ps_categoryproducts": 8,
-            "ps_newproducts": 7,
-            "ps_specials": 5,
+            "ps_categoryproducts": 9,
+            "ps_newproducts": 8,
+            "ps_specials": 6,
             "ps_supplierlist": 6,
             "ps_crossselling": 3,
             "ps_dataprivacy": 3,
             "ps_cashondelivery": 1,
-            "ps_viewedproduct": 6,
+            "ps_viewedproduct": 7,
             "traces": 3,
             "ps_googleanalytics": 22,
             "ps_themecusto": 4,
@@ -1046,7 +1046,7 @@
                 }
             },
             "modules": {
-                "total": 463,
+                "total": 469,
                 "repositories": {
                     "dashactivity": 4,
                     "dashgoals": 4,
@@ -1085,7 +1085,7 @@
                     "ps_contactinfo": 3,
                     "ps_emailsubscription": 16,
                     "ps_banner": 1,
-                    "ps_featuredproducts": 10,
+                    "ps_featuredproducts": 11,
                     "ps_imageslider": 8,
                     "ps_mainmenu": 9,
                     "ps_customersignin": 1,
@@ -1098,16 +1098,16 @@
                     "ps_customeraccountlinks": 1,
                     "ps_checkpayment": 3,
                     "ps_emailalerts": 14,
-                    "ps_bestsellers": 10,
+                    "ps_bestsellers": 11,
                     "ps_brandlist": 6,
-                    "ps_categoryproducts": 8,
-                    "ps_newproducts": 7,
-                    "ps_specials": 5,
+                    "ps_categoryproducts": 9,
+                    "ps_newproducts": 8,
+                    "ps_specials": 6,
                     "ps_supplierlist": 6,
                     "ps_crossselling": 3,
                     "ps_dataprivacy": 3,
                     "ps_cashondelivery": 1,
-                    "ps_viewedproduct": 6,
+                    "ps_viewedproduct": 7,
                     "ps_googleanalytics": 22,
                     "ps_themecusto": 4,
                     "psgdpr": 3,
@@ -1142,7 +1142,7 @@
                 }
             }
         },
-        "mergedPullRequests": 920
+        "mergedPullRequests": 926
     },
     "nesrineabdmouleh": {
         "login": "nesrineabdmouleh",
@@ -1788,7 +1788,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3451,
+        "contributions": 3452,
         "repositories": {
             "PrestaShop": 173,
             "PrestaShop-modules": 3,
@@ -30821,7 +30821,7 @@
         "html_url": "https:\/\/github.com\/Roxayl",
         "name": "Elyn",
         "company": "@wamkey ",
-        "blog": "https:\/\/roxayl.fr\/portfolio",
+        "blog": "",
         "location": "Aix-en-Provence\/Marseille, France",
         "bio": "Full-stack Web Developer and Software Engineer @ WAM Dental \/ Alumni @ MIAGE Aix-Marseille",
         "email_domain": "outlook.fr",
@@ -44456,6 +44456,63 @@
                 "total": 1,
                 "repositories": {
                     "ps_emailalerts": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 1
+    },
+    "drhide16": {
+        "login": "drhide16",
+        "id": 250846585,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/250846585?v=4",
+        "html_url": "https:\/\/github.com\/drhide16",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "ps_categoryproducts": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 1,
+                "repositories": {
+                    "ps_categoryproducts": 1
                 }
             },
             "tools": {

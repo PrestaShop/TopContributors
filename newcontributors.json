@@ -1,4 +1,12 @@
 {
+    "drhide16": {
+        "login": "drhide16",
+        "name": null,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/250846585?v=4",
+        "html_url": "https:\/\/github.com\/drhide16",
+        "contributions": 1,
+        "firstContributionAt": "2026-04-12T08:57:16Z"
+    },
     "miskovd": {
         "login": "miskovd",
         "name": "MISKOV",
@@ -70,13 +78,5 @@
         "html_url": "https:\/\/github.com\/cap340",
         "contributions": 1,
         "firstContributionAt": "2025-12-16T13:56:08Z"
-    },
-    "soniiix": {
-        "login": "soniiix",
-        "name": null,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/124884897?v=4",
-        "html_url": "https:\/\/github.com\/soniiix",
-        "contributions": 3,
-        "firstContributionAt": "2025-12-02T22:18:31Z"
     }
 }
