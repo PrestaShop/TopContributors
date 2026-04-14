@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10523,
+        "contributions": 10524,
         "repositories": {
             "PrestaShop": 1162,
             "PrestaShop-modules": 2,
@@ -935,7 +935,7 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 2383,
+        "contributions": 2386,
         "repositories": {
             "PrestaShop": 380,
             "dashactivity": 4,
@@ -994,7 +994,7 @@
             "ps_bestsellers": 11,
             "ps_brandlist": 6,
             "ps_categoryproducts": 9,
-            "ps_newproducts": 8,
+            "ps_newproducts": 9,
             "ps_specials": 6,
             "ps_supplierlist": 6,
             "ps_crossselling": 3,
@@ -1046,7 +1046,7 @@
                 }
             },
             "modules": {
-                "total": 469,
+                "total": 470,
                 "repositories": {
                     "dashactivity": 4,
                     "dashgoals": 4,
@@ -1101,7 +1101,7 @@
                     "ps_bestsellers": 11,
                     "ps_brandlist": 6,
                     "ps_categoryproducts": 9,
-                    "ps_newproducts": 8,
+                    "ps_newproducts": 9,
                     "ps_specials": 6,
                     "ps_supplierlist": 6,
                     "ps_crossselling": 3,
@@ -1142,7 +1142,7 @@
                 }
             }
         },
-        "mergedPullRequests": 926
+        "mergedPullRequests": 927
     },
     "nesrineabdmouleh": {
         "login": "nesrineabdmouleh",
@@ -2969,7 +2969,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 578,
+        "contributions": 580,
         "repositories": {
             "PrestaShop": 113,
             "blockwishlist": 1,
@@ -3740,7 +3740,7 @@
         "location": "France",
         "bio": "Developper from father to son with +13 years experience, commiter and member of @PrestaShop Tech Council!",
         "email_domain": "",
-        "contributions": 702,
+        "contributions": 705,
         "repositories": {
             "PrestaShop": 137,
             "productcomments": 1,
@@ -3763,7 +3763,7 @@
             "classic-theme": 2,
             "ps_distributionapiclient": 1,
             "kanbanbot": 41,
-            "ps_apiresources": 8
+            "ps_apiresources": 9
         },
         "categories": {
             "core": {
@@ -3795,7 +3795,7 @@
                 }
             },
             "modules": {
-                "total": 21,
+                "total": 22,
                 "repositories": {
                     "productcomments": 1,
                     "autoupgrade": 7,
@@ -3803,7 +3803,7 @@
                     "ps_emailalerts": 1,
                     "ps_themecusto": 2,
                     "ps_distributionapiclient": 1,
-                    "ps_apiresources": 8
+                    "ps_apiresources": 9
                 }
             },
             "tools": {
@@ -3831,7 +3831,7 @@
                 }
             }
         },
-        "mergedPullRequests": 235
+        "mergedPullRequests": 236
     },
     "gskema": {
         "login": "gskema",
@@ -5405,6 +5405,101 @@
         },
         "mergedPullRequests": 160
     },
+    "Codencode": {
+        "login": "Codencode",
+        "id": 2463965,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
+        "html_url": "https:\/\/github.com\/Codencode",
+        "name": "Paolo Cunti @codencode",
+        "company": "Codencode",
+        "blog": "https:\/\/www.codencode.it",
+        "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
+        "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
+        "email_domain": "codencode.it",
+        "contributions": 306,
+        "repositories": {
+            "PrestaShop": 112,
+            "dashactivity": 1,
+            "autoupgrade": 6,
+            "contactform": 1,
+            "blockreassurance": 1,
+            "ps_socialfollow": 2,
+            "ps_linklist": 1,
+            "ps_emailsubscription": 4,
+            "ps_imageslider": 2,
+            "ps_mainmenu": 1,
+            "docs": 3,
+            "ps_facetedsearch": 4,
+            "ps_specials": 1,
+            "traces": 1,
+            "LocalizationFiles": 2,
+            "hummingbird": 3,
+            "classic-theme": 4,
+            "ps_apiresources": 9
+        },
+        "categories": {
+            "core": {
+                "total": 114,
+                "repositories": {
+                    "PrestaShop": 112,
+                    "LocalizationFiles": 2
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 3,
+                "repositories": {
+                    "docs": 3
+                }
+            },
+            "themes": {
+                "total": 7,
+                "repositories": {
+                    "hummingbird": 3,
+                    "classic-theme": 4
+                }
+            },
+            "modules": {
+                "total": 33,
+                "repositories": {
+                    "dashactivity": 1,
+                    "autoupgrade": 6,
+                    "contactform": 1,
+                    "blockreassurance": 1,
+                    "ps_socialfollow": 2,
+                    "ps_linklist": 1,
+                    "ps_emailsubscription": 4,
+                    "ps_imageslider": 2,
+                    "ps_mainmenu": 1,
+                    "ps_facetedsearch": 4,
+                    "ps_specials": 1,
+                    "ps_apiresources": 9
+                }
+            },
+            "tools": {
+                "total": 1,
+                "repositories": {
+                    "traces": 1
+                }
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 158
+    },
     "sowbiba": {
         "login": "sowbiba",
         "id": 7426640,
@@ -5471,101 +5566,6 @@
                     "docker-internal-images": 1,
                     "issuebot": 9,
                     "presthubot": 1
-                }
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 157
-    },
-    "Codencode": {
-        "login": "Codencode",
-        "id": 2463965,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
-        "html_url": "https:\/\/github.com\/Codencode",
-        "name": "Paolo Cunti @codencode",
-        "company": "Codencode",
-        "blog": "https:\/\/www.codencode.it",
-        "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
-        "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
-        "email_domain": "codencode.it",
-        "contributions": 306,
-        "repositories": {
-            "PrestaShop": 111,
-            "dashactivity": 1,
-            "autoupgrade": 6,
-            "contactform": 1,
-            "blockreassurance": 1,
-            "ps_socialfollow": 2,
-            "ps_linklist": 1,
-            "ps_emailsubscription": 4,
-            "ps_imageslider": 2,
-            "ps_mainmenu": 1,
-            "docs": 3,
-            "ps_facetedsearch": 4,
-            "ps_specials": 1,
-            "traces": 1,
-            "LocalizationFiles": 2,
-            "hummingbird": 3,
-            "classic-theme": 4,
-            "ps_apiresources": 9
-        },
-        "categories": {
-            "core": {
-                "total": 113,
-                "repositories": {
-                    "PrestaShop": 111,
-                    "LocalizationFiles": 2
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 3,
-                "repositories": {
-                    "docs": 3
-                }
-            },
-            "themes": {
-                "total": 7,
-                "repositories": {
-                    "hummingbird": 3,
-                    "classic-theme": 4
-                }
-            },
-            "modules": {
-                "total": 33,
-                "repositories": {
-                    "dashactivity": 1,
-                    "autoupgrade": 6,
-                    "contactform": 1,
-                    "blockreassurance": 1,
-                    "ps_socialfollow": 2,
-                    "ps_linklist": 1,
-                    "ps_emailsubscription": 4,
-                    "ps_imageslider": 2,
-                    "ps_mainmenu": 1,
-                    "ps_facetedsearch": 4,
-                    "ps_specials": 1,
-                    "ps_apiresources": 9
-                }
-            },
-            "tools": {
-                "total": 1,
-                "repositories": {
-                    "traces": 1
                 }
             },
             "tests": {
@@ -13445,7 +13445,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 39,
+        "contributions": 40,
         "repositories": {
             "PrestaShop": 8,
             "dashgoals": 3,
@@ -26491,7 +26491,7 @@
         "location": "Vannes, France",
         "bio": null,
         "email_domain": "",
-        "contributions": 54,
+        "contributions": 58,
         "repositories": {
             "PrestaShop": 2
         },
