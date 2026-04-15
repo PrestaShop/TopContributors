@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10524,
+        "contributions": 10526,
         "repositories": {
             "PrestaShop": 1162,
             "PrestaShop-modules": 2,
@@ -1155,9 +1155,9 @@
         "location": "Paris, France",
         "bio": "QA Automation Engineer",
         "email_domain": "gmail.com",
-        "contributions": 3513,
+        "contributions": 3520,
         "repositories": {
-            "PrestaShop": 672,
+            "PrestaShop": 673,
             "autoupgrade": 45,
             "PSFunctionalTests": 5,
             "traces": 2,
@@ -1166,9 +1166,9 @@
         },
         "categories": {
             "core": {
-                "total": 672,
+                "total": 673,
                 "repositories": {
-                    "PrestaShop": 672
+                    "PrestaShop": 673
                 }
             },
             "specs": {
@@ -1212,7 +1212,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 841
+        "mergedPullRequests": 842
     },
     "PierreRambaud": {
         "login": "PierreRambaud",
@@ -1788,7 +1788,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3452,
+        "contributions": 3455,
         "repositories": {
             "PrestaShop": 173,
             "PrestaShop-modules": 3,
@@ -12312,7 +12312,7 @@
         "name": "SD1982",
         "company": null,
         "blog": "",
-        "location": null,
+        "location": "France",
         "bio": null,
         "email_domain": "",
         "contributions": 128,
@@ -12885,6 +12885,74 @@
         },
         "mergedPullRequests": 17
     },
+    "alexandrebrubeyonds": {
+        "login": "alexandrebrubeyonds",
+        "id": 92941405,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/92941405?v=4",
+        "html_url": "https:\/\/github.com\/alexandrebrubeyonds",
+        "name": "Alexandre BRU",
+        "company": "@beyondsagency",
+        "blog": "https:\/\/www.beyonds.fr\/",
+        "location": "Paris, France",
+        "bio": "Co-founder of @beyondsagency ",
+        "email_domain": "",
+        "contributions": 19,
+        "repositories": {
+            "PrestaShop": 11,
+            "autoupgrade": 1,
+            "docs": 2,
+            "ps_facetedsearch": 2,
+            "traces": 1
+        },
+        "categories": {
+            "core": {
+                "total": 11,
+                "repositories": {
+                    "PrestaShop": 11
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 2,
+                "repositories": {
+                    "docs": 2
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 3,
+                "repositories": {
+                    "autoupgrade": 1,
+                    "ps_facetedsearch": 2
+                }
+            },
+            "tools": {
+                "total": 1,
+                "repositories": {
+                    "traces": 1
+                }
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 17
+    },
     "alegout": {
         "login": "alegout",
         "id": 5212567,
@@ -12995,74 +13063,6 @@
             "tools": {
                 "total": 0,
                 "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 16
-    },
-    "alexandrebrubeyonds": {
-        "login": "alexandrebrubeyonds",
-        "id": 92941405,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/92941405?v=4",
-        "html_url": "https:\/\/github.com\/alexandrebrubeyonds",
-        "name": "Alexandre BRU",
-        "company": "@beyondsagency",
-        "blog": "https:\/\/www.beyonds.fr\/",
-        "location": "Paris, France",
-        "bio": "Co-founder of @beyondsagency ",
-        "email_domain": "",
-        "contributions": 19,
-        "repositories": {
-            "PrestaShop": 10,
-            "autoupgrade": 1,
-            "docs": 2,
-            "ps_facetedsearch": 2,
-            "traces": 1
-        },
-        "categories": {
-            "core": {
-                "total": 10,
-                "repositories": {
-                    "PrestaShop": 10
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 2,
-                "repositories": {
-                    "docs": 2
-                }
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 3,
-                "repositories": {
-                    "autoupgrade": 1,
-                    "ps_facetedsearch": 2
-                }
-            },
-            "tools": {
-                "total": 1,
-                "repositories": {
-                    "traces": 1
-                }
             },
             "tests": {
                 "total": 0,
@@ -13557,6 +13557,66 @@
         },
         "mergedPullRequests": 15
     },
+    "axel-paillaud": {
+        "login": "axel-paillaud",
+        "id": 85078268,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/85078268?v=4",
+        "html_url": "https:\/\/github.com\/axel-paillaud",
+        "name": "Axel Paillaud",
+        "company": "Axelweb",
+        "blog": "https:\/\/axelweb.fr",
+        "location": "Orl\u00e9ans, France",
+        "bio": "Web developer, lives in France.",
+        "email_domain": "axelweb.fr",
+        "contributions": 6,
+        "repositories": {
+            "PrestaShop": 1,
+            "docs": 14
+        },
+        "categories": {
+            "core": {
+                "total": 1,
+                "repositories": {
+                    "PrestaShop": 1
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 14,
+                "repositories": {
+                    "docs": 14
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 15
+    },
     "cedricfontaine": {
         "login": "cedricfontaine",
         "id": 3180112,
@@ -13927,63 +13987,6 @@
                     "statssearch": 1,
                     "ps_categorytree": 1
                 }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 14
-    },
-    "axel-paillaud": {
-        "login": "axel-paillaud",
-        "id": 85078268,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/85078268?v=4",
-        "html_url": "https:\/\/github.com\/axel-paillaud",
-        "name": "Axel Paillaud",
-        "company": "Axelweb",
-        "blog": "https:\/\/axelweb.fr",
-        "location": "Orl\u00e9ans, France",
-        "bio": "Web developer, lives in France.",
-        "email_domain": "axelweb.fr",
-        "contributions": 6,
-        "repositories": {
-            "docs": 14
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 14,
-                "repositories": {
-                    "docs": 14
-                }
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
             },
             "tools": {
                 "total": 0,
@@ -22587,6 +22590,69 @@
         },
         "mergedPullRequests": 4
     },
+    "MAX-IT-Tech": {
+        "login": "MAX-IT-Tech",
+        "id": 2854639,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2854639?v=4",
+        "html_url": "https:\/\/github.com\/MAX-IT-Tech",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": "Odesa, Ukraine",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 3,
+        "repositories": {
+            "PrestaShop": 1,
+            "PrestaShop-modules": 1,
+            "docs": 2
+        },
+        "categories": {
+            "core": {
+                "total": 1,
+                "repositories": {
+                    "PrestaShop": 1
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 2,
+                "repositories": {
+                    "docs": 2
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 1,
+                "repositories": {
+                    "PrestaShop-modules": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 4
+    },
     "matthieume": {
         "login": "matthieume",
         "id": 4466105,
@@ -30094,66 +30160,6 @@
         },
         "mergedPullRequests": 2
     },
-    "MAX-IT-Tech": {
-        "login": "MAX-IT-Tech",
-        "id": 2854639,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2854639?v=4",
-        "html_url": "https:\/\/github.com\/MAX-IT-Tech",
-        "name": null,
-        "company": null,
-        "blog": "",
-        "location": "Odesa, Ukraine",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 1,
-        "repositories": {
-            "PrestaShop": 1,
-            "PrestaShop-modules": 1
-        },
-        "categories": {
-            "core": {
-                "total": 1,
-                "repositories": {
-                    "PrestaShop": 1
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 1,
-                "repositories": {
-                    "PrestaShop-modules": 1
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 2
-    },
     "Xperos": {
         "login": "Xperos",
         "id": 6881031,
@@ -30583,7 +30589,7 @@
         "company": null,
         "blog": "https:\/\/libmodulor.c100k.eu",
         "location": null,
-        "bio": "Senior Software Engineer (libmodulor.c100k.eu, github.com\/c100k) - Road & Trail Runner (21k: 1h17, 42k: 2h46, UTMB idx: 657)",
+        "bio": "Senior Software Engineer (libmodulor.c100k.eu, github.com\/c100k) - Road & Trail Runner (21k: 1h17, 42k: 2h46, UTMB idx: 676)",
         "email_domain": "gmail.com",
         "contributions": 1,
         "repositories": {
