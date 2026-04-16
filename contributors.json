@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10526,
+        "contributions": 10527,
         "repositories": {
             "PrestaShop": 4493,
             "PrestaShop-modules": 31,
@@ -119,7 +119,7 @@
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1013,
+            "test-scenarios": 1014,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1231,
+                "total": 1232,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1013,
+                    "test-scenarios": 1014,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -322,7 +322,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7378,
+        "contributions": 7379,
         "repositories": {
             "PrestaShop": 5932,
             "dashactivity": 1,
@@ -409,7 +409,7 @@
             "kanbanbot": 1,
             "zip-archives": 1,
             "bootstrap-compatibility-layer": 1,
-            "ps_apiresources": 172,
+            "ps_apiresources": 173,
             "CoreUpgradeBundle": 1,
             "CLIUpgrade": 1,
             "ui-testing-library": 40,
@@ -453,7 +453,7 @@
                 }
             },
             "modules": {
-                "total": 568,
+                "total": 569,
                 "repositories": {
                     "dashactivity": 1,
                     "dashgoals": 1,
@@ -500,7 +500,7 @@
                     "ps_googleanalytics": 5,
                     "ps_themecusto": 9,
                     "psgdpr": 5,
-                    "ps_apiresources": 172,
+                    "ps_apiresources": 173,
                     "ps_distributionapiclient": 18,
                     "ps_fixturescreator": 13
                 }
@@ -1725,7 +1725,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3455,
+        "contributions": 3456,
         "repositories": {
             "PrestaShop": 813,
             "PrestaShop-modules": 4,
@@ -1778,7 +1778,7 @@
             "ps_mainmenu": 2,
             "ps_customersignin": 4,
             "ps_categorytree": 5,
-            "docs": 536,
+            "docs": 537,
             "ps_wirepayment": 1,
             "ps_shoppingcart": 4,
             "ps_currencyselector": 7,
@@ -1857,10 +1857,10 @@
                 }
             },
             "documentation": {
-                "total": 911,
+                "total": 912,
                 "repositories": {
                     "paymentexample": 7,
-                    "docs": 536,
+                    "docs": 537,
                     "user-documentation-en": 1,
                     "ADR": 7,
                     "example-modules": 123,
@@ -5719,7 +5719,7 @@
         "location": "France",
         "bio": "Developper from father to son with +13 years experience, commiter and member of @PrestaShop Tech Council!",
         "email_domain": "",
-        "contributions": 705,
+        "contributions": 707,
         "repositories": {
             "PrestaShop": 449,
             "PrestaShop-webservice-lib": 1,
@@ -5754,7 +5754,7 @@
             "ps_distributionapiclient": 1,
             "ps_fixturescreator": 1,
             "kanbanbot": 129,
-            "ps_apiresources": 22
+            "ps_apiresources": 24
         },
         "categories": {
             "core": {
@@ -5789,7 +5789,7 @@
                 }
             },
             "modules": {
-                "total": 48,
+                "total": 50,
                 "repositories": {
                     "dashtrends": 2,
                     "autoupgrade": 13,
@@ -5798,7 +5798,7 @@
                     "ps_mainmenu": 1,
                     "ps_emailalerts": 1,
                     "ps_themecusto": 3,
-                    "ps_apiresources": 22,
+                    "ps_apiresources": 24,
                     "ps_distributionapiclient": 1,
                     "ps_fixturescreator": 1
                 }
@@ -24896,6 +24896,65 @@
             }
         }
     },
+    "MAX-IT-Tech": {
+        "login": "MAX-IT-Tech",
+        "id": 2854639,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2854639?v=4",
+        "html_url": "https:\/\/github.com\/MAX-IT-Tech",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": "Odesa, Ukraine",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 7,
+        "repositories": {
+            "PrestaShop-modules": 1,
+            "docs": 6
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 6,
+                "repositories": {
+                    "docs": 6
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 1,
+                "repositories": {
+                    "PrestaShop-modules": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "metacreo": {
         "login": "metacreo",
         "id": 543458,
@@ -26566,17 +26625,17 @@
             }
         }
     },
-    "axel-paillaud": {
-        "login": "axel-paillaud",
-        "id": 85078268,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/85078268?v=4",
-        "html_url": "https:\/\/github.com\/axel-paillaud",
-        "name": "Axel Paillaud",
-        "company": "Axelweb",
-        "blog": "https:\/\/axelweb.fr",
-        "location": "Orl\u00e9ans, France",
-        "bio": "Web developer, lives in France.",
-        "email_domain": "axelweb.fr",
+    "BarbUk": {
+        "login": "BarbUk",
+        "id": 64371,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/64371?v=4",
+        "html_url": "https:\/\/github.com\/BarbUk",
+        "name": "Julien Virey",
+        "company": "@oceandba",
+        "blog": "https:\/\/iam.barb.uk",
+        "location": "Mauritius",
+        "bio": "Linux system engineer",
+        "email_domain": "",
         "contributions": 6,
         "repositories": {
             "docs": 6
@@ -26622,17 +26681,17 @@
             }
         }
     },
-    "BarbUk": {
-        "login": "BarbUk",
-        "id": 64371,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/64371?v=4",
-        "html_url": "https:\/\/github.com\/BarbUk",
-        "name": "Julien Virey",
-        "company": "@oceandba",
-        "blog": "https:\/\/iam.barb.uk",
-        "location": "Mauritius",
-        "bio": "Linux system engineer",
-        "email_domain": "",
+    "axel-paillaud": {
+        "login": "axel-paillaud",
+        "id": 85078268,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/85078268?v=4",
+        "html_url": "https:\/\/github.com\/axel-paillaud",
+        "name": "Axel Paillaud",
+        "company": "Axelweb",
+        "blog": "https:\/\/axelweb.fr",
+        "location": "Orl\u00e9ans, France",
+        "bio": "Web developer, lives in France.",
+        "email_domain": "axelweb.fr",
         "contributions": 6,
         "repositories": {
             "docs": 6
@@ -29864,65 +29923,6 @@
                 "repositories": {
                     "prestashop.github.io": 2
                 }
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "MAX-IT-Tech": {
-        "login": "MAX-IT-Tech",
-        "id": 2854639,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2854639?v=4",
-        "html_url": "https:\/\/github.com\/MAX-IT-Tech",
-        "name": null,
-        "company": null,
-        "blog": "",
-        "location": "Odesa, Ukraine",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 3,
-        "repositories": {
-            "PrestaShop-modules": 1,
-            "docs": 2
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 2,
-                "repositories": {
-                    "docs": 2
-                }
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 1,
-                "repositories": {
-                    "PrestaShop-modules": 1
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
             },
             "others": {
                 "total": 0,
@@ -50665,5 +50665,5 @@
             }
         }
     },
-    "updatedAt": "2026-04-15 06:39:02"
+    "updatedAt": "2026-04-16 06:40:32"
 }
