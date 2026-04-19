@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10529,
+        "contributions": 10530,
         "repositories": {
             "PrestaShop": 1162,
             "PrestaShop-modules": 2,
@@ -779,9 +779,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7385,
+        "contributions": 7387,
         "repositories": {
-            "PrestaShop": 743,
+            "PrestaShop": 744,
             "dashproducts": 2,
             "blockwishlist": 3,
             "productcomments": 10,
@@ -831,9 +831,9 @@
         },
         "categories": {
             "core": {
-                "total": 779,
+                "total": 780,
                 "repositories": {
-                    "PrestaShop": 743,
+                    "PrestaShop": 744,
                     "prestashop-ui-kit": 10,
                     "TranslationToolsBundle": 3,
                     "TranslationFiles": 12,
@@ -922,7 +922,7 @@
                 }
             }
         },
-        "mergedPullRequests": 1150
+        "mergedPullRequests": 1151
     },
     "Hlavtox": {
         "login": "Hlavtox",
@@ -22486,7 +22486,7 @@
         "company": null,
         "blog": "",
         "location": "France",
-        "bio": "Web dev",
+        "bio": "10+ years of dev and now engineering manager having fun creating games and tools",
         "email_domain": "",
         "contributions": 6,
         "repositories": {
