@@ -1,4 +1,12 @@
 {
+    "islemdev": {
+        "login": "islemdev",
+        "name": null,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/69719306?v=4",
+        "html_url": "https:\/\/github.com\/islemdev",
+        "contributions": 1,
+        "firstContributionAt": "2026-04-19T08:00:23Z"
+    },
     "paulnoelcholot": {
         "login": "paulnoelcholot",
         "name": "Paul-No\u00ebl",
@@ -70,13 +78,5 @@
         "html_url": "https:\/\/github.com\/nguyenhy",
         "contributions": 1,
         "firstContributionAt": "2025-12-29T15:36:09Z"
-    },
-    "difadi": {
-        "login": "difadi",
-        "name": "Difadi.com",
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/218950811?v=4",
-        "html_url": "https:\/\/github.com\/difadi",
-        "contributions": 3,
-        "firstContributionAt": "2025-12-29T15:34:30Z"
     }
 }
