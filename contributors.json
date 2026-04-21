@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10531,
+        "contributions": 10532,
         "repositories": {
             "PrestaShop": 4493,
             "PrestaShop-modules": 31,
@@ -119,7 +119,7 @@
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1018,
+            "test-scenarios": 1019,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1236,
+                "total": 1237,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1018,
+                    "test-scenarios": 1019,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -1007,7 +1007,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5147,
+        "contributions": 5148,
         "repositories": {
             "PrestaShop": 1710,
             "PrestaShop-modules": 349,
@@ -1102,7 +1102,7 @@
             "open-source": 6,
             "php-dev-tools": 66,
             ".github": 7,
-            "distribution-api": 35,
+            "distribution-api": 36,
             "classic-theme": 61,
             "ps_distributionapiclient": 4,
             "ps_apiresources": 1,
@@ -1242,13 +1242,13 @@
                 }
             },
             "others": {
-                "total": 71,
+                "total": 72,
                 "repositories": {
                     ".github": 7,
                     "themeinstallator": 3,
                     "InstallUnpacker": 3,
                     "firebaseauthenticator": 23,
-                    "distribution-api": 35
+                    "distribution-api": 36
                 }
             }
         }
@@ -4132,7 +4132,7 @@
         "location": "74100 Annemasse, France",
         "bio": null,
         "email_domain": "",
-        "contributions": 1374,
+        "contributions": 1376,
         "repositories": {
             "PrestaShop": 75,
             "dashactivity": 1,
@@ -4204,7 +4204,7 @@
             "ps_faviconnotificationbo": 2,
             ".github": 8,
             "hummingbird": 97,
-            "distribution-api": 43,
+            "distribution-api": 45,
             "classic-theme": 10,
             "ps_distributionapiclient": 1,
             "bootstrap-compatibility-layer": 39,
@@ -4327,10 +4327,10 @@
                 }
             },
             "others": {
-                "total": 70,
+                "total": 72,
                 "repositories": {
                     ".github": 8,
-                    "distribution-api": 43,
+                    "distribution-api": 45,
                     "Prestashop-BO-themes-package": 10,
                     "issue_templates_poll": 9
                 }
@@ -8987,7 +8987,7 @@
         "company": "@topology-gg, @drp-tech",
         "blog": "https:\/\/sacha42.com",
         "location": null,
-        "bio": null,
+        "bio": "searching next challenge",
         "email_domain": "gmail.com",
         "contributions": 263,
         "repositories": {
@@ -39760,7 +39760,7 @@
         "company": null,
         "blog": "https:\/\/libmodulor.c100k.eu",
         "location": null,
-        "bio": "Senior Software Engineer (libmodulor.c100k.eu, github.com\/c100k) - Road & Trail Runner (21k: 1h17, 42k: 2h46, UTMB idx: 676)",
+        "bio": "Senior Software Engineer (libmodulor.c100k.eu, github.com\/c100k) - Road & Trail Runner (10k: 34:59, 21k: 1h17, 42k: 2h46, UTMB idx: 676)",
         "email_domain": "gmail.com",
         "contributions": 1,
         "repositories": {
@@ -50783,5 +50783,5 @@
             }
         }
     },
-    "updatedAt": "2026-04-20 07:54:38"
+    "updatedAt": "2026-04-21 06:39:26"
 }
