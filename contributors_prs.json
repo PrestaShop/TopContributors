@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10533,
+        "contributions": 10542,
         "repositories": {
             "PrestaShop": 1162,
             "PrestaShop-modules": 2,
@@ -567,7 +567,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5148,
+        "contributions": 5149,
         "repositories": {
             "PrestaShop": 396,
             "PrestaShop-modules": 14,
@@ -779,9 +779,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7387,
+        "contributions": 7427,
         "repositories": {
-            "PrestaShop": 744,
+            "PrestaShop": 745,
             "dashproducts": 2,
             "blockwishlist": 3,
             "productcomments": 10,
@@ -813,7 +813,7 @@
             "LocalizationFiles": 1,
             "example-modules": 22,
             "ps_qualityassurance": 1,
-            ".github": 5,
+            ".github": 7,
             "DocToolsBundle": 1,
             "hummingbird": 5,
             "ps-docs-theme": 1,
@@ -825,15 +825,15 @@
             "native-modules": 1,
             "keycloak_connector_demo": 8,
             "ps_fixturescreator": 3,
-            "ps_apiresources": 45,
+            "ps_apiresources": 51,
             "ui-testing-library": 23,
             "SeamlessUpgradeToolbox": 1
         },
         "categories": {
             "core": {
-                "total": 780,
+                "total": 781,
                 "repositories": {
-                    "PrestaShop": 744,
+                    "PrestaShop": 745,
                     "prestashop-ui-kit": 10,
                     "TranslationToolsBundle": 3,
                     "TranslationFiles": 12,
@@ -867,7 +867,7 @@
                 }
             },
             "modules": {
-                "total": 161,
+                "total": 167,
                 "repositories": {
                     "dashproducts": 2,
                     "blockwishlist": 3,
@@ -885,7 +885,7 @@
                     "ps_qualityassurance": 1,
                     "ps_distributionapiclient": 10,
                     "ps_fixturescreator": 3,
-                    "ps_apiresources": 45
+                    "ps_apiresources": 51
                 }
             },
             "tools": {
@@ -914,15 +914,15 @@
                 }
             },
             "others": {
-                "total": 10,
+                "total": 12,
                 "repositories": {
-                    ".github": 5,
+                    ".github": 7,
                     "distribution-api": 4,
                     "native-modules": 1
                 }
             }
         },
-        "mergedPullRequests": 1151
+        "mergedPullRequests": 1160
     },
     "Hlavtox": {
         "login": "Hlavtox",
@@ -935,7 +935,7 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 2387,
+        "contributions": 2388,
         "repositories": {
             "PrestaShop": 380,
             "dashactivity": 4,
@@ -1155,14 +1155,14 @@
         "location": "Paris, France",
         "bio": "QA Automation Engineer",
         "email_domain": "gmail.com",
-        "contributions": 3527,
+        "contributions": 3536,
         "repositories": {
             "PrestaShop": 673,
             "autoupgrade": 46,
             "PSFunctionalTests": 5,
             "traces": 2,
             "QANightlyResults": 1,
-            "ui-testing-library": 117
+            "ui-testing-library": 119
         },
         "categories": {
             "core": {
@@ -1197,10 +1197,10 @@
                 }
             },
             "tests": {
-                "total": 122,
+                "total": 124,
                 "repositories": {
                     "PSFunctionalTests": 5,
-                    "ui-testing-library": 117
+                    "ui-testing-library": 119
                 }
             },
             "blog": {
@@ -1212,7 +1212,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 844
+        "mergedPullRequests": 846
     },
     "PierreRambaud": {
         "login": "PierreRambaud",
@@ -1788,7 +1788,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3462,
+        "contributions": 3469,
         "repositories": {
             "PrestaShop": 173,
             "PrestaShop-modules": 3,
@@ -2507,7 +2507,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 653,
+        "contributions": 655,
         "repositories": {
             "PrestaShop": 222,
             "PrestaShop-modules": 4,
@@ -2562,7 +2562,7 @@
             "ps_supplierlist": 2,
             "ps_crossselling": 1,
             "ps_dataprivacy": 1,
-            "traces": 13,
+            "traces": 15,
             "TopContributors": 6,
             "psssst": 1,
             "ps_themecusto": 1,
@@ -2667,11 +2667,11 @@
                 }
             },
             "tools": {
-                "total": 26,
+                "total": 28,
                 "repositories": {
                     "PrestaShop-webservice-lib": 1,
                     "docker": 1,
-                    "traces": 13,
+                    "traces": 15,
                     "TopContributors": 6,
                     "psssst": 1,
                     "presthubot": 1,
@@ -2695,7 +2695,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 433
+        "mergedPullRequests": 435
     },
     "aleeks": {
         "login": "aleeks",
@@ -3415,7 +3415,7 @@
         "location": "74100 Annemasse, France",
         "bio": null,
         "email_domain": "",
-        "contributions": 1376,
+        "contributions": 1380,
         "repositories": {
             "PrestaShop": 10,
             "dashactivity": 1,
@@ -3740,9 +3740,9 @@
         "location": "France",
         "bio": "Developper from father to son with +13 years experience, commiter and member of @PrestaShop Tech Council!",
         "email_domain": "",
-        "contributions": 707,
+        "contributions": 715,
         "repositories": {
-            "PrestaShop": 137,
+            "PrestaShop": 138,
             "productcomments": 1,
             "autoupgrade": 7,
             "ps_emailsubscription": 1,
@@ -3767,9 +3767,9 @@
         },
         "categories": {
             "core": {
-                "total": 141,
+                "total": 142,
                 "repositories": {
-                    "PrestaShop": 137,
+                    "PrestaShop": 138,
                     "TranslationFiles": 1,
                     "circuit-breaker": 3
                 }
@@ -3831,7 +3831,7 @@
                 }
             }
         },
-        "mergedPullRequests": 237
+        "mergedPullRequests": 238
     },
     "nicosomb": {
         "login": "nicosomb",
@@ -3844,7 +3844,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1536,
+        "contributions": 1540,
         "repositories": {
             "PrestaShop": 138,
             "blockwishlist": 6,
@@ -4041,7 +4041,7 @@
             "ps_searchbar": 1,
             "traces": 1,
             "open-source": 1,
-            "hummingbird": 111,
+            "hummingbird": 113,
             "ps-docs-theme": 1,
             "devdocs-site": 1,
             "classic-theme": 1,
@@ -4071,9 +4071,9 @@
                 }
             },
             "themes": {
-                "total": 112,
+                "total": 114,
                 "repositories": {
-                    "hummingbird": 111,
+                    "hummingbird": 113,
                     "classic-theme": 1
                 }
             },
@@ -4111,7 +4111,7 @@
                 }
             }
         },
-        "mergedPullRequests": 210
+        "mergedPullRequests": 212
     },
     "ttoine": {
         "login": "ttoine",
@@ -4933,7 +4933,7 @@
         "location": "Toulouse \/ France",
         "bio": "e-commerce, dev, founder of Creabilis Agency",
         "email_domain": "",
-        "contributions": 359,
+        "contributions": 371,
         "repositories": {
             "PrestaShop": 65,
             "PrestaShop-webservice-lib": 1,
@@ -5418,7 +5418,7 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 306,
+        "contributions": 310,
         "repositories": {
             "PrestaShop": 113,
             "dashactivity": 1,
@@ -5596,7 +5596,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 233,
+        "contributions": 235,
         "repositories": {
             "PrestaShop": 101,
             "productcomments": 2,
@@ -6957,7 +6957,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 670,
+        "contributions": 672,
         "repositories": {
             "PrestaShop": 14,
             "dashactivity": 1,
@@ -7443,7 +7443,7 @@
         "location": "La Roche sur Yon",
         "bio": null,
         "email_domain": "",
-        "contributions": 244,
+        "contributions": 256,
         "repositories": {
             "PrestaShop": 25,
             "dashproducts": 1,
@@ -8351,7 +8351,7 @@
         "location": "Sweden",
         "bio": null,
         "email_domain": "",
-        "contributions": 89,
+        "contributions": 90,
         "repositories": {
             "PrestaShop": 36,
             "autoupgrade": 6,
@@ -13507,7 +13507,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 40,
+        "contributions": 43,
         "repositories": {
             "PrestaShop": 8,
             "dashgoals": 3,
@@ -15468,17 +15468,17 @@
         },
         "mergedPullRequests": 10
     },
-    "samy": {
-        "login": "samy",
-        "id": 1282106,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1282106?v=4",
-        "html_url": "https:\/\/github.com\/samy",
-        "name": "Samy Rabih",
-        "company": "Hubicus (groupe BVA)",
-        "blog": "http:\/\/lahaut.info",
-        "location": "Lyon",
+    "joseantgv": {
+        "login": "joseantgv",
+        "id": 5071263,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5071263?v=4",
+        "html_url": "https:\/\/github.com\/joseantgv",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
         "bio": null,
-        "email_domain": "lahaut.info",
+        "email_domain": "",
         "contributions": 12,
         "repositories": {
             "PrestaShop": 8,
@@ -15528,17 +15528,17 @@
         },
         "mergedPullRequests": 10
     },
-    "joseantgv": {
-        "login": "joseantgv",
-        "id": 5071263,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5071263?v=4",
-        "html_url": "https:\/\/github.com\/joseantgv",
-        "name": null,
-        "company": null,
-        "blog": "",
-        "location": null,
+    "samy": {
+        "login": "samy",
+        "id": 1282106,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1282106?v=4",
+        "html_url": "https:\/\/github.com\/samy",
+        "name": "Samy Rabih",
+        "company": "Hubicus (groupe BVA)",
+        "blog": "http:\/\/lahaut.info",
+        "location": "Lyon",
         "bio": null,
-        "email_domain": "",
+        "email_domain": "lahaut.info",
         "contributions": 12,
         "repositories": {
             "PrestaShop": 8,
@@ -17490,7 +17490,7 @@
         "id": 39614089,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/39614089?v=4",
         "html_url": "https:\/\/github.com\/PeeyushAgrawal",
-        "name": "peeyush.agrawal@publicissapient.com",
+        "name": "Peeyush Agrawal",
         "company": "Publicis Sapient",
         "blog": "",
         "location": null,
@@ -23505,7 +23505,7 @@
         "html_url": "https:\/\/github.com\/Tanguy-SALMON",
         "name": "Tanguy",
         "company": "@Thailand-Bangkok",
-        "blog": "Lathanao.hahaha",
+        "blog": "https:\/\/dev.to\/lathanao",
         "location": "Bangkok",
         "bio": "Constantly looking for better prompts.",
         "email_domain": "gmail.com",
