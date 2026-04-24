@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10542,
+        "contributions": 10545,
         "repositories": {
             "PrestaShop": 1162,
             "PrestaShop-modules": 2,
@@ -567,7 +567,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5149,
+        "contributions": 5154,
         "repositories": {
             "PrestaShop": 396,
             "PrestaShop-modules": 14,
@@ -779,7 +779,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7427,
+        "contributions": 7436,
         "repositories": {
             "PrestaShop": 745,
             "dashproducts": 2,
@@ -813,7 +813,7 @@
             "LocalizationFiles": 1,
             "example-modules": 22,
             "ps_qualityassurance": 1,
-            ".github": 7,
+            ".github": 9,
             "DocToolsBundle": 1,
             "hummingbird": 5,
             "ps-docs-theme": 1,
@@ -825,7 +825,7 @@
             "native-modules": 1,
             "keycloak_connector_demo": 8,
             "ps_fixturescreator": 3,
-            "ps_apiresources": 51,
+            "ps_apiresources": 53,
             "ui-testing-library": 23,
             "SeamlessUpgradeToolbox": 1
         },
@@ -867,7 +867,7 @@
                 }
             },
             "modules": {
-                "total": 167,
+                "total": 169,
                 "repositories": {
                     "dashproducts": 2,
                     "blockwishlist": 3,
@@ -885,7 +885,7 @@
                     "ps_qualityassurance": 1,
                     "ps_distributionapiclient": 10,
                     "ps_fixturescreator": 3,
-                    "ps_apiresources": 51
+                    "ps_apiresources": 53
                 }
             },
             "tools": {
@@ -914,15 +914,15 @@
                 }
             },
             "others": {
-                "total": 12,
+                "total": 14,
                 "repositories": {
-                    ".github": 7,
+                    ".github": 9,
                     "distribution-api": 4,
                     "native-modules": 1
                 }
             }
         },
-        "mergedPullRequests": 1160
+        "mergedPullRequests": 1164
     },
     "Hlavtox": {
         "login": "Hlavtox",
@@ -2507,7 +2507,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 655,
+        "contributions": 657,
         "repositories": {
             "PrestaShop": 222,
             "PrestaShop-modules": 4,
@@ -2562,7 +2562,7 @@
             "ps_supplierlist": 2,
             "ps_crossselling": 1,
             "ps_dataprivacy": 1,
-            "traces": 15,
+            "traces": 17,
             "TopContributors": 6,
             "psssst": 1,
             "ps_themecusto": 1,
@@ -2667,11 +2667,11 @@
                 }
             },
             "tools": {
-                "total": 28,
+                "total": 30,
                 "repositories": {
                     "PrestaShop-webservice-lib": 1,
                     "docker": 1,
-                    "traces": 15,
+                    "traces": 17,
                     "TopContributors": 6,
                     "psssst": 1,
                     "presthubot": 1,
@@ -2695,7 +2695,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 435
+        "mergedPullRequests": 437
     },
     "aleeks": {
         "login": "aleeks",
@@ -3415,7 +3415,7 @@
         "location": "74100 Annemasse, France",
         "bio": null,
         "email_domain": "",
-        "contributions": 1380,
+        "contributions": 1381,
         "repositories": {
             "PrestaShop": 10,
             "dashactivity": 1,
@@ -14922,6 +14922,69 @@
         },
         "mergedPullRequests": 11
     },
+    "dylanDenizonPresta": {
+        "login": "dylanDenizonPresta",
+        "id": 119846866,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/119846866?v=4",
+        "html_url": "https:\/\/github.com\/dylanDenizonPresta",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 14,
+        "repositories": {
+            "PrestaShop": 3,
+            "ps_apiresources": 1,
+            "ps_onepagecheckout": 7
+        },
+        "categories": {
+            "core": {
+                "total": 3,
+                "repositories": {
+                    "PrestaShop": 3
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 1,
+                "repositories": {
+                    "ps_apiresources": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 7,
+                "repositories": {
+                    "ps_onepagecheckout": 7
+                }
+            }
+        },
+        "mergedPullRequests": 11
+    },
     "Venatum": {
         "login": "Venatum",
         "id": 35234721,
@@ -16817,6 +16880,68 @@
         },
         "mergedPullRequests": 8
     },
+    "ThbPS": {
+        "login": "ThbPS",
+        "id": 109082310,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109082310?v=4",
+        "html_url": "https:\/\/github.com\/ThbPS",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 32,
+        "repositories": {
+            "PrestaShop": 2,
+            "prestashop-flashlight": 1,
+            "ps_onepagecheckout": 5
+        },
+        "categories": {
+            "core": {
+                "total": 2,
+                "repositories": {
+                    "PrestaShop": 2
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 6,
+                "repositories": {
+                    "prestashop-flashlight": 1,
+                    "ps_onepagecheckout": 5
+                }
+            }
+        },
+        "mergedPullRequests": 8
+    },
     "rblaurin": {
         "login": "rblaurin",
         "id": 19739263,
@@ -16870,69 +16995,6 @@
             "others": {
                 "total": 0,
                 "repositories": []
-            }
-        },
-        "mergedPullRequests": 8
-    },
-    "dylanDenizonPresta": {
-        "login": "dylanDenizonPresta",
-        "id": 119846866,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/119846866?v=4",
-        "html_url": "https:\/\/github.com\/dylanDenizonPresta",
-        "name": null,
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 14,
-        "repositories": {
-            "PrestaShop": 3,
-            "ps_apiresources": 1,
-            "ps_onepagecheckout": 4
-        },
-        "categories": {
-            "core": {
-                "total": 3,
-                "repositories": {
-                    "PrestaShop": 3
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 1,
-                "repositories": {
-                    "ps_apiresources": 1
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 4,
-                "repositories": {
-                    "ps_onepagecheckout": 4
-                }
             }
         },
         "mergedPullRequests": 8
@@ -17422,68 +17484,6 @@
             }
         },
         "mergedPullRequests": 8
-    },
-    "ThbPS": {
-        "login": "ThbPS",
-        "id": 109082310,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109082310?v=4",
-        "html_url": "https:\/\/github.com\/ThbPS",
-        "name": null,
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 30,
-        "repositories": {
-            "PrestaShop": 2,
-            "prestashop-flashlight": 1,
-            "ps_onepagecheckout": 4
-        },
-        "categories": {
-            "core": {
-                "total": 2,
-                "repositories": {
-                    "PrestaShop": 2
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 5,
-                "repositories": {
-                    "prestashop-flashlight": 1,
-                    "ps_onepagecheckout": 4
-                }
-            }
-        },
-        "mergedPullRequests": 7
     },
     "PeeyushAgrawal": {
         "login": "PeeyushAgrawal",
@@ -29473,8 +29473,8 @@
         "html_url": "https:\/\/github.com\/elboletaire",
         "name": "\u00d2scar Casajuana",
         "company": null,
-        "blog": "http:\/\/www.racotecnic.com",
-        "location": "Barcelona, Spain",
+        "blog": "https:\/\/vocdoni.io",
+        "location": "La Cerdanya, Spain",
         "bio": "full-stack engineer",
         "email_domain": "underave.net",
         "contributions": 2,
