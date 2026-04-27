@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10548,
+        "contributions": 10549,
         "repositories": {
             "PrestaShop": 1162,
             "PrestaShop-modules": 2,
@@ -13077,6 +13077,72 @@
         },
         "mergedPullRequests": 16
     },
+    "cnavarro-prestashop": {
+        "login": "cnavarro-prestashop",
+        "id": 127135637,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/127135637?v=4",
+        "html_url": "https:\/\/github.com\/cnavarro-prestashop",
+        "name": "Cyril Navarro",
+        "company": "@PrestaShopCorp ",
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 43,
+        "repositories": {
+            "PrestaShop": 9,
+            "dashgoals": 3,
+            "prestashop.github.io": 2,
+            ".github": 2
+        },
+        "categories": {
+            "core": {
+                "total": 9,
+                "repositories": {
+                    "PrestaShop": 9
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 3,
+                "repositories": {
+                    "dashgoals": 3
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 2,
+                "repositories": {
+                    "prestashop.github.io": 2
+                }
+            },
+            "others": {
+                "total": 2,
+                "repositories": {
+                    ".github": 2
+                }
+            }
+        },
+        "mergedPullRequests": 16
+    },
     "iqit-commerce": {
         "login": "iqit-commerce",
         "id": 3184920,
@@ -13492,72 +13558,6 @@
             "others": {
                 "total": 0,
                 "repositories": []
-            }
-        },
-        "mergedPullRequests": 15
-    },
-    "cnavarro-prestashop": {
-        "login": "cnavarro-prestashop",
-        "id": 127135637,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/127135637?v=4",
-        "html_url": "https:\/\/github.com\/cnavarro-prestashop",
-        "name": "Cyril Navarro",
-        "company": "@PrestaShopCorp ",
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 43,
-        "repositories": {
-            "PrestaShop": 8,
-            "dashgoals": 3,
-            "prestashop.github.io": 2,
-            ".github": 2
-        },
-        "categories": {
-            "core": {
-                "total": 8,
-                "repositories": {
-                    "PrestaShop": 8
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 3,
-                "repositories": {
-                    "dashgoals": 3
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 2,
-                "repositories": {
-                    "prestashop.github.io": 2
-                }
-            },
-            "others": {
-                "total": 2,
-                "repositories": {
-                    ".github": 2
-                }
             }
         },
         "mergedPullRequests": 15
@@ -29476,7 +29476,7 @@
         "blog": "https:\/\/vocdoni.io",
         "location": "La Cerdanya, Spain",
         "bio": "full-stack engineer",
-        "email_domain": "underave.net",
+        "email_domain": "",
         "contributions": 2,
         "repositories": {
             "PrestaShop": 1,
