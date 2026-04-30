@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10571,
+        "contributions": 10575,
         "repositories": {
-            "PrestaShop": 1162,
+            "PrestaShop": 1163,
             "PrestaShop-modules": 2,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 4,
@@ -118,13 +118,13 @@
             "ps_fixturescreator": 4,
             "ws-client": 3,
             "ps_apiresources": 13,
-            "ui-testing-library": 350
+            "ui-testing-library": 351
         },
         "categories": {
             "core": {
-                "total": 1176,
+                "total": 1177,
                 "repositories": {
-                    "PrestaShop": 1162,
+                    "PrestaShop": 1163,
                     "prestashop-ui-kit": 1,
                     "TranslationToolsBundle": 2,
                     "TranslationFiles": 3,
@@ -254,10 +254,10 @@
                 }
             },
             "tests": {
-                "total": 385,
+                "total": 386,
                 "repositories": {
                     "ga.tests.ui.pr": 35,
-                    "ui-testing-library": 350
+                    "ui-testing-library": 351
                 }
             },
             "blog": {
@@ -274,7 +274,7 @@
                 }
             }
         },
-        "mergedPullRequests": 2292
+        "mergedPullRequests": 2294
     },
     "matks": {
         "login": "matks",
@@ -567,7 +567,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5158,
+        "contributions": 5162,
         "repositories": {
             "PrestaShop": 396,
             "PrestaShop-modules": 14,
@@ -643,7 +643,8 @@
             ".github": 1,
             "distribution-api": 14,
             "ps_distributionapiclient": 3,
-            "SeamlessUpgradeToolbox": 3
+            "SeamlessUpgradeToolbox": 3,
+            "skills": 2
         },
         "categories": {
             "core": {
@@ -757,16 +758,17 @@
                 }
             },
             "others": {
-                "total": 20,
+                "total": 22,
                 "repositories": {
                     "InstallUnpacker": 1,
                     "firebaseauthenticator": 4,
                     ".github": 1,
-                    "distribution-api": 14
+                    "distribution-api": 14,
+                    "skills": 2
                 }
             }
         },
-        "mergedPullRequests": 1180
+        "mergedPullRequests": 1182
     },
     "jolelievre": {
         "login": "jolelievre",
@@ -779,7 +781,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7457,
+        "contributions": 7458,
         "repositories": {
             "PrestaShop": 745,
             "dashproducts": 2,
@@ -3415,7 +3417,7 @@
         "location": "74100 Annemasse, France",
         "bio": null,
         "email_domain": "",
-        "contributions": 1467,
+        "contributions": 1469,
         "repositories": {
             "PrestaShop": 10,
             "dashactivity": 1,
@@ -3844,7 +3846,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1542,
+        "contributions": 1543,
         "repositories": {
             "PrestaShop": 138,
             "blockwishlist": 6,
@@ -8851,7 +8853,7 @@
         "location": null,
         "bio": "French fullstack developper (Node \/ Vue)",
         "email_domain": "gmail.com",
-        "contributions": 275,
+        "contributions": 276,
         "repositories": {
             "PrestaShop": 32,
             "blockwishlist": 1,
@@ -27710,6 +27712,66 @@
         },
         "mergedPullRequests": 2
     },
+    "paulnoelcholot": {
+        "login": "paulnoelcholot",
+        "id": 112863083,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/112863083?v=4",
+        "html_url": "https:\/\/github.com\/paulnoelcholot",
+        "name": "Paul-No\u00ebl",
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 6,
+        "repositories": {
+            "PrestaShop": 1,
+            "ui-testing-library": 1
+        },
+        "categories": {
+            "core": {
+                "total": 1,
+                "repositories": {
+                    "PrestaShop": 1
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 1,
+                "repositories": {
+                    "ui-testing-library": 1
+                }
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 2
+    },
     "xibe": {
         "login": "xibe",
         "id": 2806515,
@@ -36146,63 +36208,6 @@
                 "repositories": {
                     "psgdpr": 1
                 }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 1
-    },
-    "paulnoelcholot": {
-        "login": "paulnoelcholot",
-        "id": 112863083,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/112863083?v=4",
-        "html_url": "https:\/\/github.com\/paulnoelcholot",
-        "name": "Paul-No\u00ebl",
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 2,
-        "repositories": {
-            "PrestaShop": 1
-        },
-        "categories": {
-            "core": {
-                "total": 1,
-                "repositories": {
-                    "PrestaShop": 1
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
             },
             "tools": {
                 "total": 0,
