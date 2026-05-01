@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10575,
+        "contributions": 10582,
         "repositories": {
             "PrestaShop": 1163,
             "PrestaShop-modules": 2,
@@ -1012,7 +1012,7 @@
             "circuit-breaker": 1,
             "open-source": 2,
             "LocalizationFiles": 1,
-            "hummingbird": 37,
+            "hummingbird": 38,
             "distribution-api": 1,
             "ga.tests.ui.pr": 1,
             "classic-theme": 15,
@@ -1041,9 +1041,9 @@
                 }
             },
             "themes": {
-                "total": 52,
+                "total": 53,
                 "repositories": {
-                    "hummingbird": 37,
+                    "hummingbird": 38,
                     "classic-theme": 15
                 }
             },
@@ -1144,7 +1144,7 @@
                 }
             }
         },
-        "mergedPullRequests": 932
+        "mergedPullRequests": 933
     },
     "nesrineabdmouleh": {
         "login": "nesrineabdmouleh",
@@ -21246,7 +21246,7 @@
         "html_url": "https:\/\/github.com\/amaury-hanser",
         "name": null,
         "company": null,
-        "blog": "www.amauryhanser.com",
+        "blog": "",
         "location": "France",
         "bio": null,
         "email_domain": "",

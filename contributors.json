@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10575,
+        "contributions": 10582,
         "repositories": {
             "PrestaShop": 4503,
             "PrestaShop-modules": 31,
@@ -119,7 +119,7 @@
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1028,
+            "test-scenarios": 1029,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -136,7 +136,7 @@
             "ps_fixturescreator": 11,
             "ws-client": 25,
             "ps_apiresources": 5,
-            "ui-testing-library": 1198
+            "ui-testing-library": 1204
         },
         "categories": {
             "core": {
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1246,
+                "total": 1247,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1028,
+                    "test-scenarios": 1029,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -290,9 +290,9 @@
                 }
             },
             "tests": {
-                "total": 1299,
+                "total": 1305,
                 "repositories": {
-                    "ui-testing-library": 1198,
+                    "ui-testing-library": 1204,
                     "ga.tests.ui.pr": 101
                 }
             },
@@ -33601,7 +33601,7 @@
         "html_url": "https:\/\/github.com\/amaury-hanser",
         "name": null,
         "company": null,
-        "blog": "www.amauryhanser.com",
+        "blog": "",
         "location": "France",
         "bio": null,
         "email_domain": "",
@@ -50687,5 +50687,5 @@
             }
         }
     },
-    "updatedAt": "2026-04-30 06:54:12"
+    "updatedAt": "2026-05-01 06:56:36"
 }
