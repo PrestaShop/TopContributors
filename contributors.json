@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10582,
+        "contributions": 10584,
         "repositories": {
             "PrestaShop": 4503,
             "PrestaShop-modules": 31,
@@ -119,7 +119,7 @@
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1029,
+            "test-scenarios": 1030,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -136,7 +136,7 @@
             "ps_fixturescreator": 11,
             "ws-client": 25,
             "ps_apiresources": 5,
-            "ui-testing-library": 1204
+            "ui-testing-library": 1205
         },
         "categories": {
             "core": {
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1247,
+                "total": 1248,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1029,
+                    "test-scenarios": 1030,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -290,9 +290,9 @@
                 }
             },
             "tests": {
-                "total": 1305,
+                "total": 1306,
                 "repositories": {
-                    "ui-testing-library": 1204,
+                    "ui-testing-library": 1205,
                     "ga.tests.ui.pr": 101
                 }
             },
@@ -1007,7 +1007,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5162,
+        "contributions": 5164,
         "repositories": {
             "PrestaShop": 1711,
             "PrestaShop-modules": 349,
@@ -1102,7 +1102,7 @@
             "open-source": 6,
             "php-dev-tools": 66,
             ".github": 7,
-            "distribution-api": 37,
+            "distribution-api": 39,
             "classic-theme": 61,
             "ps_distributionapiclient": 4,
             "ps_apiresources": 1,
@@ -1243,13 +1243,13 @@
                 }
             },
             "others": {
-                "total": 81,
+                "total": 83,
                 "repositories": {
                     ".github": 7,
                     "themeinstallator": 3,
                     "InstallUnpacker": 3,
                     "firebaseauthenticator": 23,
-                    "distribution-api": 37,
+                    "distribution-api": 39,
                     "skills": 8
                 }
             }
@@ -50687,5 +50687,5 @@
             }
         }
     },
-    "updatedAt": "2026-05-01 06:56:36"
+    "updatedAt": "2026-05-02 06:40:47"
 }

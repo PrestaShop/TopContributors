@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10582,
+        "contributions": 10584,
         "repositories": {
             "PrestaShop": 1163,
             "PrestaShop-modules": 2,
@@ -567,7 +567,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5162,
+        "contributions": 5164,
         "repositories": {
             "PrestaShop": 396,
             "PrestaShop-modules": 14,
@@ -641,7 +641,7 @@
             "open-source": 2,
             "php-dev-tools": 27,
             ".github": 1,
-            "distribution-api": 14,
+            "distribution-api": 15,
             "ps_distributionapiclient": 3,
             "SeamlessUpgradeToolbox": 3,
             "skills": 2
@@ -758,17 +758,17 @@
                 }
             },
             "others": {
-                "total": 22,
+                "total": 23,
                 "repositories": {
                     "InstallUnpacker": 1,
                     "firebaseauthenticator": 4,
                     ".github": 1,
-                    "distribution-api": 14,
+                    "distribution-api": 15,
                     "skills": 2
                 }
             }
         },
-        "mergedPullRequests": 1182
+        "mergedPullRequests": 1183
     },
     "jolelievre": {
         "login": "jolelievre",
