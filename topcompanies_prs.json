@@ -4,7 +4,7 @@
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 8334,
+        "merged_pull_requests": 8336,
         "merged_pull_requests_by_version": {
             "9.2": 50,
             "9.1": 101,
@@ -24,7 +24,7 @@
             "1.6.1": 273
         },
         "merged_pull_requests_by_year": {
-            "2026": 194,
+            "2026": 196,
             "2025": 436,
             "2024": 543,
             "2023": 679,
@@ -40,8 +40,8 @@
             "2013": 525,
             "2012": 32
         },
-        "pull_requests_percent": 29.58,
-        "contributions": 34026,
+        "pull_requests_percent": 29.57,
+        "contributions": 34035,
         "contributions_by_version": {
             "9.2": 508,
             "9.1": 1105,
@@ -61,7 +61,7 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 1037,
+            "2026": 1046,
             "2025": 2109,
             "2024": 2683,
             "2023": 3583,
@@ -77,7 +77,7 @@
             "2013": 1031,
             "2012": 56
         },
-        "contributions_percent": 27.82,
+        "contributions_percent": 27.81,
         "avatar_url": "",
         "html_url": "https:\/\/www.prestashop-project.org"
     },
@@ -87,10 +87,10 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 17157,
+            "merged_pull_requests": 17168,
             "merged_pull_requests_by_version": {
-                "9.2": 58,
-                "9.1": 179,
+                "9.2": 59,
+                "9.1": 185,
                 "9.0": 1012,
                 "8.2": 31,
                 "8.1": 469,
@@ -107,7 +107,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 523,
+                "2026": 534,
                 "2025": 1247,
                 "2024": 1290,
                 "2023": 1572,
@@ -123,10 +123,10 @@
                 "2013": 24
             },
             "pull_requests_percent": 60.91,
-            "contributions": 80407,
+            "contributions": 80444,
             "contributions_by_version": {
-                "9.2": 448,
-                "9.1": 2085,
+                "9.2": 453,
+                "9.1": 2103,
                 "9.0": 3998,
                 "8.2": 77,
                 "8.1": 2936,
@@ -143,7 +143,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 2186,
+                "2026": 2223,
                 "2025": 4879,
                 "2024": 5067,
                 "2023": 6413,
@@ -158,7 +158,7 @@
                 "2014": 786,
                 "2013": 36
             },
-            "contributions_percent": 65.75,
+            "contributions_percent": 65.74,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2815696?s=200&v=4",
             "html_url": "https:\/\/www.prestashop.com"
         },
@@ -307,7 +307,7 @@
                 "2019": 10,
                 "2018": 3
             },
-            "pull_requests_percent": 0.8,
+            "pull_requests_percent": 0.79,
             "contributions": 502,
             "contributions_by_version": {
                 "9.2": 3,
@@ -419,7 +419,7 @@
             "rank": 6,
             "rank_contributions": 7,
             "rank_pull_requests": 6,
-            "merged_pull_requests": 143,
+            "merged_pull_requests": 144,
             "merged_pull_requests_by_version": {
                 "9.2": 1,
                 "9.1": 9,
@@ -429,13 +429,13 @@
                 "8.0": 1
             },
             "merged_pull_requests_by_year": {
-                "2026": 33,
+                "2026": 34,
                 "2025": 87,
                 "2024": 16,
                 "2023": 7
             },
             "pull_requests_percent": 0.51,
-            "contributions": 225,
+            "contributions": 230,
             "contributions_by_version": {
                 "9.2": 1,
                 "9.1": 22,
@@ -445,12 +445,12 @@
                 "8.0": 2
             },
             "contributions_by_year": {
-                "2026": 54,
+                "2026": 59,
                 "2025": 128,
                 "2024": 32,
                 "2023": 11
             },
-            "contributions_percent": 0.18,
+            "contributions_percent": 0.19,
             "avatar_url": "https:\/\/www.codencode.it\/codencode-github-logo.jpg",
             "html_url": "https:\/\/www.codencode.it"
         },
@@ -765,37 +765,37 @@
             "rank": 14,
             "rank_contributions": 14,
             "rank_pull_requests": 14,
-            "merged_pull_requests": 30,
+            "merged_pull_requests": 32,
             "merged_pull_requests_by_version": {
                 "9.1": 8,
                 "9.0": 16
             },
             "merged_pull_requests_by_year": {
-                "2026": 3,
+                "2026": 5,
                 "2025": 10,
                 "2024": 9,
                 "2023": 8
             },
             "pull_requests_percent": 0.11,
-            "contributions": 65,
+            "contributions": 71,
             "contributions_by_version": {
                 "9.1": 15,
                 "9.0": 42
             },
             "contributions_by_year": {
-                "2026": 8,
+                "2026": 14,
                 "2025": 20,
                 "2024": 20,
                 "2023": 17
             },
-            "contributions_percent": 0.05,
+            "contributions_percent": 0.06,
             "avatar_url": "",
             "html_url": "https:\/\/www.evolutive.com\/"
         },
         {
             "name": "Kiwik",
             "rank": 15,
-            "rank_contributions": 16,
+            "rank_contributions": 17,
             "rank_pull_requests": 15,
             "merged_pull_requests": 28,
             "merged_pull_requests_by_version": {
@@ -837,26 +837,28 @@
         {
             "name": "Mademoiselle Bio",
             "rank": 16,
-            "rank_contributions": 17,
+            "rank_contributions": 16,
             "rank_pull_requests": 16,
-            "merged_pull_requests": 22,
+            "merged_pull_requests": 23,
             "merged_pull_requests_by_version": {
                 "9.1": 4,
                 "9.0": 1
             },
             "merged_pull_requests_by_year": {
+                "2026": 1,
                 "2025": 22
             },
             "pull_requests_percent": 0.08,
-            "contributions": 47,
+            "contributions": 64,
             "contributions_by_version": {
                 "9.1": 17,
                 "9.0": 2
             },
             "contributions_by_year": {
+                "2026": 17,
                 "2025": 47
             },
-            "contributions_percent": 0.04,
+            "contributions_percent": 0.05,
             "avatar_url": "",
             "html_url": "https:\/\/www.mademoiselle-bio.com"
         },
