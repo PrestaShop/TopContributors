@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10618,
+        "contributions": 10626,
         "repositories": {
-            "PrestaShop": 1165,
+            "PrestaShop": 1166,
             "PrestaShop-modules": 2,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 4,
@@ -122,9 +122,9 @@
         },
         "categories": {
             "core": {
-                "total": 1179,
+                "total": 1180,
                 "repositories": {
-                    "PrestaShop": 1165,
+                    "PrestaShop": 1166,
                     "prestashop-ui-kit": 1,
                     "TranslationToolsBundle": 2,
                     "TranslationFiles": 3,
@@ -274,7 +274,7 @@
                 }
             }
         },
-        "mergedPullRequests": 2297
+        "mergedPullRequests": 2298
     },
     "matks": {
         "login": "matks",
@@ -4935,7 +4935,7 @@
         "location": "Toulouse \/ France",
         "bio": "e-commerce, dev, founder of Creabilis Agency",
         "email_domain": "",
-        "contributions": 371,
+        "contributions": 372,
         "repositories": {
             "PrestaShop": 65,
             "PrestaShop-webservice-lib": 1,
@@ -4957,7 +4957,7 @@
             "ps_searchbar": 1,
             "ps_checkpayment": 1,
             "ps_emailalerts": 1,
-            "ps_specials": 3,
+            "ps_specials": 4,
             "ps_crossselling": 2,
             "ps_dataprivacy": 1,
             "ps_viewedproduct": 1,
@@ -5000,7 +5000,7 @@
                 }
             },
             "modules": {
-                "total": 37,
+                "total": 38,
                 "repositories": {
                     "dashproducts": 1,
                     "statsbestcustomers": 2,
@@ -5019,7 +5019,7 @@
                     "ps_searchbar": 1,
                     "ps_checkpayment": 1,
                     "ps_emailalerts": 1,
-                    "ps_specials": 3,
+                    "ps_specials": 4,
                     "ps_crossselling": 2,
                     "ps_dataprivacy": 1,
                     "ps_viewedproduct": 1,
@@ -5048,7 +5048,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 169
+        "mergedPullRequests": 170
     },
     "firstred": {
         "login": "firstred",
