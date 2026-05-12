@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10627,
+        "contributions": 10633,
         "repositories": {
             "PrestaShop": 1166,
             "PrestaShop-modules": 2,
@@ -781,9 +781,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7459,
+        "contributions": 7463,
         "repositories": {
-            "PrestaShop": 745,
+            "PrestaShop": 747,
             "dashproducts": 2,
             "blockwishlist": 3,
             "productcomments": 10,
@@ -822,7 +822,7 @@
             "devdocs-site": 2,
             "distribution-api": 4,
             "ga.tests.ui.pr": 25,
-            "classic-theme": 8,
+            "classic-theme": 9,
             "ps_distributionapiclient": 10,
             "native-modules": 1,
             "keycloak_connector_demo": 8,
@@ -833,9 +833,9 @@
         },
         "categories": {
             "core": {
-                "total": 781,
+                "total": 783,
                 "repositories": {
-                    "PrestaShop": 745,
+                    "PrestaShop": 747,
                     "prestashop-ui-kit": 10,
                     "TranslationToolsBundle": 3,
                     "TranslationFiles": 12,
@@ -862,10 +862,10 @@
                 }
             },
             "themes": {
-                "total": 13,
+                "total": 14,
                 "repositories": {
                     "hummingbird": 5,
-                    "classic-theme": 8
+                    "classic-theme": 9
                 }
             },
             "modules": {
@@ -924,7 +924,7 @@
                 }
             }
         },
-        "mergedPullRequests": 1164
+        "mergedPullRequests": 1167
     },
     "Hlavtox": {
         "login": "Hlavtox",
@@ -3417,7 +3417,7 @@
         "location": "74100 Annemasse, France",
         "bio": null,
         "email_domain": "",
-        "contributions": 1469,
+        "contributions": 1473,
         "repositories": {
             "PrestaShop": 10,
             "dashactivity": 1,
@@ -3488,7 +3488,7 @@
             "psgdpr": 1,
             "ps_faviconnotificationbo": 1,
             ".github": 6,
-            "hummingbird": 26,
+            "hummingbird": 31,
             "distribution-api": 13,
             "classic-theme": 4,
             "ps_distributionapiclient": 1,
@@ -3514,9 +3514,9 @@
                 }
             },
             "themes": {
-                "total": 30,
+                "total": 35,
                 "repositories": {
-                    "hummingbird": 26,
+                    "hummingbird": 31,
                     "classic-theme": 4
                 }
             },
@@ -3617,7 +3617,7 @@
                 }
             }
         },
-        "mergedPullRequests": 277
+        "mergedPullRequests": 282
     },
     "julienbourdeau": {
         "login": "julienbourdeau",
@@ -3846,11 +3846,11 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1557,
+        "contributions": 1563,
         "repositories": {
             "PrestaShop": 142,
             "blockwishlist": 6,
-            "autoupgrade": 2,
+            "autoupgrade": 3,
             "gsitemap": 1,
             "prestashop.github.io": 5,
             "docker": 1,
@@ -3858,7 +3858,7 @@
             "ps_sharebuttons": 3,
             "ps_contactinfo": 2,
             "ps_mainmenu": 1,
-            "docs": 4,
+            "docs": 5,
             "ps_cashondelivery": 1,
             "traces": 1,
             "TopContributors": 2,
@@ -3892,9 +3892,9 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 16,
+                "total": 17,
                 "repositories": {
-                    "docs": 4,
+                    "docs": 5,
                     "open-source": 7,
                     "example-modules": 1,
                     "test-scenarios": 2,
@@ -3909,10 +3909,10 @@
                 }
             },
             "modules": {
-                "total": 29,
+                "total": 30,
                 "repositories": {
                     "blockwishlist": 6,
-                    "autoupgrade": 2,
+                    "autoupgrade": 3,
                     "gsitemap": 1,
                     "contactform": 1,
                     "ps_sharebuttons": 3,
@@ -3955,7 +3955,7 @@
                 }
             }
         },
-        "mergedPullRequests": 219
+        "mergedPullRequests": 221
     },
     "tblivet": {
         "login": "tblivet",
