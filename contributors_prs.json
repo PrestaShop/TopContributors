@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10633,
+        "contributions": 10640,
         "repositories": {
             "PrestaShop": 1166,
             "PrestaShop-modules": 2,
@@ -118,7 +118,7 @@
             "ps_fixturescreator": 4,
             "ws-client": 3,
             "ps_apiresources": 13,
-            "ui-testing-library": 352
+            "ui-testing-library": 354
         },
         "categories": {
             "core": {
@@ -254,10 +254,10 @@
                 }
             },
             "tests": {
-                "total": 387,
+                "total": 389,
                 "repositories": {
                     "ga.tests.ui.pr": 35,
-                    "ui-testing-library": 352
+                    "ui-testing-library": 354
                 }
             },
             "blog": {
@@ -274,7 +274,7 @@
                 }
             }
         },
-        "mergedPullRequests": 2298
+        "mergedPullRequests": 2300
     },
     "matks": {
         "login": "matks",
@@ -567,7 +567,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5164,
+        "contributions": 5168,
         "repositories": {
             "PrestaShop": 396,
             "PrestaShop-modules": 14,
@@ -644,7 +644,7 @@
             "distribution-api": 15,
             "ps_distributionapiclient": 3,
             "SeamlessUpgradeToolbox": 3,
-            "skills": 2
+            "skills": 3
         },
         "categories": {
             "core": {
@@ -758,17 +758,17 @@
                 }
             },
             "others": {
-                "total": 23,
+                "total": 24,
                 "repositories": {
                     "InstallUnpacker": 1,
                     "firebaseauthenticator": 4,
                     ".github": 1,
                     "distribution-api": 15,
-                    "skills": 2
+                    "skills": 3
                 }
             }
         },
-        "mergedPullRequests": 1185
+        "mergedPullRequests": 1186
     },
     "jolelievre": {
         "login": "jolelievre",
@@ -937,7 +937,7 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 2388,
+        "contributions": 2390,
         "repositories": {
             "PrestaShop": 380,
             "dashactivity": 4,
@@ -996,7 +996,7 @@
             "ps_bestsellers": 12,
             "ps_brandlist": 6,
             "ps_categoryproducts": 10,
-            "ps_newproducts": 10,
+            "ps_newproducts": 12,
             "ps_specials": 6,
             "ps_supplierlist": 6,
             "ps_crossselling": 3,
@@ -1048,7 +1048,7 @@
                 }
             },
             "modules": {
-                "total": 475,
+                "total": 477,
                 "repositories": {
                     "dashactivity": 4,
                     "dashgoals": 4,
@@ -1103,7 +1103,7 @@
                     "ps_bestsellers": 12,
                     "ps_brandlist": 6,
                     "ps_categoryproducts": 10,
-                    "ps_newproducts": 10,
+                    "ps_newproducts": 12,
                     "ps_specials": 6,
                     "ps_supplierlist": 6,
                     "ps_crossselling": 3,
@@ -1144,7 +1144,7 @@
                 }
             }
         },
-        "mergedPullRequests": 933
+        "mergedPullRequests": 935
     },
     "nesrineabdmouleh": {
         "login": "nesrineabdmouleh",
@@ -1790,7 +1790,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3482,
+        "contributions": 3484,
         "repositories": {
             "PrestaShop": 173,
             "PrestaShop-modules": 3,
@@ -1840,7 +1840,7 @@
             "classic-theme": 4,
             "ps-monitor-module-releases": 1,
             "ps_fixturescreator": 2,
-            "ps_apiresources": 3,
+            "ps_apiresources": 4,
             "ps_onepagecheckout": 1
         },
         "categories": {
@@ -1878,7 +1878,7 @@
                 }
             },
             "modules": {
-                "total": 72,
+                "total": 73,
                 "repositories": {
                     "PrestaShop-modules": 3,
                     "pagesnotfound": 1,
@@ -1905,7 +1905,7 @@
                     "psgdpr": 4,
                     "ps_qualityassurance": 1,
                     "ps_fixturescreator": 2,
-                    "ps_apiresources": 3
+                    "ps_apiresources": 4
                 }
             },
             "tools": {
@@ -1940,7 +1940,7 @@
                 }
             }
         },
-        "mergedPullRequests": 570
+        "mergedPullRequests": 571
     },
     "eternoendless": {
         "login": "eternoendless",

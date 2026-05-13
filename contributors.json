@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10633,
+        "contributions": 10640,
         "repositories": {
-            "PrestaShop": 4518,
+            "PrestaShop": 4520,
             "PrestaShop-modules": 31,
             "PrestaShop-webservice-lib": 4,
             "dashactivity": 14,
@@ -119,7 +119,7 @@
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1038,
+            "test-scenarios": 1039,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -136,13 +136,13 @@
             "ps_fixturescreator": 11,
             "ws-client": 25,
             "ps_apiresources": 5,
-            "ui-testing-library": 1212
+            "ui-testing-library": 1216
         },
         "categories": {
             "core": {
-                "total": 4621,
+                "total": 4623,
                 "repositories": {
-                    "PrestaShop": 4518,
+                    "PrestaShop": 4520,
                     "prestashop-ui-kit": 50,
                     "TranslationToolsBundle": 9,
                     "LocalizationFiles": 9,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1256,
+                "total": 1257,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1038,
+                    "test-scenarios": 1039,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -290,9 +290,9 @@
                 }
             },
             "tests": {
-                "total": 1313,
+                "total": 1317,
                 "repositories": {
-                    "ui-testing-library": 1212,
+                    "ui-testing-library": 1216,
                     "ga.tests.ui.pr": 101
                 }
             },
@@ -1007,7 +1007,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5164,
+        "contributions": 5168,
         "repositories": {
             "PrestaShop": 1711,
             "PrestaShop-modules": 349,
@@ -1107,7 +1107,7 @@
             "ps_distributionapiclient": 4,
             "ps_apiresources": 1,
             "SeamlessUpgradeToolbox": 5,
-            "skills": 8
+            "skills": 12
         },
         "categories": {
             "core": {
@@ -1243,14 +1243,14 @@
                 }
             },
             "others": {
-                "total": 83,
+                "total": 87,
                 "repositories": {
                     ".github": 7,
                     "themeinstallator": 3,
                     "InstallUnpacker": 3,
                     "firebaseauthenticator": 23,
                     "distribution-api": 39,
-                    "skills": 8
+                    "skills": 12
                 }
             }
         }
@@ -1727,7 +1727,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3482,
+        "contributions": 3484,
         "repositories": {
             "PrestaShop": 822,
             "PrestaShop-modules": 4,
@@ -1836,7 +1836,7 @@
             "ps-monitor-module-releases": 4,
             "ps_fixturescreator": 6,
             "webservice-postman-examples": 6,
-            "ps_apiresources": 12,
+            "ps_apiresources": 14,
             "ui-testing-library": 1,
             "ps_onepagecheckout": 1,
             "pshotfix_ghsaw9f3qc75qgx9": 1
@@ -1884,7 +1884,7 @@
                 }
             },
             "modules": {
-                "total": 607,
+                "total": 609,
                 "repositories": {
                     "PrestaShop-modules": 4,
                     "dashactivity": 1,
@@ -1953,7 +1953,7 @@
                     "ps_qualityassurance": 4,
                     "ps_googleanalytics": 5,
                     "psgdpr": 15,
-                    "ps_apiresources": 12,
+                    "ps_apiresources": 14,
                     "ps_distributionapiclient": 1,
                     "ps_fixturescreator": 6
                 }
@@ -2278,7 +2278,7 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 2388,
+        "contributions": 2390,
         "repositories": {
             "PrestaShop": 1065,
             "PrestaShop-webservice-lib": 1,
@@ -2340,7 +2340,7 @@
             "ps_bestsellers": 18,
             "ps_brandlist": 7,
             "ps_categoryproducts": 15,
-            "ps_newproducts": 16,
+            "ps_newproducts": 18,
             "ps_specials": 14,
             "ps_supplierlist": 10,
             "ps_crossselling": 7,
@@ -2394,7 +2394,7 @@
                 }
             },
             "modules": {
-                "total": 1040,
+                "total": 1042,
                 "repositories": {
                     "dashactivity": 13,
                     "dashgoals": 3,
@@ -2449,7 +2449,7 @@
                     "ps_bestsellers": 18,
                     "ps_brandlist": 7,
                     "ps_categoryproducts": 15,
-                    "ps_newproducts": 16,
+                    "ps_newproducts": 18,
                     "ps_specials": 14,
                     "ps_supplierlist": 10,
                     "ps_crossselling": 7,
@@ -50752,5 +50752,5 @@
             }
         }
     },
-    "updatedAt": "2026-05-12 07:00:35"
+    "updatedAt": "2026-05-13 07:08:27"
 }
