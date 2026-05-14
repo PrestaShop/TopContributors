@@ -77,7 +77,7 @@
             "2013": 1031,
             "2012": 56
         },
-        "contributions_percent": 27.81,
+        "contributions_percent": 27.8,
         "avatar_url": "",
         "html_url": "https:\/\/www.prestashop-project.org"
     },
@@ -87,9 +87,9 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 17181,
+            "merged_pull_requests": 17182,
             "merged_pull_requests_by_version": {
-                "9.2": 60,
+                "9.2": 61,
                 "9.1": 186,
                 "9.0": 1012,
                 "8.2": 31,
@@ -107,7 +107,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 547,
+                "2026": 548,
                 "2025": 1247,
                 "2024": 1290,
                 "2023": 1572,
@@ -123,9 +123,9 @@
                 "2013": 24
             },
             "pull_requests_percent": 60.91,
-            "contributions": 80476,
+            "contributions": 80477,
             "contributions_by_version": {
-                "9.2": 454,
+                "9.2": 455,
                 "9.1": 2109,
                 "9.0": 3998,
                 "8.2": 77,
@@ -143,7 +143,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 2255,
+                "2026": 2256,
                 "2025": 4879,
                 "2024": 5067,
                 "2023": 6413,
@@ -283,7 +283,7 @@
             "rank": 4,
             "rank_contributions": 4,
             "rank_pull_requests": 4,
-            "merged_pull_requests": 225,
+            "merged_pull_requests": 226,
             "merged_pull_requests_by_version": {
                 "9.2": 1,
                 "9.1": 2,
@@ -297,7 +297,7 @@
                 "1.7.5": 1
             },
             "merged_pull_requests_by_year": {
-                "2026": 14,
+                "2026": 15,
                 "2025": 15,
                 "2024": 15,
                 "2023": 21,
@@ -308,7 +308,7 @@
                 "2018": 3
             },
             "pull_requests_percent": 0.8,
-            "contributions": 503,
+            "contributions": 504,
             "contributions_by_version": {
                 "9.2": 3,
                 "9.1": 11,
@@ -322,7 +322,7 @@
                 "1.7.5": 1
             },
             "contributions_by_year": {
-                "2026": 33,
+                "2026": 34,
                 "2025": 22,
                 "2024": 29,
                 "2023": 37,
@@ -415,9 +415,49 @@
             "html_url": "https:\/\/impsolutions.pl\/"
         },
         {
-            "name": "Okom3pom",
+            "name": "Codencode",
             "rank": 6,
             "rank_contributions": 6,
+            "rank_pull_requests": 6,
+            "merged_pull_requests": 147,
+            "merged_pull_requests_by_version": {
+                "9.2": 1,
+                "9.1": 12,
+                "9.0": 58,
+                "8.2": 32,
+                "8.1": 11,
+                "8.0": 1
+            },
+            "merged_pull_requests_by_year": {
+                "2026": 37,
+                "2025": 87,
+                "2024": 16,
+                "2023": 7
+            },
+            "pull_requests_percent": 0.52,
+            "contributions": 233,
+            "contributions_by_version": {
+                "9.2": 1,
+                "9.1": 25,
+                "9.0": 86,
+                "8.2": 44,
+                "8.1": 20,
+                "8.0": 2
+            },
+            "contributions_by_year": {
+                "2026": 62,
+                "2025": 128,
+                "2024": 32,
+                "2023": 11
+            },
+            "contributions_percent": 0.19,
+            "avatar_url": "https:\/\/www.codencode.it\/codencode-github-logo.jpg",
+            "html_url": "https:\/\/www.codencode.it"
+        },
+        {
+            "name": "Okom3pom",
+            "rank": 7,
+            "rank_contributions": 7,
             "rank_pull_requests": 8,
             "merged_pull_requests": 87,
             "merged_pull_requests_by_version": {
@@ -455,46 +495,6 @@
             "contributions_percent": 0.19,
             "avatar_url": "",
             "html_url": "https:\/\/okom3pom.com"
-        },
-        {
-            "name": "Codencode",
-            "rank": 7,
-            "rank_contributions": 7,
-            "rank_pull_requests": 6,
-            "merged_pull_requests": 144,
-            "merged_pull_requests_by_version": {
-                "9.2": 1,
-                "9.1": 9,
-                "9.0": 58,
-                "8.2": 32,
-                "8.1": 11,
-                "8.0": 1
-            },
-            "merged_pull_requests_by_year": {
-                "2026": 34,
-                "2025": 87,
-                "2024": 16,
-                "2023": 7
-            },
-            "pull_requests_percent": 0.51,
-            "contributions": 230,
-            "contributions_by_version": {
-                "9.2": 1,
-                "9.1": 22,
-                "9.0": 86,
-                "8.2": 44,
-                "8.1": 20,
-                "8.0": 2
-            },
-            "contributions_by_year": {
-                "2026": 59,
-                "2025": 128,
-                "2024": 32,
-                "2023": 11
-            },
-            "contributions_percent": 0.19,
-            "avatar_url": "https:\/\/www.codencode.it\/codencode-github-logo.jpg",
-            "html_url": "https:\/\/www.codencode.it"
         },
         {
             "name": "Friends of Presta",
@@ -797,20 +797,20 @@
             "rank": 15,
             "rank_contributions": 15,
             "rank_pull_requests": 18,
-            "merged_pull_requests": 12,
+            "merged_pull_requests": 13,
             "merged_pull_requests_by_version": {
-                "9.2": 7
+                "9.2": 8
             },
             "merged_pull_requests_by_year": {
-                "2026": 12
+                "2026": 13
             },
-            "pull_requests_percent": 0.04,
-            "contributions": 65,
+            "pull_requests_percent": 0.05,
+            "contributions": 67,
             "contributions_by_version": {
-                "9.2": 54
+                "9.2": 56
             },
             "contributions_by_year": {
-                "2026": 65
+                "2026": 67
             },
             "contributions_percent": 0.05,
             "avatar_url": "https:\/\/www.soledis.com\/wp-content\/uploads\/fbrfg\/favicon.svg",

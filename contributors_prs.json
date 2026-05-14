@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10640,
+        "contributions": 10644,
         "repositories": {
-            "PrestaShop": 1166,
+            "PrestaShop": 1167,
             "PrestaShop-modules": 2,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 4,
@@ -122,9 +122,9 @@
         },
         "categories": {
             "core": {
-                "total": 1180,
+                "total": 1181,
                 "repositories": {
-                    "PrestaShop": 1166,
+                    "PrestaShop": 1167,
                     "prestashop-ui-kit": 1,
                     "TranslationToolsBundle": 2,
                     "TranslationFiles": 3,
@@ -274,7 +274,7 @@
                 }
             }
         },
-        "mergedPullRequests": 2300
+        "mergedPullRequests": 2301
     },
     "matks": {
         "login": "matks",
@@ -937,7 +937,7 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 2390,
+        "contributions": 2392,
         "repositories": {
             "PrestaShop": 380,
             "dashactivity": 4,
@@ -1790,7 +1790,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3484,
+        "contributions": 3486,
         "repositories": {
             "PrestaShop": 173,
             "PrestaShop-modules": 3,
@@ -2971,7 +2971,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 580,
+        "contributions": 581,
         "repositories": {
             "PrestaShop": 113,
             "blockwishlist": 1,
@@ -4935,7 +4935,7 @@
         "location": "Toulouse \/ France",
         "bio": "e-commerce, dev, founder of Creabilis Agency",
         "email_domain": "",
-        "contributions": 372,
+        "contributions": 373,
         "repositories": {
             "PrestaShop": 65,
             "PrestaShop-webservice-lib": 1,
@@ -4950,7 +4950,7 @@
             "ps_featuredproducts": 1,
             "ps_customersignin": 1,
             "ps_categorytree": 1,
-            "docs": 51,
+            "docs": 52,
             "ps_shoppingcart": 1,
             "ps_facetedsearch": 1,
             "ps_customeraccountlinks": 1,
@@ -4986,9 +4986,9 @@
                 }
             },
             "documentation": {
-                "total": 53,
+                "total": 54,
                 "repositories": {
-                    "docs": 51,
+                    "docs": 52,
                     "open-source": 2
                 }
             },
@@ -5048,7 +5048,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 170
+        "mergedPullRequests": 171
     },
     "firstred": {
         "login": "firstred",
@@ -5205,6 +5205,101 @@
             }
         },
         "mergedPullRequests": 166
+    },
+    "Codencode": {
+        "login": "Codencode",
+        "id": 2463965,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
+        "html_url": "https:\/\/github.com\/Codencode",
+        "name": "Paolo Cunti @codencode",
+        "company": "Codencode",
+        "blog": "https:\/\/www.codencode.it",
+        "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
+        "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
+        "email_domain": "codencode.it",
+        "contributions": 317,
+        "repositories": {
+            "PrestaShop": 116,
+            "dashactivity": 1,
+            "autoupgrade": 6,
+            "contactform": 1,
+            "blockreassurance": 1,
+            "ps_socialfollow": 2,
+            "ps_linklist": 1,
+            "ps_emailsubscription": 4,
+            "ps_imageslider": 2,
+            "ps_mainmenu": 1,
+            "docs": 3,
+            "ps_facetedsearch": 4,
+            "ps_specials": 1,
+            "traces": 1,
+            "LocalizationFiles": 2,
+            "hummingbird": 3,
+            "classic-theme": 4,
+            "ps_apiresources": 10
+        },
+        "categories": {
+            "core": {
+                "total": 118,
+                "repositories": {
+                    "PrestaShop": 116,
+                    "LocalizationFiles": 2
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 3,
+                "repositories": {
+                    "docs": 3
+                }
+            },
+            "themes": {
+                "total": 7,
+                "repositories": {
+                    "hummingbird": 3,
+                    "classic-theme": 4
+                }
+            },
+            "modules": {
+                "total": 34,
+                "repositories": {
+                    "dashactivity": 1,
+                    "autoupgrade": 6,
+                    "contactform": 1,
+                    "blockreassurance": 1,
+                    "ps_socialfollow": 2,
+                    "ps_linklist": 1,
+                    "ps_emailsubscription": 4,
+                    "ps_imageslider": 2,
+                    "ps_mainmenu": 1,
+                    "ps_facetedsearch": 4,
+                    "ps_specials": 1,
+                    "ps_apiresources": 10
+                }
+            },
+            "tools": {
+                "total": 1,
+                "repositories": {
+                    "traces": 1
+                }
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 163
     },
     "leemyongpakvn": {
         "login": "leemyongpakvn",
@@ -5393,101 +5488,6 @@
             "tools": {
                 "total": 0,
                 "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 160
-    },
-    "Codencode": {
-        "login": "Codencode",
-        "id": 2463965,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
-        "html_url": "https:\/\/github.com\/Codencode",
-        "name": "Paolo Cunti @codencode",
-        "company": "Codencode",
-        "blog": "https:\/\/www.codencode.it",
-        "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
-        "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
-        "email_domain": "codencode.it",
-        "contributions": 317,
-        "repositories": {
-            "PrestaShop": 113,
-            "dashactivity": 1,
-            "autoupgrade": 6,
-            "contactform": 1,
-            "blockreassurance": 1,
-            "ps_socialfollow": 2,
-            "ps_linklist": 1,
-            "ps_emailsubscription": 4,
-            "ps_imageslider": 2,
-            "ps_mainmenu": 1,
-            "docs": 3,
-            "ps_facetedsearch": 4,
-            "ps_specials": 1,
-            "traces": 1,
-            "LocalizationFiles": 2,
-            "hummingbird": 3,
-            "classic-theme": 4,
-            "ps_apiresources": 10
-        },
-        "categories": {
-            "core": {
-                "total": 115,
-                "repositories": {
-                    "PrestaShop": 113,
-                    "LocalizationFiles": 2
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 3,
-                "repositories": {
-                    "docs": 3
-                }
-            },
-            "themes": {
-                "total": 7,
-                "repositories": {
-                    "hummingbird": 3,
-                    "classic-theme": 4
-                }
-            },
-            "modules": {
-                "total": 34,
-                "repositories": {
-                    "dashactivity": 1,
-                    "autoupgrade": 6,
-                    "contactform": 1,
-                    "blockreassurance": 1,
-                    "ps_socialfollow": 2,
-                    "ps_linklist": 1,
-                    "ps_emailsubscription": 4,
-                    "ps_imageslider": 2,
-                    "ps_mainmenu": 1,
-                    "ps_facetedsearch": 4,
-                    "ps_specials": 1,
-                    "ps_apiresources": 10
-                }
-            },
-            "tools": {
-                "total": 1,
-                "repositories": {
-                    "traces": 1
-                }
             },
             "tests": {
                 "total": 0,
@@ -30781,7 +30781,7 @@
         "company": null,
         "blog": "https:\/\/libmodulor.c100k.eu",
         "location": null,
-        "bio": "Senior Software Engineer (libmodulor.c100k.eu, github.com\/c100k) - Road & Trail Runner (10k: 34:59, 21k: 1h17, 42k: 2h46, UTMB idx: 676)",
+        "bio": "Senior Software Engineer (libmodulor.c100k.eu, github.com\/c100k) - Road & Trail Runner (10k: 34:59, 21k: 1h17, 42k: 2h46, UTMB idx: 720)",
         "email_domain": "gmail.com",
         "contributions": 1,
         "repositories": {
