@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10644,
+        "contributions": 10651,
         "repositories": {
             "PrestaShop": 1167,
             "PrestaShop-modules": 2,
@@ -567,7 +567,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5168,
+        "contributions": 5169,
         "repositories": {
             "PrestaShop": 396,
             "PrestaShop-modules": 14,
@@ -2509,7 +2509,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 658,
+        "contributions": 659,
         "repositories": {
             "PrestaShop": 222,
             "PrestaShop-modules": 4,
@@ -2572,6 +2572,7 @@
             "ps_buybuttonlite": 1,
             "prestashop-specs": 2,
             "open-source": 2,
+            "php-dev-tools": 1,
             "presthubot": 1,
             "example-modules": 2,
             "hummingbird": 2,
@@ -2584,9 +2585,10 @@
         },
         "categories": {
             "core": {
-                "total": 222,
+                "total": 223,
                 "repositories": {
-                    "PrestaShop": 222
+                    "PrestaShop": 222,
+                    "php-dev-tools": 1
                 }
             },
             "specs": {
@@ -2697,7 +2699,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 438
+        "mergedPullRequests": 439
     },
     "aleeks": {
         "login": "aleeks",
@@ -3846,9 +3848,9 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1563,
+        "contributions": 1564,
         "repositories": {
-            "PrestaShop": 142,
+            "PrestaShop": 143,
             "blockwishlist": 6,
             "autoupgrade": 3,
             "gsitemap": 1,
@@ -3881,9 +3883,9 @@
         },
         "categories": {
             "core": {
-                "total": 144,
+                "total": 145,
                 "repositories": {
-                    "PrestaShop": 142,
+                    "PrestaShop": 143,
                     "LocalizationFiles": 2
                 }
             },
@@ -3955,7 +3957,7 @@
                 }
             }
         },
-        "mergedPullRequests": 221
+        "mergedPullRequests": 222
     },
     "tblivet": {
         "login": "tblivet",
@@ -15362,6 +15364,68 @@
         },
         "mergedPullRequests": 10
     },
+    "ThbPS": {
+        "login": "ThbPS",
+        "id": 109082310,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109082310?v=4",
+        "html_url": "https:\/\/github.com\/ThbPS",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 33,
+        "repositories": {
+            "PrestaShop": 3,
+            "prestashop-flashlight": 1,
+            "ps_onepagecheckout": 6
+        },
+        "categories": {
+            "core": {
+                "total": 3,
+                "repositories": {
+                    "PrestaShop": 3
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 7,
+                "repositories": {
+                    "prestashop-flashlight": 1,
+                    "ps_onepagecheckout": 6
+                }
+            }
+        },
+        "mergedPullRequests": 10
+    },
     "tyloo": {
         "login": "tyloo",
         "id": 611035,
@@ -16026,68 +16090,6 @@
             "others": {
                 "total": 0,
                 "repositories": []
-            }
-        },
-        "mergedPullRequests": 9
-    },
-    "ThbPS": {
-        "login": "ThbPS",
-        "id": 109082310,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109082310?v=4",
-        "html_url": "https:\/\/github.com\/ThbPS",
-        "name": null,
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 32,
-        "repositories": {
-            "PrestaShop": 2,
-            "prestashop-flashlight": 1,
-            "ps_onepagecheckout": 6
-        },
-        "categories": {
-            "core": {
-                "total": 2,
-                "repositories": {
-                    "PrestaShop": 2
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 7,
-                "repositories": {
-                    "prestashop-flashlight": 1,
-                    "ps_onepagecheckout": 6
-                }
             }
         },
         "mergedPullRequests": 9
@@ -35506,7 +35508,7 @@
         "html_url": "https:\/\/github.com\/xsbr",
         "name": "Ricardo Santos",
         "company": null,
-        "blog": "http:\/\/zabbixzone.com",
+        "blog": "",
         "location": "S\u00e3o Paulo, Brazil",
         "bio": null,
         "email_domain": "gmail.com",
