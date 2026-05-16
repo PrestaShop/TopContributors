@@ -1,4 +1,12 @@
 {
+    "arthurzenika": {
+        "login": "arthurzenika",
+        "name": "Arthur Lutz",
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/445200?v=4",
+        "html_url": "https:\/\/github.com\/arthurzenika",
+        "contributions": 1,
+        "firstContributionAt": "2026-05-15T11:19:21Z"
+    },
     "islemdev": {
         "login": "islemdev",
         "name": null,
@@ -70,13 +78,5 @@
         "html_url": "https:\/\/github.com\/MrBaiame",
         "contributions": 1,
         "firstContributionAt": "2026-01-15T11:40:13Z"
-    },
-    "nguyenhy": {
-        "login": "nguyenhy",
-        "name": "nguyen",
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/31365333?v=4",
-        "html_url": "https:\/\/github.com\/nguyenhy",
-        "contributions": 1,
-        "firstContributionAt": "2025-12-29T15:36:09Z"
     }
 }
