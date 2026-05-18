@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10666,
+        "contributions": 10668,
         "repositories": {
             "PrestaShop": 1171,
             "PrestaShop-modules": 2,
@@ -3848,7 +3848,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1576,
+        "contributions": 1577,
         "repositories": {
             "PrestaShop": 144,
             "blockwishlist": 6,
@@ -13278,6 +13278,66 @@
         },
         "mergedPullRequests": 16
     },
+    "axel-paillaud": {
+        "login": "axel-paillaud",
+        "id": 85078268,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/85078268?v=4",
+        "html_url": "https:\/\/github.com\/axel-paillaud",
+        "name": "Axel Paillaud",
+        "company": "Axelweb",
+        "blog": "https:\/\/axelweb.fr",
+        "location": "Orl\u00e9ans, France",
+        "bio": "Web developer, lives in France.",
+        "email_domain": "axelweb.fr",
+        "contributions": 6,
+        "repositories": {
+            "PrestaShop": 2,
+            "docs": 14
+        },
+        "categories": {
+            "core": {
+                "total": 2,
+                "repositories": {
+                    "PrestaShop": 2
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 14,
+                "repositories": {
+                    "docs": 14
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 16
+    },
     "yanncyrille": {
         "login": "yanncyrille",
         "id": 3634851,
@@ -13661,66 +13721,6 @@
                 "total": 15,
                 "repositories": {
                     "docs": 15
-                }
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 15
-    },
-    "axel-paillaud": {
-        "login": "axel-paillaud",
-        "id": 85078268,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/85078268?v=4",
-        "html_url": "https:\/\/github.com\/axel-paillaud",
-        "name": "Axel Paillaud",
-        "company": "Axelweb",
-        "blog": "https:\/\/axelweb.fr",
-        "location": "Orl\u00e9ans, France",
-        "bio": "Web developer, lives in France.",
-        "email_domain": "axelweb.fr",
-        "contributions": 6,
-        "repositories": {
-            "PrestaShop": 1,
-            "docs": 14
-        },
-        "categories": {
-            "core": {
-                "total": 1,
-                "repositories": {
-                    "PrestaShop": 1
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 14,
-                "repositories": {
-                    "docs": 14
                 }
             },
             "themes": {
@@ -29722,7 +29722,7 @@
         "company": null,
         "blog": "",
         "location": "Qu\u00e9bec, Canada",
-        "bio": "\r\n    CEO&CTO                                \r\nDevOps but sysadmin in heart  \r\n                      \r\n\r\n",
+        "bio": "DevOps but SysAdmin in \u2764\ufe0f  \r\n                      \r\n\r\n",
         "email_domain": "",
         "contributions": 2,
         "repositories": {

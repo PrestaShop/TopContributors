@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10666,
+        "contributions": 10668,
         "repositories": {
             "PrestaShop": 4531,
             "PrestaShop-modules": 31,
@@ -114,12 +114,12 @@
             "php-dev-tools": 4,
             "QANightlyResults": 391,
             "LocalizationFiles": 9,
-            "presthubot": 505,
+            "presthubot": 506,
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1043,
+            "test-scenarios": 1044,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1261,
+                "total": 1262,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1043,
+                    "test-scenarios": 1044,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1351,
+                "total": 1352,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -280,7 +280,7 @@
                     "mjml-theme-converter": 1,
                     "nightly-board": 50,
                     "PrestaShop-webservice-lib": 4,
-                    "presthubot": 505,
+                    "presthubot": 506,
                     "prestonbot": 10,
                     "QANightlyResults": 391,
                     "TopContributors": 114,
@@ -3470,7 +3470,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1576,
+        "contributions": 1577,
         "repositories": {
             "PrestaShop": 844,
             "PrestaShop-webservice-lib": 1,
@@ -3526,7 +3526,7 @@
             "open-source": 23,
             "mjml-theme-converter": 1,
             "php-dev-tools": 3,
-            "QANightlyResults": 145,
+            "QANightlyResults": 146,
             "LocalizationFiles": 8,
             "presthubot": 86,
             "example-modules": 7,
@@ -3630,7 +3630,7 @@
                 }
             },
             "tools": {
-                "total": 293,
+                "total": 294,
                 "repositories": {
                     "bootstrap-compatibility-layer": 1,
                     "docker": 7,
@@ -3641,7 +3641,7 @@
                     "PrestaShop-webservice-lib": 1,
                     "presthubot": 86,
                     "prestonbot": 1,
-                    "QANightlyResults": 145,
+                    "QANightlyResults": 146,
                     "TopContributors": 7,
                     "TopTranslators": 1,
                     "traces": 24,
@@ -34736,7 +34736,7 @@
         "company": null,
         "blog": "",
         "location": "Qu\u00e9bec, Canada",
-        "bio": "\r\n    CEO&CTO                                \r\nDevOps but sysadmin in heart  \r\n                      \r\n\r\n",
+        "bio": "DevOps but SysAdmin in \u2764\ufe0f  \r\n                      \r\n\r\n",
         "email_domain": "",
         "contributions": 2,
         "repositories": {
@@ -50863,5 +50863,5 @@
             }
         }
     },
-    "updatedAt": "2026-05-17 06:59:02"
+    "updatedAt": "2026-05-18 08:53:32"
 }
