@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10688,
+        "contributions": 10703,
         "repositories": {
-            "PrestaShop": 1172,
+            "PrestaShop": 1173,
             "PrestaShop-modules": 2,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 4,
@@ -118,13 +118,13 @@
             "ps_fixturescreator": 4,
             "ws-client": 3,
             "ps_apiresources": 13,
-            "ui-testing-library": 354
+            "ui-testing-library": 355
         },
         "categories": {
             "core": {
-                "total": 1186,
+                "total": 1187,
                 "repositories": {
-                    "PrestaShop": 1172,
+                    "PrestaShop": 1173,
                     "prestashop-ui-kit": 1,
                     "TranslationToolsBundle": 2,
                     "TranslationFiles": 3,
@@ -254,10 +254,10 @@
                 }
             },
             "tests": {
-                "total": 389,
+                "total": 390,
                 "repositories": {
                     "ga.tests.ui.pr": 35,
-                    "ui-testing-library": 354
+                    "ui-testing-library": 355
                 }
             },
             "blog": {
@@ -274,7 +274,7 @@
                 }
             }
         },
-        "mergedPullRequests": 2308
+        "mergedPullRequests": 2310
     },
     "matks": {
         "login": "matks",
@@ -567,7 +567,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5180,
+        "contributions": 5181,
         "repositories": {
             "PrestaShop": 396,
             "PrestaShop-modules": 14,
@@ -783,7 +783,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7476,
+        "contributions": 7483,
         "repositories": {
             "PrestaShop": 750,
             "dashproducts": 2,
@@ -795,7 +795,7 @@
             "prestashop-ui-kit": 10,
             "ps_linklist": 33,
             "ps_contactinfo": 3,
-            "docs": 56,
+            "docs": 57,
             "ps_currencyselector": 4,
             "ps_facetedsearch": 9,
             "ps_searchbar": 1,
@@ -829,7 +829,7 @@
             "native-modules": 1,
             "keycloak_connector_demo": 8,
             "ps_fixturescreator": 3,
-            "ps_apiresources": 53,
+            "ps_apiresources": 54,
             "ui-testing-library": 23,
             "SeamlessUpgradeToolbox": 1
         },
@@ -850,9 +850,9 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 101,
+                "total": 102,
                 "repositories": {
-                    "docs": 56,
+                    "docs": 57,
                     "example_module_mailtheme": 3,
                     "ADR": 7,
                     "open-source": 1,
@@ -871,7 +871,7 @@
                 }
             },
             "modules": {
-                "total": 169,
+                "total": 170,
                 "repositories": {
                     "dashproducts": 2,
                     "blockwishlist": 3,
@@ -889,7 +889,7 @@
                     "ps_qualityassurance": 1,
                     "ps_distributionapiclient": 10,
                     "ps_fixturescreator": 3,
-                    "ps_apiresources": 53
+                    "ps_apiresources": 54
                 }
             },
             "tools": {
@@ -926,7 +926,7 @@
                 }
             }
         },
-        "mergedPullRequests": 1170
+        "mergedPullRequests": 1172
     },
     "Hlavtox": {
         "login": "Hlavtox",
@@ -5223,7 +5223,7 @@
         "email_domain": "codencode.it",
         "contributions": 323,
         "repositories": {
-            "PrestaShop": 116,
+            "PrestaShop": 117,
             "dashactivity": 1,
             "autoupgrade": 6,
             "contactform": 1,
@@ -5244,9 +5244,9 @@
         },
         "categories": {
             "core": {
-                "total": 118,
+                "total": 119,
                 "repositories": {
-                    "PrestaShop": 116,
+                    "PrestaShop": 117,
                     "LocalizationFiles": 2
                 }
             },
@@ -5303,7 +5303,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 163
+        "mergedPullRequests": 164
     },
     "leemyongpakvn": {
         "login": "leemyongpakvn",
@@ -5602,7 +5602,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 240,
+        "contributions": 241,
         "repositories": {
             "PrestaShop": 104,
             "productcomments": 2,
@@ -46657,6 +46657,63 @@
             "modules": {
                 "total": 0,
                 "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 1
+    },
+    "MatthieuCutin": {
+        "login": "MatthieuCutin",
+        "id": 12746178,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12746178?v=4",
+        "html_url": "https:\/\/github.com\/MatthieuCutin",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "ps_apiresources": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 1,
+                "repositories": {
+                    "ps_apiresources": 1
+                }
             },
             "tools": {
                 "total": 0,
