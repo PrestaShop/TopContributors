@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10710,
+        "contributions": 10713,
         "repositories": {
-            "PrestaShop": 4536,
+            "PrestaShop": 4538,
             "PrestaShop-modules": 31,
             "PrestaShop-webservice-lib": 4,
             "dashactivity": 14,
@@ -119,7 +119,7 @@
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1050,
+            "test-scenarios": 1051,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -140,9 +140,9 @@
         },
         "categories": {
             "core": {
-                "total": 4639,
+                "total": 4641,
                 "repositories": {
-                    "PrestaShop": 4536,
+                    "PrestaShop": 4538,
                     "prestashop-ui-kit": 50,
                     "TranslationToolsBundle": 9,
                     "LocalizationFiles": 9,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1268,
+                "total": 1269,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1050,
+                    "test-scenarios": 1051,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -3470,7 +3470,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1583,
+        "contributions": 1584,
         "repositories": {
             "PrestaShop": 844,
             "PrestaShop-webservice-lib": 1,
@@ -3528,7 +3528,7 @@
             "php-dev-tools": 4,
             "QANightlyResults": 146,
             "LocalizationFiles": 8,
-            "presthubot": 87,
+            "presthubot": 88,
             "example-modules": 7,
             "ps_qualityassurance": 3,
             "test-scenarios": 2,
@@ -3630,7 +3630,7 @@
                 }
             },
             "tools": {
-                "total": 295,
+                "total": 296,
                 "repositories": {
                     "bootstrap-compatibility-layer": 1,
                     "docker": 7,
@@ -3639,7 +3639,7 @@
                     "mjml-theme-converter": 1,
                     "nightly-board": 1,
                     "PrestaShop-webservice-lib": 1,
-                    "presthubot": 87,
+                    "presthubot": 88,
                     "prestonbot": 1,
                     "QANightlyResults": 146,
                     "TopContributors": 7,
@@ -50982,5 +50982,5 @@
             }
         }
     },
-    "updatedAt": "2026-05-24 07:07:31"
+    "updatedAt": "2026-05-25 09:30:51"
 }
