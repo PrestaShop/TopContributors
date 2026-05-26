@@ -1,4 +1,12 @@
 {
+    "cdigruttola": {
+        "login": "cdigruttola",
+        "name": "Carmine Di Gruttola",
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9153905?v=4",
+        "html_url": "https:\/\/github.com\/cdigruttola",
+        "contributions": 1,
+        "firstContributionAt": "2026-05-25T17:44:14Z"
+    },
     "MatthieuCutin": {
         "login": "MatthieuCutin",
         "name": null,
@@ -70,13 +78,5 @@
         "html_url": "https:\/\/github.com\/nekoprog",
         "contributions": 4,
         "firstContributionAt": "2026-01-27T15:10:32Z"
-    },
-    "Peter-Liska": {
-        "login": "Peter-Liska",
-        "name": "Peter Liska",
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3206208?v=4",
-        "html_url": "https:\/\/github.com\/Peter-Liska",
-        "contributions": 1,
-        "firstContributionAt": "2026-01-23T21:39:53Z"
     }
 }
