@@ -4,9 +4,9 @@
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 8351,
+        "merged_pull_requests": 8358,
         "merged_pull_requests_by_version": {
-            "9.2": 55,
+            "9.2": 56,
             "9.1": 102,
             "9.0": 449,
             "8.2": 26,
@@ -24,7 +24,7 @@
             "1.6.1": 273
         },
         "merged_pull_requests_by_year": {
-            "2026": 211,
+            "2026": 218,
             "2025": 436,
             "2024": 543,
             "2023": 679,
@@ -40,10 +40,10 @@
             "2013": 525,
             "2012": 32
         },
-        "pull_requests_percent": 29.52,
-        "contributions": 34325,
+        "pull_requests_percent": 29.53,
+        "contributions": 34448,
         "contributions_by_version": {
-            "9.2": 527,
+            "9.2": 582,
             "9.1": 1114,
             "9.0": 3086,
             "8.2": 37,
@@ -61,7 +61,7 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 1336,
+            "2026": 1459,
             "2025": 2109,
             "2024": 2683,
             "2023": 3583,
@@ -77,7 +77,7 @@
             "2013": 1031,
             "2012": 56
         },
-        "contributions_percent": 27.91,
+        "contributions_percent": 27.97,
         "avatar_url": "",
         "html_url": "https:\/\/www.prestashop-project.org"
     },
@@ -87,9 +87,9 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 17227,
+            "merged_pull_requests": 17231,
             "merged_pull_requests_by_version": {
-                "9.2": 69,
+                "9.2": 71,
                 "9.1": 195,
                 "9.0": 1012,
                 "8.2": 31,
@@ -107,7 +107,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 593,
+                "2026": 597,
                 "2025": 1247,
                 "2024": 1290,
                 "2023": 1572,
@@ -122,10 +122,10 @@
                 "2014": 391,
                 "2013": 24
             },
-            "pull_requests_percent": 60.9,
-            "contributions": 80723,
+            "pull_requests_percent": 60.88,
+            "contributions": 80735,
             "contributions_by_version": {
-                "9.2": 518,
+                "9.2": 528,
                 "9.1": 2137,
                 "9.0": 3998,
                 "8.2": 77,
@@ -143,7 +143,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 2502,
+                "2026": 2514,
                 "2025": 4879,
                 "2024": 5067,
                 "2023": 6413,
@@ -158,7 +158,7 @@
                 "2014": 786,
                 "2013": 36
             },
-            "contributions_percent": 65.63,
+            "contributions_percent": 65.55,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2815696?s=200&v=4",
             "html_url": "https:\/\/www.prestashop.com"
         },
@@ -219,8 +219,9 @@
             "rank": 3,
             "rank_contributions": 3,
             "rank_pull_requests": 3,
-            "merged_pull_requests": 437,
+            "merged_pull_requests": 438,
             "merged_pull_requests_by_version": {
+                "9.2": 1,
                 "9.1": 2,
                 "9.0": 21,
                 "8.2": 2,
@@ -231,7 +232,7 @@
                 "1.6.1": 1
             },
             "merged_pull_requests_by_year": {
-                "2026": 10,
+                "2026": 11,
                 "2025": 56,
                 "2024": 28,
                 "2023": 14,
@@ -246,9 +247,10 @@
                 "2013": 52,
                 "2012": 13
             },
-            "pull_requests_percent": 1.54,
-            "contributions": 589,
+            "pull_requests_percent": 1.55,
+            "contributions": 599,
             "contributions_by_version": {
+                "9.2": 10,
                 "9.1": 4,
                 "9.0": 27,
                 "8.2": 3,
@@ -259,7 +261,7 @@
                 "1.6.1": 1
             },
             "contributions_by_year": {
-                "2026": 10,
+                "2026": 20,
                 "2025": 79,
                 "2024": 31,
                 "2023": 21,
@@ -274,7 +276,7 @@
                 "2013": 65,
                 "2012": 24
             },
-            "contributions_percent": 0.48,
+            "contributions_percent": 0.49,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2631425",
             "html_url": "https:\/\/prestaedit.com\/"
         },
@@ -450,7 +452,7 @@
                 "2024": 32,
                 "2023": 11
             },
-            "contributions_percent": 0.2,
+            "contributions_percent": 0.19,
             "avatar_url": "https:\/\/www.codencode.it\/codencode-github-logo.jpg",
             "html_url": "https:\/\/www.codencode.it"
         },
@@ -561,31 +563,31 @@
             "rank": 9,
             "rank_contributions": 12,
             "rank_pull_requests": 9,
-            "merged_pull_requests": 81,
+            "merged_pull_requests": 83,
             "merged_pull_requests_by_version": {
-                "9.2": 2,
-                "9.1": 8,
-                "9.0": 43,
-                "8.2": 2,
-                "8.1": 1
-            },
-            "merged_pull_requests_by_year": {
-                "2026": 14,
-                "2025": 65,
-                "2024": 1,
-                "2023": 1
-            },
-            "pull_requests_percent": 0.29,
-            "contributions": 84,
-            "contributions_by_version": {
                 "9.2": 2,
                 "9.1": 9,
                 "9.0": 43,
                 "8.2": 2,
                 "8.1": 1
             },
+            "merged_pull_requests_by_year": {
+                "2026": 16,
+                "2025": 65,
+                "2024": 1,
+                "2023": 1
+            },
+            "pull_requests_percent": 0.29,
+            "contributions": 86,
+            "contributions_by_version": {
+                "9.2": 2,
+                "9.1": 10,
+                "9.0": 43,
+                "8.2": 2,
+                "8.1": 1
+            },
             "contributions_by_year": {
-                "2026": 14,
+                "2026": 16,
                 "2025": 67,
                 "2024": 1,
                 "2023": 2
@@ -865,7 +867,7 @@
         {
             "name": "PrestaWorks",
             "rank": 17,
-            "rank_contributions": 19,
+            "rank_contributions": 20,
             "rank_pull_requests": 17,
             "merged_pull_requests": 17,
             "merged_pull_requests_by_version": {
@@ -925,7 +927,7 @@
         {
             "name": "Soci\u00e9t\u00e9 Biblique de Gen\u00e8ve",
             "rank": 19,
-            "rank_contributions": 21,
+            "rank_contributions": 22,
             "rank_pull_requests": 19,
             "merged_pull_requests": 9,
             "merged_pull_requests_by_version": {
@@ -953,7 +955,7 @@
         {
             "name": "Prestaplugins",
             "rank": 20,
-            "rank_contributions": 23,
+            "rank_contributions": 24,
             "rank_pull_requests": 20,
             "merged_pull_requests": 5,
             "merged_pull_requests_by_version": {
@@ -1081,9 +1083,39 @@
             "html_url": "https:\/\/www.fintecture.com\/"
         },
         {
+            "name": "Web Premiere",
+            "rank": 21,
+            "rank_contributions": 19,
+            "rank_pull_requests": 21,
+            "merged_pull_requests": 4,
+            "merged_pull_requests_by_version": {
+                "9.1": 2,
+                "9.0": 1,
+                "8.2": 1
+            },
+            "merged_pull_requests_by_year": {
+                "2026": 1,
+                "2025": 3
+            },
+            "pull_requests_percent": 0.01,
+            "contributions": 25,
+            "contributions_by_version": {
+                "9.1": 22,
+                "9.0": 2,
+                "8.2": 1
+            },
+            "contributions_by_year": {
+                "2026": 18,
+                "2025": 7
+            },
+            "contributions_percent": 0.02,
+            "avatar_url": "",
+            "html_url": "https:\/\/www.web-premiere.fr"
+        },
+        {
             "name": "Griiv",
             "rank": 22,
-            "rank_contributions": 22,
+            "rank_contributions": 23,
             "rank_pull_requests": 22,
             "merged_pull_requests": 3,
             "merged_pull_requests_by_version": {
@@ -1191,6 +1223,36 @@
             "html_url": "idnovate.com"
         },
         {
+            "name": "Novius",
+            "rank": 22,
+            "rank_contributions": 42,
+            "rank_pull_requests": 22,
+            "merged_pull_requests": 3,
+            "merged_pull_requests_by_version": {
+                "9.1": 1,
+                "8.1": 2
+            },
+            "merged_pull_requests_by_year": {
+                "2026": 1,
+                "2024": 1,
+                "2023": 1
+            },
+            "pull_requests_percent": 0.01,
+            "contributions": 3,
+            "contributions_by_version": {
+                "9.1": 1,
+                "8.1": 2
+            },
+            "contributions_by_year": {
+                "2026": 1,
+                "2024": 1,
+                "2023": 1
+            },
+            "contributions_percent": 0,
+            "avatar_url": "",
+            "html_url": "https:\/\/www.novius.com"
+        },
+        {
             "name": "Profileo",
             "rank": 22,
             "rank_contributions": 42,
@@ -1215,34 +1277,6 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.profileo.com\/"
-        },
-        {
-            "name": "Web Premiere",
-            "rank": 22,
-            "rank_contributions": 25,
-            "rank_pull_requests": 22,
-            "merged_pull_requests": 3,
-            "merged_pull_requests_by_version": {
-                "9.1": 1,
-                "9.0": 1,
-                "8.2": 1
-            },
-            "merged_pull_requests_by_year": {
-                "2025": 3
-            },
-            "pull_requests_percent": 0.01,
-            "contributions": 7,
-            "contributions_by_version": {
-                "9.1": 4,
-                "9.0": 2,
-                "8.2": 1
-            },
-            "contributions_by_year": {
-                "2025": 7
-            },
-            "contributions_percent": 0.01,
-            "avatar_url": "",
-            "html_url": "https:\/\/www.web-premiere.fr"
         },
         {
             "name": "Wepika",
@@ -1295,7 +1329,7 @@
         {
             "name": "Com'onSoft",
             "rank": 23,
-            "rank_contributions": 24,
+            "rank_contributions": 25,
             "rank_pull_requests": 23,
             "merged_pull_requests": 2,
             "merged_pull_requests_by_version": {
@@ -1389,30 +1423,28 @@
             "html_url": "https:\/\/klemart3d.fr"
         },
         {
-            "name": "Novius",
+            "name": "MaoDev",
             "rank": 23,
-            "rank_contributions": 48,
+            "rank_contributions": 47,
             "rank_pull_requests": 23,
             "merged_pull_requests": 2,
             "merged_pull_requests_by_version": {
-                "8.1": 2
+                "9.1": 1
             },
             "merged_pull_requests_by_year": {
-                "2024": 1,
-                "2023": 1
+                "2026": 2
             },
             "pull_requests_percent": 0.01,
             "contributions": 2,
             "contributions_by_version": {
-                "8.1": 2
+                "9.1": 1
             },
             "contributions_by_year": {
-                "2024": 1,
-                "2023": 1
+                "2026": 2
             },
             "contributions_percent": 0,
             "avatar_url": "",
-            "html_url": "https:\/\/www.novius.com"
+            "html_url": "https:\/\/www.maofree-developer.com"
         },
         {
             "name": "ohmyweb!",
@@ -1659,7 +1691,7 @@
         {
             "name": "AGRO-LA",
             "rank": 24,
-            "rank_contributions": 20,
+            "rank_contributions": 21,
             "rank_pull_requests": 24,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
@@ -2127,26 +2159,6 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/makedigital.fr"
-        },
-        {
-            "name": "MaoDev",
-            "rank": 24,
-            "rank_contributions": 53,
-            "rank_pull_requests": 24,
-            "merged_pull_requests": 1,
-            "merged_pull_requests_by_version": [],
-            "merged_pull_requests_by_year": {
-                "2026": 1
-            },
-            "pull_requests_percent": 0,
-            "contributions": 1,
-            "contributions_by_version": [],
-            "contributions_by_year": {
-                "2026": 1
-            },
-            "contributions_percent": 0,
-            "avatar_url": "",
-            "html_url": "https:\/\/www.maofree-developer.com"
         },
         {
             "name": "MariaDB Foundation",
