@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10736,
+        "contributions": 10737,
         "repositories": {
             "PrestaShop": 1178,
             "PrestaShop-modules": 2,
@@ -3849,7 +3849,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1592,
+        "contributions": 1604,
         "repositories": {
             "PrestaShop": 145,
             "dashactivity": 2,
@@ -3985,7 +3985,7 @@
             "ps_searchbar": 1,
             "traces": 1,
             "open-source": 1,
-            "hummingbird": 117,
+            "hummingbird": 118,
             "ps-docs-theme": 1,
             "devdocs-site": 2,
             "classic-theme": 1,
@@ -4015,9 +4015,9 @@
                 }
             },
             "themes": {
-                "total": 118,
+                "total": 119,
                 "repositories": {
-                    "hummingbird": 117,
+                    "hummingbird": 118,
                     "classic-theme": 1
                 }
             },
@@ -4055,7 +4055,7 @@
                 }
             }
         },
-        "mergedPullRequests": 218
+        "mergedPullRequests": 219
     },
     "gskema": {
         "login": "gskema",
@@ -4832,7 +4832,7 @@
         "location": "Toulouse \/ France",
         "bio": "e-commerce, dev, founder of Creabilis Agency",
         "email_domain": "",
-        "contributions": 386,
+        "contributions": 387,
         "repositories": {
             "PrestaShop": 67,
             "PrestaShop-webservice-lib": 1,
@@ -8262,6 +8262,75 @@
         },
         "mergedPullRequests": 52
     },
+    "Prestaworks": {
+        "login": "Prestaworks",
+        "id": 2902272,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2902272?v=4",
+        "html_url": "https:\/\/github.com\/Prestaworks",
+        "name": "Daniel",
+        "company": "Prestaworks AB",
+        "blog": "https:\/\/www.prestaworks.se",
+        "location": "Sweden",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 92,
+        "repositories": {
+            "PrestaShop": 37,
+            "autoupgrade": 6,
+            "ps_linklist": 1,
+            "ps_imageslider": 1,
+            "docs": 6,
+            "ps_facetedsearch": 1
+        },
+        "categories": {
+            "core": {
+                "total": 37,
+                "repositories": {
+                    "PrestaShop": 37
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 6,
+                "repositories": {
+                    "docs": 6
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 9,
+                "repositories": {
+                    "autoupgrade": 6,
+                    "ps_linklist": 1,
+                    "ps_imageslider": 1,
+                    "ps_facetedsearch": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 52
+    },
     "micka-fdz": {
         "login": "micka-fdz",
         "id": 50865159,
@@ -8333,75 +8402,6 @@
                     "traces": 5,
                     "mjml-theme-converter": 1
                 }
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 51
-    },
-    "Prestaworks": {
-        "login": "Prestaworks",
-        "id": 2902272,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2902272?v=4",
-        "html_url": "https:\/\/github.com\/Prestaworks",
-        "name": "Daniel",
-        "company": "Prestaworks AB",
-        "blog": "https:\/\/www.prestaworks.se",
-        "location": "Sweden",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 90,
-        "repositories": {
-            "PrestaShop": 36,
-            "autoupgrade": 6,
-            "ps_linklist": 1,
-            "ps_imageslider": 1,
-            "docs": 6,
-            "ps_facetedsearch": 1
-        },
-        "categories": {
-            "core": {
-                "total": 36,
-                "repositories": {
-                    "PrestaShop": 36
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 6,
-                "repositories": {
-                    "docs": 6
-                }
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 9,
-                "repositories": {
-                    "autoupgrade": 6,
-                    "ps_linklist": 1,
-                    "ps_imageslider": 1,
-                    "ps_facetedsearch": 1
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
             },
             "tests": {
                 "total": 0,
