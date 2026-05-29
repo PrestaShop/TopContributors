@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10737,
+        "contributions": 10741,
         "repositories": {
-            "PrestaShop": 4545,
+            "PrestaShop": 4547,
             "PrestaShop-modules": 31,
             "PrestaShop-webservice-lib": 4,
             "dashactivity": 14,
@@ -114,12 +114,12 @@
             "php-dev-tools": 4,
             "QANightlyResults": 400,
             "LocalizationFiles": 9,
-            "presthubot": 509,
+            "presthubot": 510,
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1054,
+            "test-scenarios": 1055,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -140,9 +140,9 @@
         },
         "categories": {
             "core": {
-                "total": 4648,
+                "total": 4650,
                 "repositories": {
-                    "PrestaShop": 4545,
+                    "PrestaShop": 4547,
                     "prestashop-ui-kit": 50,
                     "TranslationToolsBundle": 9,
                     "LocalizationFiles": 9,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1272,
+                "total": 1273,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1054,
+                    "test-scenarios": 1055,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1380,
+                "total": 1381,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -280,7 +280,7 @@
                     "mjml-theme-converter": 1,
                     "nightly-board": 50,
                     "PrestaShop-webservice-lib": 4,
-                    "presthubot": 509,
+                    "presthubot": 510,
                     "prestonbot": 10,
                     "QANightlyResults": 400,
                     "TopContributors": 124,
@@ -322,9 +322,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7505,
+        "contributions": 7520,
         "repositories": {
-            "PrestaShop": 6005,
+            "PrestaShop": 6020,
             "dashactivity": 1,
             "dashgoals": 1,
             "dashproducts": 4,
@@ -417,9 +417,9 @@
         },
         "categories": {
             "core": {
-                "total": 6097,
+                "total": 6112,
                 "repositories": {
-                    "PrestaShop": 6005,
+                    "PrestaShop": 6020,
                     "prestashop-ui-kit": 16,
                     "TranslationToolsBundle": 14,
                     "LocalizationFiles": 3,
@@ -870,7 +870,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5193,
+        "contributions": 5198,
         "repositories": {
             "PrestaShop": 1711,
             "PrestaShop-modules": 349,
@@ -904,7 +904,7 @@
             "productcomments": 1,
             "pscleaner": 3,
             "themeinstallator": 3,
-            "autoupgrade": 1505,
+            "autoupgrade": 1510,
             "gsitemap": 6,
             "prestafraud": 1,
             "prestashop.github.io": 17,
@@ -1006,7 +1006,7 @@
                 }
             },
             "modules": {
-                "total": 2409,
+                "total": 2414,
                 "repositories": {
                     "PrestaShop-modules": 349,
                     "dashactivity": 1,
@@ -1037,7 +1037,7 @@
                     "blockwishlist": 38,
                     "productcomments": 1,
                     "pscleaner": 3,
-                    "autoupgrade": 1505,
+                    "autoupgrade": 1510,
                     "gsitemap": 6,
                     "prestafraud": 1,
                     "contactform": 1,
@@ -1653,7 +1653,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3618,
+        "contributions": 3621,
         "repositories": {
             "PrestaShop": 831,
             "PrestaShop-modules": 4,
@@ -1687,7 +1687,7 @@
             "productcomments": 24,
             "autoupgrade": 46,
             "gsitemap": 8,
-            "prestashop.github.io": 940,
+            "prestashop.github.io": 943,
             "StarterTheme": 3,
             "contactform": 10,
             "paymentexample": 7,
@@ -1909,9 +1909,9 @@
                 }
             },
             "blog": {
-                "total": 940,
+                "total": 943,
                 "repositories": {
-                    "prestashop.github.io": 940
+                    "prestashop.github.io": 943
                 }
             },
             "others": {
@@ -2278,9 +2278,9 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 2397,
+        "contributions": 2398,
         "repositories": {
-            "PrestaShop": 1068,
+            "PrestaShop": 1069,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 13,
             "dashgoals": 3,
@@ -2366,9 +2366,9 @@
         },
         "categories": {
             "core": {
-                "total": 1075,
+                "total": 1076,
                 "repositories": {
-                    "PrestaShop": 1068,
+                    "PrestaShop": 1069,
                     "prestashop-ui-kit": 3,
                     "LocalizationFiles": 2,
                     "circuit-breaker": 2
@@ -3469,9 +3469,9 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1604,
+        "contributions": 1607,
         "repositories": {
-            "PrestaShop": 850,
+            "PrestaShop": 853,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 5,
             "dashgoals": 1,
@@ -3550,9 +3550,9 @@
         },
         "categories": {
             "core": {
-                "total": 863,
+                "total": 866,
                 "repositories": {
-                    "PrestaShop": 850,
+                    "PrestaShop": 853,
                     "prestashop-ui-kit": 1,
                     "LocalizationFiles": 8,
                     "php-dev-tools": 4
@@ -10707,9 +10707,9 @@
         "location": null,
         "bio": "Open Source Communications \/\/ https:\/\/www.prestashop-project.org\/",
         "email_domain": "",
-        "contributions": 150,
+        "contributions": 152,
         "repositories": {
-            "prestashop.github.io": 148,
+            "prestashop.github.io": 150,
             "traces": 1,
             "open-source": 1
         },
@@ -10747,9 +10747,9 @@
                 "repositories": []
             },
             "blog": {
-                "total": 148,
+                "total": 150,
                 "repositories": {
-                    "prestashop.github.io": 148
+                    "prestashop.github.io": 150
                 }
             },
             "others": {
@@ -22957,11 +22957,123 @@
             }
         }
     },
+    "aomaxime": {
+        "login": "aomaxime",
+        "id": 148320838,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/148320838?v=4",
+        "html_url": "https:\/\/github.com\/aomaxime",
+        "name": null,
+        "company": "Agence Off",
+        "blog": "https:\/\/www.agenceoff.fr\/",
+        "location": null,
+        "bio": "Professional account of @msczk ",
+        "email_domain": "",
+        "contributions": 9,
+        "repositories": {
+            "PrestaShop": 9
+        },
+        "categories": {
+            "core": {
+                "total": 9,
+                "repositories": {
+                    "PrestaShop": 9
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "julvernois": {
         "login": "julvernois",
         "id": 12191627,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12191627?v=4",
         "html_url": "https:\/\/github.com\/julvernois",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 9,
+        "repositories": {
+            "PrestaShop": 9
+        },
+        "categories": {
+            "core": {
+                "total": 9,
+                "repositories": {
+                    "PrestaShop": 9
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "BlackKerio": {
+        "login": "BlackKerio",
+        "id": 45964032,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/45964032?v=4",
+        "html_url": "https:\/\/github.com\/BlackKerio",
         "name": null,
         "company": null,
         "blog": "",
@@ -23024,62 +23136,6 @@
         "location": "Moscow",
         "bio": "VK Tarantool Team",
         "email_domain": "gmail.com",
-        "contributions": 9,
-        "repositories": {
-            "PrestaShop": 9
-        },
-        "categories": {
-            "core": {
-                "total": 9,
-                "repositories": {
-                    "PrestaShop": 9
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "BlackKerio": {
-        "login": "BlackKerio",
-        "id": 45964032,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/45964032?v=4",
-        "html_url": "https:\/\/github.com\/BlackKerio",
-        "name": null,
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
         "contributions": 9,
         "repositories": {
             "PrestaShop": 9
@@ -23552,62 +23608,6 @@
             }
         }
     },
-    "OneDotIT": {
-        "login": "OneDotIT",
-        "id": 39679397,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/39679397?v=4",
-        "html_url": "https:\/\/github.com\/OneDotIT",
-        "name": "ONEDOTIT",
-        "company": "OneDot",
-        "blog": "",
-        "location": "Kuwait",
-        "bio": "We're the Infrastructure specialist",
-        "email_domain": "",
-        "contributions": 8,
-        "repositories": {
-            "PrestaShop": 8
-        },
-        "categories": {
-            "core": {
-                "total": 8,
-                "repositories": {
-                    "PrestaShop": 8
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
     "mrkalchemy": {
         "login": "mrkalchemy",
         "id": 123658706,
@@ -23731,6 +23731,62 @@
         "location": "AG, Switzerland",
         "bio": "CS Student @ MIT '25  |  iOS & Android Developer",
         "email_domain": "gmail.com",
+        "contributions": 8,
+        "repositories": {
+            "PrestaShop": 8
+        },
+        "categories": {
+            "core": {
+                "total": 8,
+                "repositories": {
+                    "PrestaShop": 8
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "OneDotIT": {
+        "login": "OneDotIT",
+        "id": 39679397,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/39679397?v=4",
+        "html_url": "https:\/\/github.com\/OneDotIT",
+        "name": "ONEDOTIT",
+        "company": "OneDot",
+        "blog": "",
+        "location": "Kuwait",
+        "bio": "We're the Infrastructure specialist",
+        "email_domain": "",
         "contributions": 8,
         "repositories": {
             "PrestaShop": 8
@@ -50985,5 +51041,5 @@
             }
         }
     },
-    "updatedAt": "2026-05-28 07:21:41"
+    "updatedAt": "2026-05-29 07:22:52"
 }
