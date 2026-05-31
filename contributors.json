@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10744,
+        "contributions": 10745,
         "repositories": {
             "PrestaShop": 4547,
             "PrestaShop-modules": 31,
@@ -119,7 +119,7 @@
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1056,
+            "test-scenarios": 1057,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1274,
+                "total": 1275,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1056,
+                    "test-scenarios": 1057,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -49592,7 +49592,7 @@
         "html_url": "https:\/\/github.com\/Maofree",
         "name": "MaoDev",
         "company": null,
-        "blog": "https:\/\/www.maofree-developer.com",
+        "blog": "https:\/\/maofree-developer.com",
         "location": null,
         "bio": "I like to study everything especially if it is about electronics and software technology. I'm a developer specialized in the e-commerce sector.",
         "email_domain": "gmail.com",
@@ -51041,5 +51041,5 @@
             }
         }
     },
-    "updatedAt": "2026-05-30 07:02:20"
+    "updatedAt": "2026-05-31 07:20:51"
 }
