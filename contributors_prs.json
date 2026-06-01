@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10745,
+        "contributions": 10753,
         "repositories": {
-            "PrestaShop": 1180,
+            "PrestaShop": 1181,
             "PrestaShop-modules": 2,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 4,
@@ -122,9 +122,9 @@
         },
         "categories": {
             "core": {
-                "total": 1194,
+                "total": 1195,
                 "repositories": {
-                    "PrestaShop": 1180,
+                    "PrestaShop": 1181,
                     "prestashop-ui-kit": 1,
                     "TranslationToolsBundle": 2,
                     "TranslationFiles": 3,
@@ -274,7 +274,7 @@
                 }
             }
         },
-        "mergedPullRequests": 2320
+        "mergedPullRequests": 2321
     },
     "matks": {
         "login": "matks",
@@ -567,7 +567,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5199,
+        "contributions": 5200,
         "repositories": {
             "PrestaShop": 396,
             "PrestaShop-modules": 14,
@@ -1792,7 +1792,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3622,
+        "contributions": 3625,
         "repositories": {
             "PrestaShop": 174,
             "PrestaShop-modules": 3,
@@ -1802,7 +1802,7 @@
             "blockwishlist": 4,
             "productcomments": 4,
             "autoupgrade": 6,
-            "prestashop.github.io": 176,
+            "prestashop.github.io": 177,
             "StarterTheme": 3,
             "contactform": 3,
             "paymentexample": 1,
@@ -1929,9 +1929,9 @@
                 }
             },
             "blog": {
-                "total": 176,
+                "total": 177,
                 "repositories": {
-                    "prestashop.github.io": 176
+                    "prestashop.github.io": 177
                 }
             },
             "others": {
@@ -1942,7 +1942,7 @@
                 }
             }
         },
-        "mergedPullRequests": 575
+        "mergedPullRequests": 576
     },
     "eternoendless": {
         "login": "eternoendless",
@@ -3223,7 +3223,7 @@
         "email_domain": "protonmail.com",
         "contributions": 2341,
         "repositories": {
-            "PrestaShop": 207,
+            "PrestaShop": 208,
             "PrestaShop-modules": 2,
             "dashactivity": 1,
             "dashproducts": 1,
@@ -3261,9 +3261,9 @@
         },
         "categories": {
             "core": {
-                "total": 212,
+                "total": 213,
                 "repositories": {
-                    "PrestaShop": 207,
+                    "PrestaShop": 208,
                     "prestashop-ui-kit": 1,
                     "TranslationFiles": 1,
                     "jquery.live-polyfill": 3
@@ -3340,7 +3340,7 @@
                 }
             }
         },
-        "mergedPullRequests": 306
+        "mergedPullRequests": 307
     },
     "gRoussac": {
         "login": "gRoussac",
@@ -3849,7 +3849,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1613,
+        "contributions": 1616,
         "repositories": {
             "PrestaShop": 148,
             "dashactivity": 2,
@@ -20045,6 +20045,66 @@
         },
         "mergedPullRequests": 5
     },
+    "mgielecinski": {
+        "login": "mgielecinski",
+        "id": 70368592,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/70368592?v=4",
+        "html_url": "https:\/\/github.com\/mgielecinski",
+        "name": "Mateusz Gieleci\u0144ski",
+        "company": null,
+        "blog": "",
+        "location": "Warsaw, Poland",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 15,
+        "repositories": {
+            "PrestaShop": 1,
+            "hummingbird": 4
+        },
+        "categories": {
+            "core": {
+                "total": 1,
+                "repositories": {
+                    "PrestaShop": 1
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 4,
+                "repositories": {
+                    "hummingbird": 4
+                }
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 5
+    },
     "remixaz": {
         "login": "remixaz",
         "id": 6286813,
@@ -21953,63 +22013,6 @@
                 "repositories": {
                     "autoupgrade": 1
                 }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 4
-    },
-    "mgielecinski": {
-        "login": "mgielecinski",
-        "id": 70368592,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/70368592?v=4",
-        "html_url": "https:\/\/github.com\/mgielecinski",
-        "name": "Mateusz Gieleci\u0144ski",
-        "company": null,
-        "blog": "",
-        "location": "Warsaw, Poland",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 15,
-        "repositories": {
-            "hummingbird": 4
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 4,
-                "repositories": {
-                    "hummingbird": 4
-                }
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
             },
             "tools": {
                 "total": 0,
