@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10762,
+        "contributions": 10763,
         "repositories": {
             "PrestaShop": 4551,
             "PrestaShop-modules": 31,
@@ -119,7 +119,7 @@
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1061,
+            "test-scenarios": 1062,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1279,
+                "total": 1280,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1061,
+                    "test-scenarios": 1062,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -322,7 +322,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7533,
+        "contributions": 7535,
         "repositories": {
             "PrestaShop": 6024,
             "dashactivity": 1,
@@ -379,14 +379,14 @@
             "ps_googleanalytics": 5,
             "prestashop-shop-creator": 4,
             "ps_themecusto": 9,
-            "psgdpr": 5,
+            "psgdpr": 6,
             "ps_buybuttonlite": 2,
             "circuit-breaker": 36,
             "composer-script-handler": 1,
             "example_module_mailtheme": 29,
             "ADR": 19,
             "nightly-board": 1,
-            "open-source": 6,
+            "open-source": 7,
             "mjml-theme-converter": 38,
             "QANightlyResults": 1,
             "LocalizationFiles": 3,
@@ -432,12 +432,12 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 369,
+                "total": 370,
                 "repositories": {
                     "docs": 162,
                     "ADR": 19,
                     "example-modules": 89,
-                    "open-source": 6,
+                    "open-source": 7,
                     "example_module_mailtheme": 29,
                     "ps-docs-theme": 3,
                     "DocToolsBundle": 34,
@@ -453,7 +453,7 @@
                 }
             },
             "modules": {
-                "total": 608,
+                "total": 609,
                 "repositories": {
                     "dashactivity": 1,
                     "dashgoals": 1,
@@ -499,7 +499,7 @@
                     "ps_qualityassurance": 2,
                     "ps_googleanalytics": 5,
                     "ps_themecusto": 9,
-                    "psgdpr": 5,
+                    "psgdpr": 6,
                     "ps_apiresources": 212,
                     "ps_distributionapiclient": 18,
                     "ps_fixturescreator": 13
@@ -870,7 +870,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5205,
+        "contributions": 5208,
         "repositories": {
             "PrestaShop": 1711,
             "PrestaShop-modules": 349,
@@ -962,10 +962,10 @@
             "psgdpr": 8,
             "example_module_mailtheme": 1,
             "eslint-config": 1,
-            "open-source": 6,
+            "open-source": 7,
             "php-dev-tools": 69,
             ".github": 7,
-            "distribution-api": 41,
+            "distribution-api": 43,
             "classic-theme": 61,
             "ps_distributionapiclient": 4,
             "ps_apiresources": 2,
@@ -989,11 +989,11 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 178,
+                "total": 179,
                 "repositories": {
                     "paymentexample": 1,
                     "docs": 158,
-                    "open-source": 6,
+                    "open-source": 7,
                     "example_module_mailtheme": 1,
                     "skills": 12
                 }
@@ -1108,12 +1108,12 @@
                 }
             },
             "others": {
-                "total": 74,
+                "total": 76,
                 "repositories": {
                     ".github": 7,
                     "InstallUnpacker": 3,
                     "firebaseauthenticator": 23,
-                    "distribution-api": 41
+                    "distribution-api": 43
                 }
             }
         }
@@ -2278,7 +2278,7 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 2398,
+        "contributions": 2399,
         "repositories": {
             "PrestaShop": 1069,
             "PrestaShop-webservice-lib": 1,
@@ -2350,7 +2350,7 @@
             "traces": 4,
             "ps_googleanalytics": 99,
             "ps_themecusto": 8,
-            "psgdpr": 9,
+            "psgdpr": 10,
             "ps_buybuttonlite": 2,
             "ps_faviconnotificationbo": 8,
             "circuit-breaker": 2,
@@ -2394,7 +2394,7 @@
                 }
             },
             "modules": {
-                "total": 1045,
+                "total": 1046,
                 "repositories": {
                     "dashactivity": 13,
                     "dashgoals": 3,
@@ -2460,7 +2460,7 @@
                     "ps_faviconnotificationbo": 8,
                     "ps_googleanalytics": 99,
                     "ps_themecusto": 8,
-                    "psgdpr": 9
+                    "psgdpr": 10
                 }
             },
             "tools": {
@@ -2505,7 +2505,7 @@
         "location": "Lille, France",
         "bio": null,
         "email_domain": "protonmail.com",
-        "contributions": 2342,
+        "contributions": 2343,
         "repositories": {
             "PrestaShop": 1742,
             "PrestaShop-modules": 3,
@@ -2527,7 +2527,7 @@
             "blockwishlist": 3,
             "productcomments": 2,
             "autoupgrade": 67,
-            "prestashop.github.io": 76,
+            "prestashop.github.io": 77,
             "docker": 25,
             "contactform": 1,
             "prestashop-ui-kit": 4,
@@ -2690,9 +2690,9 @@
                 }
             },
             "blog": {
-                "total": 76,
+                "total": 77,
                 "repositories": {
-                    "prestashop.github.io": 76
+                    "prestashop.github.io": 77
                 }
             },
             "others": {
@@ -8076,7 +8076,7 @@
         "location": "Toulouse \/ France",
         "bio": "e-commerce, dev, founder of Creabilis Agency",
         "email_domain": "",
-        "contributions": 391,
+        "contributions": 399,
         "repositories": {
             "PrestaShop": 208,
             "PrestaShop-webservice-lib": 1,
@@ -8109,7 +8109,7 @@
             "ps_viewedproduct": 5,
             "traces": 3,
             "ps_googleanalytics": 3,
-            "psgdpr": 1,
+            "psgdpr": 9,
             "php-ps-info": 2,
             "ps_faviconnotificationbo": 2,
             "prestashop-specs": 5,
@@ -8147,7 +8147,7 @@
                 }
             },
             "modules": {
-                "total": 87,
+                "total": 95,
                 "repositories": {
                     "dashproducts": 4,
                     "statsbestcustomers": 2,
@@ -8177,7 +8177,7 @@
                     "ps_viewedproduct": 5,
                     "ps_faviconnotificationbo": 2,
                     "ps_googleanalytics": 3,
-                    "psgdpr": 1,
+                    "psgdpr": 9,
                     "ps_apiresources": 3
                 }
             },
@@ -8442,7 +8442,7 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 341,
+        "contributions": 345,
         "repositories": {
             "PrestaShop": 229,
             "dashactivity": 2,
@@ -8460,6 +8460,7 @@
             "ps_facetedsearch": 8,
             "ps_specials": 4,
             "traces": 1,
+            "psgdpr": 4,
             "LocalizationFiles": 2,
             "hummingbird": 6,
             "classic-theme": 8,
@@ -8491,7 +8492,7 @@
                 }
             },
             "modules": {
-                "total": 89,
+                "total": 93,
                 "repositories": {
                     "dashactivity": 2,
                     "statsforecast": 1,
@@ -8506,6 +8507,7 @@
                     "ps_mainmenu": 1,
                     "ps_facetedsearch": 8,
                     "ps_specials": 4,
+                    "psgdpr": 4,
                     "ps_apiresources": 29
                 }
             },
@@ -10606,6 +10608,68 @@
             }
         }
     },
+    "coffrep": {
+        "login": "coffrep",
+        "id": 103060695,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/103060695?v=4",
+        "html_url": "https:\/\/github.com\/coffrep",
+        "name": "Patrick Coffre",
+        "company": null,
+        "blog": "http:\/\/www.prestashop.com\/",
+        "location": null,
+        "bio": "Open Source Communications \/\/ https:\/\/www.prestashop-project.org\/",
+        "email_domain": "",
+        "contributions": 154,
+        "repositories": {
+            "prestashop.github.io": 152,
+            "traces": 1,
+            "open-source": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 1,
+                "repositories": {
+                    "open-source": 1
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 1,
+                "repositories": {
+                    "traces": 1
+                }
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 152,
+                "repositories": {
+                    "prestashop.github.io": 152
+                }
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "ShaiMagal": {
         "login": "ShaiMagal",
         "id": 8518736,
@@ -10690,68 +10754,6 @@
                 "total": 3,
                 "repositories": {
                     "prestashop.github.io": 3
-                }
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "coffrep": {
-        "login": "coffrep",
-        "id": 103060695,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/103060695?v=4",
-        "html_url": "https:\/\/github.com\/coffrep",
-        "name": "Patrick Coffre",
-        "company": null,
-        "blog": "http:\/\/www.prestashop.com\/",
-        "location": null,
-        "bio": "Open Source Communications \/\/ https:\/\/www.prestashop-project.org\/",
-        "email_domain": "",
-        "contributions": 152,
-        "repositories": {
-            "prestashop.github.io": 150,
-            "traces": 1,
-            "open-source": 1
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 1,
-                "repositories": {
-                    "open-source": 1
-                }
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 1,
-                "repositories": {
-                    "traces": 1
-                }
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 150,
-                "repositories": {
-                    "prestashop.github.io": 150
                 }
             },
             "others": {
@@ -31048,6 +31050,64 @@
             }
         }
     },
+    "claude": {
+        "login": "claude",
+        "id": 81847,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/81847?v=4",
+        "html_url": "https:\/\/github.com\/claude",
+        "name": "Claude",
+        "company": "@anthropics",
+        "blog": "https:\/\/anthropic.com\/claude-code",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 3,
+        "repositories": {
+            "ps_facetedsearch": 2,
+            "psgdpr": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 3,
+                "repositories": {
+                    "ps_facetedsearch": 2,
+                    "psgdpr": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "webmozart": {
         "login": "webmozart",
         "id": 176399,
@@ -35246,62 +35306,6 @@
         "location": null,
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 2,
-        "repositories": {
-            "ps_facetedsearch": 2
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 2,
-                "repositories": {
-                    "ps_facetedsearch": 2
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "claude": {
-        "login": "claude",
-        "id": 81847,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/81847?v=4",
-        "html_url": "https:\/\/github.com\/claude",
-        "name": "Claude",
-        "company": "@anthropics",
-        "blog": "https:\/\/anthropic.com\/claude-code",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
         "contributions": 2,
         "repositories": {
             "ps_facetedsearch": 2
@@ -51033,5 +51037,5 @@
             }
         }
     },
-    "updatedAt": "2026-06-04 07:42:12"
+    "updatedAt": "2026-06-05 07:30:48"
 }
