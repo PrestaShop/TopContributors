@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10772,
+        "contributions": 10773,
         "repositories": {
             "PrestaShop": 4553,
             "PrestaShop-modules": 31,
@@ -119,7 +119,7 @@
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1063,
+            "test-scenarios": 1064,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1281,
+                "total": 1282,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1063,
+                    "test-scenarios": 1064,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -40907,7 +40907,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/426843?v=4",
         "html_url": "https:\/\/github.com\/Alex-D",
         "name": "Alexandre Demode",
-        "company": "@Spilium, @Colllect, @Monitoror",
+        "company": "@Monitoror",
         "blog": "https:\/\/alex-d.fr",
         "location": "Lille, France",
         "bio": "Fullstack developer",
@@ -51037,5 +51037,5 @@
             }
         }
     },
-    "updatedAt": "2026-06-06 07:06:05"
+    "updatedAt": "2026-06-07 07:25:16"
 }
