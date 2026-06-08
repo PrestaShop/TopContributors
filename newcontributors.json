@@ -1,4 +1,12 @@
 {
+    "gusdleon": {
+        "login": "gusdleon",
+        "name": "Gustavo de Le\u00f3n",
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3170940?v=4",
+        "html_url": "https:\/\/github.com\/gusdleon",
+        "contributions": 2,
+        "firstContributionAt": "2026-06-08T07:14:31Z"
+    },
     "cdigruttola": {
         "login": "cdigruttola",
         "name": "Carmine Di Gruttola",
@@ -70,13 +78,5 @@
         "html_url": "https:\/\/github.com\/kseghair",
         "contributions": 6,
         "firstContributionAt": "2026-03-06T12:12:19Z"
-    },
-    "nekoprog": {
-        "login": "nekoprog",
-        "name": "Neko Prog",
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2550618?v=4",
-        "html_url": "https:\/\/github.com\/nekoprog",
-        "contributions": 4,
-        "firstContributionAt": "2026-01-27T15:10:32Z"
     }
 }
