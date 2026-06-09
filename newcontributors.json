@@ -55,6 +55,14 @@
         "contributions": 1,
         "firstContributionAt": "2026-04-12T08:57:16Z"
     },
+    "julienr114": {
+        "login": "julienr114",
+        "name": "Rabin Julien",
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10990867?v=4",
+        "html_url": "https:\/\/github.com\/julienr114",
+        "contributions": 4,
+        "firstContributionAt": "2026-04-09T07:14:06Z"
+    },
     "miskovd": {
         "login": "miskovd",
         "name": "MISKOV",
@@ -70,13 +78,5 @@
         "html_url": "https:\/\/github.com\/Maofree",
         "contributions": 1,
         "firstContributionAt": "2026-03-16T15:00:39Z"
-    },
-    "kseghair": {
-        "login": "kseghair",
-        "name": "K\u00e9vin S\u00e9ghair",
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16594134?v=4",
-        "html_url": "https:\/\/github.com\/kseghair",
-        "contributions": 6,
-        "firstContributionAt": "2026-03-06T12:12:19Z"
     }
 }
