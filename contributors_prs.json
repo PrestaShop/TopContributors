@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10792,
+        "contributions": 10811,
         "repositories": {
             "PrestaShop": 1183,
             "PrestaShop-modules": 2,
@@ -48,7 +48,7 @@
             "docker": 19,
             "contactform": 3,
             "prestashop-ui-kit": 1,
-            "blockreassurance": 35,
+            "blockreassurance": 37,
             "ps_sharebuttons": 4,
             "ps_socialfollow": 1,
             "ps_linklist": 13,
@@ -111,7 +111,7 @@
             ".github": 3,
             "test-scenarios": 20,
             "hummingbird": 3,
-            "ga.tests.ui.pr": 35,
+            "ga.tests.ui.pr": 36,
             "ps-project-metrics": 2,
             "classic-theme": 7,
             "keycloak_connector_demo": 2,
@@ -158,7 +158,7 @@
                 }
             },
             "modules": {
-                "total": 414,
+                "total": 416,
                 "repositories": {
                     "PrestaShop-modules": 2,
                     "dashactivity": 4,
@@ -191,7 +191,7 @@
                     "autoupgrade": 26,
                     "gsitemap": 8,
                     "contactform": 3,
-                    "blockreassurance": 35,
+                    "blockreassurance": 37,
                     "ps_sharebuttons": 4,
                     "ps_socialfollow": 1,
                     "ps_linklist": 13,
@@ -254,9 +254,9 @@
                 }
             },
             "tests": {
-                "total": 394,
+                "total": 395,
                 "repositories": {
-                    "ga.tests.ui.pr": 35,
+                    "ga.tests.ui.pr": 36,
                     "ui-testing-library": 359
                 }
             },
@@ -274,7 +274,7 @@
                 }
             }
         },
-        "mergedPullRequests": 2329
+        "mergedPullRequests": 2332
     },
     "matks": {
         "login": "matks",
@@ -1015,7 +1015,7 @@
             "open-source": 2,
             "LocalizationFiles": 1,
             "example-modules": 1,
-            "hummingbird": 38,
+            "hummingbird": 39,
             "distribution-api": 1,
             "ga.tests.ui.pr": 1,
             "classic-theme": 15,
@@ -1045,9 +1045,9 @@
                 }
             },
             "themes": {
-                "total": 53,
+                "total": 54,
                 "repositories": {
-                    "hummingbird": 38,
+                    "hummingbird": 39,
                     "classic-theme": 15
                 }
             },
@@ -1148,7 +1148,7 @@
                 }
             }
         },
-        "mergedPullRequests": 941
+        "mergedPullRequests": 942
     },
     "nesrineabdmouleh": {
         "login": "nesrineabdmouleh",
@@ -2512,7 +2512,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 666,
+        "contributions": 669,
         "repositories": {
             "PrestaShop": 223,
             "PrestaShop-modules": 4,
@@ -3978,7 +3978,7 @@
         "location": null,
         "bio": "Web Integrator",
         "email_domain": "",
-        "contributions": 876,
+        "contributions": 877,
         "repositories": {
             "PrestaShop": 13,
             "productcomments": 2,
@@ -4750,6 +4750,103 @@
         },
         "mergedPullRequests": 180
     },
+    "Codencode": {
+        "login": "Codencode",
+        "id": 2463965,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
+        "html_url": "https:\/\/github.com\/Codencode",
+        "name": "Paolo Cunti @codencode",
+        "company": "Codencode",
+        "blog": "https:\/\/www.codencode.it",
+        "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
+        "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
+        "email_domain": "codencode.it",
+        "contributions": 346,
+        "repositories": {
+            "PrestaShop": 123,
+            "dashactivity": 1,
+            "autoupgrade": 7,
+            "contactform": 1,
+            "blockreassurance": 1,
+            "ps_socialfollow": 3,
+            "ps_linklist": 1,
+            "ps_emailsubscription": 4,
+            "ps_imageslider": 2,
+            "ps_mainmenu": 1,
+            "docs": 3,
+            "ps_facetedsearch": 4,
+            "ps_specials": 1,
+            "traces": 2,
+            "psgdpr": 1,
+            "LocalizationFiles": 2,
+            "hummingbird": 9,
+            "classic-theme": 4,
+            "ps_apiresources": 10
+        },
+        "categories": {
+            "core": {
+                "total": 125,
+                "repositories": {
+                    "PrestaShop": 123,
+                    "LocalizationFiles": 2
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 3,
+                "repositories": {
+                    "docs": 3
+                }
+            },
+            "themes": {
+                "total": 13,
+                "repositories": {
+                    "hummingbird": 9,
+                    "classic-theme": 4
+                }
+            },
+            "modules": {
+                "total": 37,
+                "repositories": {
+                    "dashactivity": 1,
+                    "autoupgrade": 7,
+                    "contactform": 1,
+                    "blockreassurance": 1,
+                    "ps_socialfollow": 3,
+                    "ps_linklist": 1,
+                    "ps_emailsubscription": 4,
+                    "ps_imageslider": 2,
+                    "ps_mainmenu": 1,
+                    "ps_facetedsearch": 4,
+                    "ps_specials": 1,
+                    "psgdpr": 1,
+                    "ps_apiresources": 10
+                }
+            },
+            "tools": {
+                "total": 2,
+                "repositories": {
+                    "traces": 2
+                }
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 180
+    },
     "jf-viguier": {
         "login": "jf-viguier",
         "id": 16720275,
@@ -4761,7 +4858,7 @@
         "location": "Toulouse \/ France",
         "bio": "e-commerce, dev, founder of Creabilis Agency",
         "email_domain": "",
-        "contributions": 401,
+        "contributions": 402,
         "repositories": {
             "PrestaShop": 68,
             "PrestaShop-webservice-lib": 1,
@@ -4778,7 +4875,7 @@
             "ps_categorytree": 1,
             "docs": 54,
             "ps_shoppingcart": 1,
-            "ps_facetedsearch": 2,
+            "ps_facetedsearch": 3,
             "ps_customeraccountlinks": 1,
             "ps_searchbar": 1,
             "ps_checkpayment": 1,
@@ -4826,7 +4923,7 @@
                 }
             },
             "modules": {
-                "total": 40,
+                "total": 41,
                 "repositories": {
                     "dashproducts": 1,
                     "statsbestcustomers": 2,
@@ -4840,7 +4937,7 @@
                     "ps_customersignin": 1,
                     "ps_categorytree": 1,
                     "ps_shoppingcart": 1,
-                    "ps_facetedsearch": 2,
+                    "ps_facetedsearch": 3,
                     "ps_customeraccountlinks": 1,
                     "ps_searchbar": 1,
                     "ps_checkpayment": 1,
@@ -4874,104 +4971,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 178
-    },
-    "Codencode": {
-        "login": "Codencode",
-        "id": 2463965,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
-        "html_url": "https:\/\/github.com\/Codencode",
-        "name": "Paolo Cunti @codencode",
-        "company": "Codencode",
-        "blog": "https:\/\/www.codencode.it",
-        "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
-        "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
-        "email_domain": "codencode.it",
-        "contributions": 345,
-        "repositories": {
-            "PrestaShop": 123,
-            "dashactivity": 1,
-            "autoupgrade": 7,
-            "contactform": 1,
-            "blockreassurance": 1,
-            "ps_socialfollow": 3,
-            "ps_linklist": 1,
-            "ps_emailsubscription": 4,
-            "ps_imageslider": 2,
-            "ps_mainmenu": 1,
-            "docs": 3,
-            "ps_facetedsearch": 4,
-            "ps_specials": 1,
-            "traces": 1,
-            "psgdpr": 1,
-            "LocalizationFiles": 2,
-            "hummingbird": 8,
-            "classic-theme": 4,
-            "ps_apiresources": 10
-        },
-        "categories": {
-            "core": {
-                "total": 125,
-                "repositories": {
-                    "PrestaShop": 123,
-                    "LocalizationFiles": 2
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 3,
-                "repositories": {
-                    "docs": 3
-                }
-            },
-            "themes": {
-                "total": 12,
-                "repositories": {
-                    "hummingbird": 8,
-                    "classic-theme": 4
-                }
-            },
-            "modules": {
-                "total": 37,
-                "repositories": {
-                    "dashactivity": 1,
-                    "autoupgrade": 7,
-                    "contactform": 1,
-                    "blockreassurance": 1,
-                    "ps_socialfollow": 3,
-                    "ps_linklist": 1,
-                    "ps_emailsubscription": 4,
-                    "ps_imageslider": 2,
-                    "ps_mainmenu": 1,
-                    "ps_facetedsearch": 4,
-                    "ps_specials": 1,
-                    "psgdpr": 1,
-                    "ps_apiresources": 10
-                }
-            },
-            "tools": {
-                "total": 1,
-                "repositories": {
-                    "traces": 1
-                }
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 178
+        "mergedPullRequests": 179
     },
     "thomasnares": {
         "login": "thomasnares",
@@ -6883,9 +6883,9 @@
         "location": "La Roche sur Yon",
         "bio": null,
         "email_domain": "",
-        "contributions": 342,
+        "contributions": 347,
         "repositories": {
-            "PrestaShop": 41,
+            "PrestaShop": 42,
             "dashproducts": 1,
             "autoupgrade": 1,
             "docker": 2,
@@ -6904,9 +6904,9 @@
         },
         "categories": {
             "core": {
-                "total": 42,
+                "total": 43,
                 "repositories": {
-                    "PrestaShop": 41,
+                    "PrestaShop": 42,
                     "prestashop-ui-kit": 1
                 }
             },
@@ -6963,7 +6963,7 @@
                 }
             }
         },
-        "mergedPullRequests": 81
+        "mergedPullRequests": 82
     },
     "davidglezz": {
         "login": "davidglezz",
@@ -7066,7 +7066,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 672,
+        "contributions": 673,
         "repositories": {
             "PrestaShop": 14,
             "dashactivity": 1,
@@ -12774,6 +12774,73 @@
         },
         "mergedPullRequests": 17
     },
+    "ThbPS": {
+        "login": "ThbPS",
+        "id": 109082310,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109082310?v=4",
+        "html_url": "https:\/\/github.com\/ThbPS",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 79,
+        "repositories": {
+            "PrestaShop": 4,
+            "autoupgrade": 1,
+            "native-modules": 1,
+            "prestashop-flashlight": 1,
+            "ps_onepagecheckout": 10
+        },
+        "categories": {
+            "core": {
+                "total": 4,
+                "repositories": {
+                    "PrestaShop": 4
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 11,
+                "repositories": {
+                    "autoupgrade": 1,
+                    "ps_onepagecheckout": 10
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 2,
+                "repositories": {
+                    "native-modules": 1,
+                    "prestashop-flashlight": 1
+                }
+            }
+        },
+        "mergedPullRequests": 17
+    },
     "colinegin": {
         "login": "colinegin",
         "id": 35263827,
@@ -13224,73 +13291,6 @@
             "others": {
                 "total": 0,
                 "repositories": []
-            }
-        },
-        "mergedPullRequests": 16
-    },
-    "ThbPS": {
-        "login": "ThbPS",
-        "id": 109082310,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109082310?v=4",
-        "html_url": "https:\/\/github.com\/ThbPS",
-        "name": null,
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 73,
-        "repositories": {
-            "PrestaShop": 4,
-            "autoupgrade": 1,
-            "native-modules": 1,
-            "prestashop-flashlight": 1,
-            "ps_onepagecheckout": 9
-        },
-        "categories": {
-            "core": {
-                "total": 4,
-                "repositories": {
-                    "PrestaShop": 4
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 10,
-                "repositories": {
-                    "autoupgrade": 1,
-                    "ps_onepagecheckout": 9
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 2,
-                "repositories": {
-                    "native-modules": 1,
-                    "prestashop-flashlight": 1
-                }
             }
         },
         "mergedPullRequests": 16
@@ -17628,6 +17628,66 @@
         },
         "mergedPullRequests": 7
     },
+    "paulnoelcholot": {
+        "login": "paulnoelcholot",
+        "id": 112863083,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/112863083?v=4",
+        "html_url": "https:\/\/github.com\/paulnoelcholot",
+        "name": "Camille",
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 21,
+        "repositories": {
+            "PrestaShop": 3,
+            "ui-testing-library": 4
+        },
+        "categories": {
+            "core": {
+                "total": 3,
+                "repositories": {
+                    "PrestaShop": 3
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 4,
+                "repositories": {
+                    "ui-testing-library": 4
+                }
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 7
+    },
     "doekia": {
         "login": "doekia",
         "id": 1429488,
@@ -20034,66 +20094,6 @@
             "tests": {
                 "total": 0,
                 "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 5
-    },
-    "paulnoelcholot": {
-        "login": "paulnoelcholot",
-        "id": 112863083,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/112863083?v=4",
-        "html_url": "https:\/\/github.com\/paulnoelcholot",
-        "name": "Camille",
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 16,
-        "repositories": {
-            "PrestaShop": 3,
-            "ui-testing-library": 2
-        },
-        "categories": {
-            "core": {
-                "total": 3,
-                "repositories": {
-                    "PrestaShop": 3
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 2,
-                "repositories": {
-                    "ui-testing-library": 2
-                }
             },
             "blog": {
                 "total": 0,
@@ -37350,7 +37350,7 @@
         "id": 6144032,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6144032?v=4",
         "html_url": "https:\/\/github.com\/IceEyz",
-        "name": null,
+        "name": "Evert-Jan van der Valk",
         "company": null,
         "blog": "",
         "location": null,
