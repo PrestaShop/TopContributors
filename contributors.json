@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10826,
+        "contributions": 10829,
         "repositories": {
-            "PrestaShop": 4563,
+            "PrestaShop": 4565,
             "PrestaShop-modules": 31,
             "PrestaShop-webservice-lib": 4,
             "dashactivity": 14,
@@ -119,7 +119,7 @@
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1068,
+            "test-scenarios": 1069,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -140,9 +140,9 @@
         },
         "categories": {
             "core": {
-                "total": 4666,
+                "total": 4668,
                 "repositories": {
-                    "PrestaShop": 4563,
+                    "PrestaShop": 4565,
                     "prestashop-ui-kit": 50,
                     "TranslationToolsBundle": 9,
                     "LocalizationFiles": 9,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1286,
+                "total": 1287,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1068,
+                    "test-scenarios": 1069,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -322,9 +322,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7546,
+        "contributions": 7553,
         "repositories": {
-            "PrestaShop": 6024,
+            "PrestaShop": 6031,
             "dashactivity": 1,
             "dashgoals": 1,
             "dashproducts": 4,
@@ -419,9 +419,9 @@
         },
         "categories": {
             "core": {
-                "total": 6116,
+                "total": 6123,
                 "repositories": {
-                    "PrestaShop": 6024,
+                    "PrestaShop": 6031,
                     "prestashop-ui-kit": 16,
                     "TranslationToolsBundle": 14,
                     "LocalizationFiles": 3,
@@ -1657,9 +1657,9 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3644,
+        "contributions": 3645,
         "repositories": {
-            "PrestaShop": 841,
+            "PrestaShop": 842,
             "PrestaShop-modules": 4,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 1,
@@ -1773,9 +1773,9 @@
         },
         "categories": {
             "core": {
-                "total": 871,
+                "total": 872,
                 "repositories": {
-                    "PrestaShop": 841,
+                    "PrestaShop": 842,
                     "prestashop-ui-kit": 4,
                     "LocalizationFiles": 22,
                     "stylelint-browser-compatibility": 1,
@@ -3358,9 +3358,9 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1650,
+        "contributions": 1655,
         "repositories": {
-            "PrestaShop": 884,
+            "PrestaShop": 889,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 5,
             "dashgoals": 1,
@@ -3439,9 +3439,9 @@
         },
         "categories": {
             "core": {
-                "total": 897,
+                "total": 902,
                 "repositories": {
-                    "PrestaShop": 884,
+                    "PrestaShop": 889,
                     "prestashop-ui-kit": 1,
                     "LocalizationFiles": 8,
                     "php-dev-tools": 4
@@ -8017,9 +8017,9 @@
         "location": "Toulouse \/ France",
         "bio": "e-commerce, dev, founder of Creabilis Agency",
         "email_domain": "",
-        "contributions": 402,
+        "contributions": 405,
         "repositories": {
-            "PrestaShop": 209,
+            "PrestaShop": 212,
             "PrestaShop-webservice-lib": 1,
             "dashproducts": 4,
             "statsbestcustomers": 2,
@@ -8061,9 +8061,9 @@
         },
         "categories": {
             "core": {
-                "total": 211,
+                "total": 214,
                 "repositories": {
-                    "PrestaShop": 209,
+                    "PrestaShop": 212,
                     "php-ps-info": 2
                 }
             },
@@ -8220,9 +8220,9 @@
         "location": "La Roche sur Yon",
         "bio": null,
         "email_domain": "",
-        "contributions": 389,
+        "contributions": 396,
         "repositories": {
-            "PrestaShop": 199,
+            "PrestaShop": 206,
             "dashproducts": 2,
             "pagesnotfound": 10,
             "statsbestproducts": 8,
@@ -8246,9 +8246,9 @@
         },
         "categories": {
             "core": {
-                "total": 202,
+                "total": 209,
                 "repositories": {
-                    "PrestaShop": 199,
+                    "PrestaShop": 206,
                     "prestashop-ui-kit": 3
                 }
             },
@@ -8551,9 +8551,9 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 346,
+        "contributions": 349,
         "repositories": {
-            "PrestaShop": 229,
+            "PrestaShop": 232,
             "dashactivity": 2,
             "statsforecast": 1,
             "statsstock": 1,
@@ -8577,9 +8577,9 @@
         },
         "categories": {
             "core": {
-                "total": 231,
+                "total": 234,
                 "repositories": {
-                    "PrestaShop": 229,
+                    "PrestaShop": 232,
                     "LocalizationFiles": 2
                 }
             },
@@ -45191,7 +45191,7 @@
         "company": null,
         "blog": "https:\/\/codepen.io\/andreapozza\/pens\/showcase",
         "location": null,
-        "bio": "I'm a junior web full stack developer.\r\nFavorite languages: javascript (client), PHP (server).",
+        "bio": null,
         "email_domain": "",
         "contributions": 1,
         "repositories": {
@@ -51230,5 +51230,5 @@
             }
         }
     },
-    "updatedAt": "2026-06-13 07:21:07"
+    "updatedAt": "2026-06-14 07:37:39"
 }

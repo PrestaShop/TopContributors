@@ -40,7 +40,7 @@
             "2013": 525,
             "2012": 32
         },
-        "pull_requests_percent": 29.48,
+        "pull_requests_percent": 29.47,
         "contributions": 34756,
         "contributions_by_version": {
             "9.2": 729,
@@ -77,7 +77,7 @@
             "2013": 1031,
             "2012": 56
         },
-        "contributions_percent": 28.09,
+        "contributions_percent": 28.08,
         "avatar_url": "",
         "html_url": "https:\/\/www.prestashop-project.org"
     },
@@ -87,9 +87,9 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 17296,
+            "merged_pull_requests": 17298,
             "merged_pull_requests_by_version": {
-                "9.2": 92,
+                "9.2": 94,
                 "9.1": 200,
                 "9.0": 997,
                 "8.2": 31,
@@ -107,7 +107,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 662,
+                "2026": 664,
                 "2025": 1247,
                 "2024": 1290,
                 "2023": 1572,
@@ -123,9 +123,9 @@
                 "2013": 24
             },
             "pull_requests_percent": 60.84,
-            "contributions": 80937,
+            "contributions": 80967,
             "contributions_by_version": {
-                "9.2": 617,
+                "9.2": 647,
                 "9.1": 2151,
                 "9.0": 3981,
                 "8.2": 77,
@@ -143,7 +143,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 2716,
+                "2026": 2746,
                 "2025": 4879,
                 "2024": 5067,
                 "2023": 6413,
@@ -158,7 +158,7 @@
                 "2014": 786,
                 "2013": 36
             },
-            "contributions_percent": 65.4,
+            "contributions_percent": 65.41,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2815696?s=200&v=4",
             "html_url": "https:\/\/www.prestashop.com"
         },

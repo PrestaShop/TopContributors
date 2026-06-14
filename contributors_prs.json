@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10826,
+        "contributions": 10829,
         "repositories": {
             "PrestaShop": 1185,
             "PrestaShop-modules": 2,
@@ -783,7 +783,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7546,
+        "contributions": 7553,
         "repositories": {
             "PrestaShop": 761,
             "dashproducts": 2,
@@ -1794,7 +1794,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3644,
+        "contributions": 3645,
         "repositories": {
             "PrestaShop": 174,
             "PrestaShop-modules": 3,
@@ -3854,7 +3854,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1650,
+        "contributions": 1655,
         "repositories": {
             "PrestaShop": 151,
             "dashactivity": 2,
@@ -4677,7 +4677,7 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 346,
+        "contributions": 349,
         "repositories": {
             "PrestaShop": 123,
             "dashactivity": 1,
@@ -4858,7 +4858,7 @@
         "location": "Toulouse \/ France",
         "bio": "e-commerce, dev, founder of Creabilis Agency",
         "email_domain": "",
-        "contributions": 402,
+        "contributions": 405,
         "repositories": {
             "PrestaShop": 68,
             "PrestaShop-webservice-lib": 1,
@@ -6824,9 +6824,9 @@
         "location": "La Roche sur Yon",
         "bio": null,
         "email_domain": "",
-        "contributions": 389,
+        "contributions": 396,
         "repositories": {
-            "PrestaShop": 42,
+            "PrestaShop": 44,
             "dashproducts": 1,
             "pagesnotfound": 1,
             "statsbestproducts": 1,
@@ -6850,9 +6850,9 @@
         },
         "categories": {
             "core": {
-                "total": 43,
+                "total": 45,
                 "repositories": {
-                    "PrestaShop": 42,
+                    "PrestaShop": 44,
                     "prestashop-ui-kit": 1
                 }
             },
@@ -6914,7 +6914,7 @@
                 }
             }
         },
-        "mergedPullRequests": 88
+        "mergedPullRequests": 90
     },
     "cdesiles": {
         "login": "cdesiles",
@@ -42722,7 +42722,7 @@
         "company": null,
         "blog": "https:\/\/codepen.io\/andreapozza\/pens\/showcase",
         "location": null,
-        "bio": "I'm a junior web full stack developer.\r\nFavorite languages: javascript (client), PHP (server).",
+        "bio": null,
         "email_domain": "",
         "contributions": 1,
         "repositories": {
