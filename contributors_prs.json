@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10829,
+        "contributions": 10836,
         "repositories": {
             "PrestaShop": 1185,
             "PrestaShop-modules": 2,
@@ -14657,6 +14657,66 @@
         },
         "mergedPullRequests": 12
     },
+    "paulnoelcholot": {
+        "login": "paulnoelcholot",
+        "id": 112863083,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/112863083?v=4",
+        "html_url": "https:\/\/github.com\/paulnoelcholot",
+        "name": "Camille",
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 27,
+        "repositories": {
+            "PrestaShop": 3,
+            "ui-testing-library": 9
+        },
+        "categories": {
+            "core": {
+                "total": 3,
+                "repositories": {
+                    "PrestaShop": 3
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 9,
+                "repositories": {
+                    "ui-testing-library": 9
+                }
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 12
+    },
     "vincentbz": {
         "login": "vincentbz",
         "id": 7567060,
@@ -14943,66 +15003,6 @@
             "tests": {
                 "total": 0,
                 "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 11
-    },
-    "paulnoelcholot": {
-        "login": "paulnoelcholot",
-        "id": 112863083,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/112863083?v=4",
-        "html_url": "https:\/\/github.com\/paulnoelcholot",
-        "name": "Camille",
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 26,
-        "repositories": {
-            "PrestaShop": 3,
-            "ui-testing-library": 8
-        },
-        "categories": {
-            "core": {
-                "total": 3,
-                "repositories": {
-                    "PrestaShop": 3
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 8,
-                "repositories": {
-                    "ui-testing-library": 8
-                }
             },
             "blog": {
                 "total": 0,
@@ -42093,9 +42093,9 @@
         "html_url": "https:\/\/github.com\/willywongi",
         "name": "Francesco Pongiluppi",
         "company": null,
-        "blog": "",
+        "blog": "https:\/\/www.pongi.it",
         "location": "Italy",
-        "bio": null,
+        "bio": "Father, web developer, cat-person, zombologist, open web lover, not photogenic.",
         "email_domain": "",
         "contributions": 1,
         "repositories": {

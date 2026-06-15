@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10829,
+        "contributions": 10836,
         "repositories": {
             "PrestaShop": 4565,
             "PrestaShop-modules": 31,
@@ -40,7 +40,7 @@
             "statssales": 17,
             "statssearch": 10,
             "statsstock": 9,
-            "blockwishlist": 217,
+            "blockwishlist": 218,
             "productcomments": 45,
             "pscleaner": 13,
             "autoupgrade": 112,
@@ -112,14 +112,14 @@
             "open-source": 32,
             "mjml-theme-converter": 1,
             "php-dev-tools": 4,
-            "QANightlyResults": 405,
+            "QANightlyResults": 407,
             "LocalizationFiles": 9,
-            "presthubot": 511,
+            "presthubot": 512,
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1069,
+            "test-scenarios": 1070,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -136,7 +136,7 @@
             "ps_fixturescreator": 11,
             "ws-client": 25,
             "ps_apiresources": 5,
-            "ui-testing-library": 1262
+            "ui-testing-library": 1264
         },
         "categories": {
             "core": {
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1287,
+                "total": 1288,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1069,
+                    "test-scenarios": 1070,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -186,7 +186,7 @@
                 }
             },
             "modules": {
-                "total": 1816,
+                "total": 1817,
                 "repositories": {
                     "PrestaShop-modules": 31,
                     "dashactivity": 14,
@@ -214,7 +214,7 @@
                     "statssales": 17,
                     "statssearch": 10,
                     "statsstock": 9,
-                    "blockwishlist": 217,
+                    "blockwishlist": 218,
                     "productcomments": 45,
                     "pscleaner": 13,
                     "autoupgrade": 112,
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1392,
+                "total": 1395,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -280,9 +280,9 @@
                     "mjml-theme-converter": 1,
                     "nightly-board": 50,
                     "PrestaShop-webservice-lib": 4,
-                    "presthubot": 511,
+                    "presthubot": 512,
                     "prestonbot": 10,
-                    "QANightlyResults": 405,
+                    "QANightlyResults": 407,
                     "TopContributors": 125,
                     "TopTranslators": 1,
                     "traces": 217,
@@ -290,9 +290,9 @@
                 }
             },
             "tests": {
-                "total": 1367,
+                "total": 1369,
                 "repositories": {
-                    "ui-testing-library": 1262,
+                    "ui-testing-library": 1264,
                     "ga.tests.ui.pr": 105
                 }
             },
@@ -18083,11 +18083,11 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 26,
+        "contributions": 27,
         "repositories": {
             "PrestaShop": 8,
             "test-scenarios": 2,
-            "ui-testing-library": 16
+            "ui-testing-library": 17
         },
         "categories": {
             "core": {
@@ -18119,9 +18119,9 @@
                 "repositories": []
             },
             "tests": {
-                "total": 16,
+                "total": 17,
                 "repositories": {
-                    "ui-testing-library": 16
+                    "ui-testing-library": 17
                 }
             },
             "blog": {
@@ -44293,9 +44293,9 @@
         "html_url": "https:\/\/github.com\/willywongi",
         "name": "Francesco Pongiluppi",
         "company": null,
-        "blog": "",
+        "blog": "https:\/\/www.pongi.it",
         "location": "Italy",
-        "bio": null,
+        "bio": "Father, web developer, cat-person, zombologist, open web lover, not photogenic.",
         "email_domain": "",
         "contributions": 1,
         "repositories": {
@@ -51230,5 +51230,5 @@
             }
         }
     },
-    "updatedAt": "2026-06-14 07:37:39"
+    "updatedAt": "2026-06-15 08:11:10"
 }
