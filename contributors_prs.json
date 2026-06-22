@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10878,
+        "contributions": 10883,
         "repositories": {
             "PrestaShop": 1187,
             "PrestaShop-modules": 2,
@@ -1794,7 +1794,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3652,
+        "contributions": 3655,
         "repositories": {
             "PrestaShop": 174,
             "PrestaShop-modules": 3,
@@ -3854,7 +3854,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1661,
+        "contributions": 1662,
         "repositories": {
             "PrestaShop": 151,
             "dashactivity": 2,
@@ -4774,7 +4774,7 @@
         "location": "Toulouse \/ France",
         "bio": "e-commerce, dev, founder of Creabilis Agency",
         "email_domain": "",
-        "contributions": 419,
+        "contributions": 420,
         "repositories": {
             "PrestaShop": 69,
             "PrestaShop-webservice-lib": 1,
@@ -4789,7 +4789,7 @@
             "ps_featuredproducts": 1,
             "ps_customersignin": 1,
             "ps_categorytree": 1,
-            "docs": 54,
+            "docs": 55,
             "ps_shoppingcart": 1,
             "ps_facetedsearch": 4,
             "ps_customeraccountlinks": 1,
@@ -4825,9 +4825,9 @@
                 }
             },
             "documentation": {
-                "total": 56,
+                "total": 57,
                 "repositories": {
-                    "docs": 54,
+                    "docs": 55,
                     "open-source": 2
                 }
             },
@@ -4887,7 +4887,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 181
+        "mergedPullRequests": 182
     },
     "thierrymarianne": {
         "login": "thierrymarianne",
@@ -5612,7 +5612,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 243,
+        "contributions": 244,
         "repositories": {
             "PrestaShop": 105,
             "productcomments": 2,
@@ -5632,7 +5632,8 @@
             "distribution-api": 2,
             "ga.tests.ui.pr": 1,
             "kanbanbot": 1,
-            "ps_apiresources": 13
+            "ps_apiresources": 13,
+            "ui-testing-library": 1
         },
         "categories": {
             "core": {
@@ -5680,9 +5681,10 @@
                 }
             },
             "tests": {
-                "total": 1,
+                "total": 2,
                 "repositories": {
-                    "ga.tests.ui.pr": 1
+                    "ga.tests.ui.pr": 1,
+                    "ui-testing-library": 1
                 }
             },
             "blog": {
@@ -5697,7 +5699,7 @@
                 }
             }
         },
-        "mergedPullRequests": 152
+        "mergedPullRequests": 153
     },
     "jnadaud": {
         "login": "jnadaud",
@@ -6737,9 +6739,9 @@
         "location": "La Roche sur Yon",
         "bio": null,
         "email_domain": "",
-        "contributions": 428,
+        "contributions": 432,
         "repositories": {
-            "PrestaShop": 50,
+            "PrestaShop": 51,
             "dashproducts": 1,
             "pagesnotfound": 1,
             "statsbestproducts": 1,
@@ -6763,9 +6765,9 @@
         },
         "categories": {
             "core": {
-                "total": 51,
+                "total": 52,
                 "repositories": {
-                    "PrestaShop": 50,
+                    "PrestaShop": 51,
                     "prestashop-ui-kit": 1
                 }
             },
@@ -6827,7 +6829,7 @@
                 }
             }
         },
-        "mergedPullRequests": 100
+        "mergedPullRequests": 101
     },
     "mflasquin": {
         "login": "mflasquin",
@@ -14276,6 +14278,69 @@
         },
         "mergedPullRequests": 14
     },
+    "dali-rajab": {
+        "login": "dali-rajab",
+        "id": 39015823,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/39015823?v=4",
+        "html_url": "https:\/\/github.com\/dali-rajab",
+        "name": "Mohamed Ali Rajab",
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "yahoo.fr",
+        "contributions": 13,
+        "repositories": {
+            "PrestaShop": 6,
+            "docs": 7,
+            "ps_emailalerts": 1
+        },
+        "categories": {
+            "core": {
+                "total": 6,
+                "repositories": {
+                    "PrestaShop": 6
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 7,
+                "repositories": {
+                    "docs": 7
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 1,
+                "repositories": {
+                    "ps_emailalerts": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 14
+    },
     "sallemiines": {
         "login": "sallemiines",
         "id": 31663369,
@@ -14419,69 +14484,6 @@
                 "repositories": {
                     "ws-client": 10
                 }
-            }
-        },
-        "mergedPullRequests": 13
-    },
-    "dali-rajab": {
-        "login": "dali-rajab",
-        "id": 39015823,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/39015823?v=4",
-        "html_url": "https:\/\/github.com\/dali-rajab",
-        "name": "Mohamed Ali Rajab",
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "yahoo.fr",
-        "contributions": 12,
-        "repositories": {
-            "PrestaShop": 6,
-            "docs": 6,
-            "ps_emailalerts": 1
-        },
-        "categories": {
-            "core": {
-                "total": 6,
-                "repositories": {
-                    "PrestaShop": 6
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 6,
-                "repositories": {
-                    "docs": 6
-                }
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 1,
-                "repositories": {
-                    "ps_emailalerts": 1
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
             }
         },
         "mergedPullRequests": 13
