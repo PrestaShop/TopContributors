@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10896,
+        "contributions": 10917,
         "repositories": {
-            "PrestaShop": 4580,
+            "PrestaShop": 4594,
             "PrestaShop-modules": 31,
             "PrestaShop-webservice-lib": 4,
             "dashactivity": 14,
@@ -114,12 +114,12 @@
             "php-dev-tools": 4,
             "QANightlyResults": 408,
             "LocalizationFiles": 9,
-            "presthubot": 516,
+            "presthubot": 517,
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1078,
+            "test-scenarios": 1079,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -136,13 +136,13 @@
             "ps_fixturescreator": 11,
             "ws-client": 25,
             "ps_apiresources": 5,
-            "ui-testing-library": 1282
+            "ui-testing-library": 1287
         },
         "categories": {
             "core": {
-                "total": 4683,
+                "total": 4697,
                 "repositories": {
-                    "PrestaShop": 4580,
+                    "PrestaShop": 4594,
                     "prestashop-ui-kit": 50,
                     "TranslationToolsBundle": 9,
                     "LocalizationFiles": 9,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1296,
+                "total": 1297,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1078,
+                    "test-scenarios": 1079,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1403,
+                "total": 1404,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -280,7 +280,7 @@
                     "mjml-theme-converter": 1,
                     "nightly-board": 50,
                     "PrestaShop-webservice-lib": 4,
-                    "presthubot": 516,
+                    "presthubot": 517,
                     "prestonbot": 10,
                     "QANightlyResults": 408,
                     "TopContributors": 126,
@@ -290,9 +290,9 @@
                 }
             },
             "tests": {
-                "total": 1387,
+                "total": 1392,
                 "repositories": {
-                    "ui-testing-library": 1282,
+                    "ui-testing-library": 1287,
                     "ga.tests.ui.pr": 105
                 }
             },
@@ -322,9 +322,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7584,
+        "contributions": 7597,
         "repositories": {
-            "PrestaShop": 6054,
+            "PrestaShop": 6065,
             "dashactivity": 1,
             "dashgoals": 1,
             "dashproducts": 4,
@@ -393,7 +393,7 @@
             "QANightlyResults": 1,
             "LocalizationFiles": 3,
             "presthubot": 2,
-            "example-modules": 96,
+            "example-modules": 98,
             "ps_qualityassurance": 2,
             ".github": 30,
             "DocToolsBundle": 34,
@@ -419,9 +419,9 @@
         },
         "categories": {
             "core": {
-                "total": 6146,
+                "total": 6157,
                 "repositories": {
-                    "PrestaShop": 6054,
+                    "PrestaShop": 6065,
                     "prestashop-ui-kit": 16,
                     "TranslationToolsBundle": 14,
                     "LocalizationFiles": 3,
@@ -434,11 +434,11 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 377,
+                "total": 379,
                 "repositories": {
                     "docs": 162,
                     "ADR": 19,
-                    "example-modules": 96,
+                    "example-modules": 98,
                     "open-source": 7,
                     "example_module_mailtheme": 29,
                     "ps-docs-theme": 3,
@@ -1657,9 +1657,9 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3665,
+        "contributions": 3674,
         "repositories": {
-            "PrestaShop": 850,
+            "PrestaShop": 856,
             "PrestaShop-modules": 4,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 1,
@@ -1691,7 +1691,7 @@
             "productcomments": 24,
             "autoupgrade": 46,
             "gsitemap": 8,
-            "prestashop.github.io": 951,
+            "prestashop.github.io": 953,
             "StarterTheme": 3,
             "contactform": 10,
             "paymentexample": 7,
@@ -1710,7 +1710,7 @@
             "ps_mainmenu": 2,
             "ps_customersignin": 4,
             "ps_categorytree": 5,
-            "docs": 657,
+            "docs": 658,
             "ps_wirepayment": 1,
             "ps_shoppingcart": 4,
             "ps_currencyselector": 7,
@@ -1773,9 +1773,9 @@
         },
         "categories": {
             "core": {
-                "total": 880,
+                "total": 886,
                 "repositories": {
-                    "PrestaShop": 850,
+                    "PrestaShop": 856,
                     "prestashop-ui-kit": 4,
                     "LocalizationFiles": 22,
                     "stylelint-browser-compatibility": 1,
@@ -1790,10 +1790,10 @@
                 }
             },
             "documentation": {
-                "total": 1036,
+                "total": 1037,
                 "repositories": {
                     "paymentexample": 7,
-                    "docs": 657,
+                    "docs": 658,
                     "user-documentation-en": 1,
                     "ADR": 7,
                     "example-modules": 124,
@@ -1913,9 +1913,9 @@
                 }
             },
             "blog": {
-                "total": 951,
+                "total": 953,
                 "repositories": {
-                    "prestashop.github.io": 951
+                    "prestashop.github.io": 953
                 }
             },
             "others": {
@@ -6132,9 +6132,9 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 670,
+        "contributions": 671,
         "repositories": {
-            "PrestaShop": 421,
+            "PrestaShop": 422,
             "PrestaShop-modules": 5,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 1,
@@ -6211,9 +6211,9 @@
         },
         "categories": {
             "core": {
-                "total": 422,
+                "total": 423,
                 "repositories": {
-                    "PrestaShop": 421,
+                    "PrestaShop": 422,
                     "php-dev-tools": 1
                 }
             },
@@ -7784,6 +7784,149 @@
             }
         }
     },
+    "jf-viguier": {
+        "login": "jf-viguier",
+        "id": 16720275,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16720275?v=4",
+        "html_url": "https:\/\/github.com\/jf-viguier",
+        "name": "Jean-Fran\u00e7ois Viguier",
+        "company": "@Creabilis",
+        "blog": "https:\/\/www.linkedin.com\/in\/jfviguier\/",
+        "location": "Toulouse \/ France",
+        "bio": "e-commerce, dev, founder of Creabilis Agency",
+        "email_domain": "",
+        "contributions": 429,
+        "repositories": {
+            "PrestaShop": 220,
+            "PrestaShop-webservice-lib": 1,
+            "dashactivity": 3,
+            "dashgoals": 3,
+            "dashproducts": 5,
+            "statsbestcustomers": 2,
+            "statscatalog": 1,
+            "statssales": 2,
+            "blockwishlist": 3,
+            "productcomments": 7,
+            "autoupgrade": 9,
+            "contactform": 4,
+            "ps_socialfollow": 1,
+            "ps_customtext": 1,
+            "ps_emailsubscription": 13,
+            "ps_banner": 1,
+            "ps_featuredproducts": 1,
+            "ps_imageslider": 1,
+            "ps_customersignin": 1,
+            "ps_categorytree": 2,
+            "docs": 69,
+            "ps_shoppingcart": 3,
+            "ps_facetedsearch": 8,
+            "ps_customeraccountlinks": 1,
+            "ps_searchbar": 1,
+            "ps_checkpayment": 1,
+            "ps_emailalerts": 2,
+            "ps_brandlist": 1,
+            "ps_specials": 8,
+            "ps_crossselling": 3,
+            "ps_dataprivacy": 1,
+            "ps_viewedproduct": 5,
+            "traces": 3,
+            "ps_googleanalytics": 3,
+            "psgdpr": 9,
+            "php-ps-info": 2,
+            "ps_faviconnotificationbo": 2,
+            "prestashop-specs": 5,
+            "open-source": 3,
+            "hummingbird": 9,
+            "classic-theme": 6,
+            "ps_apiresources": 3
+        },
+        "categories": {
+            "core": {
+                "total": 222,
+                "repositories": {
+                    "PrestaShop": 220,
+                    "php-ps-info": 2
+                }
+            },
+            "specs": {
+                "total": 5,
+                "repositories": {
+                    "prestashop-specs": 5
+                }
+            },
+            "documentation": {
+                "total": 72,
+                "repositories": {
+                    "docs": 69,
+                    "open-source": 3
+                }
+            },
+            "themes": {
+                "total": 15,
+                "repositories": {
+                    "classic-theme": 6,
+                    "hummingbird": 9
+                }
+            },
+            "modules": {
+                "total": 111,
+                "repositories": {
+                    "dashactivity": 3,
+                    "dashgoals": 3,
+                    "dashproducts": 5,
+                    "statsbestcustomers": 2,
+                    "statscatalog": 1,
+                    "statssales": 2,
+                    "blockwishlist": 3,
+                    "productcomments": 7,
+                    "autoupgrade": 9,
+                    "contactform": 4,
+                    "ps_socialfollow": 1,
+                    "ps_customtext": 1,
+                    "ps_emailsubscription": 13,
+                    "ps_banner": 1,
+                    "ps_featuredproducts": 1,
+                    "ps_imageslider": 1,
+                    "ps_customersignin": 1,
+                    "ps_categorytree": 2,
+                    "ps_shoppingcart": 3,
+                    "ps_facetedsearch": 8,
+                    "ps_customeraccountlinks": 1,
+                    "ps_searchbar": 1,
+                    "ps_checkpayment": 1,
+                    "ps_emailalerts": 2,
+                    "ps_brandlist": 1,
+                    "ps_specials": 8,
+                    "ps_crossselling": 3,
+                    "ps_dataprivacy": 1,
+                    "ps_viewedproduct": 5,
+                    "ps_faviconnotificationbo": 2,
+                    "ps_googleanalytics": 3,
+                    "psgdpr": 9,
+                    "ps_apiresources": 3
+                }
+            },
+            "tools": {
+                "total": 4,
+                "repositories": {
+                    "PrestaShop-webservice-lib": 1,
+                    "traces": 3
+                }
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "AlexEven": {
         "login": "AlexEven",
         "id": 7910738,
@@ -7890,149 +8033,6 @@
                 "repositories": {
                     "prestashop.github.io": 152
                 }
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "jf-viguier": {
-        "login": "jf-viguier",
-        "id": 16720275,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16720275?v=4",
-        "html_url": "https:\/\/github.com\/jf-viguier",
-        "name": "Jean-Fran\u00e7ois Viguier",
-        "company": "@Creabilis",
-        "blog": "https:\/\/www.linkedin.com\/in\/jfviguier\/",
-        "location": "Toulouse \/ France",
-        "bio": "e-commerce, dev, founder of Creabilis Agency",
-        "email_domain": "",
-        "contributions": 427,
-        "repositories": {
-            "PrestaShop": 218,
-            "PrestaShop-webservice-lib": 1,
-            "dashactivity": 3,
-            "dashgoals": 3,
-            "dashproducts": 5,
-            "statsbestcustomers": 2,
-            "statscatalog": 1,
-            "statssales": 2,
-            "blockwishlist": 3,
-            "productcomments": 7,
-            "autoupgrade": 9,
-            "contactform": 4,
-            "ps_socialfollow": 1,
-            "ps_customtext": 1,
-            "ps_emailsubscription": 13,
-            "ps_banner": 1,
-            "ps_featuredproducts": 1,
-            "ps_imageslider": 1,
-            "ps_customersignin": 1,
-            "ps_categorytree": 2,
-            "docs": 69,
-            "ps_shoppingcart": 3,
-            "ps_facetedsearch": 8,
-            "ps_customeraccountlinks": 1,
-            "ps_searchbar": 1,
-            "ps_checkpayment": 1,
-            "ps_emailalerts": 2,
-            "ps_brandlist": 1,
-            "ps_specials": 8,
-            "ps_crossselling": 3,
-            "ps_dataprivacy": 1,
-            "ps_viewedproduct": 5,
-            "traces": 3,
-            "ps_googleanalytics": 3,
-            "psgdpr": 9,
-            "php-ps-info": 2,
-            "ps_faviconnotificationbo": 2,
-            "prestashop-specs": 5,
-            "open-source": 3,
-            "hummingbird": 9,
-            "classic-theme": 6,
-            "ps_apiresources": 3
-        },
-        "categories": {
-            "core": {
-                "total": 220,
-                "repositories": {
-                    "PrestaShop": 218,
-                    "php-ps-info": 2
-                }
-            },
-            "specs": {
-                "total": 5,
-                "repositories": {
-                    "prestashop-specs": 5
-                }
-            },
-            "documentation": {
-                "total": 72,
-                "repositories": {
-                    "docs": 69,
-                    "open-source": 3
-                }
-            },
-            "themes": {
-                "total": 15,
-                "repositories": {
-                    "classic-theme": 6,
-                    "hummingbird": 9
-                }
-            },
-            "modules": {
-                "total": 111,
-                "repositories": {
-                    "dashactivity": 3,
-                    "dashgoals": 3,
-                    "dashproducts": 5,
-                    "statsbestcustomers": 2,
-                    "statscatalog": 1,
-                    "statssales": 2,
-                    "blockwishlist": 3,
-                    "productcomments": 7,
-                    "autoupgrade": 9,
-                    "contactform": 4,
-                    "ps_socialfollow": 1,
-                    "ps_customtext": 1,
-                    "ps_emailsubscription": 13,
-                    "ps_banner": 1,
-                    "ps_featuredproducts": 1,
-                    "ps_imageslider": 1,
-                    "ps_customersignin": 1,
-                    "ps_categorytree": 2,
-                    "ps_shoppingcart": 3,
-                    "ps_facetedsearch": 8,
-                    "ps_customeraccountlinks": 1,
-                    "ps_searchbar": 1,
-                    "ps_checkpayment": 1,
-                    "ps_emailalerts": 2,
-                    "ps_brandlist": 1,
-                    "ps_specials": 8,
-                    "ps_crossselling": 3,
-                    "ps_dataprivacy": 1,
-                    "ps_viewedproduct": 5,
-                    "ps_faviconnotificationbo": 2,
-                    "ps_googleanalytics": 3,
-                    "psgdpr": 9,
-                    "ps_apiresources": 3
-                }
-            },
-            "tools": {
-                "total": 4,
-                "repositories": {
-                    "PrestaShop-webservice-lib": 1,
-                    "traces": 3
-                }
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
             },
             "others": {
                 "total": 0,
@@ -8438,6 +8438,106 @@
             }
         }
     },
+    "Codencode": {
+        "login": "Codencode",
+        "id": 2463965,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
+        "html_url": "https:\/\/github.com\/Codencode",
+        "name": "Paolo Cunti @codencode",
+        "company": "Codencode",
+        "blog": "https:\/\/www.codencode.it",
+        "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
+        "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
+        "email_domain": "codencode.it",
+        "contributions": 368,
+        "repositories": {
+            "PrestaShop": 251,
+            "dashactivity": 2,
+            "statsforecast": 1,
+            "statsstock": 1,
+            "autoupgrade": 6,
+            "contactform": 3,
+            "blockreassurance": 2,
+            "ps_socialfollow": 4,
+            "ps_linklist": 2,
+            "ps_emailsubscription": 24,
+            "ps_imageslider": 2,
+            "ps_mainmenu": 1,
+            "docs": 6,
+            "ps_facetedsearch": 8,
+            "ps_specials": 4,
+            "traces": 2,
+            "psgdpr": 4,
+            "LocalizationFiles": 2,
+            "hummingbird": 6,
+            "classic-theme": 8,
+            "ps_apiresources": 29
+        },
+        "categories": {
+            "core": {
+                "total": 253,
+                "repositories": {
+                    "PrestaShop": 251,
+                    "LocalizationFiles": 2
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 6,
+                "repositories": {
+                    "docs": 6
+                }
+            },
+            "themes": {
+                "total": 14,
+                "repositories": {
+                    "classic-theme": 8,
+                    "hummingbird": 6
+                }
+            },
+            "modules": {
+                "total": 93,
+                "repositories": {
+                    "dashactivity": 2,
+                    "statsforecast": 1,
+                    "statsstock": 1,
+                    "autoupgrade": 6,
+                    "contactform": 3,
+                    "blockreassurance": 2,
+                    "ps_socialfollow": 4,
+                    "ps_linklist": 2,
+                    "ps_emailsubscription": 24,
+                    "ps_imageslider": 2,
+                    "ps_mainmenu": 1,
+                    "ps_facetedsearch": 8,
+                    "ps_specials": 4,
+                    "psgdpr": 4,
+                    "ps_apiresources": 29
+                }
+            },
+            "tools": {
+                "total": 2,
+                "repositories": {
+                    "traces": 2
+                }
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "MathiasReker": {
         "login": "MathiasReker",
         "id": 26626066,
@@ -8531,106 +8631,6 @@
             "tools": {
                 "total": 0,
                 "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "Codencode": {
-        "login": "Codencode",
-        "id": 2463965,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
-        "html_url": "https:\/\/github.com\/Codencode",
-        "name": "Paolo Cunti @codencode",
-        "company": "Codencode",
-        "blog": "https:\/\/www.codencode.it",
-        "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
-        "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
-        "email_domain": "codencode.it",
-        "contributions": 352,
-        "repositories": {
-            "PrestaShop": 235,
-            "dashactivity": 2,
-            "statsforecast": 1,
-            "statsstock": 1,
-            "autoupgrade": 6,
-            "contactform": 3,
-            "blockreassurance": 2,
-            "ps_socialfollow": 4,
-            "ps_linklist": 2,
-            "ps_emailsubscription": 24,
-            "ps_imageslider": 2,
-            "ps_mainmenu": 1,
-            "docs": 6,
-            "ps_facetedsearch": 8,
-            "ps_specials": 4,
-            "traces": 2,
-            "psgdpr": 4,
-            "LocalizationFiles": 2,
-            "hummingbird": 6,
-            "classic-theme": 8,
-            "ps_apiresources": 29
-        },
-        "categories": {
-            "core": {
-                "total": 237,
-                "repositories": {
-                    "PrestaShop": 235,
-                    "LocalizationFiles": 2
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 6,
-                "repositories": {
-                    "docs": 6
-                }
-            },
-            "themes": {
-                "total": 14,
-                "repositories": {
-                    "classic-theme": 8,
-                    "hummingbird": 6
-                }
-            },
-            "modules": {
-                "total": 93,
-                "repositories": {
-                    "dashactivity": 2,
-                    "statsforecast": 1,
-                    "statsstock": 1,
-                    "autoupgrade": 6,
-                    "contactform": 3,
-                    "blockreassurance": 2,
-                    "ps_socialfollow": 4,
-                    "ps_linklist": 2,
-                    "ps_emailsubscription": 24,
-                    "ps_imageslider": 2,
-                    "ps_mainmenu": 1,
-                    "ps_facetedsearch": 8,
-                    "ps_specials": 4,
-                    "psgdpr": 4,
-                    "ps_apiresources": 29
-                }
-            },
-            "tools": {
-                "total": 2,
-                "repositories": {
-                    "traces": 2
-                }
             },
             "tests": {
                 "total": 0,
@@ -8867,10 +8867,10 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7364936?v=4",
         "html_url": "https:\/\/github.com\/tomlev",
         "name": "Thomas LEVIANDIER",
-        "company": "Bixev",
+        "company": "Cadulis",
         "blog": "http:\/\/thomas.leviandier.fr",
         "location": "Mantes la jolie, France",
-        "bio": "Freelancer @bixev, eg @PrestaShop @Deezer @Cadulis @LivingObjects",
+        "bio": "Freelancer @bixev, @PrestaShop @Deezer @Cadulis @LivingObjects @cadulis ",
         "email_domain": "",
         "contributions": 321,
         "repositories": {
@@ -9282,9 +9282,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 244,
+        "contributions": 246,
         "repositories": {
-            "PrestaShop": 184,
+            "PrestaShop": 186,
             "productcomments": 2,
             "autoupgrade": 4,
             "docker": 4,
@@ -9307,9 +9307,9 @@
         },
         "categories": {
             "core": {
-                "total": 184,
+                "total": 186,
                 "repositories": {
-                    "PrestaShop": 184
+                    "PrestaShop": 186
                 }
             },
             "specs": {
@@ -51191,5 +51191,5 @@
             }
         }
     },
-    "updatedAt": "2026-06-23 07:20:38"
+    "updatedAt": "2026-06-24 07:13:22"
 }
