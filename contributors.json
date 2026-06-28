@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10939,
+        "contributions": 10940,
         "repositories": {
             "PrestaShop": 4598,
             "PrestaShop-modules": 31,
@@ -119,7 +119,7 @@
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1082,
+            "test-scenarios": 1083,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1300,
+                "total": 1301,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1082,
+                    "test-scenarios": 1083,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -26468,7 +26468,7 @@
         "company": null,
         "blog": "",
         "location": "France",
-        "bio": "Product Manager -\r\nClimbing, sewing and crafting stuff on the side",
+        "bio": "Product person -\r\nClimbing, sewing and crafting stuff on the side",
         "email_domain": "",
         "contributions": 6,
         "repositories": {
@@ -44703,11 +44703,11 @@
         "id": 126407576,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/126407576?v=4",
         "html_url": "https:\/\/github.com\/davidismeurt",
-        "name": "David Ismeurt",
+        "name": "David",
         "company": null,
         "blog": "",
         "location": "France",
-        "bio": "Freelance fullstack developer",
+        "bio": null,
         "email_domain": "",
         "contributions": 1,
         "repositories": {
@@ -51194,5 +51194,5 @@
             }
         }
     },
-    "updatedAt": "2026-06-27 07:06:29"
+    "updatedAt": "2026-06-28 07:23:12"
 }
