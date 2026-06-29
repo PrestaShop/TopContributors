@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10941,
+        "contributions": 10943,
         "repositories": {
             "PrestaShop": 1195,
             "PrestaShop-modules": 2,
@@ -567,7 +567,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7613,
+        "contributions": 7614,
         "repositories": {
             "PrestaShop": 768,
             "dashproducts": 2,
@@ -723,7 +723,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5220,
+        "contributions": 5221,
         "repositories": {
             "PrestaShop": 397,
             "PrestaShop-modules": 14,
@@ -2512,7 +2512,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 676,
+        "contributions": 683,
         "repositories": {
             "PrestaShop": 225,
             "PrestaShop-modules": 4,
@@ -2567,7 +2567,7 @@
             "ps_supplierlist": 2,
             "ps_crossselling": 1,
             "ps_dataprivacy": 1,
-            "traces": 18,
+            "traces": 19,
             "TopContributors": 7,
             "psssst": 1,
             "ps_themecusto": 1,
@@ -2675,11 +2675,11 @@
                 }
             },
             "tools": {
-                "total": 32,
+                "total": 33,
                 "repositories": {
                     "PrestaShop-webservice-lib": 1,
                     "docker": 1,
-                    "traces": 18,
+                    "traces": 19,
                     "TopContributors": 7,
                     "psssst": 1,
                     "presthubot": 1,
@@ -2705,7 +2705,7 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 448
+        "mergedPullRequests": 449
     },
     "aleeks": {
         "login": "aleeks",
@@ -3854,9 +3854,9 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1663,
+        "contributions": 1665,
         "repositories": {
-            "PrestaShop": 151,
+            "PrestaShop": 152,
             "dashactivity": 2,
             "blockwishlist": 6,
             "autoupgrade": 6,
@@ -3886,13 +3886,13 @@
             "kanbanbot": 3,
             "zip-archives": 2,
             "ps_apiresources": 8,
-            "ui-testing-library": 4
+            "ui-testing-library": 5
         },
         "categories": {
             "core": {
-                "total": 153,
+                "total": 154,
                 "repositories": {
-                    "PrestaShop": 151,
+                    "PrestaShop": 152,
                     "LocalizationFiles": 2
                 }
             },
@@ -3944,10 +3944,10 @@
                 }
             },
             "tests": {
-                "total": 7,
+                "total": 8,
                 "repositories": {
                     "ga.tests.ui.pr": 3,
-                    "ui-testing-library": 4
+                    "ui-testing-library": 5
                 }
             },
             "blog": {
@@ -3965,7 +3965,7 @@
                 }
             }
         },
-        "mergedPullRequests": 239
+        "mergedPullRequests": 241
     },
     "tblivet": {
         "login": "tblivet",
@@ -6662,7 +6662,7 @@
         "location": "La Roche sur Yon",
         "bio": null,
         "email_domain": "",
-        "contributions": 433,
+        "contributions": 440,
         "repositories": {
             "PrestaShop": 51,
             "dashproducts": 1,
@@ -15513,6 +15513,72 @@
         },
         "mergedPullRequests": 10
     },
+    "Jeremie-Kiwik": {
+        "login": "Jeremie-Kiwik",
+        "id": 129875339,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/129875339?v=4",
+        "html_url": "https:\/\/github.com\/Jeremie-Kiwik",
+        "name": "J\u00e9r\u00e9mie LEGRAND",
+        "company": "KIWIK",
+        "blog": "https:\/\/kiwik.com",
+        "location": "Orl\u00e9ans",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 37,
+        "repositories": {
+            "PrestaShop": 4,
+            "traces": 1,
+            "example-modules": 2,
+            "ps_apiresources": 3
+        },
+        "categories": {
+            "core": {
+                "total": 4,
+                "repositories": {
+                    "PrestaShop": 4
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 2,
+                "repositories": {
+                    "example-modules": 2
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 3,
+                "repositories": {
+                    "ps_apiresources": 3
+                }
+            },
+            "tools": {
+                "total": 1,
+                "repositories": {
+                    "traces": 1
+                }
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 10
+    },
     "tyloo": {
         "login": "tyloo",
         "id": 611035,
@@ -16165,72 +16231,6 @@
             "tools": {
                 "total": 0,
                 "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 9
-    },
-    "Jeremie-Kiwik": {
-        "login": "Jeremie-Kiwik",
-        "id": 129875339,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/129875339?v=4",
-        "html_url": "https:\/\/github.com\/Jeremie-Kiwik",
-        "name": "J\u00e9r\u00e9mie LEGRAND",
-        "company": "KIWIK",
-        "blog": "https:\/\/kiwik.com",
-        "location": "Orl\u00e9ans",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 36,
-        "repositories": {
-            "PrestaShop": 4,
-            "traces": 1,
-            "example-modules": 1,
-            "ps_apiresources": 3
-        },
-        "categories": {
-            "core": {
-                "total": 4,
-                "repositories": {
-                    "PrestaShop": 4
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 1,
-                "repositories": {
-                    "example-modules": 1
-                }
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 3,
-                "repositories": {
-                    "ps_apiresources": 3
-                }
-            },
-            "tools": {
-                "total": 1,
-                "repositories": {
-                    "traces": 1
-                }
             },
             "tests": {
                 "total": 0,
@@ -32110,26 +32110,27 @@
         },
         "mergedPullRequests": 2
     },
-    "xitromedia": {
-        "login": "xitromedia",
-        "id": 9075457,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9075457?v=4",
-        "html_url": "https:\/\/github.com\/xitromedia",
-        "name": "Andr\u00e9",
-        "company": "xitroMEDIA",
-        "blog": "https:\/\/xitromedia.de",
-        "location": "Germany, Saxony",
-        "bio": "Programming (PHP, JS, Perl, SQL), WebDesign, SEO, SEM, Marketing, CEO, Lawyer, Husband, Father and much more :o). Coding foresighted with German thoroughness.",
-        "email_domain": "xitromedia.de",
+    "Perfecticus": {
+        "login": "Perfecticus",
+        "id": 2196792,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2196792?v=4",
+        "html_url": "https:\/\/github.com\/Perfecticus",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
         "contributions": 1,
         "repositories": {
-            "PrestaShop": 2
+            "PrestaShop": 1,
+            "ps_facetedsearch": 1
         },
         "categories": {
             "core": {
-                "total": 2,
+                "total": 1,
                 "repositories": {
-                    "PrestaShop": 2
+                    "PrestaShop": 1
                 }
             },
             "specs": {
@@ -32145,8 +32146,10 @@
                 "repositories": []
             },
             "modules": {
-                "total": 0,
-                "repositories": []
+                "total": 1,
+                "repositories": {
+                    "ps_facetedsearch": 1
+                }
             },
             "tools": {
                 "total": 0,
@@ -32227,27 +32230,26 @@
         },
         "mergedPullRequests": 2
     },
-    "Perfecticus": {
-        "login": "Perfecticus",
-        "id": 2196792,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2196792?v=4",
-        "html_url": "https:\/\/github.com\/Perfecticus",
-        "name": null,
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
+    "xitromedia": {
+        "login": "xitromedia",
+        "id": 9075457,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9075457?v=4",
+        "html_url": "https:\/\/github.com\/xitromedia",
+        "name": "Andr\u00e9",
+        "company": "xitroMEDIA",
+        "blog": "https:\/\/xitromedia.de",
+        "location": "Germany, Saxony",
+        "bio": "Programming (PHP, JS, Perl, SQL), WebDesign, SEO, SEM, Marketing, CEO, Lawyer, Husband, Father and much more :o). Coding foresighted with German thoroughness.",
+        "email_domain": "xitromedia.de",
         "contributions": 1,
         "repositories": {
-            "PrestaShop": 1,
-            "ps_facetedsearch": 1
+            "PrestaShop": 2
         },
         "categories": {
             "core": {
-                "total": 1,
+                "total": 2,
                 "repositories": {
-                    "PrestaShop": 1
+                    "PrestaShop": 2
                 }
             },
             "specs": {
@@ -32263,10 +32265,8 @@
                 "repositories": []
             },
             "modules": {
-                "total": 1,
-                "repositories": {
-                    "ps_facetedsearch": 1
-                }
+                "total": 0,
+                "repositories": []
             },
             "tools": {
                 "total": 0,
@@ -44721,12 +44721,12 @@
         },
         "mergedPullRequests": 1
     },
-    "hafkhami": {
-        "login": "hafkhami",
-        "id": 10551562,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10551562?v=4",
-        "html_url": "https:\/\/github.com\/hafkhami",
-        "name": "Hashem Afkhami",
+    "PeNov": {
+        "login": "PeNov",
+        "id": 38213520,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/38213520?v=4",
+        "html_url": "https:\/\/github.com\/PeNov",
+        "name": null,
         "company": null,
         "blog": "",
         "location": null,
@@ -44778,12 +44778,12 @@
         },
         "mergedPullRequests": 1
     },
-    "PeNov": {
-        "login": "PeNov",
-        "id": 38213520,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/38213520?v=4",
-        "html_url": "https:\/\/github.com\/PeNov",
-        "name": null,
+    "hafkhami": {
+        "login": "hafkhami",
+        "id": 10551562,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10551562?v=4",
+        "html_url": "https:\/\/github.com\/hafkhami",
+        "name": "Hashem Afkhami",
         "company": null,
         "blog": "",
         "location": null,
