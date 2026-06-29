@@ -2,7 +2,7 @@
 import 'vue3-carousel/carousel.css'
 
 import { ref, onMounted } from 'vue'
-import type { Company, Contributor, NewContributor } from '@/types'
+import type { Company, Contributor, NewContributor, RankingEntry } from '@/types'
 
 const totalMergedPr = ref<number>(0)
 const prestaMergedPrbyPercent = ref<number>(0)
@@ -11,6 +11,9 @@ const contributorsData = ref<Contributor[]>([])
 const topCompanies = ref<Company[]>([])
 const topContributors = ref<Contributor[]>([])
 const newContributors = ref<NewContributor[]>([])
+const topReviewers = ref<RankingEntry[]>([])
+const topIssues = ref<RankingEntry[]>([])
+const topPullRequests = ref<RankingEntry[]>([])
 
 onMounted(async () => {
   try {
@@ -67,6 +70,36 @@ onMounted(async () => {
   catch (error) {
     console.error('Error loading contributors data:', error)
   }
+
+  try {
+    const response = await fetch('/top_reviewers.json')
+    if (!response.ok) throw new Error('Error loading top reviewers')
+    const data = await response.json()
+    topReviewers.value = data.items ?? []
+  }
+  catch (error) {
+    console.error('Error loading top reviewers:', error)
+  }
+
+  try {
+    const response = await fetch('/top_issues.json')
+    if (!response.ok) throw new Error('Error loading top issues')
+    const data = await response.json()
+    topIssues.value = data.items ?? []
+  }
+  catch (error) {
+    console.error('Error loading top issues:', error)
+  }
+
+  try {
+    const response = await fetch('/top_pullrequests.json')
+    if (!response.ok) throw new Error('Error loading top pull requests')
+    const data = await response.json()
+    topPullRequests.value = data.items ?? []
+  }
+  catch (error) {
+    console.error('Error loading top pull requests:', error)
+  }
 })
 </script>
 
@@ -80,6 +113,9 @@ onMounted(async () => {
       <TopSectionView
         :top-contributors="topContributors"
         :top-companies="topCompanies"
+        :top-reviewers="topReviewers"
+        :top-issues="topIssues"
+        :top-pull-requests="topPullRequests"
       />
       <NewContributorsSectionView :new-contributors="newContributors" />
       <WallOfFameSectionView

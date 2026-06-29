@@ -2,7 +2,7 @@
 import { ref, computed, onMounted, onUnmounted } from 'vue'
 import type { PuikTableHeader } from '@prestashopcorp/puik-components'
 import { PuikPaginationVariants } from '@prestashopcorp/puik-components'
-import type { Company, Contributor } from '@/types'
+import type { Company, Contributor, RankingEntry } from '@/types'
 
 const props = defineProps<{
   title: string
@@ -10,7 +10,7 @@ const props = defineProps<{
   linkHref?: string
   linkContent?: string
   headers: PuikTableHeader[]
-  items: Company[] | Contributor[]
+  items: Company[] | Contributor[] | RankingEntry[]
   stickyLastCol?: boolean
   fullWidth?: boolean
 }>()
