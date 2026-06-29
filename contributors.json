@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10940,
+        "contributions": 10941,
         "repositories": {
             "PrestaShop": 4598,
             "PrestaShop-modules": 31,
@@ -119,7 +119,7 @@
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1083,
+            "test-scenarios": 1084,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1301,
+                "total": 1302,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1083,
+                    "test-scenarios": 1084,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -322,9 +322,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7612,
+        "contributions": 7613,
         "repositories": {
-            "PrestaShop": 6077,
+            "PrestaShop": 6078,
             "dashactivity": 1,
             "dashgoals": 1,
             "dashproducts": 4,
@@ -419,9 +419,9 @@
         },
         "categories": {
             "core": {
-                "total": 6169,
+                "total": 6170,
                 "repositories": {
-                    "PrestaShop": 6077,
+                    "PrestaShop": 6078,
                     "prestashop-ui-kit": 16,
                     "TranslationToolsBundle": 14,
                     "LocalizationFiles": 3,
@@ -4932,62 +4932,6 @@
             }
         }
     },
-    "bmancone": {
-        "login": "bmancone",
-        "id": 2864622,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2864622?v=4",
-        "html_url": "https:\/\/github.com\/bmancone",
-        "name": "Brice",
-        "company": null,
-        "blog": "",
-        "location": "Paris, France",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 883,
-        "repositories": {
-            "PrestaShop": 883
-        },
-        "categories": {
-            "core": {
-                "total": 883,
-                "repositories": {
-                    "PrestaShop": 883
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
     "tblivet": {
         "login": "tblivet",
         "id": 110676325,
@@ -4999,9 +4943,9 @@
         "location": null,
         "bio": "Web Integrator",
         "email_domain": "",
-        "contributions": 882,
+        "contributions": 886,
         "repositories": {
-            "PrestaShop": 48,
+            "PrestaShop": 52,
             "productcomments": 5,
             "autoupgrade": 177,
             "prestashop.github.io": 42,
@@ -5022,9 +4966,9 @@
         },
         "categories": {
             "core": {
-                "total": 62,
+                "total": 66,
                 "repositories": {
-                    "PrestaShop": 48,
+                    "PrestaShop": 52,
                     "prestashop-ui-kit": 14
                 }
             },
@@ -5082,6 +5026,62 @@
                 "repositories": {
                     "Prestashop-BO-themes-package": 3
                 }
+            }
+        }
+    },
+    "bmancone": {
+        "login": "bmancone",
+        "id": 2864622,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2864622?v=4",
+        "html_url": "https:\/\/github.com\/bmancone",
+        "name": "Brice",
+        "company": null,
+        "blog": "",
+        "location": "Paris, France",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 883,
+        "repositories": {
+            "PrestaShop": 883
+        },
+        "categories": {
+            "core": {
+                "total": 883,
+                "repositories": {
+                    "PrestaShop": 883
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
             }
         }
     },
@@ -51194,5 +51194,5 @@
             }
         }
     },
-    "updatedAt": "2026-06-28 07:23:12"
+    "updatedAt": "2026-06-29 07:48:32"
 }

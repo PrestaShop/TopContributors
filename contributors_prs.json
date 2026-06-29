@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10940,
+        "contributions": 10941,
         "repositories": {
             "PrestaShop": 1195,
             "PrestaShop-modules": 2,
@@ -567,7 +567,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7612,
+        "contributions": 7613,
         "repositories": {
             "PrestaShop": 768,
             "dashproducts": 2,
@@ -3978,9 +3978,9 @@
         "location": null,
         "bio": "Web Integrator",
         "email_domain": "",
-        "contributions": 882,
+        "contributions": 886,
         "repositories": {
-            "PrestaShop": 14,
+            "PrestaShop": 15,
             "productcomments": 2,
             "autoupgrade": 49,
             "prestashop.github.io": 3,
@@ -4001,9 +4001,9 @@
         },
         "categories": {
             "core": {
-                "total": 24,
+                "total": 25,
                 "repositories": {
-                    "PrestaShop": 14,
+                    "PrestaShop": 15,
                     "prestashop-ui-kit": 10
                 }
             },
@@ -4063,7 +4063,7 @@
                 }
             }
         },
-        "mergedPullRequests": 228
+        "mergedPullRequests": 229
     },
     "gskema": {
         "login": "gskema",
@@ -6674,6 +6674,7 @@
             "prestashop-ui-kit": 1,
             "ps_emailsubscription": 2,
             "docker-internal-images": 1,
+            "ps_facetedsearch": 1,
             "TopContributors": 1,
             "ps_googleanalytics": 2,
             "open-source": 2,
@@ -6712,7 +6713,7 @@
                 }
             },
             "modules": {
-                "total": 25,
+                "total": 26,
                 "repositories": {
                     "dashproducts": 1,
                     "pagesnotfound": 2,
@@ -6720,6 +6721,7 @@
                     "statssearch": 2,
                     "autoupgrade": 1,
                     "ps_emailsubscription": 2,
+                    "ps_facetedsearch": 1,
                     "ps_googleanalytics": 2,
                     "ps_distributionapiclient": 9,
                     "ps_apiresources": 4
@@ -6752,7 +6754,7 @@
                 }
             }
         },
-        "mergedPullRequests": 107
+        "mergedPullRequests": 108
     },
     "FabienPapet": {
         "login": "FabienPapet",
