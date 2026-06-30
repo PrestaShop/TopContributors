@@ -31,7 +31,3 @@ public/topcompanies_prs.json
 public/top_reviewers.json
 public/top_issues.json
 public/top_pullrequests.json
-# Superpowers brainstorm (transient)
-.superpowers/
-# Superpowers workflow docs (kept local only)
-docs/superpowers/
