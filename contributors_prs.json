@@ -46887,6 +46887,63 @@
         },
         "mergedPullRequests": 1
     },
+    "piotr-jagiello": {
+        "login": "piotr-jagiello",
+        "id": 78038159,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/78038159?v=4",
+        "html_url": "https:\/\/github.com\/piotr-jagiello",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "prestashop-flashlight": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 1,
+                "repositories": {
+                    "prestashop-flashlight": 1
+                }
+            }
+        },
+        "mergedPullRequests": 1
+    },
     "MatthieuCutin": {
         "login": "MatthieuCutin",
         "id": 12746178,

@@ -1,4 +1,12 @@
 {
+    "piotr-jagiello": {
+        "login": "piotr-jagiello",
+        "name": null,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/78038159?v=4",
+        "html_url": "https:\/\/github.com\/piotr-jagiello",
+        "contributions": 1,
+        "firstContributionAt": "2026-06-29T20:05:46Z"
+    },
     "gusdleon": {
         "login": "gusdleon",
         "name": "Gustavo de Le\u00f3n",
@@ -70,13 +78,5 @@
         "html_url": "https:\/\/github.com\/miskovd",
         "contributions": 1,
         "firstContributionAt": "2026-03-27T13:40:00Z"
-    },
-    "Maofree": {
-        "login": "Maofree",
-        "name": "MaoDev",
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/653230?v=4",
-        "html_url": "https:\/\/github.com\/Maofree",
-        "contributions": 1,
-        "firstContributionAt": "2026-03-16T15:00:39Z"
     }
 }
