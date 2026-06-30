@@ -31,6 +31,9 @@ export interface Contributor {
       repositories: Record<string, number>
     }
   >
+  reviews?: number
+  issuesOpened?: number
+  pullRequestsOpened?: number
   [key: string]: unknown
 }
 
@@ -41,4 +44,18 @@ export interface NewContributor {
   html_url: string
   contributions: number
   firstContributionAt: string
+}
+
+export interface RankingEntry {
+  rank: number
+  login: string
+  name: string
+  avatar_url: string
+  html_url: string
+  count: number
+}
+
+export interface Ranking {
+  updatedAt: string
+  items: RankingEntry[]
 }

@@ -1,9 +1,12 @@
 <script setup lang="ts">
-import type { Contributor, Company } from '@/types'
+import type { Contributor, Company, RankingEntry } from '@/types'
 
 defineProps<{
   topContributors: Contributor[]
   topCompanies: Company[]
+  topReviewers: RankingEntry[]
+  topIssues: RankingEntry[]
+  topPullRequests: RankingEntry[]
 }>()
 </script>
 
@@ -15,6 +18,27 @@ defineProps<{
     <div class="wof-top-section__cards">
       <TopCompaniesView :top-companies="topCompanies" />
       <TopContributorsView :top-contributors="topContributors" />
+      <TopRankingView
+        v-if="topReviewers.length"
+        title="👀 Top reviewers"
+        description="They review pull requests to keep PrestaShop's quality high."
+        count-label="Reviews"
+        :items="topReviewers"
+      />
+      <TopRankingView
+        v-if="topIssues.length"
+        title="🐛 Top issue reporters"
+        description="They report issues that help us improve PrestaShop."
+        count-label="Issues"
+        :items="topIssues"
+      />
+      <TopRankingView
+        v-if="topPullRequests.length"
+        title="🔀 Top PR authors"
+        description="They open pull requests to move PrestaShop forward."
+        count-label="Pull requests"
+        :items="topPullRequests"
+      />
     </div>
   </section>
 </template>
