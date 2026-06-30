@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10943,
+        "contributions": 10946,
         "repositories": {
             "PrestaShop": 4598,
             "PrestaShop-modules": 31,
@@ -40,7 +40,7 @@
             "statssales": 17,
             "statssearch": 10,
             "statsstock": 9,
-            "blockwishlist": 225,
+            "blockwishlist": 227,
             "productcomments": 45,
             "pscleaner": 13,
             "autoupgrade": 112,
@@ -94,7 +94,7 @@
             "ps_feeder": 1,
             "traces": 220,
             "core-weekly-generator": 6,
-            "TopContributors": 126,
+            "TopContributors": 127,
             "TranslationFiles": 3,
             "ps_livetranslation": 13,
             "ps_googleanalytics": 20,
@@ -186,7 +186,7 @@
                 }
             },
             "modules": {
-                "total": 1829,
+                "total": 1831,
                 "repositories": {
                     "PrestaShop-modules": 31,
                     "dashactivity": 14,
@@ -214,7 +214,7 @@
                     "statssales": 17,
                     "statssearch": 10,
                     "statsstock": 9,
-                    "blockwishlist": 225,
+                    "blockwishlist": 227,
                     "productcomments": 45,
                     "pscleaner": 13,
                     "autoupgrade": 112,
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1406,
+                "total": 1407,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -283,7 +283,7 @@
                     "presthubot": 518,
                     "prestonbot": 10,
                     "QANightlyResults": 408,
-                    "TopContributors": 126,
+                    "TopContributors": 127,
                     "TopTranslators": 1,
                     "traces": 220,
                     "ps-project-metrics": 4
@@ -322,7 +322,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7614,
+        "contributions": 7615,
         "repositories": {
             "PrestaShop": 6078,
             "dashactivity": 1,
@@ -336,7 +336,7 @@
             "statscarrier": 1,
             "statspersonalinfos": 1,
             "statssearch": 1,
-            "blockwishlist": 8,
+            "blockwishlist": 9,
             "productcomments": 83,
             "autoupgrade": 56,
             "gsitemap": 1,
@@ -455,7 +455,7 @@
                 }
             },
             "modules": {
-                "total": 615,
+                "total": 616,
                 "repositories": {
                     "dashactivity": 1,
                     "dashgoals": 1,
@@ -468,7 +468,7 @@
                     "statscarrier": 1,
                     "statspersonalinfos": 1,
                     "statssearch": 1,
-                    "blockwishlist": 8,
+                    "blockwishlist": 9,
                     "productcomments": 83,
                     "autoupgrade": 56,
                     "gsitemap": 1,
@@ -3358,9 +3358,9 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1665,
+        "contributions": 1666,
         "repositories": {
-            "PrestaShop": 889,
+            "PrestaShop": 890,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 6,
             "dashgoals": 2,
@@ -3439,9 +3439,9 @@
         },
         "categories": {
             "core": {
-                "total": 902,
+                "total": 903,
                 "repositories": {
-                    "PrestaShop": 889,
+                    "PrestaShop": 890,
                     "prestashop-ui-kit": 1,
                     "LocalizationFiles": 8,
                     "php-dev-tools": 4
@@ -5862,7 +5862,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 683,
+        "contributions": 687,
         "repositories": {
             "PrestaShop": 422,
             "PrestaShop-modules": 5,
@@ -5920,7 +5920,7 @@
             "ps_crossselling": 1,
             "ps_dataprivacy": 1,
             "traces": 34,
-            "TopContributors": 8,
+            "TopContributors": 12,
             "psssst": 1,
             "ps_themecusto": 1,
             "psgdpr": 4,
@@ -6029,13 +6029,13 @@
                 }
             },
             "tools": {
-                "total": 49,
+                "total": 53,
                 "repositories": {
                     "docker": 1,
                     "PrestaShop-webservice-lib": 1,
                     "presthubot": 1,
                     "ps-monitor-module-releases": 1,
-                    "TopContributors": 8,
+                    "TopContributors": 12,
                     "traces": 34,
                     "kanbanbot": 1,
                     "psssst": 1,
@@ -7696,9 +7696,9 @@
         "location": "La Roche sur Yon",
         "bio": null,
         "email_domain": "",
-        "contributions": 440,
+        "contributions": 445,
         "repositories": {
-            "PrestaShop": 232,
+            "PrestaShop": 237,
             "dashproducts": 2,
             "pagesnotfound": 10,
             "statsbestproducts": 8,
@@ -7722,9 +7722,9 @@
         },
         "categories": {
             "core": {
-                "total": 235,
+                "total": 240,
                 "repositories": {
-                    "PrestaShop": 232,
+                    "PrestaShop": 237,
                     "prestashop-ui-kit": 3
                 }
             },
@@ -7798,17 +7798,19 @@
         "location": "Toulouse \/ France",
         "bio": "e-commerce, dev, founder of Creabilis Agency",
         "email_domain": "",
-        "contributions": 433,
+        "contributions": 437,
         "repositories": {
             "PrestaShop": 220,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 4,
             "dashgoals": 4,
-            "dashproducts": 6,
+            "dashproducts": 7,
+            "graphnvd3": 1,
+            "gridhtml": 1,
             "statsbestcustomers": 2,
             "statscatalog": 1,
             "statssales": 2,
-            "blockwishlist": 4,
+            "blockwishlist": 5,
             "productcomments": 7,
             "autoupgrade": 9,
             "contactform": 4,
@@ -7872,15 +7874,17 @@
                 }
             },
             "modules": {
-                "total": 115,
+                "total": 119,
                 "repositories": {
                     "dashactivity": 4,
                     "dashgoals": 4,
-                    "dashproducts": 6,
+                    "dashproducts": 7,
+                    "graphnvd3": 1,
+                    "gridhtml": 1,
                     "statsbestcustomers": 2,
                     "statscatalog": 1,
                     "statssales": 2,
-                    "blockwishlist": 4,
+                    "blockwishlist": 5,
                     "productcomments": 7,
                     "autoupgrade": 9,
                     "contactform": 4,
@@ -8943,9 +8947,9 @@
         "location": null,
         "bio": "French fullstack developper (Node \/ Vue)",
         "email_domain": "gmail.com",
-        "contributions": 295,
+        "contributions": 298,
         "repositories": {
-            "PrestaShop": 276,
+            "PrestaShop": 279,
             "autoupgrade": 5,
             "php-dev-tools": 1,
             "hummingbird": 4,
@@ -8953,9 +8957,9 @@
         },
         "categories": {
             "core": {
-                "total": 277,
+                "total": 280,
                 "repositories": {
-                    "PrestaShop": 276,
+                    "PrestaShop": 279,
                     "php-dev-tools": 1
                 }
             },
@@ -9285,9 +9289,10 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 246,
+        "contributions": 247,
         "repositories": {
             "PrestaShop": 186,
+            "blockwishlist": 1,
             "productcomments": 2,
             "autoupgrade": 4,
             "docker": 4,
@@ -9334,8 +9339,9 @@
                 "repositories": []
             },
             "modules": {
-                "total": 33,
+                "total": 34,
                 "repositories": {
+                    "blockwishlist": 1,
                     "productcomments": 2,
                     "autoupgrade": 4,
                     "ps_facetedsearch": 1,
@@ -51250,5 +51256,5 @@
             }
         }
     },
-    "updatedAt": "2026-06-30 07:19:43"
+    "updatedAt": "2026-06-30 16:51:27"
 }
