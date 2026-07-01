@@ -121,6 +121,9 @@ onMounted(async () => {
       <WallOfFameSectionView
         :contributors-data="contributorsData"
         :companies-data="companiesData"
+        :reviewers="topReviewers"
+        :issues="topIssues"
+        :pull-requests="topPullRequests"
       />
       <ContributeSectionView
         contribute-link="https://devdocs.prestashop-project.org/9/contribute/contribute-pull-requests/"
