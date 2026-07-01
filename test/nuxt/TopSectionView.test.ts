@@ -40,7 +40,7 @@ describe('TopSectionView', () => {
     expect(text).not.toContain('Top PR authors')
   })
 
-  it('caps each new leaderboard at 50 entries', async () => {
+  it('lists every entry (no cap), like the other Top tables', async () => {
     const many = (login: string): RankingEntry[] =>
       Array.from({ length: 60 }, (_, i) => ({
         rank: i + 1, login: `${login}${i}`, name: `${login}${i}`,
@@ -52,8 +52,8 @@ describe('TopSectionView', () => {
         topReviewers: many('rev'), topIssues: many('iss'), topPullRequests: many('pr'),
       },
     })
-    // TopCard shows "<total> result(s)" from the items length; capped list = 50, not 60
-    expect(component.text()).toContain('50 result(s)')
-    expect(component.text()).not.toContain('60 result(s)')
+    // TopCard shows "<total> result(s)" from the items length — the full 60, not a capped subset
+    expect(component.text()).toContain('60 result(s)')
+    expect(component.text()).not.toContain('50 result(s)')
   })
 })
