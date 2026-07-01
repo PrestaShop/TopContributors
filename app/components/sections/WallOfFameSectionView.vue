@@ -1,13 +1,16 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import type { PuikTableHeader } from '@prestashopcorp/puik-components'
-import type { Company, Contributor } from '@/types'
+import type { Company, Contributor, RankingEntry } from '@/types'
 
 type TableItem = Contributor | Company
 
 const props = defineProps<{
   contributorsData: Contributor[]
   companiesData: Company[]
+  reviewers: RankingEntry[]
+  issues: RankingEntry[]
+  pullRequests: RankingEntry[]
 }>()
 
 // CONTRIBUTORS TABLE CONFIG
@@ -58,6 +61,13 @@ const companiesHeaders: PuikTableHeader[] = [
   { value: 'actions', size: 'sm', align: 'center', preventExpand: true, searchSubmit: true },
 ]
 
+const rankingHeaders = (countLabel: string): PuikTableHeader[] => [
+  { text: 'Rank', value: 'rank', size: 'sm', align: 'center', searchable: true, searchType: 'range', sortable: true },
+  { text: 'Name', value: 'name', size: 'lg', align: 'left', searchable: true, sortable: true },
+  { text: countLabel, value: 'count', size: 'sm', align: 'center', searchable: true, searchType: 'range', sortable: true },
+  { value: 'actions', size: 'sm', align: 'center', preventExpand: true, searchSubmit: true },
+]
+
 const contributorsRef = computed(() => props.contributorsData)
 
 const { currentContributor, isModalOpen, openModal, closeModal }
@@ -98,6 +108,15 @@ const handleContributorAction = (item: TableItem) => {
         <puik-tab-navigation-title :position="2">
           Companies
         </puik-tab-navigation-title>
+        <puik-tab-navigation-title :position="3">
+          Reviewers
+        </puik-tab-navigation-title>
+        <puik-tab-navigation-title :position="4">
+          Issue reporters
+        </puik-tab-navigation-title>
+        <puik-tab-navigation-title :position="5">
+          PR authors
+        </puik-tab-navigation-title>
       </puik-tab-navigation-group-titles>
       <puik-tab-navigation-group-panels>
         <puik-tab-navigation-panel :position="1">
@@ -119,6 +138,27 @@ const handleContributorAction = (item: TableItem) => {
             :items="companiesData"
             :headers="companiesHeaders"
             type="company"
+          />
+        </puik-tab-navigation-panel>
+        <puik-tab-navigation-panel :position="3">
+          <WallOfFameTable
+            :items="reviewers"
+            :headers="rankingHeaders('Reviews')"
+            type="ranking"
+          />
+        </puik-tab-navigation-panel>
+        <puik-tab-navigation-panel :position="4">
+          <WallOfFameTable
+            :items="issues"
+            :headers="rankingHeaders('Issues')"
+            type="ranking"
+          />
+        </puik-tab-navigation-panel>
+        <puik-tab-navigation-panel :position="5">
+          <WallOfFameTable
+            :items="pullRequests"
+            :headers="rankingHeaders('Pull requests')"
+            type="ranking"
           />
         </puik-tab-navigation-panel>
       </puik-tab-navigation-group-panels>
