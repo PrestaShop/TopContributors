@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10946,
+        "contributions": 10952,
         "repositories": {
             "PrestaShop": 4598,
             "PrestaShop-modules": 31,
@@ -40,7 +40,7 @@
             "statssales": 17,
             "statssearch": 10,
             "statsstock": 9,
-            "blockwishlist": 227,
+            "blockwishlist": 232,
             "productcomments": 45,
             "pscleaner": 13,
             "autoupgrade": 112,
@@ -114,7 +114,7 @@
             "php-dev-tools": 4,
             "QANightlyResults": 408,
             "LocalizationFiles": 9,
-            "presthubot": 518,
+            "presthubot": 519,
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
@@ -186,7 +186,7 @@
                 }
             },
             "modules": {
-                "total": 1831,
+                "total": 1836,
                 "repositories": {
                     "PrestaShop-modules": 31,
                     "dashactivity": 14,
@@ -214,7 +214,7 @@
                     "statssales": 17,
                     "statssearch": 10,
                     "statsstock": 9,
-                    "blockwishlist": 227,
+                    "blockwishlist": 232,
                     "productcomments": 45,
                     "pscleaner": 13,
                     "autoupgrade": 112,
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1407,
+                "total": 1408,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -280,7 +280,7 @@
                     "mjml-theme-converter": 1,
                     "nightly-board": 50,
                     "PrestaShop-webservice-lib": 4,
-                    "presthubot": 518,
+                    "presthubot": 519,
                     "prestonbot": 10,
                     "QANightlyResults": 408,
                     "TopContributors": 127,
@@ -51256,5 +51256,5 @@
             }
         }
     },
-    "updatedAt": "2026-06-30 16:51:27"
+    "updatedAt": "2026-07-01 07:32:08"
 }

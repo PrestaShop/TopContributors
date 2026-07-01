@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10946,
+        "contributions": 10952,
         "repositories": {
             "PrestaShop": 1195,
             "PrestaShop-modules": 2,
@@ -275,9 +275,9 @@
             }
         },
         "mergedPullRequests": 2380,
-        "reviews": 7109,
+        "reviews": 7116,
         "issuesOpened": 673,
-        "pullRequestsOpened": 2471
+        "pullRequestsOpened": 2475
     },
     "matks": {
         "login": "matks",
@@ -717,9 +717,9 @@
             }
         },
         "mergedPullRequests": 1202,
-        "reviews": 3016,
+        "reviews": 3019,
         "issuesOpened": 258,
-        "pullRequestsOpened": 1357
+        "pullRequestsOpened": 1359
     },
     "Quetzacoalt91": {
         "login": "Quetzacoalt91",
@@ -3133,7 +3133,7 @@
             }
         },
         "mergedPullRequests": 364,
-        "reviews": 660,
+        "reviews": 661,
         "issuesOpened": 27,
         "pullRequestsOpened": 396
     },
@@ -4867,9 +4867,9 @@
             }
         },
         "mergedPullRequests": 191,
-        "reviews": 441,
+        "reviews": 442,
         "issuesOpened": 77,
-        "pullRequestsOpened": 283
+        "pullRequestsOpened": 284
     },
     "jf-viguier": {
         "login": "jf-viguier",
@@ -6919,7 +6919,7 @@
             }
         },
         "mergedPullRequests": 109,
-        "reviews": 239,
+        "reviews": 243,
         "issuesOpened": 45,
         "pullRequestsOpened": 151
     },
@@ -12617,7 +12617,7 @@
             }
         },
         "mergedPullRequests": 20,
-        "reviews": 86,
+        "reviews": 87,
         "issuesOpened": 73,
         "pullRequestsOpened": 24
     },
