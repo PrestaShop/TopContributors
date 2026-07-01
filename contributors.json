@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10959,
+        "contributions": 10963,
         "repositories": {
             "PrestaShop": 4598,
             "PrestaShop-modules": 31,
@@ -40,7 +40,7 @@
             "statssales": 17,
             "statssearch": 10,
             "statsstock": 9,
-            "blockwishlist": 236,
+            "blockwishlist": 239,
             "productcomments": 45,
             "pscleaner": 13,
             "autoupgrade": 112,
@@ -94,7 +94,7 @@
             "ps_feeder": 1,
             "traces": 221,
             "core-weekly-generator": 6,
-            "TopContributors": 128,
+            "TopContributors": 129,
             "TranslationFiles": 3,
             "ps_livetranslation": 13,
             "ps_googleanalytics": 20,
@@ -186,7 +186,7 @@
                 }
             },
             "modules": {
-                "total": 1840,
+                "total": 1843,
                 "repositories": {
                     "PrestaShop-modules": 31,
                     "dashactivity": 14,
@@ -214,7 +214,7 @@
                     "statssales": 17,
                     "statssearch": 10,
                     "statsstock": 9,
-                    "blockwishlist": 236,
+                    "blockwishlist": 239,
                     "productcomments": 45,
                     "pscleaner": 13,
                     "autoupgrade": 112,
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1410,
+                "total": 1411,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -283,7 +283,7 @@
                     "presthubot": 519,
                     "prestonbot": 10,
                     "QANightlyResults": 408,
-                    "TopContributors": 128,
+                    "TopContributors": 129,
                     "TopTranslators": 1,
                     "traces": 221,
                     "ps-project-metrics": 4
@@ -5862,7 +5862,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 693,
+        "contributions": 694,
         "repositories": {
             "PrestaShop": 422,
             "PrestaShop-modules": 5,
@@ -5920,7 +5920,7 @@
             "ps_crossselling": 1,
             "ps_dataprivacy": 1,
             "traces": 37,
-            "TopContributors": 15,
+            "TopContributors": 16,
             "psssst": 1,
             "ps_themecusto": 1,
             "psgdpr": 4,
@@ -6029,13 +6029,13 @@
                 }
             },
             "tools": {
-                "total": 59,
+                "total": 60,
                 "repositories": {
                     "docker": 1,
                     "PrestaShop-webservice-lib": 1,
                     "presthubot": 1,
                     "ps-monitor-module-releases": 1,
-                    "TopContributors": 15,
+                    "TopContributors": 16,
                     "traces": 37,
                     "kanbanbot": 1,
                     "psssst": 1,
@@ -51256,5 +51256,5 @@
             }
         }
     },
-    "updatedAt": "2026-07-01 11:47:47"
+    "updatedAt": "2026-07-01 12:54:40"
 }
