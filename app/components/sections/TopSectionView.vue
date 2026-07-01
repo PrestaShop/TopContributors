@@ -1,19 +1,13 @@
 <script setup lang="ts">
-import { computed } from 'vue'
 import type { Contributor, Company, RankingEntry } from '@/types'
 
-const props = defineProps<{
+defineProps<{
   topContributors: Contributor[]
   topCompanies: Company[]
   topReviewers: RankingEntry[]
   topIssues: RankingEntry[]
   topPullRequests: RankingEntry[]
 }>()
-
-const TOP_DISPLAY = 50
-const topReviewersCapped = computed(() => props.topReviewers.slice(0, TOP_DISPLAY))
-const topIssuesCapped = computed(() => props.topIssues.slice(0, TOP_DISPLAY))
-const topPullRequestsCapped = computed(() => props.topPullRequests.slice(0, TOP_DISPLAY))
 </script>
 
 <template>
@@ -25,25 +19,25 @@ const topPullRequestsCapped = computed(() => props.topPullRequests.slice(0, TOP_
       <TopCompaniesView :top-companies="topCompanies" />
       <TopContributorsView :top-contributors="topContributors" />
       <TopRankingView
-        v-if="topReviewersCapped.length"
+        v-if="topReviewers.length"
         title="👀 Top reviewers"
         description="They review pull requests to keep PrestaShop's quality high."
         count-label="Reviews"
-        :items="topReviewersCapped"
+        :items="topReviewers"
       />
       <TopRankingView
-        v-if="topIssuesCapped.length"
+        v-if="topIssues.length"
         title="🐛 Top issue reporters"
         description="They report issues that help us improve PrestaShop."
         count-label="Issues"
-        :items="topIssuesCapped"
+        :items="topIssues"
       />
       <TopRankingView
-        v-if="topPullRequestsCapped.length"
+        v-if="topPullRequests.length"
         title="🔀 Top PR authors"
         description="They open pull requests to move PrestaShop forward."
         count-label="Pull requests"
-        :items="topPullRequestsCapped"
+        :items="topPullRequests"
       />
     </div>
   </section>
