@@ -2,10 +2,10 @@
 import { ref, computed, onMounted, onUnmounted, watch } from 'vue'
 import type { PuikTableHeader, searchOption, sortOption } from '@prestashopcorp/puik-components'
 import { PuikPaginationVariants } from '@prestashopcorp/puik-components'
-import type { Company, Contributor } from '@/types'
+import type { Company, Contributor, RankingEntry } from '@/types'
 
-type TableType = 'contributor' | 'company'
-type TableItem = Contributor | Company
+type TableType = 'contributor' | 'company' | 'ranking'
+type TableItem = Contributor | Company | RankingEntry
 
 const props = defineProps<{
   items: TableItem[]
@@ -141,6 +141,10 @@ const isContributor = (_item: TableItem): _item is Contributor => {
 const isCompany = (_item: TableItem): _item is Company => {
   return props.type === 'company'
 }
+
+const isRanking = (item: TableItem): item is RankingEntry => {
+  return props.type === 'ranking' && 'count' in item
+}
 </script>
 
 <template>
@@ -226,6 +230,32 @@ const isCompany = (_item: TableItem): _item is Company => {
             </span>
           </div>
         </div>
+
+        <!-- Ranking display -->
+        <div
+          v-else-if="isRanking(item)"
+          class="wof-contributors__login__container"
+        >
+          <puik-avatar
+            size="large"
+            type="photo"
+            :src="item.avatar_url"
+          />
+          <div class="wof-top-contributors__name">
+            <span class="puik-body-default">{{ item.name || item.login }}</span>
+            <span
+              v-if="item.name"
+              class="puik-body-small-bold"
+            >({{ item.login }})</span>
+          </div>
+        </div>
+      </template>
+
+      <template #item-count="{ item }">
+        <span
+          v-if="isRanking(item)"
+          class="puik-body-default-bold"
+        >{{ item.count }}</span>
       </template>
 
       <template #item-actions="{ item }">
@@ -239,9 +269,9 @@ const isCompany = (_item: TableItem): _item is Company => {
           @click="handleActionClick(item)"
         />
 
-        <!-- Company actions: link to GitHub -->
+        <!-- Company / ranking actions: link to GitHub -->
         <a
-          v-else-if="type === 'company'"
+          v-else-if="type === 'company' || type === 'ranking'"
           :href="item.html_url"
           target="_blank"
           aria-label="view profile"
@@ -261,7 +291,7 @@ const isCompany = (_item: TableItem): _item is Company => {
       v-if="itemsRef.length === 0"
       class="wof-no-results"
     >
-      No {{ type === 'contributor' ? 'contributors' : 'companies' }} found with your search.
+      No results found with your search.
     </div>
 
     <puik-pagination

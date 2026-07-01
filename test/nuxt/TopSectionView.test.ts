@@ -39,4 +39,21 @@ describe('TopSectionView', () => {
     expect(text).not.toContain('Top issue reporters')
     expect(text).not.toContain('Top PR authors')
   })
+
+  it('caps each new leaderboard at 50 entries', async () => {
+    const many = (login: string): RankingEntry[] =>
+      Array.from({ length: 60 }, (_, i) => ({
+        rank: i + 1, login: `${login}${i}`, name: `${login}${i}`,
+        avatar_url: 'https://a/1.png', html_url: `https://github.com/${login}${i}`, count: 60 - i,
+      }))
+    const component = await mountSuspended(TopSectionView, {
+      props: {
+        topContributors: [], topCompanies: [],
+        topReviewers: many('rev'), topIssues: many('iss'), topPullRequests: many('pr'),
+      },
+    })
+    // TopCard shows "<total> result(s)" from the items length; capped list = 50, not 60
+    expect(component.text()).toContain('50 result(s)')
+    expect(component.text()).not.toContain('60 result(s)')
+  })
 })
