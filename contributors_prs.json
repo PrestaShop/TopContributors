@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10963,
+        "contributions": 10967,
         "repositories": {
             "PrestaShop": 1195,
             "PrestaShop-modules": 2,
@@ -275,7 +275,7 @@
             }
         },
         "mergedPullRequests": 2382,
-        "reviews": 7126,
+        "reviews": 7129,
         "issuesOpened": 674,
         "pullRequestsOpened": 2478
     },
@@ -573,9 +573,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7616,
+        "contributions": 7620,
         "repositories": {
-            "PrestaShop": 768,
+            "PrestaShop": 770,
             "dashproducts": 2,
             "blockwishlist": 4,
             "productcomments": 10,
@@ -625,9 +625,9 @@
         },
         "categories": {
             "core": {
-                "total": 804,
+                "total": 806,
                 "repositories": {
-                    "PrestaShop": 768,
+                    "PrestaShop": 770,
                     "prestashop-ui-kit": 10,
                     "TranslationToolsBundle": 3,
                     "TranslationFiles": 12,
@@ -716,8 +716,8 @@
                 }
             }
         },
-        "mergedPullRequests": 1203,
-        "reviews": 3019,
+        "mergedPullRequests": 1205,
+        "reviews": 3020,
         "issuesOpened": 258,
         "pullRequestsOpened": 1360
     },
@@ -1824,7 +1824,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3679,
+        "contributions": 3682,
         "repositories": {
             "PrestaShop": 174,
             "PrestaShop-modules": 3,
@@ -1975,7 +1975,7 @@
             }
         },
         "mergedPullRequests": 578,
-        "reviews": 3455,
+        "reviews": 3460,
         "issuesOpened": 161,
         "pullRequestsOpened": 677
     },
@@ -2642,7 +2642,7 @@
         "mergedPullRequests": 453,
         "reviews": 234,
         "issuesOpened": 125,
-        "pullRequestsOpened": 762
+        "pullRequestsOpened": 766
     },
     "xBorderie": {
         "login": "xBorderie",
@@ -4044,7 +4044,7 @@
             }
         },
         "mergedPullRequests": 241,
-        "reviews": 2165,
+        "reviews": 2166,
         "issuesOpened": 20,
         "pullRequestsOpened": 320
     },
@@ -5747,9 +5747,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 247,
+        "contributions": 248,
         "repositories": {
-            "PrestaShop": 106,
+            "PrestaShop": 107,
             "blockwishlist": 1,
             "productcomments": 2,
             "autoupgrade": 5,
@@ -5773,9 +5773,9 @@
         },
         "categories": {
             "core": {
-                "total": 106,
+                "total": 107,
                 "repositories": {
-                    "PrestaShop": 106
+                    "PrestaShop": 107
                 }
             },
             "specs": {
@@ -5836,8 +5836,8 @@
                 }
             }
         },
-        "mergedPullRequests": 155,
-        "reviews": 845,
+        "mergedPullRequests": 156,
+        "reviews": 847,
         "issuesOpened": 19,
         "pullRequestsOpened": 187
     },
@@ -6920,8 +6920,8 @@
         },
         "mergedPullRequests": 109,
         "reviews": 247,
-        "issuesOpened": 45,
-        "pullRequestsOpened": 151
+        "issuesOpened": 47,
+        "pullRequestsOpened": 153
     },
     "FabienPapet": {
         "login": "FabienPapet",
@@ -12617,9 +12617,9 @@
             }
         },
         "mergedPullRequests": 20,
-        "reviews": 88,
+        "reviews": 90,
         "issuesOpened": 73,
-        "pullRequestsOpened": 24
+        "pullRequestsOpened": 25
     },
     "indesign47": {
         "login": "indesign47",
@@ -13765,6 +13765,69 @@
         "issuesOpened": 11,
         "pullRequestsOpened": 24
     },
+    "axel-paillaud": {
+        "login": "axel-paillaud",
+        "id": 85078268,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/85078268?v=4",
+        "html_url": "https:\/\/github.com\/axel-paillaud",
+        "name": "Axel Paillaud",
+        "company": "Axelweb",
+        "blog": "https:\/\/axelweb.fr",
+        "location": "Orl\u00e9ans, France",
+        "bio": "Web developer, lives in France.",
+        "email_domain": "axelweb.fr",
+        "contributions": 6,
+        "repositories": {
+            "PrestaShop": 3,
+            "docs": 14
+        },
+        "categories": {
+            "core": {
+                "total": 3,
+                "repositories": {
+                    "PrestaShop": 3
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 14,
+                "repositories": {
+                    "docs": 14
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 17,
+        "reviews": 1,
+        "issuesOpened": 3,
+        "pullRequestsOpened": 28
+    },
     "alegout": {
         "login": "alegout",
         "id": 5212567,
@@ -13969,69 +14032,6 @@
         "reviews": 0,
         "issuesOpened": 8,
         "pullRequestsOpened": 31
-    },
-    "axel-paillaud": {
-        "login": "axel-paillaud",
-        "id": 85078268,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/85078268?v=4",
-        "html_url": "https:\/\/github.com\/axel-paillaud",
-        "name": "Axel Paillaud",
-        "company": "Axelweb",
-        "blog": "https:\/\/axelweb.fr",
-        "location": "Orl\u00e9ans, France",
-        "bio": "Web developer, lives in France.",
-        "email_domain": "axelweb.fr",
-        "contributions": 6,
-        "repositories": {
-            "PrestaShop": 2,
-            "docs": 14
-        },
-        "categories": {
-            "core": {
-                "total": 2,
-                "repositories": {
-                    "PrestaShop": 2
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 14,
-                "repositories": {
-                    "docs": 14
-                }
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 16,
-        "reviews": 1,
-        "issuesOpened": 3,
-        "pullRequestsOpened": 28
     },
     "yanncyrille": {
         "login": "yanncyrille",
@@ -14939,6 +14939,66 @@
         "issuesOpened": 12,
         "pullRequestsOpened": 17
     },
+    "aleksiuno": {
+        "login": "aleksiuno",
+        "id": 17498592,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/17498592?v=4",
+        "html_url": "https:\/\/github.com\/aleksiuno",
+        "name": "Darius Aleksiunas",
+        "company": null,
+        "blog": "https:\/\/aleksiuno.github.io\/",
+        "location": "Kaunas, Lithuania",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 223,
+        "repositories": {
+            "PrestaShop": 13
+        },
+        "categories": {
+            "core": {
+                "total": 13,
+                "repositories": {
+                    "PrestaShop": 13
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 13,
+        "reviews": 1,
+        "issuesOpened": 1,
+        "pullRequestsOpened": 15
+    },
     "davidPrestashop": {
         "login": "davidPrestashop",
         "id": 108662283,
@@ -15067,66 +15127,6 @@
         "reviews": 1,
         "issuesOpened": 9,
         "pullRequestsOpened": 17
-    },
-    "aleksiuno": {
-        "login": "aleksiuno",
-        "id": 17498592,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/17498592?v=4",
-        "html_url": "https:\/\/github.com\/aleksiuno",
-        "name": "Darius Aleksiunas",
-        "company": null,
-        "blog": "https:\/\/aleksiuno.github.io\/",
-        "location": "Kaunas, Lithuania",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 223,
-        "repositories": {
-            "PrestaShop": 12
-        },
-        "categories": {
-            "core": {
-                "total": 12,
-                "repositories": {
-                    "PrestaShop": 12
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 12,
-        "reviews": 1,
-        "issuesOpened": 1,
-        "pullRequestsOpened": 15
     },
     "rdy4ever": {
         "login": "rdy4ever",
