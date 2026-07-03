@@ -1,4 +1,12 @@
 {
+    "boo-code": {
+        "login": "boo-code",
+        "name": "Audrius",
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65190196?v=4",
+        "html_url": "https:\/\/github.com\/boo-code",
+        "contributions": 1,
+        "firstContributionAt": "2026-07-02T12:07:58Z"
+    },
     "piotr-jagiello": {
         "login": "piotr-jagiello",
         "name": null,
@@ -70,13 +78,5 @@
         "html_url": "https:\/\/github.com\/julienr114",
         "contributions": 4,
         "firstContributionAt": "2026-04-09T07:14:06Z"
-    },
-    "miskovd": {
-        "login": "miskovd",
-        "name": "MISKOV",
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3373480?v=4",
-        "html_url": "https:\/\/github.com\/miskovd",
-        "contributions": 1,
-        "firstContributionAt": "2026-03-27T13:40:00Z"
     }
 }
