@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-07-03",
+    "updatedAt": "2026-07-04",
     "items": [
         {
             "rank": 1,
@@ -7,7 +7,7 @@
             "name": "Progi1984",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1533248?v=4",
             "html_url": "https:\/\/github.com\/Progi1984",
-            "count": 7134
+            "count": 7139
         },
         {
             "rank": 2,
@@ -47,7 +47,7 @@
             "name": "Jonathan Lelievre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13801017?v=4",
             "html_url": "https:\/\/github.com\/jolelievre",
-            "count": 3021
+            "count": 3022
         },
         {
             "rank": 7,
@@ -63,7 +63,7 @@
             "name": "Thomas N",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6768917?v=4",
             "html_url": "https:\/\/github.com\/Quetzacoalt91",
-            "count": 2184
+            "count": 2186
         },
         {
             "rank": 9,
@@ -215,7 +215,7 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 442
+            "count": 444
         },
         {
             "rank": 28,
@@ -283,18 +283,18 @@
         },
         {
             "rank": 36,
-            "login": "lartist",
-            "name": "lartist",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10706307?v=4",
-            "html_url": "https:\/\/github.com\/lartist",
-            "count": 249
-        },
-        {
-            "rank": 37,
             "login": "mattgoud",
             "name": "Matthias Goudjil",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
             "html_url": "https:\/\/github.com\/mattgoud",
+            "count": 251
+        },
+        {
+            "rank": 37,
+            "login": "lartist",
+            "name": "lartist",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10706307?v=4",
+            "html_url": "https:\/\/github.com\/lartist",
             "count": 249
         },
         {
@@ -311,7 +311,7 @@
             "name": "ingridusta",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109083351?u=27eaf664324b1ab9ef6eb66d715c68a942c08370&v=4",
             "html_url": "https:\/\/github.com\/ingridusta",
-            "count": 229
+            "count": 233
         },
         {
             "rank": 40,
@@ -671,7 +671,7 @@
             "name": "Maxime Poulain",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/22856724?v=4",
             "html_url": "https:\/\/github.com\/Poulinhoo",
-            "count": 34
+            "count": 35
         },
         {
             "rank": 85,

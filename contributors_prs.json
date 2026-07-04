@@ -10,15 +10,15 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10982,
+        "contributions": 10994,
         "repositories": {
-            "PrestaShop": 1196,
+            "PrestaShop": 1198,
             "PrestaShop-modules": 2,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 9,
             "dashgoals": 7,
             "dashproducts": 11,
-            "dashtrends": 13,
+            "dashtrends": 14,
             "graphnvd3": 4,
             "gridhtml": 6,
             "pagesnotfound": 2,
@@ -122,9 +122,9 @@
         },
         "categories": {
             "core": {
-                "total": 1210,
+                "total": 1212,
                 "repositories": {
-                    "PrestaShop": 1196,
+                    "PrestaShop": 1198,
                     "prestashop-ui-kit": 1,
                     "TranslationToolsBundle": 2,
                     "TranslationFiles": 3,
@@ -158,13 +158,13 @@
                 }
             },
             "modules": {
-                "total": 449,
+                "total": 450,
                 "repositories": {
                     "PrestaShop-modules": 2,
                     "dashactivity": 9,
                     "dashgoals": 7,
                     "dashproducts": 11,
-                    "dashtrends": 13,
+                    "dashtrends": 14,
                     "graphnvd3": 4,
                     "gridhtml": 6,
                     "pagesnotfound": 2,
@@ -274,10 +274,10 @@
                 }
             }
         },
-        "mergedPullRequests": 2389,
-        "reviews": 7134,
+        "mergedPullRequests": 2392,
+        "reviews": 7139,
         "issuesOpened": 689,
-        "pullRequestsOpened": 2478
+        "pullRequestsOpened": 2479
     },
     "matks": {
         "login": "matks",
@@ -573,13 +573,13 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7622,
+        "contributions": 7624,
         "repositories": {
             "PrestaShop": 771,
             "dashproducts": 2,
             "blockwishlist": 5,
             "productcomments": 10,
-            "autoupgrade": 29,
+            "autoupgrade": 30,
             "prestashop.github.io": 4,
             "docker": 23,
             "prestashop-ui-kit": 10,
@@ -661,12 +661,12 @@
                 }
             },
             "modules": {
-                "total": 176,
+                "total": 177,
                 "repositories": {
                     "dashproducts": 2,
                     "blockwishlist": 5,
                     "productcomments": 10,
-                    "autoupgrade": 29,
+                    "autoupgrade": 30,
                     "ps_linklist": 33,
                     "ps_contactinfo": 3,
                     "ps_currencyselector": 4,
@@ -716,8 +716,8 @@
                 }
             }
         },
-        "mergedPullRequests": 1207,
-        "reviews": 3021,
+        "mergedPullRequests": 1208,
+        "reviews": 3022,
         "issuesOpened": 258,
         "pullRequestsOpened": 1361
     },
@@ -936,7 +936,7 @@
             }
         },
         "mergedPullRequests": 1202,
-        "reviews": 2184,
+        "reviews": 2186,
         "issuesOpened": 55,
         "pullRequestsOpened": 1339
     },
@@ -1824,7 +1824,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3688,
+        "contributions": 3700,
         "repositories": {
             "PrestaShop": 174,
             "PrestaShop-modules": 3,
@@ -1834,7 +1834,7 @@
             "blockwishlist": 4,
             "productcomments": 4,
             "autoupgrade": 6,
-            "prestashop.github.io": 179,
+            "prestashop.github.io": 180,
             "StarterTheme": 3,
             "contactform": 3,
             "paymentexample": 1,
@@ -1961,9 +1961,9 @@
                 }
             },
             "blog": {
-                "total": 179,
+                "total": 180,
                 "repositories": {
-                    "prestashop.github.io": 179
+                    "prestashop.github.io": 180
                 }
             },
             "others": {
@@ -1974,7 +1974,7 @@
                 }
             }
         },
-        "mergedPullRequests": 578,
+        "mergedPullRequests": 579,
         "reviews": 3464,
         "issuesOpened": 161,
         "pullRequestsOpened": 678
@@ -3135,7 +3135,7 @@
         "mergedPullRequests": 365,
         "reviews": 662,
         "issuesOpened": 27,
-        "pullRequestsOpened": 396
+        "pullRequestsOpened": 397
     },
     "zuk3975": {
         "login": "zuk3975",
@@ -3829,7 +3829,7 @@
         "repositories": {
             "PrestaShop": 145,
             "productcomments": 1,
-            "autoupgrade": 7,
+            "autoupgrade": 8,
             "ps_emailsubscription": 1,
             "docs": 3,
             "ps_emailalerts": 1,
@@ -3880,10 +3880,10 @@
                 }
             },
             "modules": {
-                "total": 23,
+                "total": 24,
                 "repositories": {
                     "productcomments": 1,
-                    "autoupgrade": 7,
+                    "autoupgrade": 8,
                     "ps_emailsubscription": 1,
                     "ps_emailalerts": 1,
                     "ps_themecusto": 2,
@@ -3916,7 +3916,7 @@
                 }
             }
         },
-        "mergedPullRequests": 246,
+        "mergedPullRequests": 247,
         "reviews": 1546,
         "issuesOpened": 19,
         "pullRequestsOpened": 286
@@ -3932,12 +3932,12 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1666,
+        "contributions": 1669,
         "repositories": {
             "PrestaShop": 152,
             "dashactivity": 2,
             "blockwishlist": 6,
-            "autoupgrade": 6,
+            "autoupgrade": 7,
             "gsitemap": 1,
             "prestashop.github.io": 5,
             "docker": 1,
@@ -3996,11 +3996,11 @@
                 }
             },
             "modules": {
-                "total": 36,
+                "total": 37,
                 "repositories": {
                     "dashactivity": 2,
                     "blockwishlist": 6,
-                    "autoupgrade": 6,
+                    "autoupgrade": 7,
                     "gsitemap": 1,
                     "contactform": 1,
                     "ps_sharebuttons": 3,
@@ -4043,10 +4043,10 @@
                 }
             }
         },
-        "mergedPullRequests": 241,
+        "mergedPullRequests": 242,
         "reviews": 2166,
         "issuesOpened": 20,
-        "pullRequestsOpened": 320
+        "pullRequestsOpened": 321
     },
     "tblivet": {
         "login": "tblivet",
@@ -4620,7 +4620,7 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 371,
+        "contributions": 372,
         "repositories": {
             "PrestaShop": 130,
             "dashactivity": 1,
@@ -4705,7 +4705,7 @@
             }
         },
         "mergedPullRequests": 193,
-        "reviews": 442,
+        "reviews": 444,
         "issuesOpened": 77,
         "pullRequestsOpened": 285
     },
@@ -5839,7 +5839,7 @@
         "mergedPullRequests": 156,
         "reviews": 847,
         "issuesOpened": 19,
-        "pullRequestsOpened": 187
+        "pullRequestsOpened": 188
     },
     "jnadaud": {
         "login": "jnadaud",
@@ -6919,9 +6919,9 @@
             }
         },
         "mergedPullRequests": 110,
-        "reviews": 249,
-        "issuesOpened": 47,
-        "pullRequestsOpened": 153
+        "reviews": 251,
+        "issuesOpened": 48,
+        "pullRequestsOpened": 154
     },
     "FabienPapet": {
         "login": "FabienPapet",
@@ -8281,7 +8281,7 @@
         "location": "Sweden",
         "bio": null,
         "email_domain": "",
-        "contributions": 92,
+        "contributions": 93,
         "repositories": {
             "PrestaShop": 38,
             "autoupgrade": 6,
@@ -9079,7 +9079,7 @@
         "repositories": {
             "PrestaShop": 34,
             "blockwishlist": 1,
-            "autoupgrade": 1,
+            "autoupgrade": 2,
             "docker": 1,
             "php-dev-tools": 1,
             "hummingbird": 1,
@@ -9109,10 +9109,10 @@
                 }
             },
             "modules": {
-                "total": 2,
+                "total": 3,
                 "repositories": {
                     "blockwishlist": 1,
-                    "autoupgrade": 1
+                    "autoupgrade": 2
                 }
             },
             "tools": {
@@ -9134,10 +9134,10 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 40,
-        "reviews": 34,
+        "mergedPullRequests": 41,
+        "reviews": 35,
         "issuesOpened": 1,
-        "pullRequestsOpened": 48
+        "pullRequestsOpened": 49
     },
     "TMMeilleur": {
         "login": "TMMeilleur",
@@ -12620,7 +12620,7 @@
         "mergedPullRequests": 20,
         "reviews": 38,
         "issuesOpened": 0,
-        "pullRequestsOpened": 28
+        "pullRequestsOpened": 30
     },
     "cnavarro-prestashop": {
         "login": "cnavarro-prestashop",
@@ -14950,7 +14950,7 @@
         "location": "Kaunas, Lithuania",
         "bio": null,
         "email_domain": "",
-        "contributions": 223,
+        "contributions": 225,
         "repositories": {
             "PrestaShop": 13
         },
@@ -41744,7 +41744,7 @@
         "mergedPullRequests": 1,
         "reviews": 0,
         "issuesOpened": 7,
-        "pullRequestsOpened": 84
+        "pullRequestsOpened": 88
     },
     "PatrykMakowski": {
         "login": "PatrykMakowski",
