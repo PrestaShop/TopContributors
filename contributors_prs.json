@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10994,
+        "contributions": 10995,
         "repositories": {
             "PrestaShop": 1198,
             "PrestaShop-modules": 2,
@@ -1161,7 +1161,7 @@
             }
         },
         "mergedPullRequests": 947,
-        "reviews": 1320,
+        "reviews": 1321,
         "issuesOpened": 462,
         "pullRequestsOpened": 1066
     },
@@ -16213,7 +16213,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/31698966?v=4",
         "html_url": "https:\/\/github.com\/Amoifr",
         "name": "Pascal CESCON",
-        "company": null,
+        "company": "Degetel",
         "blog": "https:\/\/moi.ruedesjasses.fr",
         "location": "Jouques (FR)",
         "bio": "Passionate PHP developer. Symfony fan. Code proctologist. Repository cleaner. Fairground astronaut.",
@@ -41743,8 +41743,8 @@
         },
         "mergedPullRequests": 1,
         "reviews": 0,
-        "issuesOpened": 7,
-        "pullRequestsOpened": 88
+        "issuesOpened": 9,
+        "pullRequestsOpened": 92
     },
     "PatrykMakowski": {
         "login": "PatrykMakowski",
