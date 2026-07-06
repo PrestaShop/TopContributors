@@ -8,7 +8,7 @@ const ranking = (login: string): RankingEntry[] => [
 ]
 
 describe('TopSectionView', () => {
-  it('renders the three new leaderboard titles', async () => {
+  it('renders the four new leaderboard titles', async () => {
     const component = await mountSuspended(TopSectionView, {
       props: {
         topContributors: [],
@@ -16,12 +16,14 @@ describe('TopSectionView', () => {
         topReviewers: ranking('rev'),
         topIssues: ranking('iss'),
         topPullRequests: ranking('pr'),
+        topSecurity: ranking('sec'),
       },
     })
     const text = component.text()
     expect(text).toContain('Top reviewers')
     expect(text).toContain('Top issue reporters')
     expect(text).toContain('Top PR authors')
+    expect(text).toContain('Top security researchers')
   })
 
   it('hides a leaderboard whose ranking is empty', async () => {
@@ -32,12 +34,14 @@ describe('TopSectionView', () => {
         topReviewers: [],
         topIssues: [],
         topPullRequests: [],
+        topSecurity: [],
       },
     })
     const text = component.text()
     expect(text).not.toContain('Top reviewers')
     expect(text).not.toContain('Top issue reporters')
     expect(text).not.toContain('Top PR authors')
+    expect(text).not.toContain('Top security researchers')
   })
 
   it('lists every entry (no cap), like the other Top tables', async () => {
@@ -50,6 +54,7 @@ describe('TopSectionView', () => {
       props: {
         topContributors: [], topCompanies: [],
         topReviewers: many('rev'), topIssues: many('iss'), topPullRequests: many('pr'),
+        topSecurity: many('sec'),
       },
     })
     // TopCard shows "<total> result(s)" from the items length — the full 60, not a capped subset

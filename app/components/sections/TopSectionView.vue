@@ -7,6 +7,7 @@ defineProps<{
   topReviewers: RankingEntry[]
   topIssues: RankingEntry[]
   topPullRequests: RankingEntry[]
+  topSecurity: RankingEntry[]
 }>()
 </script>
 
@@ -38,6 +39,13 @@ defineProps<{
         description="They open pull requests to move PrestaShop forward."
         count-label="Pull requests"
         :items="topPullRequests"
+      />
+      <TopRankingView
+        v-if="topSecurity.length"
+        title="🛡️ Top security researchers"
+        description="They find and report the vulnerabilities disclosed in security advisories."
+        count-label="Advisories"
+        :items="topSecurity"
       />
     </div>
   </section>
