@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-07-05",
+    "updatedAt": "2026-07-06",
     "items": [
         {
             "rank": 1,
@@ -59,19 +59,19 @@
         },
         {
             "rank": 8,
+            "login": "PrestaEdit",
+            "name": "Jonathan Danse",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2631425?v=4",
+            "html_url": "https:\/\/github.com\/PrestaEdit",
+            "count": 774
+        },
+        {
+            "rank": 9,
             "login": "NeOMakinG",
             "name": "NeOMakinG",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14963751?v=4",
             "html_url": "https:\/\/github.com\/NeOMakinG",
             "count": 772
-        },
-        {
-            "rank": 9,
-            "login": "PrestaEdit",
-            "name": "Jonathan Danse",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2631425?v=4",
-            "html_url": "https:\/\/github.com\/PrestaEdit",
-            "count": 771
         },
         {
             "rank": 10,
@@ -459,6 +459,14 @@
         },
         {
             "rank": 58,
+            "login": "boo-code",
+            "name": "Audrius",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65190196?v=4",
+            "html_url": "https:\/\/github.com\/boo-code",
+            "count": 109
+        },
+        {
+            "rank": 59,
             "login": "mflasquin",
             "name": "Maxime Flasquin",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6594752?v=4",
@@ -466,7 +474,7 @@
             "count": 107
         },
         {
-            "rank": 59,
+            "rank": 60,
             "login": "mparvazi",
             "name": "mparvazi",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/85633460?v=4",
@@ -474,7 +482,7 @@
             "count": 107
         },
         {
-            "rank": 60,
+            "rank": 61,
             "login": "moncef-essid",
             "name": "Moncef Essid",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3179694?v=4",
@@ -482,7 +490,7 @@
             "count": 100
         },
         {
-            "rank": 61,
+            "rank": 62,
             "login": "sfroment",
             "name": "Sacha Froment",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7238385?v=4",
@@ -490,19 +498,11 @@
             "count": 96
         },
         {
-            "rank": 62,
+            "rank": 63,
             "login": "Touxten",
             "name": "Thomas Roux",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/156076965?v=4",
             "html_url": "https:\/\/github.com\/Touxten",
-            "count": 92
-        },
-        {
-            "rank": 63,
-            "login": "boo-code",
-            "name": "Audrius",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65190196?v=4",
-            "html_url": "https:\/\/github.com\/boo-code",
             "count": 92
         },
         {
@@ -11596,7 +11596,7 @@
         {
             "rank": 1450,
             "login": "arunsathiya",
-            "name": "Arun Sathiya",
+            "name": "Arun",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/18581859?v=4",
             "html_url": "https:\/\/github.com\/arunsathiya",
             "count": 1

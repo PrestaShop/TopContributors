@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-07-05",
+    "updatedAt": "2026-07-06",
     "items": [
         {
             "rank": 1,
@@ -7,7 +7,7 @@
             "name": "Progi1984",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1533248?v=4",
             "html_url": "https:\/\/github.com\/Progi1984",
-            "count": 7139
+            "count": 7140
         },
         {
             "rank": 2,
@@ -31,7 +31,7 @@
             "name": "Krystian Podemski",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2137763?v=4",
             "html_url": "https:\/\/github.com\/kpodemski",
-            "count": 3464
+            "count": 3471
         },
         {
             "rank": 5,
@@ -203,19 +203,19 @@
         },
         {
             "rank": 26,
+            "login": "Codencode",
+            "name": "Paolo Cunti @codencode",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
+            "html_url": "https:\/\/github.com\/Codencode",
+            "count": 449
+        },
+        {
+            "rank": 27,
             "login": "paulnoelcholot",
             "name": "Camille",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/112863083?v=4",
             "html_url": "https:\/\/github.com\/paulnoelcholot",
             "count": 445
-        },
-        {
-            "rank": 27,
-            "login": "Codencode",
-            "name": "Paolo Cunti @codencode",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
-            "html_url": "https:\/\/github.com\/Codencode",
-            "count": 444
         },
         {
             "rank": 28,
@@ -1043,6 +1043,14 @@
         },
         {
             "rank": 131,
+            "login": "ChillCode",
+            "name": "Chillcode",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9787055?v=4",
+            "html_url": "https:\/\/github.com\/ChillCode",
+            "count": 5
+        },
+        {
+            "rank": 132,
             "login": "HartLarsson",
             "name": "HartLarsson",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16102074?v=4",
@@ -1050,7 +1058,7 @@
             "count": 5
         },
         {
-            "rank": 132,
+            "rank": 133,
             "login": "JMorinPS",
             "name": "Joseph Morin",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109518167?v=4",
@@ -1058,7 +1066,7 @@
             "count": 5
         },
         {
-            "rank": 133,
+            "rank": 134,
             "login": "JevgenijVisockij",
             "name": "JevgenijVisockij",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/47781757?v=4",
@@ -1066,7 +1074,7 @@
             "count": 5
         },
         {
-            "rank": 134,
+            "rank": 135,
             "login": "TheoAlloin",
             "name": "TheoAlloin",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8806496?v=4",
@@ -1074,7 +1082,7 @@
             "count": 5
         },
         {
-            "rank": 135,
+            "rank": 136,
             "login": "camilleganzin",
             "name": "Camille Ganzin",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8127019?v=4",
@@ -1082,7 +1090,7 @@
             "count": 5
         },
         {
-            "rank": 136,
+            "rank": 137,
             "login": "clotairer",
             "name": "Clotaire",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/52157233?v=4",
@@ -1090,7 +1098,7 @@
             "count": 5
         },
         {
-            "rank": 137,
+            "rank": 138,
             "login": "gericfo",
             "name": "GericFo",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/52211274?v=4",
@@ -1098,7 +1106,7 @@
             "count": 5
         },
         {
-            "rank": 138,
+            "rank": 139,
             "login": "github-advanced-security",
             "name": "github-advanced-security",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/in\/57789?v=4",
@@ -1106,7 +1114,7 @@
             "count": 5
         },
         {
-            "rank": 139,
+            "rank": 140,
             "login": "hadjedjvincent",
             "name": "Vincent HADJEDJ",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3198580?v=4",
@@ -1114,7 +1122,7 @@
             "count": 5
         },
         {
-            "rank": 140,
+            "rank": 141,
             "login": "ibahloul-ps",
             "name": "ibahloul-ps",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/177513962?u=27ccaaa10d321cadff9136ec812595bf1f696e6e&v=4",
@@ -1122,7 +1130,7 @@
             "count": 5
         },
         {
-            "rank": 141,
+            "rank": 142,
             "login": "ksaandev",
             "name": "ksaandev",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65755110?v=4",
@@ -1130,7 +1138,7 @@
             "count": 5
         },
         {
-            "rank": 142,
+            "rank": 143,
             "login": "leemyongpakva",
             "name": "Lee Pak",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/159242502?v=4",
@@ -1138,7 +1146,7 @@
             "count": 5
         },
         {
-            "rank": 143,
+            "rank": 144,
             "login": "levyn",
             "name": "Uladzimir",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1076017?v=4",
@@ -1146,7 +1154,7 @@
             "count": 5
         },
         {
-            "rank": 144,
+            "rank": 145,
             "login": "margud",
             "name": "margud",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/51944825?v=4",
@@ -1154,7 +1162,7 @@
             "count": 5
         },
         {
-            "rank": 145,
+            "rank": 146,
             "login": "prestascott",
             "name": "PrestaScott",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/54888056?v=4",
@@ -1162,20 +1170,12 @@
             "count": 5
         },
         {
-            "rank": 146,
+            "rank": 147,
             "login": "sylardiere",
             "name": "sylardiere",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/119854938?v=4",
             "html_url": "https:\/\/github.com\/sylardiere",
             "count": 5
-        },
-        {
-            "rank": 147,
-            "login": "ChillCode",
-            "name": "Chillcode",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9787055?v=4",
-            "html_url": "https:\/\/github.com\/ChillCode",
-            "count": 4
         },
         {
             "rank": 148,

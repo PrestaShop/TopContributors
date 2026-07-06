@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 10995,
+        "contributions": 10997,
         "repositories": {
             "PrestaShop": 4610,
             "PrestaShop-modules": 31,
@@ -92,7 +92,7 @@
             "ps_carriercomparison": 3,
             "ps_viewedproduct": 15,
             "ps_feeder": 1,
-            "traces": 221,
+            "traces": 222,
             "core-weekly-generator": 6,
             "TopContributors": 129,
             "TranslationFiles": 3,
@@ -119,7 +119,7 @@
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1089,
+            "test-scenarios": 1090,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1307,
+                "total": 1308,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1089,
+                    "test-scenarios": 1090,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1413,
+                "total": 1414,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -285,7 +285,7 @@
                     "QANightlyResults": 409,
                     "TopContributors": 129,
                     "TopTranslators": 1,
-                    "traces": 221,
+                    "traces": 222,
                     "ps-project-metrics": 4
                 }
             },
@@ -36367,7 +36367,7 @@
         "id": 18581859,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/18581859?v=4",
         "html_url": "https:\/\/github.com\/arunsathiya",
-        "name": "Arun Sathiya",
+        "name": "Arun",
         "company": null,
         "blog": "https:\/\/www.arun.blog",
         "location": "Madurai, India",
@@ -38048,7 +38048,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2846046?v=4",
         "html_url": "https:\/\/github.com\/nicolasdanelon",
         "name": "Nicolas Danelon",
-        "company": "@pestshare ",
+        "company": null,
         "blog": "https:\/\/nicolasmd.com.ar",
         "location": "Buenos Aires Argentina",
         "bio": null,
@@ -51314,5 +51314,5 @@
             }
         }
     },
-    "updatedAt": "2026-07-05 07:08:46"
+    "updatedAt": "2026-07-06 07:35:02"
 }
