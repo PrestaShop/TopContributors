@@ -11,6 +11,7 @@ const props = defineProps<{
   reviewers: RankingEntry[]
   issues: RankingEntry[]
   pullRequests: RankingEntry[]
+  security: RankingEntry[]
 }>()
 
 // CONTRIBUTORS TABLE CONFIG
@@ -117,6 +118,12 @@ const handleContributorAction = (item: TableItem) => {
         <puik-tab-navigation-title :position="5">
           PR authors
         </puik-tab-navigation-title>
+        <puik-tab-navigation-title
+          v-if="security.length"
+          :position="6"
+        >
+          Security
+        </puik-tab-navigation-title>
       </puik-tab-navigation-group-titles>
       <puik-tab-navigation-group-panels>
         <puik-tab-navigation-panel :position="1">
@@ -158,6 +165,16 @@ const handleContributorAction = (item: TableItem) => {
           <WallOfFameTable
             :items="pullRequests"
             :headers="rankingHeaders('Pull requests')"
+            type="ranking"
+          />
+        </puik-tab-navigation-panel>
+        <puik-tab-navigation-panel
+          v-if="security.length"
+          :position="6"
+        >
+          <WallOfFameTable
+            :items="security"
+            :headers="rankingHeaders('Advisories')"
             type="ranking"
           />
         </puik-tab-navigation-panel>

@@ -14,6 +14,7 @@ const newContributors = ref<NewContributor[]>([])
 const topReviewers = ref<RankingEntry[]>([])
 const topIssues = ref<RankingEntry[]>([])
 const topPullRequests = ref<RankingEntry[]>([])
+const topSecurity = ref<RankingEntry[]>([])
 
 onMounted(async () => {
   try {
@@ -100,6 +101,16 @@ onMounted(async () => {
   catch (error) {
     console.error('Error loading top pull requests:', error)
   }
+
+  try {
+    const response = await fetch('/top_security.json')
+    if (!response.ok) throw new Error('Error loading top security')
+    const data = await response.json()
+    topSecurity.value = data.items ?? []
+  }
+  catch (error) {
+    console.error('Error loading top security:', error)
+  }
 })
 </script>
 
@@ -116,6 +127,7 @@ onMounted(async () => {
         :top-reviewers="topReviewers"
         :top-issues="topIssues"
         :top-pull-requests="topPullRequests"
+        :top-security="topSecurity"
       />
       <NewContributorsSectionView :new-contributors="newContributors" />
       <WallOfFameSectionView
@@ -124,6 +136,7 @@ onMounted(async () => {
         :reviewers="topReviewers"
         :issues="topIssues"
         :pull-requests="topPullRequests"
+        :security="topSecurity"
       />
       <ContributeSectionView
         contribute-link="https://devdocs.prestashop-project.org/9/contribute/contribute-pull-requests/"
