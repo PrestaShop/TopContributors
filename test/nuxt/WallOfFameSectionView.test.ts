@@ -13,7 +13,7 @@ describe('WallOfFameSectionView', () => {
   // asserting their content at the section level is impractical here. The
   // table rendering itself is covered by WallOfFameRanking.test.ts; this test
   // guards that the three ranking tabs are registered.
-  it('renders the three new ranking tab titles', async () => {
+  it('renders the four new ranking tab titles', async () => {
     const component = await mountSuspended(WallOfFameSectionView, {
       props: {
         contributorsData: [],
@@ -21,11 +21,27 @@ describe('WallOfFameSectionView', () => {
         reviewers: ranking('rev'),
         issues: ranking('iss'),
         pullRequests: ranking('pr'),
+        security: ranking('sec'),
       },
     })
     const text = component.text()
     expect(text).toContain('Reviewers')
     expect(text).toContain('Issue reporters')
     expect(text).toContain('PR authors')
+    expect(text).toContain('Security')
+  })
+
+  it('hides the Security tab when no advisory data is available', async () => {
+    const component = await mountSuspended(WallOfFameSectionView, {
+      props: {
+        contributorsData: [],
+        companiesData: [],
+        reviewers: ranking('rev'),
+        issues: ranking('iss'),
+        pullRequests: ranking('pr'),
+        security: [],
+      },
+    })
+    expect(component.text()).not.toContain('Security')
   })
 })
