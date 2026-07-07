@@ -4,10 +4,10 @@
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 8438,
+        "merged_pull_requests": 8444,
         "merged_pull_requests_by_version": {
-            "9.2": 75,
-            "9.1": 109,
+            "9.2": 76,
+            "9.1": 110,
             "9.0": 445,
             "8.2": 27,
             "8.1": 257,
@@ -24,7 +24,7 @@
             "1.6.1": 273
         },
         "merged_pull_requests_by_year": {
-            "2026": 296,
+            "2026": 302,
             "2025": 437,
             "2024": 536,
             "2023": 675,
@@ -40,11 +40,11 @@
             "2013": 525,
             "2012": 32
         },
-        "pull_requests_percent": 29.47,
-        "contributions": 35116,
+        "pull_requests_percent": 29.49,
+        "contributions": 35140,
         "contributions_by_version": {
-            "9.2": 666,
-            "9.1": 1131,
+            "9.2": 668,
+            "9.1": 1132,
             "9.0": 3078,
             "8.2": 43,
             "8.1": 1471,
@@ -61,7 +61,7 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 2111,
+            "2026": 2135,
             "2025": 2111,
             "2024": 2673,
             "2023": 3579,
@@ -77,7 +77,7 @@
             "2013": 1031,
             "2012": 56
         },
-        "contributions_percent": 28.18,
+        "contributions_percent": 28.19,
         "avatar_url": "",
         "html_url": "https:\/\/www.prestashop-project.org"
     },
@@ -87,9 +87,9 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 17373,
+            "merged_pull_requests": 17376,
             "merged_pull_requests_by_version": {
-                "9.2": 125,
+                "9.2": 126,
                 "9.1": 211,
                 "9.0": 997,
                 "8.2": 31,
@@ -107,7 +107,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 739,
+                "2026": 742,
                 "2025": 1247,
                 "2024": 1290,
                 "2023": 1572,
@@ -122,10 +122,10 @@
                 "2014": 391,
                 "2013": 24
             },
-            "pull_requests_percent": 60.68,
-            "contributions": 81265,
+            "pull_requests_percent": 60.67,
+            "contributions": 81268,
             "contributions_by_version": {
-                "9.2": 881,
+                "9.2": 882,
                 "9.1": 2162,
                 "9.0": 3981,
                 "8.2": 77,
@@ -143,7 +143,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 3044,
+                "2026": 3047,
                 "2025": 4879,
                 "2024": 5067,
                 "2023": 6413,
@@ -158,7 +158,7 @@
                 "2014": 786,
                 "2013": 36
             },
-            "contributions_percent": 65.22,
+            "contributions_percent": 65.2,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2815696?s=200&v=4",
             "html_url": "https:\/\/www.prestashop.com"
         },
