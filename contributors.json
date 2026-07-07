@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11003,
+        "contributions": 11006,
         "repositories": {
             "PrestaShop": 4610,
             "PrestaShop-modules": 31,
@@ -92,9 +92,9 @@
             "ps_carriercomparison": 3,
             "ps_viewedproduct": 15,
             "ps_feeder": 1,
-            "traces": 222,
+            "traces": 223,
             "core-weekly-generator": 6,
-            "TopContributors": 129,
+            "TopContributors": 130,
             "TranslationFiles": 3,
             "ps_livetranslation": 13,
             "ps_googleanalytics": 20,
@@ -119,7 +119,7 @@
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1091,
+            "test-scenarios": 1092,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1309,
+                "total": 1310,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1091,
+                    "test-scenarios": 1092,
                     "example-modules": 6,
                     "open-source": 32,
                     "example_module_mailtheme": 4,
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1417,
+                "total": 1419,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -283,9 +283,9 @@
                     "presthubot": 522,
                     "prestonbot": 10,
                     "QANightlyResults": 410,
-                    "TopContributors": 129,
+                    "TopContributors": 130,
                     "TopTranslators": 1,
-                    "traces": 222,
+                    "traces": 223,
                     "ps-project-metrics": 4
                 }
             },
@@ -5862,7 +5862,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 694,
+        "contributions": 696,
         "repositories": {
             "PrestaShop": 422,
             "PrestaShop-modules": 5,
@@ -5919,8 +5919,8 @@
             "ps_supplierlist": 2,
             "ps_crossselling": 1,
             "ps_dataprivacy": 1,
-            "traces": 37,
-            "TopContributors": 16,
+            "traces": 38,
+            "TopContributors": 17,
             "psssst": 1,
             "ps_themecusto": 1,
             "psgdpr": 4,
@@ -6029,14 +6029,14 @@
                 }
             },
             "tools": {
-                "total": 60,
+                "total": 62,
                 "repositories": {
                     "docker": 1,
                     "PrestaShop-webservice-lib": 1,
                     "presthubot": 1,
                     "ps-monitor-module-releases": 1,
-                    "TopContributors": 16,
-                    "traces": 37,
+                    "TopContributors": 17,
+                    "traces": 38,
                     "kanbanbot": 1,
                     "psssst": 1,
                     "SeamlessUpgradeToolbox": 1
@@ -12048,12 +12048,12 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 109,
+        "contributions": 111,
         "repositories": {
             "PrestaShop": 13,
             "native-modules": 3,
             "prestashop-flashlight": 1,
-            "ps_onepagecheckout": 92
+            "ps_onepagecheckout": 94
         },
         "categories": {
             "core": {
@@ -12075,9 +12075,9 @@
                 "repositories": []
             },
             "modules": {
-                "total": 92,
+                "total": 94,
                 "repositories": {
-                    "ps_onepagecheckout": 92
+                    "ps_onepagecheckout": 94
                 }
             },
             "tools": {
@@ -27507,6 +27507,66 @@
             }
         }
     },
+    "boo-code": {
+        "login": "boo-code",
+        "id": 65190196,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65190196?v=4",
+        "html_url": "https:\/\/github.com\/boo-code",
+        "name": "Audrius",
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 5,
+        "repositories": {
+            "ps_emailsubscription": 1,
+            "ps_facetedsearch": 1,
+            "ps_onepagecheckout": 3
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 5,
+                "repositories": {
+                    "ps_emailsubscription": 1,
+                    "ps_facetedsearch": 1,
+                    "ps_onepagecheckout": 3
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "vcopleutre": {
         "login": "vcopleutre",
         "id": 13900453,
@@ -34200,64 +34260,6 @@
                 "total": 2,
                 "repositories": {
                     "ps_emailsubscription": 2
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "boo-code": {
-        "login": "boo-code",
-        "id": 65190196,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65190196?v=4",
-        "html_url": "https:\/\/github.com\/boo-code",
-        "name": "Audrius",
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 2,
-        "repositories": {
-            "ps_emailsubscription": 1,
-            "ps_facetedsearch": 1
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 2,
-                "repositories": {
-                    "ps_emailsubscription": 1,
-                    "ps_facetedsearch": 1
                 }
             },
             "tools": {
@@ -51318,5 +51320,5 @@
             }
         }
     },
-    "updatedAt": "2026-07-07 07:13:31"
+    "updatedAt": "2026-07-07 08:10:32"
 }
