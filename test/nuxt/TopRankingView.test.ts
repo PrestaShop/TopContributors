@@ -37,4 +37,26 @@ describe('TopRankingView', () => {
     expect(component.find('.wof-top-section__rank--first').exists()).toBe(true)
     expect(component.find('.wof-top-section__rank--second').exists()).toBe(true)
   })
+
+  it('renders extra numeric columns (research / remediation) when provided', async () => {
+    const securityItems: RankingEntry[] = [
+      { rank: 1, login: 'carol', name: 'Carol', avatar_url: 'https://a/3.png', html_url: 'https://github.com/carol', count: 9, research: 6, remediation: 3 },
+    ]
+    const component = await mountSuspended(TopRankingView, {
+      props: {
+        title: '🛡️ Top security contributors', description: 'd', countLabel: 'Advisories',
+        items: securityItems,
+        extraColumns: [
+          { label: 'Research', value: 'research' },
+          { label: 'Fixes', value: 'remediation' },
+        ],
+      },
+    })
+    const text = component.text()
+    expect(text).toContain('Research')
+    expect(text).toContain('Fixes')
+    expect(text).toContain('9')
+    expect(text).toContain('6')
+    expect(text).toContain('3')
+  })
 })
