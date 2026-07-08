@@ -23,7 +23,7 @@ describe('TopSectionView', () => {
     expect(text).toContain('Top reviewers')
     expect(text).toContain('Top issue reporters')
     expect(text).toContain('Top PR authors')
-    expect(text).toContain('Top security researchers')
+    expect(text).toContain('Top security contributors')
   })
 
   it('hides a leaderboard whose ranking is empty', async () => {
@@ -41,7 +41,7 @@ describe('TopSectionView', () => {
     expect(text).not.toContain('Top reviewers')
     expect(text).not.toContain('Top issue reporters')
     expect(text).not.toContain('Top PR authors')
-    expect(text).not.toContain('Top security researchers')
+    expect(text).not.toContain('Top security contributors')
   })
 
   it('lists every entry (no cap), like the other Top tables', async () => {

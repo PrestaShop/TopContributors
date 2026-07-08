@@ -8,6 +8,10 @@ const props = defineProps<{
   description: string
   countLabel: string
   items: RankingEntry[]
+  // Optional breakdown columns rendered between the total and the actions
+  // cell. Their values come from RankingEntry's extra numeric fields (e.g.
+  // `research`, `remediation` for the security ranking).
+  extraColumns?: { label: string, value: string }[]
 }>()
 
 const headers: PuikTableHeader[] = [
@@ -15,6 +19,7 @@ const headers: PuikTableHeader[] = [
   { text: 'Avatar', value: 'avatar', size: 'sm', align: 'center', searchable: false },
   { text: 'Name', value: 'name', size: 'md', align: 'left', searchable: true },
   { text: props.countLabel, value: 'count', size: 'sm', align: 'center', searchable: false },
+  ...(props.extraColumns ?? []).map(c => ({ text: c.label, value: c.value, size: 'sm' as const, align: 'center' as const, searchable: false })),
   { value: 'actions', size: 'sm', align: 'center', preventExpand: true, searchSubmit: true },
 ]
 

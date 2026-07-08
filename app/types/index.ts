@@ -53,6 +53,11 @@ export interface RankingEntry {
   avatar_url: string
   html_url: string
   count: number
+  // Security ranking only: per-advisory credits split between research
+  // (finder / reporter / analyst) and remediation (developer / reviewer /
+  // verifier). `count` is the sum of both.
+  research?: number
+  remediation?: number
 }
 
 export interface Ranking {

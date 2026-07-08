@@ -25,4 +25,24 @@ describe('WallOfFameTable (ranking)', () => {
     const hrefs = component.findAll('a').map(a => a.attributes('href'))
     expect(hrefs).toContain('https://github.com/alice')
   })
+
+  it('renders the security research and remediation counts via default cells', async () => {
+    const securityHeaders: PuikTableHeader[] = [
+      ...headers.slice(0, 3),
+      { text: 'Research', value: 'research', size: 'sm', align: 'center' },
+      { text: 'Fixes', value: 'remediation', size: 'sm', align: 'center' },
+      headers[3]!,
+    ]
+    const securityItems: RankingEntry[] = [
+      { rank: 1, login: 'carol', name: 'Carol', avatar_url: 'https://a/2.png', html_url: 'https://github.com/carol', count: 9, research: 6, remediation: 3 },
+    ]
+    const component = await mountSuspended(WallOfFameTable, {
+      props: { items: securityItems, headers: securityHeaders, type: 'ranking' },
+    })
+    const text = component.text()
+    expect(text).toContain('Carol')
+    expect(text).toContain('9')
+    expect(text).toContain('6')
+    expect(text).toContain('3')
+  })
 })
