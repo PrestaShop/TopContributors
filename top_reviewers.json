@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-07-07",
+    "updatedAt": "2026-07-08",
     "items": [
         {
             "rank": 1,
@@ -7,7 +7,7 @@
             "name": "Progi1984",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1533248?v=4",
             "html_url": "https:\/\/github.com\/Progi1984",
-            "count": 7145
+            "count": 7146
         },
         {
             "rank": 2,
@@ -31,7 +31,7 @@
             "name": "Krystian Podemski",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2137763?v=4",
             "html_url": "https:\/\/github.com\/kpodemski",
-            "count": 3478
+            "count": 3479
         },
         {
             "rank": 5,
@@ -47,7 +47,7 @@
             "name": "Jonathan Lelievre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13801017?v=4",
             "html_url": "https:\/\/github.com\/jolelievre",
-            "count": 3024
+            "count": 3031
         },
         {
             "rank": 7,
@@ -71,7 +71,7 @@
             "name": "Nicolas L\u0153uillet",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/121870?v=4",
             "html_url": "https:\/\/github.com\/nicosomb",
-            "count": 2167
+            "count": 2170
         },
         {
             "rank": 10,
@@ -95,7 +95,7 @@
             "name": "Daniel Hlav\u00e1\u010dek",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6097524?v=4",
             "html_url": "https:\/\/github.com\/Hlavtox",
-            "count": 1323
+            "count": 1325
         },
         {
             "rank": 13,
@@ -127,7 +127,7 @@
             "name": "Thomas",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4093454?v=4",
             "html_url": "https:\/\/github.com\/tleon",
-            "count": 848
+            "count": 851
         },
         {
             "rank": 17,
@@ -207,7 +207,7 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 451
+            "count": 452
         },
         {
             "rank": 27,
@@ -287,7 +287,7 @@
             "name": "Matthias Goudjil",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
             "html_url": "https:\/\/github.com\/mattgoud",
-            "count": 256
+            "count": 261
         },
         {
             "rank": 37,
@@ -299,18 +299,18 @@
         },
         {
             "rank": 38,
-            "login": "PrestaEdit",
-            "name": "Jonathan Danse",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2631425?v=4",
-            "html_url": "https:\/\/github.com\/PrestaEdit",
-            "count": 234
-        },
-        {
-            "rank": 39,
             "login": "ingridusta",
             "name": "ingridusta",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109083351?u=27eaf664324b1ab9ef6eb66d715c68a942c08370&v=4",
             "html_url": "https:\/\/github.com\/ingridusta",
+            "count": 235
+        },
+        {
+            "rank": 39,
+            "login": "PrestaEdit",
+            "name": "Jonathan Danse",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2631425?v=4",
+            "html_url": "https:\/\/github.com\/PrestaEdit",
             "count": 234
         },
         {
@@ -319,7 +319,7 @@
             "name": "Blivet Thibault",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/110676325?v=4",
             "html_url": "https:\/\/github.com\/tblivet",
-            "count": 214
+            "count": 217
         },
         {
             "rank": 41,
@@ -459,19 +459,19 @@
         },
         {
             "rank": 58,
+            "login": "cnavarro-prestashop",
+            "name": "Cyril Navarro",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/127135637?v=4",
+            "html_url": "https:\/\/github.com\/cnavarro-prestashop",
+            "count": 94
+        },
+        {
+            "rank": 59,
             "login": "tegbessou",
             "name": "Tegbessou",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12545404?v=4",
             "html_url": "https:\/\/github.com\/tegbessou",
             "count": 94
-        },
-        {
-            "rank": 59,
-            "login": "cnavarro-prestashop",
-            "name": "Cyril Navarro",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/127135637?v=4",
-            "html_url": "https:\/\/github.com\/cnavarro-prestashop",
-            "count": 93
         },
         {
             "rank": 60,
