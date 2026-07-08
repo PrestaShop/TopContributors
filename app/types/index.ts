@@ -64,3 +64,10 @@ export interface Ranking {
   updatedAt: string
   items: RankingEntry[]
 }
+
+export type Counter = number | { total: number, byYear?: Record<string, number> }
+
+export type Period
+  = | { kind: 'sinceStart' }
+    | { kind: 'lastYear' }
+    | { kind: 'lastNYears', n: number }
