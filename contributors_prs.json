@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11006,
+        "contributions": 11010,
         "repositories": {
             "PrestaShop": 1198,
             "PrestaShop-modules": 2,
@@ -88,7 +88,7 @@
             "ps_viewedproduct": 3,
             "traces": 47,
             "core-weekly-generator": 1,
-            "TopContributors": 48,
+            "TopContributors": 49,
             "TranslationFiles": 3,
             "ps_livetranslation": 4,
             "ps_googleanalytics": 8,
@@ -235,7 +235,7 @@
                 }
             },
             "tools": {
-                "total": 226,
+                "total": 227,
                 "repositories": {
                     "PrestaShop-webservice-lib": 1,
                     "docker": 19,
@@ -245,7 +245,7 @@
                     "TopTranslators": 1,
                     "traces": 47,
                     "core-weekly-generator": 1,
-                    "TopContributors": 48,
+                    "TopContributors": 49,
                     "issuebot": 2,
                     "nightly-board": 12,
                     "QANightlyResults": 52,
@@ -274,10 +274,10 @@
                 }
             }
         },
-        "mergedPullRequests": 2393,
-        "reviews": 7146,
+        "mergedPullRequests": 2394,
+        "reviews": 7149,
         "issuesOpened": 689,
-        "pullRequestsOpened": 2480
+        "pullRequestsOpened": 2482
     },
     "matks": {
         "login": "matks",
@@ -589,7 +589,7 @@
             "ps_currencyselector": 4,
             "ps_facetedsearch": 9,
             "ps_searchbar": 1,
-            "TranslationToolsBundle": 3,
+            "TranslationToolsBundle": 4,
             "prestonbot": 1,
             "ps_emailalerts": 1,
             "ps_viewedproduct": 1,
@@ -625,11 +625,11 @@
         },
         "categories": {
             "core": {
-                "total": 810,
+                "total": 811,
                 "repositories": {
                     "PrestaShop": 774,
                     "prestashop-ui-kit": 10,
-                    "TranslationToolsBundle": 3,
+                    "TranslationToolsBundle": 4,
                     "TranslationFiles": 12,
                     "circuit-breaker": 10,
                     "LocalizationFiles": 1
@@ -716,10 +716,10 @@
                 }
             }
         },
-        "mergedPullRequests": 1214,
-        "reviews": 3031,
+        "mergedPullRequests": 1215,
+        "reviews": 3032,
         "issuesOpened": 258,
-        "pullRequestsOpened": 1365
+        "pullRequestsOpened": 1367
     },
     "Quetzacoalt91": {
         "login": "Quetzacoalt91",
@@ -2446,7 +2446,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 696,
+        "contributions": 698,
         "repositories": {
             "PrestaShop": 225,
             "PrestaShop-modules": 4,
@@ -2501,8 +2501,8 @@
             "ps_supplierlist": 2,
             "ps_crossselling": 1,
             "ps_dataprivacy": 1,
-            "traces": 21,
-            "TopContributors": 11,
+            "traces": 22,
+            "TopContributors": 12,
             "psssst": 1,
             "ps_themecusto": 1,
             "psgdpr": 2,
@@ -2609,12 +2609,12 @@
                 }
             },
             "tools": {
-                "total": 39,
+                "total": 41,
                 "repositories": {
                     "PrestaShop-webservice-lib": 1,
                     "docker": 1,
-                    "traces": 21,
-                    "TopContributors": 11,
+                    "traces": 22,
+                    "TopContributors": 12,
                     "psssst": 1,
                     "presthubot": 1,
                     "ps-monitor-module-releases": 1,
@@ -2639,10 +2639,10 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 455,
+        "mergedPullRequests": 457,
         "reviews": 234,
         "issuesOpened": 125,
-        "pullRequestsOpened": 794
+        "pullRequestsOpened": 799
     },
     "xBorderie": {
         "login": "xBorderie",
@@ -4145,7 +4145,7 @@
             }
         },
         "mergedPullRequests": 230,
-        "reviews": 217,
+        "reviews": 218,
         "issuesOpened": 9,
         "pullRequestsOpened": 236
     },
@@ -5837,9 +5837,9 @@
             }
         },
         "mergedPullRequests": 157,
-        "reviews": 851,
+        "reviews": 852,
         "issuesOpened": 19,
-        "pullRequestsOpened": 190
+        "pullRequestsOpened": 191
     },
     "jnadaud": {
         "login": "jnadaud",
@@ -6657,7 +6657,7 @@
             }
         },
         "mergedPullRequests": 114,
-        "reviews": 261,
+        "reviews": 263,
         "issuesOpened": 55,
         "pullRequestsOpened": 159
     },
@@ -12689,7 +12689,7 @@
             }
         },
         "mergedPullRequests": 20,
-        "reviews": 94,
+        "reviews": 95,
         "issuesOpened": 74,
         "pullRequestsOpened": 25
     },
