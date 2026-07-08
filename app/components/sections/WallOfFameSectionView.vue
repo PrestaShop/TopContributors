@@ -69,6 +69,18 @@ const rankingHeaders = (countLabel: string): PuikTableHeader[] => [
   { value: 'actions', size: 'sm', align: 'center', preventExpand: true, searchSubmit: true },
 ]
 
+// SECURITY TABLE CONFIG — Advisories is the total (sorted), then split
+// between research credits (finder / reporter / analyst) and remediation
+// credits (developer / reviewer / verifier).
+const securityHeaders: PuikTableHeader[] = [
+  { text: 'Rank', value: 'rank', size: 'sm', align: 'center', searchable: true, searchType: 'range', sortable: true },
+  { text: 'Name', value: 'name', size: 'lg', align: 'left', searchable: true, sortable: true },
+  { text: 'Advisories', value: 'count', size: 'sm', align: 'center', searchable: true, searchType: 'range', sortable: true },
+  { text: 'Research', value: 'research', size: 'sm', align: 'center', searchable: true, searchType: 'range', sortable: true },
+  { text: 'Fixes', value: 'remediation', size: 'sm', align: 'center', searchable: true, searchType: 'range', sortable: true },
+  { value: 'actions', size: 'sm', align: 'center', preventExpand: true, searchSubmit: true },
+]
+
 const contributorsRef = computed(() => props.contributorsData)
 
 const { currentContributor, isModalOpen, openModal, closeModal }
@@ -174,7 +186,7 @@ const handleContributorAction = (item: TableItem) => {
         >
           <WallOfFameTable
             :items="security"
-            :headers="rankingHeaders('Advisories')"
+            :headers="securityHeaders"
             type="ranking"
           />
         </puik-tab-navigation-panel>

@@ -42,10 +42,14 @@ defineProps<{
       />
       <TopRankingView
         v-if="topSecurity.length"
-        title="🛡️ Top security researchers"
-        description="They find and report the vulnerabilities disclosed in security advisories."
+        title="🛡️ Top security contributors"
+        description="They are credited on published security advisories — reporting the vulnerability or shipping the fix."
         count-label="Advisories"
         :items="topSecurity"
+        :extra-columns="[
+          { label: 'Research', value: 'research' },
+          { label: 'Fixes', value: 'remediation' },
+        ]"
       />
     </div>
   </section>
