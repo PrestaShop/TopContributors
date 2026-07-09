@@ -32,6 +32,11 @@ const totalMergedPr = computed<number>(() => {
   ) + sumCounter(communityCounter.value, period.value, updatedYear.value)
 })
 
+const isLegacyData = computed(() => {
+  const sample = contributorsData.value.slice(0, 3)
+  return sample.length > 0 && sample.every(c => c.mergedPullRequestsByYear === undefined)
+})
+
 const prestaMergedPrbyPercent = computed<number>(() => {
   const total = totalMergedPr.value
   if (!total) return 0
@@ -143,6 +148,7 @@ onMounted(async () => {
     <div class="wof-period-filter-wrapper">
       <PeriodFilter />
     </div>
+    <PeriodFallbackBanner v-if="isLegacyData" />
     <HeaderSectionView
       :total-merged-pr="totalMergedPr"
       :presta-merged-pr-by-percent="prestaMergedPrbyPercent"

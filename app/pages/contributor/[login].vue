@@ -31,6 +31,7 @@ watchEffect(async () => {
 
 const vm = useEntityDetail(contributor, period, updatedYear)
 const yearsActive = computed(() => Object.keys(vm.value?.yearlySeries.mergedPullRequests ?? {}).length)
+const isLegacyData = computed(() => contributor.value?.mergedPullRequestsByYear === undefined)
 
 useHead(() => ({
   title: contributor.value?.name || contributor.value?.login || 'Contributeur',
@@ -46,6 +47,7 @@ useHead(() => ({
     <div class="wof-period-filter-wrapper">
       <PeriodFilter />
     </div>
+    <PeriodFallbackBanner v-if="isLegacyData && contributor" />
 
     <DetailPageLayout v-if="vm && contributor">
       <template #sidebar>
