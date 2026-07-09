@@ -1,5 +1,9 @@
 import type { Counter, Period } from '@/types'
 
+export function pairCounter(total: number | undefined, byYear?: Record<string, number>): Counter {
+  return byYear ? { total: total ?? 0, byYear } : (total ?? 0)
+}
+
 export function sumCounter(
   c: Counter | undefined,
   period: Period,

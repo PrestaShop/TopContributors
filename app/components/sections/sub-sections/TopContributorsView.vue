@@ -1,10 +1,13 @@
 <script setup lang="ts">
-import { ref } from 'vue'
+import { computed, ref } from 'vue'
 import type { PuikTableHeader } from '@prestashopcorp/puik-components'
 import type { Contributor } from '@/types'
+import { usePeriod } from '@/composables/usePeriod'
+import { pairCounter, sumCounter } from '@/composables/useCounter'
 
 const props = defineProps<{
   topContributors: Contributor[]
+  updatedYear: number
 }>()
 
 const headers: PuikTableHeader[] = [
@@ -48,8 +51,27 @@ const headers: PuikTableHeader[] = [
 const stickyLastCol = ref(false)
 const fullWidth = ref(true)
 
+const period = usePeriod()
+
+const decoratedItems = computed(() =>
+  props.topContributors
+    .map(item => ({
+      ...item,
+      mergedPullRequests: sumCounter(
+        pairCounter(
+          item.mergedPullRequests,
+          (item as unknown as { mergedPullRequestsByYear?: Record<string, number> }).mergedPullRequestsByYear,
+        ),
+        period.value,
+        props.updatedYear,
+      ),
+    }))
+    .sort((a, b) => b.mergedPullRequests - a.mergedPullRequests)
+    .map((it, i) => ({ ...it, rank: i + 1 })),
+)
+
 const { currentContributor, isModalOpen, openModal, closeModal } = useContributorModalRouter(
-  props.topContributors,
+  decoratedItems,
 )
 </script>
 
@@ -60,7 +82,7 @@ const { currentContributor, isModalOpen, openModal, closeModal } = useContributo
     link-content="View all"
     link-href="#wof-all-contributors"
     :headers="headers"
-    :items="topContributors"
+    :items="decoratedItems"
     :sticky-last-col="stickyLastCol"
     :full-width="fullWidth"
     @view="openModal"

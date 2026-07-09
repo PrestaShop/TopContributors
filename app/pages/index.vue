@@ -1,11 +1,14 @@
 <script setup lang="ts">
 import 'vue3-carousel/carousel.css'
 
-import { ref, onMounted } from 'vue'
-import type { Company, Contributor, NewContributor, RankingEntry } from '@/types'
+import { ref, computed, onMounted } from 'vue'
+import { usePeriod } from '@/composables/usePeriod'
+import { sumCounter, pairCounter } from '@/composables/useCounter'
+import type { Company, Contributor, NewContributor, RankingEntry, Counter } from '@/types'
 
-const totalMergedPr = ref<number>(0)
-const prestaMergedPrbyPercent = ref<number>(0)
+const period = usePeriod()
+const updatedYear = ref<number>(new Date().getFullYear())
+const communityCounter = ref<Counter | undefined>()
 const companiesData = ref<Company[]>([])
 const contributorsData = ref<Contributor[]>([])
 const topCompanies = ref<Company[]>([])
@@ -15,6 +18,32 @@ const topReviewers = ref<RankingEntry[]>([])
 const topIssues = ref<RankingEntry[]>([])
 const topPullRequests = ref<RankingEntry[]>([])
 const topSecurity = ref<RankingEntry[]>([])
+
+const totalMergedPr = computed<number>(() => {
+  const cs = companiesData.value
+  if (!cs.length) return 0
+  return cs.reduce(
+    (acc, cc) => acc + sumCounter(
+      pairCounter(cc.merged_pull_requests as number, (cc as unknown as { merged_pull_requests_by_year?: Record<string, number> }).merged_pull_requests_by_year),
+      period.value,
+      updatedYear.value,
+    ),
+    0,
+  ) + sumCounter(communityCounter.value, period.value, updatedYear.value)
+})
+
+const prestaMergedPrbyPercent = computed<number>(() => {
+  const total = totalMergedPr.value
+  if (!total) return 0
+  const presta = companiesData.value.find(c => c.name === 'PrestaShop')
+  if (!presta) return 0
+  const prestaCount = sumCounter(
+    pairCounter(presta.merged_pull_requests as number, (presta as unknown as { merged_pull_requests_by_year?: Record<string, number> }).merged_pull_requests_by_year),
+    period.value,
+    updatedYear.value,
+  )
+  return Number((prestaCount * 100 / total).toFixed(2))
+})
 
 onMounted(async () => {
   try {
@@ -34,17 +63,10 @@ onMounted(async () => {
 
     companiesData.value = data.companies
     topCompanies.value = data.companies
-    const total: number
-      = data.companies.reduce(
-        (acc: number, company: Company) => acc + company.merged_pull_requests,
-        0,
-      ) + data.community.merged_pull_requests
-    totalMergedPr.value = total ?? 0
-
-    const prestashopCompany = data.companies.find(
-      (company: Company) => company.name === 'PrestaShop',
+    communityCounter.value = pairCounter(
+      data.community?.merged_pull_requests,
+      data.community?.merged_pull_requests_by_year,
     )
-    prestaMergedPrbyPercent.value = prestashopCompany.pull_requests_percent ?? 0
   }
   catch (error) {
     console.error('Error loading top companies:', error)
@@ -55,6 +77,8 @@ onMounted(async () => {
     if (!response.ok) throw new Error('Error loading contributors data')
 
     const data = await response.json()
+
+    if (data.updatedAt) updatedYear.value = new Date(data.updatedAt).getUTCFullYear()
 
     // Filter out non-contributor entries and nulls (e.g., "updatedAt") from the JSON object
     const contributorsOnly = Object.values(data).filter(
@@ -116,6 +140,9 @@ onMounted(async () => {
 
 <template>
   <div class="wof-container">
+    <div class="wof-period-filter-wrapper">
+      <PeriodFilter />
+    </div>
     <HeaderSectionView
       :total-merged-pr="totalMergedPr"
       :presta-merged-pr-by-percent="prestaMergedPrbyPercent"
@@ -128,6 +155,7 @@ onMounted(async () => {
         :top-issues="topIssues"
         :top-pull-requests="topPullRequests"
         :top-security="topSecurity"
+        :updated-year="updatedYear"
       />
       <NewContributorsSectionView :new-contributors="newContributors" />
       <WallOfFameSectionView
@@ -137,6 +165,7 @@ onMounted(async () => {
         :issues="topIssues"
         :pull-requests="topPullRequests"
         :security="topSecurity"
+        :updated-year="updatedYear"
       />
       <ContributeSectionView
         contribute-link="https://devdocs.prestashop-project.org/9/contribute/contribute-pull-requests/"
@@ -145,3 +174,12 @@ onMounted(async () => {
     </main>
   </div>
 </template>
+
+<style scoped>
+.wof-period-filter-wrapper {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+  background: #1d1d1b;
+}
+</style>

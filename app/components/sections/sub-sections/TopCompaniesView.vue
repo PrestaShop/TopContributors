@@ -1,10 +1,13 @@
 <script setup lang="ts">
-import { ref } from 'vue'
+import { computed, ref } from 'vue'
 import type { PuikTableHeader } from '@prestashopcorp/puik-components'
 import type { Company } from '@/types'
+import { usePeriod } from '@/composables/usePeriod'
+import { pairCounter, sumCounter } from '@/composables/useCounter'
 
-defineProps<{
+const props = defineProps<{
   topCompanies: Company[]
+  updatedYear: number
 }>()
 
 const headers: PuikTableHeader[] = [
@@ -46,6 +49,25 @@ const headers: PuikTableHeader[] = [
 ]
 const stickyLastCol = ref(false)
 const fullWidth = ref(true)
+
+const period = usePeriod()
+
+const decoratedItems = computed(() =>
+  props.topCompanies
+    .map(item => ({
+      ...item,
+      merged_pull_requests: sumCounter(
+        pairCounter(
+          item.merged_pull_requests,
+          (item as unknown as { merged_pull_requests_by_year?: Record<string, number> }).merged_pull_requests_by_year,
+        ),
+        period.value,
+        props.updatedYear,
+      ),
+    }))
+    .sort((a, b) => b.merged_pull_requests - a.merged_pull_requests)
+    .map((it, i) => ({ ...it, rank: i + 1 })),
+)
 </script>
 
 <template>
@@ -53,7 +75,7 @@ const fullWidth = ref(true)
     title="🚀 Top companies"
     description="Meet the top companies who are helping us strengthen PrestaShop."
     :headers="headers"
-    :items="topCompanies"
+    :items="decoratedItems"
     :sticky-last-col="stickyLastCol"
     :full-width="fullWidth"
   >

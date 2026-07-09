@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { sumCounter } from '@/composables/useCounter'
+import { pairCounter, sumCounter } from '@/composables/useCounter'
 
 const updatedYear = 2026
 
@@ -37,5 +37,21 @@ describe('sumCounter', () => {
   it('ignores years outside the updatedYear range', () => {
     const c = { total: 100, byYear: { 2030: 5, 2026: 10, 2020: 85 } }
     expect(sumCounter(c, { kind: 'lastYear' }, updatedYear)).toBe(10)
+  })
+})
+
+describe('pairCounter', () => {
+  it('returns scalar when byYear is missing', () => {
+    expect(pairCounter(42)).toBe(42)
+    expect(pairCounter(42, undefined)).toBe(42)
+  })
+  it('returns {total, byYear} when byYear is present', () => {
+    expect(pairCounter(42, { 2026: 10 })).toEqual({ total: 42, byYear: { 2026: 10 } })
+  })
+  it('defaults total to 0 when undefined but byYear present', () => {
+    expect(pairCounter(undefined, { 2026: 10 })).toEqual({ total: 0, byYear: { 2026: 10 } })
+  })
+  it('returns 0 scalar when both are undefined', () => {
+    expect(pairCounter(undefined, undefined)).toBe(0)
   })
 })
