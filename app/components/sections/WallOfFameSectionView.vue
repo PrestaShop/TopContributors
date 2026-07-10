@@ -1,9 +1,9 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import type { PuikTableHeader } from '@prestashopcorp/puik-components'
+import { usePeriod } from '@/composables/usePeriod'
+import { pairCounter, sumCounter } from '@/composables/useCounter'
 import type { Company, Contributor, RankingEntry } from '@/types'
-
-type TableItem = Contributor | Company
 
 const props = defineProps<{
   contributorsData: Contributor[]
@@ -12,7 +12,65 @@ const props = defineProps<{
   issues: RankingEntry[]
   pullRequests: RankingEntry[]
   security: RankingEntry[]
+  updatedYear: number
 }>()
+
+const period = usePeriod()
+
+function decorateByCount<T extends Record<string, unknown>>(
+  list: T[],
+  scalarKey: string,
+  byYearKey: string,
+): T[] {
+  return list
+    .map(it => ({
+      ...it,
+      [scalarKey]: sumCounter(
+        pairCounter(it[scalarKey] as number, it[byYearKey] as Record<string, number> | undefined),
+        period.value,
+        props.updatedYear,
+      ),
+    }))
+    .sort((a, b) => (b[scalarKey] as number) - (a[scalarKey] as number))
+    .map((it, i) => ({ ...it, rank: i + 1 })) as T[]
+}
+
+const decoratedContributors = computed(() =>
+  decorateByCount(props.contributorsData, 'mergedPullRequests', 'mergedPullRequestsByYear'),
+)
+const decoratedCompanies = computed(() =>
+  decorateByCount(props.companiesData, 'merged_pull_requests', 'merged_pull_requests_by_year'),
+)
+const decoratedReviewers = computed(() =>
+  decorateByCount(props.reviewers, 'count', 'countByYear'),
+)
+const decoratedIssues = computed(() =>
+  decorateByCount(props.issues, 'count', 'countByYear'),
+)
+const decoratedPullRequests = computed(() =>
+  decorateByCount(props.pullRequests, 'count', 'countByYear'),
+)
+const decoratedSecurity = computed(() => {
+  return props.security
+    .map((it) => {
+      const c = it as unknown as {
+        count: number
+        countByYear?: Record<string, number>
+        research?: number
+        researchByYear?: Record<string, number>
+        remediation?: number
+        remediationByYear?: Record<string, number>
+      }
+      return {
+        ...it,
+        count: sumCounter(pairCounter(c.count, c.countByYear), period.value, props.updatedYear),
+        research: sumCounter(pairCounter(c.research, c.researchByYear), period.value, props.updatedYear),
+        remediation: sumCounter(pairCounter(c.remediation, c.remediationByYear), period.value, props.updatedYear),
+      }
+    })
+    .sort((a, b) => b.count - a.count)
+    .map((it, i) => ({ ...it, rank: i + 1 }))
+})
 
 // CONTRIBUTORS TABLE CONFIG
 const contributorsHeaders: PuikTableHeader[] = [
@@ -81,20 +139,10 @@ const securityHeaders: PuikTableHeader[] = [
   { value: 'actions', size: 'sm', align: 'center', preventExpand: true, searchSubmit: true },
 ]
 
-const contributorsRef = computed(() => props.contributorsData)
-
-const { currentContributor, isModalOpen, openModal, closeModal }
-  = useContributorModalRouter(contributorsRef)
-
-const isContributor = (item: TableItem): item is Contributor => {
-  return 'id' in item && 'mergedPullRequests' in item
-}
-
-const handleContributorAction = (item: TableItem) => {
-  if (isContributor(item)) {
-    openModal(item)
-  }
-}
+// useContributorModalRouter still runs to redirect legacy `?contributor=login`
+// URLs to the detail route (see composable). We don't wire the modal here
+// anymore — the action column links straight to `/contributor/:login`.
+useContributorModalRouter(decoratedContributors)
 </script>
 
 <template>
@@ -140,42 +188,35 @@ const handleContributorAction = (item: TableItem) => {
       <puik-tab-navigation-group-panels>
         <puik-tab-navigation-panel :position="1">
           <WallOfFameTable
-            :items="contributorsData"
+            :items="decoratedContributors"
             :headers="contributorsHeaders"
             type="contributor"
-            @action-click="handleContributorAction"
-          />
-          <TopModal
-            v-if="currentContributor"
-            :contributor="currentContributor"
-            :is-open="isModalOpen"
-            @close="closeModal"
           />
         </puik-tab-navigation-panel>
         <puik-tab-navigation-panel :position="2">
           <WallOfFameTable
-            :items="companiesData"
+            :items="decoratedCompanies"
             :headers="companiesHeaders"
             type="company"
           />
         </puik-tab-navigation-panel>
         <puik-tab-navigation-panel :position="3">
           <WallOfFameTable
-            :items="reviewers"
+            :items="decoratedReviewers"
             :headers="rankingHeaders('Reviews')"
             type="ranking"
           />
         </puik-tab-navigation-panel>
         <puik-tab-navigation-panel :position="4">
           <WallOfFameTable
-            :items="issues"
+            :items="decoratedIssues"
             :headers="rankingHeaders('Issues')"
             type="ranking"
           />
         </puik-tab-navigation-panel>
         <puik-tab-navigation-panel :position="5">
           <WallOfFameTable
-            :items="pullRequests"
+            :items="decoratedPullRequests"
             :headers="rankingHeaders('Pull requests')"
             type="ranking"
           />
@@ -185,7 +226,7 @@ const handleContributorAction = (item: TableItem) => {
           :position="6"
         >
           <WallOfFameTable
-            :items="security"
+            :items="decoratedSecurity"
             :headers="securityHeaders"
             type="ranking"
           />

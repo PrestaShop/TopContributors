@@ -1,10 +1,13 @@
 <script setup lang="ts">
-import { ref } from 'vue'
+import { computed, ref } from 'vue'
 import type { PuikTableHeader } from '@prestashopcorp/puik-components'
 import type { Company } from '@/types'
+import { usePeriod } from '@/composables/usePeriod'
+import { pairCounter, sumCounter } from '@/composables/useCounter'
 
-defineProps<{
+const props = defineProps<{
   topCompanies: Company[]
+  updatedYear: number
 }>()
 
 const headers: PuikTableHeader[] = [
@@ -46,6 +49,25 @@ const headers: PuikTableHeader[] = [
 ]
 const stickyLastCol = ref(false)
 const fullWidth = ref(true)
+
+const period = usePeriod()
+
+const decoratedItems = computed(() =>
+  props.topCompanies
+    .map(item => ({
+      ...item,
+      merged_pull_requests: sumCounter(
+        pairCounter(
+          item.merged_pull_requests,
+          (item as unknown as { merged_pull_requests_by_year?: Record<string, number> }).merged_pull_requests_by_year,
+        ),
+        period.value,
+        props.updatedYear,
+      ),
+    }))
+    .sort((a, b) => b.merged_pull_requests - a.merged_pull_requests)
+    .map((it, i) => ({ ...it, rank: i + 1 })),
+)
 </script>
 
 <template>
@@ -53,7 +75,7 @@ const fullWidth = ref(true)
     title="🚀 Top companies"
     description="Meet the top companies who are helping us strengthen PrestaShop."
     :headers="headers"
-    :items="topCompanies"
+    :items="decoratedItems"
     :sticky-last-col="stickyLastCol"
     :full-width="fullWidth"
   >
@@ -102,19 +124,33 @@ const fullWidth = ref(true)
       </div>
     </template>
     <template #item-actions="{ item }">
-      <a
-        :href="item.html_url"
-        target="_blank"
-        aria-label="view profile"
-        rel="noopener noreferrer"
-      >
-        <puik-button
-          variant="text"
-          force-legacy-text-variant
-          right-icon="visibility"
-          aria-label="view profile icon"
-        />
-      </a>
+      <div class="wof-top-actions">
+        <a
+          :href="item.html_url as string"
+          target="_blank"
+          aria-label="Open company page in a new tab"
+          rel="noopener noreferrer"
+        >
+          <puik-button
+            variant="text"
+            force-legacy-text-variant
+            right-icon="open_in_new"
+            aria-label="Open company page in a new tab"
+          />
+        </a>
+        <NuxtLink
+          v-if="item.slug"
+          :to="`/company/${(item.slug as string).toLowerCase()}`"
+          aria-label="View company detail"
+        >
+          <puik-button
+            variant="text"
+            force-legacy-text-variant
+            right-icon="insights"
+            aria-label="View company detail"
+          />
+        </NuxtLink>
+      </div>
     </template>
   </TopCard>
 </template>

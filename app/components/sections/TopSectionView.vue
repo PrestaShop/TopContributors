@@ -8,6 +8,7 @@ defineProps<{
   topIssues: RankingEntry[]
   topPullRequests: RankingEntry[]
   topSecurity: RankingEntry[]
+  updatedYear: number
 }>()
 </script>
 
@@ -17,14 +18,21 @@ defineProps<{
       PrestaShop Project’s top contributors
     </h2>
     <div class="wof-top-section__cards">
-      <TopCompaniesView :top-companies="topCompanies" />
-      <TopContributorsView :top-contributors="topContributors" />
+      <TopCompaniesView
+        :top-companies="topCompanies"
+        :updated-year="updatedYear"
+      />
+      <TopContributorsView
+        :top-contributors="topContributors"
+        :updated-year="updatedYear"
+      />
       <TopRankingView
         v-if="topReviewers.length"
         title="👀 Top reviewers"
         description="They review pull requests to keep PrestaShop's quality high."
         count-label="Reviews"
         :items="topReviewers"
+        :updated-year="updatedYear"
       />
       <TopRankingView
         v-if="topIssues.length"
@@ -32,6 +40,7 @@ defineProps<{
         description="They report issues that help us improve PrestaShop."
         count-label="Issues"
         :items="topIssues"
+        :updated-year="updatedYear"
       />
       <TopRankingView
         v-if="topPullRequests.length"
@@ -39,6 +48,7 @@ defineProps<{
         description="They open pull requests to move PrestaShop forward."
         count-label="Pull requests"
         :items="topPullRequests"
+        :updated-year="updatedYear"
       />
       <TopRankingView
         v-if="topSecurity.length"
@@ -46,6 +56,7 @@ defineProps<{
         description="They are credited on published security advisories — reporting the vulnerability or shipping the fix."
         count-label="Advisories"
         :items="topSecurity"
+        :updated-year="updatedYear"
         :extra-columns="[
           { label: 'Research', value: 'research' },
           { label: 'Fixes', value: 'remediation' },

@@ -1,13 +1,25 @@
 <script setup lang="ts">
-import { ref } from 'vue'
+import { computed, ref } from 'vue'
 import type { PuikTableHeader } from '@prestashopcorp/puik-components'
 import type { RankingEntry } from '@/types'
+import { usePeriod } from '@/composables/usePeriod'
+import { pairCounter, sumCounter } from '@/composables/useCounter'
+
+type ItemInput = RankingEntry & {
+  count: number
+  countByYear?: Record<string, number>
+  research?: number
+  researchByYear?: Record<string, number>
+  remediation?: number
+  remediationByYear?: Record<string, number>
+}
 
 const props = defineProps<{
   title: string
   description: string
   countLabel: string
-  items: RankingEntry[]
+  items: ItemInput[]
+  updatedYear: number
   // Optional breakdown columns rendered between the total and the actions
   // cell. Their values come from RankingEntry's extra numeric fields (e.g.
   // `research`, `remediation` for the security ranking).
@@ -23,6 +35,27 @@ const headers: PuikTableHeader[] = [
   { value: 'actions', size: 'sm', align: 'center', preventExpand: true, searchSubmit: true },
 ]
 
+const period = usePeriod()
+
+const decoratedItems = computed(() => {
+  return props.items
+    .map((it) => {
+      const decorated = {
+        ...it,
+        count: sumCounter(pairCounter(it.count, it.countByYear), period.value, props.updatedYear),
+      }
+      if (it.research !== undefined || it.researchByYear !== undefined) {
+        decorated.research = sumCounter(pairCounter(it.research, it.researchByYear), period.value, props.updatedYear)
+      }
+      if (it.remediation !== undefined || it.remediationByYear !== undefined) {
+        decorated.remediation = sumCounter(pairCounter(it.remediation, it.remediationByYear), period.value, props.updatedYear)
+      }
+      return decorated
+    })
+    .sort((a, b) => b.count - a.count)
+    .map((it, i) => ({ ...it, rank: i + 1 }))
+})
+
 const stickyLastCol = ref(false)
 const fullWidth = ref(true)
 </script>
@@ -32,7 +65,7 @@ const fullWidth = ref(true)
     :title="title"
     :description="description"
     :headers="headers"
-    :items="items"
+    :items="decoratedItems"
     :sticky-last-col="stickyLastCol"
     :full-width="fullWidth"
   >
@@ -68,19 +101,33 @@ const fullWidth = ref(true)
     </template>
 
     <template #item-actions="{ item }">
-      <a
-        :href="item.html_url"
-        target="_blank"
-        aria-label="view profile"
-        rel="noopener noreferrer"
-      >
-        <puik-button
-          variant="text"
-          force-legacy-text-variant
-          right-icon="visibility"
-          aria-label="view profile icon"
-        />
-      </a>
+      <div class="wof-top-actions">
+        <a
+          :href="item.html_url"
+          target="_blank"
+          aria-label="Open GitHub profile in a new tab"
+          rel="noopener noreferrer"
+        >
+          <puik-button
+            variant="text"
+            force-legacy-text-variant
+            right-icon="open_in_new"
+            aria-label="Open GitHub profile in a new tab"
+          />
+        </a>
+        <NuxtLink
+          v-if="item.login"
+          :to="`/contributor/${(item.login as string).toLowerCase()}`"
+          aria-label="View contributor detail"
+        >
+          <puik-button
+            variant="text"
+            force-legacy-text-variant
+            right-icon="insights"
+            aria-label="View contributor detail"
+          />
+        </NuxtLink>
+      </div>
     </template>
   </TopCard>
 </template>

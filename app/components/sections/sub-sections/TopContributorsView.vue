@@ -1,10 +1,13 @@
 <script setup lang="ts">
-import { ref } from 'vue'
+import { computed, ref } from 'vue'
 import type { PuikTableHeader } from '@prestashopcorp/puik-components'
 import type { Contributor } from '@/types'
+import { usePeriod } from '@/composables/usePeriod'
+import { pairCounter, sumCounter } from '@/composables/useCounter'
 
 const props = defineProps<{
   topContributors: Contributor[]
+  updatedYear: number
 }>()
 
 const headers: PuikTableHeader[] = [
@@ -48,8 +51,27 @@ const headers: PuikTableHeader[] = [
 const stickyLastCol = ref(false)
 const fullWidth = ref(true)
 
+const period = usePeriod()
+
+const decoratedItems = computed(() =>
+  props.topContributors
+    .map(item => ({
+      ...item,
+      mergedPullRequests: sumCounter(
+        pairCounter(
+          item.mergedPullRequests,
+          (item as unknown as { mergedPullRequestsByYear?: Record<string, number> }).mergedPullRequestsByYear,
+        ),
+        period.value,
+        props.updatedYear,
+      ),
+    }))
+    .sort((a, b) => b.mergedPullRequests - a.mergedPullRequests)
+    .map((it, i) => ({ ...it, rank: i + 1 })),
+)
+
 const { currentContributor, isModalOpen, openModal, closeModal } = useContributorModalRouter(
-  props.topContributors,
+  decoratedItems,
 )
 </script>
 
@@ -60,7 +82,7 @@ const { currentContributor, isModalOpen, openModal, closeModal } = useContributo
     link-content="View all"
     link-href="#wof-all-contributors"
     :headers="headers"
-    :items="topContributors"
+    :items="decoratedItems"
     :sticky-last-col="stickyLastCol"
     :full-width="fullWidth"
     @view="openModal"
@@ -107,13 +129,32 @@ const { currentContributor, isModalOpen, openModal, closeModal } = useContributo
     </template>
 
     <template #item-actions="{ item }">
-      <puik-button
-        variant="text"
-        force-legacy-text-variant
-        right-icon="visibility"
-        aria-label="view profile"
-        @click="openModal(item)"
-      />
+      <div class="wof-top-actions">
+        <a
+          :href="item.html_url as string"
+          target="_blank"
+          aria-label="Open GitHub profile in a new tab"
+          rel="noopener noreferrer"
+        >
+          <puik-button
+            variant="text"
+            force-legacy-text-variant
+            right-icon="open_in_new"
+            aria-label="Open GitHub profile in a new tab"
+          />
+        </a>
+        <NuxtLink
+          :to="`/contributor/${(item.login as string).toLowerCase()}`"
+          aria-label="View contributor detail"
+        >
+          <puik-button
+            variant="text"
+            force-legacy-text-variant
+            right-icon="insights"
+            aria-label="View contributor detail"
+          />
+        </NuxtLink>
+      </div>
     </template>
   </TopCard>
 

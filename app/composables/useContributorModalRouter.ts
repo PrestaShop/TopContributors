@@ -63,6 +63,13 @@ export function useContributorModalRouter(contributors: Contributor[] | Ref<Cont
     const login = parseContributorParam()
     if (!login) return
 
+    // Legacy links used ?contributor=login on the landing page.
+    // Redirect them to the dedicated detail route (which now exists).
+    if (typeof window !== 'undefined' && window.location.pathname === '/') {
+      useRouter().replace(`/contributor/${encodeURIComponent(login)}`)
+      return
+    }
+
     const list = getContributors()
     const found = list.find(c => c.login === login)
     if (found) {
