@@ -33,8 +33,16 @@ const totalMergedPr = computed<number>(() => {
 })
 
 const isLegacyData = computed(() => {
-  const sample = contributorsData.value.slice(0, 3)
-  return sample.length > 0 && sample.every(c => c.mergedPullRequestsByYear === undefined)
+  // Fresh data is signalled by ANY contributor exposing a byYear sibling map
+  // (or the aggregated community counter carrying one). Contributors with zero
+  // merged PRs legitimately lack the map, so a small sample can produce false
+  // positives — hence the wide sample plus the community fallback.
+  const sample = contributorsData.value.slice(0, 50)
+  if (!sample.length) return false
+  if (sample.some(c => c.mergedPullRequestsByYear !== undefined)) return false
+  const community = communityCounter.value
+  if (community && typeof community !== 'number' && community.byYear) return false
+  return true
 })
 
 const prestaMergedPrbyPercent = computed<number>(() => {
