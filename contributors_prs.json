@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11017,
+        "contributions": 11023,
         "repositories": {
-            "PrestaShop": 1199,
+            "PrestaShop": 1200,
             "PrestaShop-modules": 2,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 9,
@@ -122,9 +122,9 @@
         },
         "categories": {
             "core": {
-                "total": 1213,
+                "total": 1214,
                 "repositories": {
-                    "PrestaShop": 1199,
+                    "PrestaShop": 1200,
                     "prestashop-ui-kit": 1,
                     "TranslationToolsBundle": 2,
                     "TranslationFiles": 3,
@@ -274,10 +274,10 @@
                 }
             }
         },
-        "mergedPullRequests": 2401,
-        "reviews": 7153,
+        "mergedPullRequests": 2402,
+        "reviews": 7160,
         "issuesOpened": 689,
-        "pullRequestsOpened": 2487
+        "pullRequestsOpened": 2492
     },
     "matks": {
         "login": "matks",
@@ -573,9 +573,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7673,
+        "contributions": 7683,
         "repositories": {
-            "PrestaShop": 776,
+            "PrestaShop": 778,
             "dashproducts": 2,
             "blockwishlist": 5,
             "productcomments": 10,
@@ -626,9 +626,9 @@
         },
         "categories": {
             "core": {
-                "total": 813,
+                "total": 815,
                 "repositories": {
-                    "PrestaShop": 776,
+                    "PrestaShop": 778,
                     "prestashop-ui-kit": 10,
                     "TranslationToolsBundle": 4,
                     "TranslationFiles": 12,
@@ -718,10 +718,10 @@
                 }
             }
         },
-        "mergedPullRequests": 1218,
-        "reviews": 3042,
+        "mergedPullRequests": 1220,
+        "reviews": 3052,
         "issuesOpened": 258,
-        "pullRequestsOpened": 1368
+        "pullRequestsOpened": 1370
     },
     "Quetzacoalt91": {
         "login": "Quetzacoalt91",
@@ -938,9 +938,9 @@
             }
         },
         "mergedPullRequests": 1202,
-        "reviews": 2187,
+        "reviews": 2189,
         "issuesOpened": 55,
-        "pullRequestsOpened": 1339
+        "pullRequestsOpened": 1340
     },
     "Hlavtox": {
         "login": "Hlavtox",
@@ -953,9 +953,9 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 2422,
+        "contributions": 2424,
         "repositories": {
-            "PrestaShop": 385,
+            "PrestaShop": 391,
             "dashactivity": 4,
             "dashgoals": 4,
             "dashproducts": 7,
@@ -982,7 +982,7 @@
             "statssearch": 2,
             "statsstock": 7,
             "blockwishlist": 4,
-            "productcomments": 9,
+            "productcomments": 10,
             "autoupgrade": 57,
             "gsitemap": 16,
             "prestashop.github.io": 1,
@@ -1038,9 +1038,9 @@
         },
         "categories": {
             "core": {
-                "total": 390,
+                "total": 396,
                 "repositories": {
-                    "PrestaShop": 385,
+                    "PrestaShop": 391,
                     "prestashop-ui-kit": 3,
                     "circuit-breaker": 1,
                     "LocalizationFiles": 1
@@ -1066,7 +1066,7 @@
                 }
             },
             "modules": {
-                "total": 480,
+                "total": 481,
                 "repositories": {
                     "dashactivity": 4,
                     "dashgoals": 4,
@@ -1094,7 +1094,7 @@
                     "statssearch": 2,
                     "statsstock": 7,
                     "blockwishlist": 4,
-                    "productcomments": 9,
+                    "productcomments": 10,
                     "autoupgrade": 57,
                     "gsitemap": 16,
                     "contactform": 6,
@@ -1162,10 +1162,10 @@
                 }
             }
         },
-        "mergedPullRequests": 948,
-        "reviews": 1327,
+        "mergedPullRequests": 955,
+        "reviews": 1331,
         "issuesOpened": 462,
-        "pullRequestsOpened": 1070
+        "pullRequestsOpened": 1071
     },
     "nesrineabdmouleh": {
         "login": "nesrineabdmouleh",
@@ -1236,7 +1236,7 @@
             }
         },
         "mergedPullRequests": 856,
-        "reviews": 1009,
+        "reviews": 1010,
         "issuesOpened": 55,
         "pullRequestsOpened": 900
     },
@@ -1699,7 +1699,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3713,
+        "contributions": 3717,
         "repositories": {
             "PrestaShop": 177,
             "PrestaShop-modules": 3,
@@ -1709,7 +1709,7 @@
             "blockwishlist": 4,
             "productcomments": 4,
             "autoupgrade": 6,
-            "prestashop.github.io": 180,
+            "prestashop.github.io": 181,
             "StarterTheme": 3,
             "contactform": 3,
             "paymentexample": 1,
@@ -1838,9 +1838,9 @@
                 }
             },
             "blog": {
-                "total": 180,
+                "total": 181,
                 "repositories": {
-                    "prestashop.github.io": 180
+                    "prestashop.github.io": 181
                 }
             },
             "others": {
@@ -1851,10 +1851,10 @@
                 }
             }
         },
-        "mergedPullRequests": 583,
-        "reviews": 3488,
+        "mergedPullRequests": 584,
+        "reviews": 3490,
         "issuesOpened": 161,
-        "pullRequestsOpened": 683
+        "pullRequestsOpened": 684
     },
     "maximebiloe": {
         "login": "maximebiloe",
@@ -2450,7 +2450,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 700,
+        "contributions": 702,
         "repositories": {
             "PrestaShop": 226,
             "PrestaShop-modules": 4,
@@ -2521,7 +2521,7 @@
             "classic-theme": 1,
             "ps-monitor-module-releases": 1,
             "kanbanbot": 1,
-            "ps_apiresources": 2,
+            "ps_apiresources": 3,
             "ui-testing-library": 4,
             "SeamlessUpgradeToolbox": 1
         },
@@ -2556,7 +2556,7 @@
                 }
             },
             "modules": {
-                "total": 89,
+                "total": 90,
                 "repositories": {
                     "PrestaShop-modules": 4,
                     "dashactivity": 1,
@@ -2609,7 +2609,7 @@
                     "ps_themecusto": 1,
                     "psgdpr": 2,
                     "ps_buybuttonlite": 1,
-                    "ps_apiresources": 2
+                    "ps_apiresources": 3
                 }
             },
             "tools": {
@@ -2643,10 +2643,10 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 458,
+        "mergedPullRequests": 459,
         "reviews": 234,
         "issuesOpened": 126,
-        "pullRequestsOpened": 802
+        "pullRequestsOpened": 807
     },
     "xBorderie": {
         "login": "xBorderie",
@@ -3936,9 +3936,9 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1678,
+        "contributions": 1685,
         "repositories": {
-            "PrestaShop": 153,
+            "PrestaShop": 154,
             "dashactivity": 2,
             "blockwishlist": 6,
             "autoupgrade": 7,
@@ -3949,7 +3949,7 @@
             "ps_sharebuttons": 3,
             "ps_contactinfo": 2,
             "ps_mainmenu": 1,
-            "docs": 5,
+            "docs": 6,
             "ps_cashondelivery": 1,
             "traces": 1,
             "TopContributors": 2,
@@ -3972,9 +3972,9 @@
         },
         "categories": {
             "core": {
-                "total": 155,
+                "total": 156,
                 "repositories": {
-                    "PrestaShop": 153,
+                    "PrestaShop": 154,
                     "LocalizationFiles": 2
                 }
             },
@@ -3983,9 +3983,9 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 17,
+                "total": 18,
                 "repositories": {
-                    "docs": 5,
+                    "docs": 6,
                     "open-source": 7,
                     "example-modules": 1,
                     "test-scenarios": 2,
@@ -4047,10 +4047,10 @@
                 }
             }
         },
-        "mergedPullRequests": 243,
-        "reviews": 2175,
+        "mergedPullRequests": 245,
+        "reviews": 2176,
         "issuesOpened": 21,
-        "pullRequestsOpened": 322
+        "pullRequestsOpened": 328
     },
     "tblivet": {
         "login": "tblivet",
@@ -4149,9 +4149,9 @@
             }
         },
         "mergedPullRequests": 230,
-        "reviews": 219,
+        "reviews": 222,
         "issuesOpened": 9,
-        "pullRequestsOpened": 236
+        "pullRequestsOpened": 237
     },
     "gskema": {
         "login": "gskema",
@@ -4576,7 +4576,7 @@
             "traces": 2,
             "psgdpr": 1,
             "LocalizationFiles": 2,
-            "hummingbird": 13,
+            "hummingbird": 14,
             "classic-theme": 4,
             "ps_apiresources": 10
         },
@@ -4599,9 +4599,9 @@
                 }
             },
             "themes": {
-                "total": 17,
+                "total": 18,
                 "repositories": {
-                    "hummingbird": 13,
+                    "hummingbird": 14,
                     "classic-theme": 4
                 }
             },
@@ -4642,8 +4642,8 @@
                 "repositories": []
             }
         },
-        "mergedPullRequests": 194,
-        "reviews": 455,
+        "mergedPullRequests": 195,
+        "reviews": 457,
         "issuesOpened": 77,
         "pullRequestsOpened": 288
     },
@@ -5755,7 +5755,7 @@
             }
         },
         "mergedPullRequests": 158,
-        "reviews": 852,
+        "reviews": 861,
         "issuesOpened": 19,
         "pullRequestsOpened": 191
     },
@@ -6489,7 +6489,7 @@
         "location": "La Roche sur Yon",
         "bio": null,
         "email_domain": "",
-        "contributions": 465,
+        "contributions": 466,
         "repositories": {
             "PrestaShop": 55,
             "dashproducts": 1,
@@ -6584,9 +6584,9 @@
             }
         },
         "mergedPullRequests": 115,
-        "reviews": 271,
+        "reviews": 278,
         "issuesOpened": 57,
-        "pullRequestsOpened": 161
+        "pullRequestsOpened": 163
     },
     "fatmaBouchekoua": {
         "login": "fatmaBouchekoua",
@@ -7629,7 +7629,7 @@
         "location": "Cel\u00e1 \u010cR",
         "bio": "openservis.cz (hosting) \u00b7 psmoduly.cz\/prestahouse.eu EN (modules) \u00b7 smartmailer.cz (newsletter) \u00b7 trackless.cz (analytics) \u00b7 forga.cz (hosted e-shop)",
         "email_domain": "gmail.com",
-        "contributions": 154,
+        "contributions": 155,
         "repositories": {
             "PrestaShop": 54,
             "autoupgrade": 3,
@@ -7689,7 +7689,7 @@
             }
         },
         "mergedPullRequests": 65,
-        "reviews": 321,
+        "reviews": 328,
         "issuesOpened": 63,
         "pullRequestsOpened": 90
     },
@@ -10375,7 +10375,7 @@
         },
         "mergedPullRequests": 29,
         "reviews": 204,
-        "issuesOpened": 41,
+        "issuesOpened": 42,
         "pullRequestsOpened": 43
     },
     "yannicka": {
@@ -12693,7 +12693,7 @@
             }
         },
         "mergedPullRequests": 20,
-        "reviews": 98,
+        "reviews": 105,
         "issuesOpened": 74,
         "pullRequestsOpened": 25
     },
@@ -16665,6 +16665,76 @@
         "issuesOpened": 8,
         "pullRequestsOpened": 12
     },
+    "boo-code": {
+        "login": "boo-code",
+        "id": 65190196,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65190196?v=4",
+        "html_url": "https:\/\/github.com\/boo-code",
+        "name": "Audrius",
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 5,
+        "repositories": {
+            "PrestaShop": 2,
+            "ps_emailsubscription": 1,
+            "ps_facetedsearch": 1,
+            "hummingbird": 5,
+            "ps_onepagecheckout": 1
+        },
+        "categories": {
+            "core": {
+                "total": 2,
+                "repositories": {
+                    "PrestaShop": 2
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 5,
+                "repositories": {
+                    "hummingbird": 5
+                }
+            },
+            "modules": {
+                "total": 3,
+                "repositories": {
+                    "ps_emailsubscription": 1,
+                    "ps_facetedsearch": 1,
+                    "ps_onepagecheckout": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 10,
+        "reviews": 0,
+        "issuesOpened": 18,
+        "pullRequestsOpened": 123
+    },
     "toutantic": {
         "login": "toutantic",
         "id": 720961,
@@ -20282,76 +20352,6 @@
         "reviews": 0,
         "issuesOpened": 10,
         "pullRequestsOpened": 10
-    },
-    "boo-code": {
-        "login": "boo-code",
-        "id": 65190196,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65190196?v=4",
-        "html_url": "https:\/\/github.com\/boo-code",
-        "name": "Audrius",
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 5,
-        "repositories": {
-            "PrestaShop": 1,
-            "ps_emailsubscription": 1,
-            "ps_facetedsearch": 1,
-            "hummingbird": 2,
-            "ps_onepagecheckout": 1
-        },
-        "categories": {
-            "core": {
-                "total": 1,
-                "repositories": {
-                    "PrestaShop": 1
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 2,
-                "repositories": {
-                    "hummingbird": 2
-                }
-            },
-            "modules": {
-                "total": 3,
-                "repositories": {
-                    "ps_emailsubscription": 1,
-                    "ps_facetedsearch": 1,
-                    "ps_onepagecheckout": 1
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 6,
-        "reviews": 0,
-        "issuesOpened": 18,
-        "pullRequestsOpened": 121
     },
     "tucoinfo": {
         "login": "tucoinfo",
@@ -25208,66 +25208,6 @@
         "issuesOpened": 0,
         "pullRequestsOpened": 3
     },
-    "julvernois": {
-        "login": "julvernois",
-        "id": 12191627,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12191627?v=4",
-        "html_url": "https:\/\/github.com\/julvernois",
-        "name": null,
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 9,
-        "repositories": {
-            "PrestaShop": 3
-        },
-        "categories": {
-            "core": {
-                "total": 3,
-                "repositories": {
-                    "PrestaShop": 3
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        },
-        "mergedPullRequests": 3,
-        "reviews": 0,
-        "issuesOpened": 0,
-        "pullRequestsOpened": 3
-    },
     "BlackKerio": {
         "login": "BlackKerio",
         "id": 45964032,
@@ -25327,6 +25267,66 @@
         "reviews": 0,
         "issuesOpened": 2,
         "pullRequestsOpened": 6
+    },
+    "julvernois": {
+        "login": "julvernois",
+        "id": 12191627,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12191627?v=4",
+        "html_url": "https:\/\/github.com\/julvernois",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 9,
+        "repositories": {
+            "PrestaShop": 3
+        },
+        "categories": {
+            "core": {
+                "total": 3,
+                "repositories": {
+                    "PrestaShop": 3
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        },
+        "mergedPullRequests": 3,
+        "reviews": 0,
+        "issuesOpened": 0,
+        "pullRequestsOpened": 3
     },
     "mrkalchemy": {
         "login": "mrkalchemy",
@@ -34802,16 +34802,16 @@
         "issuesOpened": 0,
         "pullRequestsOpened": 2
     },
-    "NMAC427": {
-        "login": "NMAC427",
-        "id": 9914734,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9914734?v=4",
-        "html_url": "https:\/\/github.com\/NMAC427",
-        "name": "Nicolas Camenisch",
+    "sashashura": {
+        "login": "sashashura",
+        "id": 93376818,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/93376818?v=4",
+        "html_url": "https:\/\/github.com\/sashashura",
+        "name": "Alex",
         "company": null,
         "blog": "",
-        "location": "AG, Switzerland",
-        "bio": "CS Student @ MIT '25  |  iOS & Android Developer",
+        "location": null,
+        "bio": null,
         "email_domain": "gmail.com",
         "contributions": 8,
         "repositories": {
@@ -34862,16 +34862,16 @@
         "issuesOpened": 0,
         "pullRequestsOpened": 1
     },
-    "sashashura": {
-        "login": "sashashura",
-        "id": 93376818,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/93376818?v=4",
-        "html_url": "https:\/\/github.com\/sashashura",
-        "name": "Alex",
+    "NMAC427": {
+        "login": "NMAC427",
+        "id": 9914734,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9914734?v=4",
+        "html_url": "https:\/\/github.com\/NMAC427",
+        "name": "Nicolas Camenisch",
         "company": null,
         "blog": "",
-        "location": null,
-        "bio": null,
+        "location": "AG, Switzerland",
+        "bio": "CS Student @ MIT '25  |  iOS & Android Developer",
         "email_domain": "gmail.com",
         "contributions": 8,
         "repositories": {
