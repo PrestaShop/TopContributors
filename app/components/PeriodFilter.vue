@@ -54,7 +54,10 @@ function onKey(e: KeyboardEvent): void {
 
 <style scoped>
 .wof-period-filter { display: inline-flex; gap: 0.25rem; padding: 0.25rem; background: #ececf5; border-radius: 999px; }
-.wof-period-filter__btn { padding: 0.4rem 0.9rem; border: 0; border-radius: 999px; background: transparent; cursor: pointer; font: inherit; }
+.wof-period-filter__btn { padding: 0.4rem 0.75rem; border: 0; border-radius: 999px; background: transparent; cursor: pointer; font: inherit; white-space: nowrap; }
 .wof-period-filter__btn--active { background: #1d1d1b; color: #fff; }
 .wof-period-filter__btn:focus-visible { outline: 2px solid #6366f1; outline-offset: 2px; }
+@media (min-width: 768px) {
+  .wof-period-filter__btn { padding: 0.4rem 0.9rem; }
+}
 </style>
