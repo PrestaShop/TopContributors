@@ -40,7 +40,7 @@ const data = computed(() => ({
   labels: years.value,
   datasets: [
     {
-      label: 'PR mergés',
+      label: 'Merged PRs',
       data: years.value.map(y => props.series.mergedPullRequests[y] ?? 0),
       backgroundColor: years.value.map(y => color('#6366f1', isActive(y))),
     },
@@ -65,7 +65,7 @@ const data = computed(() => ({
     data-detail-section
   >
     <h3 class="puik-h3">
-      Contributions par année
+      Contributions per year
     </h3>
     <div class="wof-detail-yearly__canvas">
       <Bar
@@ -78,7 +78,7 @@ const data = computed(() => ({
             y: { stacked: true, beginAtZero: true },
           },
         }"
-        aria-label="Contributions par année (mergés, reviews, issues)"
+        aria-label="Contributions per year (merged, reviews, issues)"
       />
     </div>
   </div>

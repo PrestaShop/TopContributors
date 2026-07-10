@@ -42,7 +42,7 @@ const canvasHeight = computed(() => `${Math.max(200, props.topRepos.length * 28)
           maintainAspectRatio: false,
           plugins: { legend: { display: false } },
         }"
-        aria-label="Top repositories par contributions sur la période"
+        aria-label="Top repositories by contributions in the selected period"
       />
     </div>
   </div>

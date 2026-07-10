@@ -23,7 +23,7 @@ const data = computed(() => ({
     data-detail-section
   >
     <h3 class="puik-h3">
-      Répartition des PR
+      PR breakdown
     </h3>
     <div class="wof-detail-donut__canvas">
       <Doughnut
@@ -33,7 +33,7 @@ const data = computed(() => ({
           responsive: true,
           maintainAspectRatio: false,
         }"
-        aria-label="Répartition des PR mergés"
+        aria-label="Merged vs not-merged PRs"
       />
     </div>
   </div>

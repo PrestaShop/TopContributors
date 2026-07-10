@@ -35,7 +35,7 @@ watch(years, (ys) => {
     data-detail-section
   >
     <h3 class="puik-h3">
-      Détail par année
+      Year drilldown
     </h3>
     <div
       class="wof-detail-year-tabs__tabs"
@@ -59,7 +59,7 @@ watch(years, (ys) => {
     >
       <div class="wof-detail-year-tabs__kpi">
         <strong>{{ series.mergedPullRequests[selectedYear] ?? 0 }}</strong>
-        PR mergés
+        Merged PRs
       </div>
       <div class="wof-detail-year-tabs__kpi">
         <strong>{{ series.reviews[selectedYear] ?? 0 }}</strong>

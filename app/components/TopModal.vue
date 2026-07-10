@@ -173,7 +173,7 @@ const selectCategory = (category: string) => {
           class="puik-button puik-button--secondary wof-top-modal__see-full-page"
           @click="close"
         >
-          Voir la page complète →
+          View full page →
         </NuxtLink>
         <puik-button
           class="wof-top-modal__copy-link-button"

@@ -3,7 +3,7 @@
     class="wof-fallback-banner"
     role="status"
   >
-    ⚠️ Filtrage par période limité — les données horodatées seront disponibles au prochain rafraîchissement.
+    ⚠️ Period filter has no effect on this dataset — timestamped data will be available on the next refresh.
   </div>
 </template>
 

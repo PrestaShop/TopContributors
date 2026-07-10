@@ -81,12 +81,13 @@ const handleSort = (payload: sortOption) => {
     data-detail-section
   >
     <h3 class="puik-h3">
-      Tous les repositories
+      All repositories
     </h3>
     <puik-table
       :headers="headers"
       :search-bar="true"
       :items="itemsRef"
+      :full-width="true"
       :search-from-server="true"
       :sort-from-server="true"
       @search-submit="handleSearchSubmit"

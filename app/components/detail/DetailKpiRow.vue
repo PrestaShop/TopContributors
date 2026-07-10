@@ -12,16 +12,16 @@ defineProps<{ vm: EntityDetailVM, yearsActive: number }>()
   >
     <div class="wof-detail-kpi">
       <strong>{{ vm.kpis.mergedPr }}</strong>
-      <span>PR mergés</span>
+      <span>Merged PRs</span>
     </div>
-    <!-- PR ouverts / Merge rate: contributors only. For companies, openedPr === mergedPr
+    <!-- Opened PRs / Merge rate: contributors only. For companies, openedPr === mergedPr
          (see useEntityDetail.ts) so the merge rate would always show 100%, misleading. -->
     <div
       v-if="vm.entityType === 'contributor'"
       class="wof-detail-kpi"
     >
       <strong>{{ vm.kpis.openedPr }}</strong>
-      <span>PR ouverts</span>
+      <span>Opened PRs</span>
     </div>
     <div
       v-if="vm.entityType === 'contributor'"
@@ -35,7 +35,7 @@ defineProps<{ vm: EntityDetailVM, yearsActive: number }>()
       class="wof-detail-kpi"
     >
       <strong>{{ vm.members.length }}</strong>
-      <span>Contributeurs</span>
+      <span>Contributors</span>
     </div>
     <div class="wof-detail-kpi">
       <strong>{{ vm.kpis.reviews }}</strong>
@@ -47,7 +47,7 @@ defineProps<{ vm: EntityDetailVM, yearsActive: number }>()
     </div>
     <div class="wof-detail-kpi">
       <strong>{{ yearsActive }}</strong>
-      <span>Années actives</span>
+      <span>Years active</span>
     </div>
   </div>
 </template>
