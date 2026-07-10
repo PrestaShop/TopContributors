@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-07-10",
+    "updatedAt": "2026-07-10T13:43:44+00:00",
     "items": [
         {
             "rank": 1,
@@ -8,8 +8,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1784781?v=4",
             "html_url": "https:\/\/github.com\/matthieu-rolland",
             "count": 4,
+            "countByYear": {
+                "2024": 4
+            },
             "research": 0,
-            "remediation": 4
+            "researchByYear": [],
+            "remediation": 4,
+            "remediationByYear": {
+                "2024": 4
+            }
         },
         {
             "rank": 2,
@@ -18,8 +25,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3830050?v=4",
             "html_url": "https:\/\/github.com\/matks",
             "count": 3,
+            "countByYear": {
+                "2024": 3
+            },
             "research": 0,
-            "remediation": 3
+            "researchByYear": [],
+            "remediation": 3,
+            "remediationByYear": {
+                "2024": 3
+            }
         },
         {
             "rank": 3,
@@ -28,8 +42,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/100699445?v=4",
             "html_url": "https:\/\/github.com\/AureRita",
             "count": 2,
+            "countByYear": {
+                "2024": 2
+            },
             "research": 0,
-            "remediation": 2
+            "researchByYear": [],
+            "remediation": 2,
+            "remediationByYear": {
+                "2024": 2
+            }
         },
         {
             "rank": 4,
@@ -38,8 +59,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/18699562?v=4",
             "html_url": "https:\/\/github.com\/boherm",
             "count": 2,
+            "countByYear": {
+                "2024": 2
+            },
             "research": 0,
-            "remediation": 2
+            "researchByYear": [],
+            "remediation": 2,
+            "remediationByYear": {
+                "2024": 2
+            }
         },
         {
             "rank": 5,
@@ -48,8 +76,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/11923821?v=4",
             "html_url": "https:\/\/github.com\/kto94",
             "count": 2,
+            "countByYear": {
+                "2023": 2
+            },
             "research": 2,
-            "remediation": 0
+            "researchByYear": {
+                "2023": 2
+            },
+            "remediation": 0,
+            "remediationByYear": []
         },
         {
             "rank": 6,
@@ -58,8 +93,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/59821216?v=4",
             "html_url": "https:\/\/github.com\/mikakulmala",
             "count": 2,
+            "countByYear": {
+                "2020": 2
+            },
             "research": 2,
-            "remediation": 0
+            "researchByYear": {
+                "2020": 2
+            },
+            "remediation": 0,
+            "remediationByYear": []
         },
         {
             "rank": 7,
@@ -68,8 +110,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8724996?v=4",
             "html_url": "https:\/\/github.com\/truff77",
             "count": 2,
+            "countByYear": {
+                "2023": 2
+            },
             "research": 2,
-            "remediation": 0
+            "researchByYear": {
+                "2023": 2
+            },
+            "remediation": 0,
+            "remediationByYear": []
         },
         {
             "rank": 8,
@@ -78,8 +127,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/33612375?v=4",
             "html_url": "https:\/\/github.com\/0xB9",
             "count": 1,
+            "countByYear": {
+                "2021": 1
+            },
             "research": 1,
-            "remediation": 0
+            "researchByYear": {
+                "2021": 1
+            },
+            "remediation": 0,
+            "remediationByYear": []
         },
         {
             "rank": 9,
@@ -88,8 +144,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/60340419?v=4",
             "html_url": "https:\/\/github.com\/0xfadam",
             "count": 1,
+            "countByYear": {
+                "2020": 1
+            },
             "research": 1,
-            "remediation": 0
+            "researchByYear": {
+                "2020": 1
+            },
+            "remediation": 0,
+            "remediationByYear": []
         },
         {
             "rank": 10,
@@ -98,8 +161,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/54741970?v=4",
             "html_url": "https:\/\/github.com\/Antonio-R1",
             "count": 1,
+            "countByYear": {
+                "2024": 1
+            },
             "research": 1,
-            "remediation": 0
+            "researchByYear": {
+                "2024": 1
+            },
+            "remediation": 0,
+            "remediationByYear": []
         },
         {
             "rank": 11,
@@ -108,8 +178,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/68474266?v=4",
             "html_url": "https:\/\/github.com\/Brum3ns",
             "count": 1,
+            "countByYear": {
+                "2022": 1
+            },
             "research": 1,
-            "remediation": 0
+            "researchByYear": {
+                "2022": 1
+            },
+            "remediation": 0,
+            "remediationByYear": []
         },
         {
             "rank": 12,
@@ -118,8 +195,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1462701?v=4",
             "html_url": "https:\/\/github.com\/PierreRambaud",
             "count": 1,
+            "countByYear": {
+                "2021": 1
+            },
             "research": 1,
-            "remediation": 0
+            "researchByYear": {
+                "2021": 1
+            },
+            "remediation": 0,
+            "remediationByYear": []
         },
         {
             "rank": 13,
@@ -128,8 +212,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/66908023?v=4",
             "html_url": "https:\/\/github.com\/aelmokhtar",
             "count": 1,
+            "countByYear": {
+                "2024": 1
+            },
             "research": 1,
-            "remediation": 0
+            "researchByYear": {
+                "2024": 1
+            },
+            "remediation": 0,
+            "remediationByYear": []
         },
         {
             "rank": 14,
@@ -138,8 +229,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/44066875?v=4",
             "html_url": "https:\/\/github.com\/antoniospataro",
             "count": 1,
+            "countByYear": {
+                "2024": 1
+            },
             "research": 1,
-            "remediation": 0
+            "researchByYear": {
+                "2024": 1
+            },
+            "remediation": 0,
+            "remediationByYear": []
         },
         {
             "rank": 15,
@@ -148,8 +246,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/55196959?v=4",
             "html_url": "https:\/\/github.com\/creagenic",
             "count": 1,
+            "countByYear": {
+                "2021": 1
+            },
             "research": 1,
-            "remediation": 0
+            "researchByYear": {
+                "2021": 1
+            },
+            "remediation": 0,
+            "remediationByYear": []
         },
         {
             "rank": 16,
@@ -158,8 +263,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14847611?v=4",
             "html_url": "https:\/\/github.com\/hachh",
             "count": 1,
+            "countByYear": {
+                "2020": 1
+            },
             "research": 1,
-            "remediation": 0
+            "researchByYear": {
+                "2020": 1
+            },
+            "remediation": 0,
+            "remediationByYear": []
         },
         {
             "rank": 17,
@@ -168,8 +280,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20736458?v=4",
             "html_url": "https:\/\/github.com\/haidv35",
             "count": 1,
+            "countByYear": {
+                "2022": 1
+            },
             "research": 1,
-            "remediation": 0
+            "researchByYear": {
+                "2022": 1
+            },
+            "remediation": 0,
+            "remediationByYear": []
         },
         {
             "rank": 18,
@@ -178,8 +297,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/28593328?v=4",
             "html_url": "https:\/\/github.com\/hugo-fasone",
             "count": 1,
+            "countByYear": {
+                "2024": 1
+            },
             "research": 0,
-            "remediation": 1
+            "researchByYear": [],
+            "remediation": 1,
+            "remediationByYear": {
+                "2024": 1
+            }
         },
         {
             "rank": 19,
@@ -188,8 +314,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/25012489?v=4",
             "html_url": "https:\/\/github.com\/komradz86",
             "count": 1,
+            "countByYear": {
+                "2020": 1
+            },
             "research": 1,
-            "remediation": 0
+            "researchByYear": {
+                "2020": 1
+            },
+            "remediation": 0,
+            "remediationByYear": []
         },
         {
             "rank": 20,
@@ -198,8 +331,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/43940126?v=4",
             "html_url": "https:\/\/github.com\/my3ker",
             "count": 1,
+            "countByYear": {
+                "2020": 1
+            },
             "research": 1,
-            "remediation": 0
+            "researchByYear": {
+                "2020": 1
+            },
+            "remediation": 0,
+            "remediationByYear": []
         },
         {
             "rank": 21,
@@ -208,8 +348,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/121870?v=4",
             "html_url": "https:\/\/github.com\/nicosomb",
             "count": 1,
+            "countByYear": {
+                "2024": 1
+            },
             "research": 0,
-            "remediation": 1
+            "researchByYear": [],
+            "remediation": 1,
+            "remediationByYear": {
+                "2024": 1
+            }
         },
         {
             "rank": 22,
@@ -218,8 +365,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/29351179?v=4",
             "html_url": "https:\/\/github.com\/r00tpgp",
             "count": 1,
+            "countByYear": {
+                "2020": 1
+            },
             "research": 1,
-            "remediation": 0
+            "researchByYear": {
+                "2020": 1
+            },
+            "remediation": 0,
+            "remediationByYear": []
         },
         {
             "rank": 23,
@@ -228,8 +382,15 @@
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3832141?v=4",
             "html_url": "https:\/\/github.com\/timactive",
             "count": 1,
+            "countByYear": {
+                "2020": 1
+            },
             "research": 1,
-            "remediation": 0
+            "researchByYear": {
+                "2020": 1
+            },
+            "remediation": 0,
+            "remediationByYear": []
         }
     ]
 }
