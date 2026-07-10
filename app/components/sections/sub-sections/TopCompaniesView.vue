@@ -124,19 +124,33 @@ const decoratedItems = computed(() =>
       </div>
     </template>
     <template #item-actions="{ item }">
-      <a
-        :href="item.html_url"
-        target="_blank"
-        aria-label="view profile"
-        rel="noopener noreferrer"
-      >
-        <puik-button
-          variant="text"
-          force-legacy-text-variant
-          right-icon="visibility"
-          aria-label="view profile icon"
-        />
-      </a>
+      <div class="wof-top-actions">
+        <a
+          :href="item.html_url as string"
+          target="_blank"
+          aria-label="Open company page in a new tab"
+          rel="noopener noreferrer"
+        >
+          <puik-button
+            variant="text"
+            force-legacy-text-variant
+            right-icon="open_in_new"
+            aria-label="Open company page in a new tab"
+          />
+        </a>
+        <NuxtLink
+          v-if="item.slug"
+          :to="`/company/${(item.slug as string).toLowerCase()}`"
+          aria-label="View company detail"
+        >
+          <puik-button
+            variant="text"
+            force-legacy-text-variant
+            right-icon="insights"
+            aria-label="View company detail"
+          />
+        </NuxtLink>
+      </div>
     </template>
   </TopCard>
 </template>

@@ -101,19 +101,33 @@ const fullWidth = ref(true)
     </template>
 
     <template #item-actions="{ item }">
-      <a
-        :href="item.html_url"
-        target="_blank"
-        aria-label="view profile"
-        rel="noopener noreferrer"
-      >
-        <puik-button
-          variant="text"
-          force-legacy-text-variant
-          right-icon="visibility"
-          aria-label="view profile icon"
-        />
-      </a>
+      <div class="wof-top-actions">
+        <a
+          :href="item.html_url"
+          target="_blank"
+          aria-label="Open GitHub profile in a new tab"
+          rel="noopener noreferrer"
+        >
+          <puik-button
+            variant="text"
+            force-legacy-text-variant
+            right-icon="open_in_new"
+            aria-label="Open GitHub profile in a new tab"
+          />
+        </a>
+        <NuxtLink
+          v-if="item.login"
+          :to="`/contributor/${(item.login as string).toLowerCase()}`"
+          aria-label="View contributor detail"
+        >
+          <puik-button
+            variant="text"
+            force-legacy-text-variant
+            right-icon="insights"
+            aria-label="View contributor detail"
+          />
+        </NuxtLink>
+      </div>
     </template>
   </TopCard>
 </template>

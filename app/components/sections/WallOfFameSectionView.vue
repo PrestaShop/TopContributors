@@ -5,8 +5,6 @@ import { usePeriod } from '@/composables/usePeriod'
 import { pairCounter, sumCounter } from '@/composables/useCounter'
 import type { Company, Contributor, RankingEntry } from '@/types'
 
-type TableItem = Contributor | Company
-
 const props = defineProps<{
   contributorsData: Contributor[]
   companiesData: Company[]
@@ -141,18 +139,10 @@ const securityHeaders: PuikTableHeader[] = [
   { value: 'actions', size: 'sm', align: 'center', preventExpand: true, searchSubmit: true },
 ]
 
-const { currentContributor, isModalOpen, openModal, closeModal }
-  = useContributorModalRouter(decoratedContributors)
-
-const isContributor = (item: TableItem): item is Contributor => {
-  return 'id' in item && 'mergedPullRequests' in item
-}
-
-const handleContributorAction = (item: TableItem) => {
-  if (isContributor(item)) {
-    openModal(item)
-  }
-}
+// useContributorModalRouter still runs to redirect legacy `?contributor=login`
+// URLs to the detail route (see composable). We don't wire the modal here
+// anymore — the action column links straight to `/contributor/:login`.
+useContributorModalRouter(decoratedContributors)
 </script>
 
 <template>
@@ -201,13 +191,6 @@ const handleContributorAction = (item: TableItem) => {
             :items="decoratedContributors"
             :headers="contributorsHeaders"
             type="contributor"
-            @action-click="handleContributorAction"
-          />
-          <TopModal
-            v-if="currentContributor"
-            :contributor="currentContributor"
-            :is-open="isModalOpen"
-            @close="closeModal"
           />
         </puik-tab-navigation-panel>
         <puik-tab-navigation-panel :position="2">

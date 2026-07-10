@@ -24,6 +24,13 @@ providePeriod()
   flex-direction: column;
   gap: var(--wof-section-gap);
 }
+
+/* Multi-icon actions cell used in ranking / contributors / companies tables. */
+.wof-top-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
 @media (min-width: 768px) {
   .wof-section {
     padding: var(--wof-section-padding-lg);

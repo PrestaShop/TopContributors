@@ -129,13 +129,32 @@ const { currentContributor, isModalOpen, openModal, closeModal } = useContributo
     </template>
 
     <template #item-actions="{ item }">
-      <puik-button
-        variant="text"
-        force-legacy-text-variant
-        right-icon="visibility"
-        aria-label="view profile"
-        @click="openModal(item)"
-      />
+      <div class="wof-top-actions">
+        <a
+          :href="item.html_url as string"
+          target="_blank"
+          aria-label="Open GitHub profile in a new tab"
+          rel="noopener noreferrer"
+        >
+          <puik-button
+            variant="text"
+            force-legacy-text-variant
+            right-icon="open_in_new"
+            aria-label="Open GitHub profile in a new tab"
+          />
+        </a>
+        <NuxtLink
+          :to="`/contributor/${(item.login as string).toLowerCase()}`"
+          aria-label="View contributor detail"
+        >
+          <puik-button
+            variant="text"
+            force-legacy-text-variant
+            right-icon="insights"
+            aria-label="View contributor detail"
+          />
+        </NuxtLink>
+      </div>
     </template>
   </TopCard>
 
