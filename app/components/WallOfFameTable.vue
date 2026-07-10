@@ -13,10 +13,6 @@ const props = defineProps<{
   type: TableType
 }>()
 
-const emit = defineEmits<{
-  (e: 'action-click', item: TableItem): void
-}>()
-
 const stickyLastCol = ref(false)
 const fullWidth = ref(true)
 
@@ -129,10 +125,6 @@ watch(
   },
   { immediate: true },
 )
-
-const handleActionClick = (item: TableItem) => {
-  emit('action-click', item)
-}
 
 const isContributor = (_item: TableItem): _item is Contributor => {
   return props.type === 'contributor'
@@ -259,31 +251,49 @@ const isRanking = (item: TableItem): item is RankingEntry => {
       </template>
 
       <template #item-actions="{ item }">
-        <!-- Contributor actions: button that emits event -->
-        <puik-button
-          v-if="type === 'contributor'"
-          variant="text"
-          force-legacy-text-variant
-          right-icon="visibility"
-          aria-label="view profile"
-          @click="handleActionClick(item)"
-        />
-
-        <!-- Company / ranking actions: link to GitHub -->
-        <a
-          v-else-if="type === 'company' || type === 'ranking'"
-          :href="item.html_url"
-          target="_blank"
-          aria-label="view profile"
-          rel="noopener noreferrer"
-        >
-          <puik-button
-            variant="text"
-            force-legacy-text-variant
-            right-icon="visibility"
-            aria-label="view profile icon"
-          />
-        </a>
+        <div class="wof-top-actions">
+          <!-- External link: GitHub profile (contributor / ranking) or company page. -->
+          <a
+            v-if="(item as { html_url?: string }).html_url"
+            :href="(item as { html_url: string }).html_url"
+            target="_blank"
+            :aria-label="type === 'company' ? 'Open company page in a new tab' : 'Open GitHub profile in a new tab'"
+            rel="noopener noreferrer"
+          >
+            <puik-button
+              variant="text"
+              force-legacy-text-variant
+              right-icon="open_in_new"
+              :aria-label="type === 'company' ? 'Open company page in a new tab' : 'Open GitHub profile in a new tab'"
+            />
+          </a>
+          <!-- Details link → internal detail route. Contributors + rankings resolve
+               by lowercase login; companies by slug when present. -->
+          <NuxtLink
+            v-if="type === 'company' && (item as { slug?: string }).slug"
+            :to="`/company/${((item as { slug: string }).slug).toLowerCase()}`"
+            aria-label="View company detail"
+          >
+            <puik-button
+              variant="text"
+              force-legacy-text-variant
+              right-icon="insights"
+              aria-label="View company detail"
+            />
+          </NuxtLink>
+          <NuxtLink
+            v-else-if="type !== 'company' && (item as { login?: string }).login"
+            :to="`/contributor/${((item as { login: string }).login).toLowerCase()}`"
+            aria-label="View contributor detail"
+          >
+            <puik-button
+              variant="text"
+              force-legacy-text-variant
+              right-icon="insights"
+              aria-label="View contributor detail"
+            />
+          </NuxtLink>
+        </div>
       </template>
     </puik-table>
 

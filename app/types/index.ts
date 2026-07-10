@@ -6,6 +6,11 @@ export interface Company {
   avatar_url: string
   html_url: string
   login?: string
+  slug?: string
+  contributors?: string[]
+  merged_pull_requests_by_year?: Record<string, number>
+  contributions?: number
+  contributions_by_year?: Record<string, number>
   [key: string]: unknown
 }
 
@@ -34,6 +39,11 @@ export interface Contributor {
   reviews?: number
   issuesOpened?: number
   pullRequestsOpened?: number
+  mergedPullRequestsByYear?: Record<string, number>
+  pullRequestsOpenedByYear?: Record<string, number>
+  reviewsByYear?: Record<string, number>
+  issuesOpenedByYear?: Record<string, number>
+  repositoriesByYear?: Record<string, Record<string, number>>
   [key: string]: unknown
 }
 
@@ -64,3 +74,10 @@ export interface Ranking {
   updatedAt: string
   items: RankingEntry[]
 }
+
+export type Counter = number | { total: number, byYear?: Record<string, number> }
+
+export type Period
+  = | { kind: 'sinceStart' }
+    | { kind: 'lastYear' }
+    | { kind: 'lastNYears', n: number }

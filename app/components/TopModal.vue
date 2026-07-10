@@ -168,6 +168,13 @@ const selectCategory = (category: string) => {
       </div>
 
       <div class="wof-top-modal__main-content">
+        <NuxtLink
+          :to="`/contributor/${contributor.login}`"
+          class="puik-button puik-button--secondary wof-top-modal__see-full-page"
+          @click="close"
+        >
+          View full page →
+        </NuxtLink>
         <puik-button
           class="wof-top-modal__copy-link-button"
           variant="secondary"
@@ -370,6 +377,13 @@ const selectCategory = (category: string) => {
 }
 .wof-top-modal__copy-link-button span {
   margin-right: auto;
+}
+.wof-top-modal__see-full-page {
+  position: absolute;
+  right: calc(var(--wof-padding-modal) + 92px + 0.5rem);
+  transform: translateY(50%);
+  z-index: 2;
+  text-decoration: none;
 }
 .wof-top-modal__categories {
   display: grid;
