@@ -45,7 +45,17 @@ watchEffect(async () => {
 
 const vm = useEntityDetail(contributor, period, updatedYear)
 const yearsActive = computed(() => Object.keys(vm.value?.yearlySeries.mergedPullRequests ?? {}).length)
-const isLegacyData = computed(() => contributor.value?.mergedPullRequestsByYear === undefined)
+const isLegacyData = computed(() => {
+  const c = contributor.value
+  if (!c) return false
+  // Fresh data if ANY tracked dimension carries a byYear map. A contributor
+  // with zero activity in one dimension may lack that specific map, so we
+  // check them all rather than picking one arbitrarily.
+  return c.mergedPullRequestsByYear === undefined
+    && c.pullRequestsOpenedByYear === undefined
+    && c.reviewsByYear === undefined
+    && c.issuesOpenedByYear === undefined
+})
 
 useHead(() => ({
   title: contributor.value?.name || contributor.value?.login || 'Contributor',

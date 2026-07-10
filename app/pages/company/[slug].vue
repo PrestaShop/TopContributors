@@ -33,7 +33,12 @@ watchEffect(async () => {
 
 const vm = useEntityDetail(company, period, updatedYear)
 const yearsActive = computed(() => Object.keys(vm.value?.yearlySeries.mergedPullRequests ?? {}).length)
-const isLegacyData = computed(() => company.value?.merged_pull_requests_by_year === undefined)
+const isLegacyData = computed(() => {
+  const c = company.value
+  if (!c) return false
+  return c.merged_pull_requests_by_year === undefined
+    && c.contributions_by_year === undefined
+})
 
 useHead(() => ({
   title: company.value?.name || 'Company',
