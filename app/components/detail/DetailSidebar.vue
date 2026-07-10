@@ -11,21 +11,51 @@ defineProps<{
 }>()
 
 const activeId = ref('')
-let observer: IntersectionObserver | null = null
+let scrollHandler: (() => void) | null = null
 
+// Canonical scroll-spy: the active section is the last one whose top edge
+// has scrolled past a fixed offset from the top of the viewport (25%).
+// Simpler and more reliable than IntersectionObserver ratio-based approaches,
+// which favour tall sections that fill the viewport even after they scroll past.
 onMounted(() => {
-  if (typeof window === 'undefined' || typeof IntersectionObserver === 'undefined') return
-  observer = new IntersectionObserver((entries) => {
-    const visible = entries
-      .filter(e => e.isIntersecting)
-      .sort((a, b) => b.intersectionRatio - a.intersectionRatio)
-    if (visible[0]) activeId.value = visible[0].target.id
-  }, { rootMargin: '-40% 0px -40% 0px', threshold: [0, 0.5, 1] })
+  if (typeof window === 'undefined') return
 
-  document.querySelectorAll<HTMLElement>('[data-detail-section]').forEach(el => observer!.observe(el))
+  const OFFSET_RATIO = 0.25
+
+  const updateActive = () => {
+    const sections = Array.from(document.querySelectorAll<HTMLElement>('[data-detail-section]'))
+    if (sections.length === 0) return
+    const trigger = window.innerHeight * OFFSET_RATIO
+    let active = sections[0].id
+    let activeTop = -Infinity
+    for (const s of sections) {
+      const top = s.getBoundingClientRect().top
+      if (top - trigger > 0) break
+      // Only overwrite when this section is meaningfully BELOW the current active.
+      // Prevents sibling sections in the same row (e.g. yearly chart + PR donut
+      // in a two-column grid) from stealing focus from each other — they share
+      // the same top, so we stick with the first one encountered in DOM order.
+      if (top - activeTop > 20) {
+        active = s.id
+        activeTop = top
+      }
+    }
+    activeId.value = active
+  }
+
+  scrollHandler = () => window.requestAnimationFrame(updateActive)
+  window.addEventListener('scroll', scrollHandler, { passive: true })
+  window.addEventListener('resize', scrollHandler, { passive: true })
+  // Initial state after mount + a tick so sections have laid out.
+  window.setTimeout(updateActive, 50)
 })
 
-onUnmounted(() => observer?.disconnect())
+onUnmounted(() => {
+  if (scrollHandler) {
+    window.removeEventListener('scroll', scrollHandler)
+    window.removeEventListener('resize', scrollHandler)
+  }
+})
 </script>
 
 <template>

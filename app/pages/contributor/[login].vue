@@ -18,13 +18,27 @@ watchEffect(async () => {
     if (!res.ok) throw new Error(String(res.status))
     const data = await res.json()
     if (data.updatedAt) updatedYear.value = new Date(data.updatedAt).getUTCFullYear()
-    const c = data[login] as Contributor | undefined
+    // Case-insensitive lookup: GitHub logins preserve case in the JSON keys but
+    // are case-insensitive at the API level, so accept any casing in the URL.
+    let c = data[login] as Contributor | undefined
+    if (!c) {
+      const lower = login.toLowerCase()
+      const matchKey = Object.keys(data).find(k => k.toLowerCase() === lower)
+      if (matchKey) c = data[matchKey] as Contributor
+    }
     contributor.value = (c && typeof c === 'object' && 'login' in c) ? c : null
-    if (!contributor.value) loadError.value = `Contributeur "${login}" introuvable.`
-    else loadError.value = null
+    if (!contributor.value) loadError.value = `Contributor "${login}" not found.`
+    else {
+      loadError.value = null
+      // Canonicalise URL to lowercase login. Uses replace() so it doesn't leave
+      // a history entry, then the back button still lands on the previous page.
+      if (import.meta.client && login !== login.toLowerCase()) {
+        useRouter().replace(`/contributor/${login.toLowerCase()}`)
+      }
+    }
   }
   catch (e) {
-    loadError.value = 'Erreur de chargement des données.'
+    loadError.value = 'Failed to load data.'
     console.error(e)
   }
 })
@@ -34,18 +48,25 @@ const yearsActive = computed(() => Object.keys(vm.value?.yearlySeries.mergedPull
 const isLegacyData = computed(() => contributor.value?.mergedPullRequestsByYear === undefined)
 
 useHead(() => ({
-  title: contributor.value?.name || contributor.value?.login || 'Contributeur',
+  title: contributor.value?.name || contributor.value?.login || 'Contributor',
   link: [{
     rel: 'canonical',
-    href: `https://contributors.prestashop-project.org/contributor/${route.params.login}`,
+    href: `https://contributors.prestashop-project.org/contributor/${contributor.value?.login ?? route.params.login}`,
   }],
 }))
 </script>
 
 <template>
   <div>
-    <div class="wof-period-filter-wrapper">
+    <div class="wof-detail-topbar">
+      <NuxtLink
+        to="/"
+        class="wof-detail-back"
+      >
+        ← Back to all contributors
+      </NuxtLink>
       <PeriodFilter />
+      <span class="wof-detail-topbar__spacer" />
     </div>
     <PeriodFallbackBanner v-if="isLegacyData && contributor" />
 
@@ -62,12 +83,12 @@ useHead(() => ({
             ...(contributor.blog ? [{ icon: 'desktop_mac', label: 'Website', value: contributor.blog, href: contributor.blog }] : []),
           ]"
           :sections="[
-            { id: 'section-kpis', label: `Vue d'ensemble` },
-            { id: 'section-yearly', label: 'Contributions par année' },
-            { id: 'section-donut', label: 'Répartition des PR' },
+            { id: 'section-kpis', label: 'Overview' },
+            { id: 'section-yearly', label: 'Contributions per year' },
+            { id: 'section-donut', label: 'PR breakdown' },
             { id: 'section-top-repos', label: 'Top repositories' },
-            { id: 'section-year-detail', label: 'Détail par année' },
-            { id: 'section-repos-table', label: 'Tous les repos' },
+            { id: 'section-year-detail', label: 'Year drilldown' },
+            { id: 'section-repos-table', label: 'All repos' },
           ]"
         />
       </template>
@@ -99,18 +120,35 @@ useHead(() => ({
     >
       <p>{{ loadError }}</p>
       <NuxtLink to="/">
-        Retour à l'accueil
+        Back to home
       </NuxtLink>
     </div>
   </div>
 </template>
 
 <style scoped>
-.wof-period-filter-wrapper {
-  display: flex;
-  justify-content: center;
+.wof-detail-topbar {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 1rem;
   padding: 1rem;
   background: #1d1d1b;
+}
+.wof-detail-back {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.08);
+  justify-self: start;
+}
+.wof-detail-back:hover {
+  background: rgba(255, 255, 255, 0.18);
+}
+.wof-detail-topbar__spacer {
+  justify-self: end;
 }
 .wof-detail-two-col {
   display: grid;

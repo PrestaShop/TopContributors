@@ -3,7 +3,7 @@ import 'vue3-carousel/carousel.css'
 
 import { ref, computed, onMounted } from 'vue'
 import { usePeriod } from '@/composables/usePeriod'
-import { sumCounter, pairCounter } from '@/composables/useCounter'
+import { pairCounter, sumCounter } from '@/composables/useCounter'
 import type { Company, Contributor, NewContributor, RankingEntry, Counter } from '@/types'
 
 const period = usePeriod()

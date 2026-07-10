@@ -18,13 +18,15 @@ watchEffect(async () => {
     if (!res.ok) throw new Error(String(res.status))
     const data = await res.json()
     if (data.updatedAt) updatedYear.value = new Date(data.updatedAt).getUTCFullYear()
-    const c = (data.companies ?? []).find((cc: Company) => cc.slug === slug)
+    // Case-insensitive slug match.
+    const lower = slug.toLowerCase()
+    const c = (data.companies ?? []).find((cc: Company) => cc.slug?.toLowerCase() === lower)
     company.value = c ?? null
-    if (!company.value) loadError.value = `Société "${slug}" introuvable.`
+    if (!company.value) loadError.value = `Company "${slug}" not found.`
     else loadError.value = null
   }
   catch (e) {
-    loadError.value = 'Erreur de chargement des données.'
+    loadError.value = 'Failed to load data.'
     console.error(e)
   }
 })
@@ -34,18 +36,25 @@ const yearsActive = computed(() => Object.keys(vm.value?.yearlySeries.mergedPull
 const isLegacyData = computed(() => company.value?.merged_pull_requests_by_year === undefined)
 
 useHead(() => ({
-  title: company.value?.name || 'Société',
+  title: company.value?.name || 'Company',
   link: [{
     rel: 'canonical',
-    href: `https://contributors.prestashop-project.org/company/${route.params.slug}`,
+    href: `https://contributors.prestashop-project.org/company/${company.value?.slug ?? route.params.slug}`,
   }],
 }))
 </script>
 
 <template>
   <div>
-    <div class="wof-period-filter-wrapper">
+    <div class="wof-detail-topbar">
+      <NuxtLink
+        to="/"
+        class="wof-detail-back"
+      >
+        ← Back to all contributors
+      </NuxtLink>
       <PeriodFilter />
+      <span class="wof-detail-topbar__spacer" />
     </div>
     <PeriodFallbackBanner v-if="isLegacyData && company" />
 
@@ -54,11 +63,11 @@ useHead(() => ({
         <DetailSidebar
           :avatar-url="company.avatar_url"
           :title="company.name"
-          :subtitle="`${vm.members?.length ?? 0} contributeurs`"
+          :subtitle="`${vm.members?.length ?? 0} contributors`"
           :sections="[
-            { id: 'section-kpis', label: `Vue d'ensemble` },
-            { id: 'section-yearly', label: 'Contributions par année' },
-            { id: 'section-donut', label: 'Répartition des PR' },
+            { id: 'section-kpis', label: 'Overview' },
+            { id: 'section-yearly', label: 'Contributions per year' },
+            { id: 'section-donut', label: 'PR breakdown' },
           ]"
         />
       </template>
@@ -87,18 +96,35 @@ useHead(() => ({
     >
       <p>{{ loadError }}</p>
       <NuxtLink to="/">
-        Retour à l'accueil
+        Back to home
       </NuxtLink>
     </div>
   </div>
 </template>
 
 <style scoped>
-.wof-period-filter-wrapper {
-  display: flex;
-  justify-content: center;
+.wof-detail-topbar {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 1rem;
   padding: 1rem;
   background: #1d1d1b;
+}
+.wof-detail-back {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.08);
+  justify-self: start;
+}
+.wof-detail-back:hover {
+  background: rgba(255, 255, 255, 0.18);
+}
+.wof-detail-topbar__spacer {
+  justify-self: end;
 }
 .wof-detail-two-col {
   display: grid;
