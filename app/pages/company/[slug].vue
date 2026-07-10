@@ -55,10 +55,14 @@ useHead(() => ({
       <NuxtLink
         to="/"
         class="wof-detail-back"
+        aria-label="Back to all contributors"
       >
-        ← Back to all contributors
+        <span class="wof-detail-back__short">← Back</span>
+        <span class="wof-detail-back__long">← Back to all contributors</span>
       </NuxtLink>
-      <PeriodFilter />
+      <div class="wof-detail-topbar__filter">
+        <PeriodFilter />
+      </div>
       <span class="wof-detail-topbar__spacer" />
     </div>
     <PeriodFallbackBanner v-if="isLegacyData && company" />
@@ -109,11 +113,11 @@ useHead(() => ({
 
 <style scoped>
 .wof-detail-topbar {
-  display: grid;
-  grid-template-columns: 1fr auto 1fr;
+  display: flex;
   align-items: center;
-  gap: 1rem;
-  padding: 1rem;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.75rem;
   background: #1d1d1b;
 }
 .wof-detail-back {
@@ -123,13 +127,33 @@ useHead(() => ({
   padding: 0.35rem 0.75rem;
   border-radius: 999px;
   background: rgba(255, 255, 255, 0.08);
-  justify-self: start;
+  white-space: nowrap;
 }
 .wof-detail-back:hover {
   background: rgba(255, 255, 255, 0.18);
 }
+.wof-detail-back__long { display: none; }
+@media (min-width: 768px) {
+  .wof-detail-back__short { display: none; }
+  .wof-detail-back__long { display: inline; }
+}
+.wof-detail-topbar__filter {
+  min-width: 0;
+  flex-shrink: 1;
+}
 .wof-detail-topbar__spacer {
-  justify-self: end;
+  display: none;
+}
+@media (min-width: 768px) {
+  .wof-detail-topbar {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    gap: 1rem;
+    padding: 1rem;
+  }
+  .wof-detail-back { justify-self: start; }
+  .wof-detail-topbar__filter { justify-self: center; }
+  .wof-detail-topbar__spacer { display: block; justify-self: end; }
 }
 .wof-detail-two-col {
   display: grid;
