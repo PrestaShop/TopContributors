@@ -1,12 +1,13 @@
 <script setup lang="ts">
 import { computed, ref, watchEffect } from 'vue'
 import { usePeriod } from '@/composables/usePeriod'
-import { useEntityDetail } from '@/composables/useEntityDetail'
-import type { Company } from '@/types'
+import { aggregateContributors, useEntityDetail } from '@/composables/useEntityDetail'
+import type { Company, Contributor } from '@/types'
 
 const route = useRoute()
 const period = usePeriod()
 const company = ref<Company | null>(null)
+const contributorsData = ref<Record<string, Contributor>>({})
 const updatedYear = ref<number>(new Date().getFullYear())
 const loadError = ref<string | null>(null)
 
@@ -14,16 +15,26 @@ watchEffect(async () => {
   const slug = route.params.slug as string
   if (!slug) return
   try {
-    const res = await fetch('/topcompanies_prs.json')
-    if (!res.ok) throw new Error(String(res.status))
-    const data = await res.json()
-    if (data.updatedAt) updatedYear.value = new Date(data.updatedAt).getUTCFullYear()
-    // Case-insensitive slug match.
+    const [companiesRes, contributorsRes] = await Promise.all([
+      fetch('/topcompanies_prs.json'),
+      fetch('/contributors_prs.json'),
+    ])
+    if (!companiesRes.ok) throw new Error(String(companiesRes.status))
+    const companiesJson = await companiesRes.json()
+    if (companiesJson.updatedAt) updatedYear.value = new Date(companiesJson.updatedAt).getUTCFullYear()
+
     const lower = slug.toLowerCase()
-    const c = (data.companies ?? []).find((cc: Company) => cc.slug?.toLowerCase() === lower)
+    const c = (companiesJson.companies ?? []).find((cc: Company) => cc.slug?.toLowerCase() === lower)
     company.value = c ?? null
-    if (!company.value) loadError.value = `Company "${slug}" not found.`
-    else loadError.value = null
+    if (!company.value) {
+      loadError.value = `Company "${slug}" not found.`
+      return
+    }
+    loadError.value = null
+
+    if (contributorsRes.ok) {
+      contributorsData.value = await contributorsRes.json()
+    }
   }
   catch (e) {
     loadError.value = 'Failed to load data.'
@@ -31,8 +42,37 @@ watchEffect(async () => {
   }
 })
 
-const vm = useEntityDetail(company, period, updatedYear)
-const yearsActive = computed(() => Object.keys(vm.value?.yearlySeries.mergedPullRequests ?? {}).length)
+// Build a synthetic Contributor from the company's member logins so the whole
+// contributor-detail toolkit (KPIs, charts, tabs, repos table) applies to a
+// company aggregate without any per-entity forking downstream.
+const members = computed<Contributor[]>(() => {
+  const c = company.value
+  if (!c?.contributors) return []
+  return c.contributors
+    .map(login => contributorsData.value[login])
+    .filter((m): m is Contributor => m != null && typeof m === 'object' && 'login' in m)
+})
+
+const aggregated = computed<Contributor | null>(() =>
+  company.value && members.value.length ? aggregateContributors(company.value, members.value) : null,
+)
+
+const vm = useEntityDetail(aggregated, period, updatedYear)
+
+// Preserve the company entity type + members list downstream — the
+// aggregate is a Contributor shape so useEntityDetail defaults to
+// entityType='contributor'; overwrite so the KPI row + members section render
+// their company-specific bits.
+const companyVm = computed(() => {
+  if (!vm.value || !company.value) return null
+  return {
+    ...vm.value,
+    entityType: 'company' as const,
+    members: company.value.contributors ?? [],
+  }
+})
+
+const yearsActive = computed(() => Object.keys(companyVm.value?.yearlySeries.mergedPullRequests ?? {}).length)
 const isLegacyData = computed(() => {
   const c = company.value
   if (!c) return false
@@ -67,35 +107,46 @@ useHead(() => ({
     </div>
     <PeriodFallbackBanner v-if="isLegacyData && company" />
 
-    <DetailPageLayout v-if="vm && company">
+    <DetailPageLayout v-if="companyVm && company">
       <template #sidebar>
         <DetailSidebar
           :avatar-url="company.avatar_url"
           :title="company.name"
-          :subtitle="`${vm.members?.length ?? 0} contributors`"
+          :subtitle="`${companyVm.members?.length ?? 0} contributors`"
+          :infos="company.html_url
+            ? [{ icon: 'link', label: 'GitHub', value: company.html_url, href: company.html_url }]
+            : []"
           :sections="[
             { id: 'section-kpis', label: 'Overview' },
             { id: 'section-yearly', label: 'Contributions per year' },
             { id: 'section-donut', label: 'PR breakdown' },
+            { id: 'section-top-repos', label: 'Top repositories' },
+            { id: 'section-year-detail', label: 'Year drilldown' },
+            { id: 'section-repos-table', label: 'All repos' },
+            { id: 'section-members', label: 'Contributors' },
           ]"
         />
       </template>
       <template #main>
         <DetailKpiRow
-          :vm="vm"
+          :vm="companyVm"
           :years-active="yearsActive"
         />
         <div class="wof-detail-two-col">
           <DetailYearlyChart
-            :series="vm.yearlySeries"
+            :series="companyVm.yearlySeries"
             :period="period"
             :updated-year="updatedYear"
           />
           <DetailPrDonut
-            :merged="vm.prBreakdown.merged"
-            :other="vm.prBreakdown.opened"
+            :merged="companyVm.prBreakdown.merged"
+            :other="companyVm.prBreakdown.opened"
           />
         </div>
+        <DetailTopReposChart :top-repos="companyVm.topRepos" />
+        <DetailYearTabs :series="companyVm.yearlySeries" />
+        <DetailReposTable :rows="companyVm.repoRows" />
+        <DetailMembersList :members="members" />
       </template>
     </DetailPageLayout>
 
