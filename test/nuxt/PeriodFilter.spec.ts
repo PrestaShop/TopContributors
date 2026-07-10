@@ -22,16 +22,16 @@ const Harness = defineComponent({
 describe('PeriodFilter', () => {
   beforeEach(() => window.history.replaceState(null, '', '/'))
 
-  it('renders three buttons and marks sinceStart as pressed by default', async () => {
+  it('renders four buttons and marks sinceStart as pressed by default', async () => {
     const w = await mountSuspended(Harness)
     const buttons = w.findAll('button')
-    expect(buttons).toHaveLength(3)
-    expect(buttons.find(b => b.attributes('aria-pressed') === 'true')?.text()).toContain('Depuis')
+    expect(buttons).toHaveLength(4)
+    expect(buttons.find(b => b.attributes('aria-pressed') === 'true')?.text()).toContain('Since')
   })
 
   it('updates the shared period on click', async () => {
     const w = await mountSuspended(Harness)
-    await w.findAll('button').at(1)!.trigger('click') // "3 dernières"
+    await w.findAll('button').at(1)!.trigger('click') // "Last 3 years"
     expect(w.find('.kind').text()).toBe('lastNYears')
   })
 
@@ -42,7 +42,9 @@ describe('PeriodFilter', () => {
     expect(w.find('.kind').text()).toBe('lastNYears')
     await btn.trigger('keydown', { key: 'ArrowRight' })
     expect(w.find('.kind').text()).toBe('lastYear')
+    await btn.trigger('keydown', { key: 'ArrowRight' })
+    expect(w.find('.kind').text()).toBe('thisYear')
     await btn.trigger('keydown', { key: 'ArrowLeft' })
-    expect(w.find('.kind').text()).toBe('lastNYears')
+    expect(w.find('.kind').text()).toBe('lastYear')
   })
 })

@@ -38,20 +38,26 @@ describe('buildEntityDetail (contributor, additive-strict)', () => {
     expect(vm.kpis.reviews).toBe(40)
   })
 
-  it('KPIs on lastYear (2026)', () => {
-    const vm = buildEntityDetail(contrib, ref<Period>({ kind: 'lastYear' }), 2026)
+  it('KPIs on thisYear (2026)', () => {
+    const vm = buildEntityDetail(contrib, ref<Period>({ kind: 'thisYear' }), 2026)
     expect(vm.kpis.mergedPr).toBe(5)
     expect(vm.kpis.reviews).toBe(3)
   })
 
-  it('top repos sorted by period-filtered count', () => {
+  it('KPIs on lastYear (calendar year - 1, so 2025 here)', () => {
     const vm = buildEntityDetail(contrib, ref<Period>({ kind: 'lastYear' }), 2026)
+    expect(vm.kpis.mergedPr).toBe(20)
+    expect(vm.kpis.reviews).toBe(12)
+  })
+
+  it('top repos sorted by period-filtered count', () => {
+    const vm = buildEntityDetail(contrib, ref<Period>({ kind: 'thisYear' }), 2026)
     expect(vm.topRepos[0]).toEqual({ name: 'PrestaShop', count: 4 })
     expect(vm.topRepos[1]).toEqual({ name: 'docs', count: 1 })
   })
 
   it('yearlySeries preserves all years (unaffected by period)', () => {
-    const vm = buildEntityDetail(contrib, ref<Period>({ kind: 'lastYear' }), 2026)
+    const vm = buildEntityDetail(contrib, ref<Period>({ kind: 'thisYear' }), 2026)
     expect(Object.keys(vm.yearlySeries.mergedPullRequests).sort()).toEqual(['2024', '2025', '2026'])
   })
 

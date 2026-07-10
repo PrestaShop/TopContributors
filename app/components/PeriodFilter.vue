@@ -6,9 +6,10 @@ import type { Period } from '@/types'
 const period = usePeriod()
 
 const OPTIONS: { key: Period['kind'], label: string, value: Period }[] = [
-  { key: 'sinceStart', label: 'Depuis le début', value: { kind: 'sinceStart' } },
-  { key: 'lastNYears', label: '3 dernières années', value: { kind: 'lastNYears', n: 3 } },
-  { key: 'lastYear', label: 'Dernière année', value: { kind: 'lastYear' } },
+  { key: 'sinceStart', label: 'Since the beginning', value: { kind: 'sinceStart' } },
+  { key: 'lastNYears', label: 'Last 3 years', value: { kind: 'lastNYears', n: 3 } },
+  { key: 'lastYear', label: 'Last year', value: { kind: 'lastYear' } },
+  { key: 'thisYear', label: 'This year', value: { kind: 'thisYear' } },
 ]
 
 const activeIndex = computed(() => OPTIONS.findIndex(o => o.key === period.value.kind))
@@ -34,7 +35,7 @@ function onKey(e: KeyboardEvent): void {
   <div
     class="wof-period-filter"
     role="group"
-    aria-label="Filtre par période"
+    aria-label="Period filter"
   >
     <button
       v-for="(opt, idx) in OPTIONS"

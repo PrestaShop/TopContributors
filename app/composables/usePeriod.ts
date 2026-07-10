@@ -7,12 +7,14 @@ const DEFAULT: Period = { kind: 'sinceStart' }
 
 export function periodToParam(p: Period): string {
   if (p.kind === 'sinceStart') return 'all'
+  if (p.kind === 'thisYear') return 'now'
   if (p.kind === 'lastYear') return '1y'
   return `${p.n}y`
 }
 
 export function parsePeriodParam(raw: string | null): Period {
   if (!raw || raw === 'all') return { kind: 'sinceStart' }
+  if (raw === 'now') return { kind: 'thisYear' }
   if (raw === '1y') return { kind: 'lastYear' }
   const m = raw.match(/^(\d+)y$/)
   if (m) {

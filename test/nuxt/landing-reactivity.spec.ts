@@ -14,7 +14,7 @@ const Harness = defineComponent({
   props: ['periodKind'],
   setup(props) {
     const p = providePeriod()
-    if (props.periodKind === 'lastYear') p.value = { kind: 'lastYear' }
+    if (props.periodKind === 'thisYear') p.value = { kind: 'thisYear' }
     return () => h(TopRankingView, {
       title: 't', description: 'd', countLabel: 'Reviews', items, updatedYear: 2026,
     })
@@ -26,8 +26,8 @@ describe('TopRankingView re-ranks on period', () => {
     const w = await mountSuspended(Harness, { props: { periodKind: 'sinceStart' } })
     expect(w.text()).toMatch(/Alice[\s\S]*Bob/)
   })
-  it('lastYear: Bob first (2026 count 4 > 1)', async () => {
-    const w = await mountSuspended(Harness, { props: { periodKind: 'lastYear' } })
+  it('thisYear (2026): Bob first (count 4 > 1)', async () => {
+    const w = await mountSuspended(Harness, { props: { periodKind: 'thisYear' } })
     expect(w.text()).toMatch(/Bob[\s\S]*Alice/)
   })
 })
