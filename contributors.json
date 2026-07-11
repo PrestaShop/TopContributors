@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11025,
+        "contributions": 11028,
         "repositories": {
             "PrestaShop": 4613,
             "PrestaShop-modules": 31,
@@ -94,7 +94,7 @@
             "ps_feeder": 1,
             "traces": 225,
             "core-weekly-generator": 6,
-            "TopContributors": 132,
+            "TopContributors": 135,
             "TranslationFiles": 3,
             "ps_livetranslation": 13,
             "ps_googleanalytics": 20,
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1426,
+                "total": 1429,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -283,7 +283,7 @@
                     "presthubot": 525,
                     "prestonbot": 10,
                     "QANightlyResults": 410,
-                    "TopContributors": 132,
+                    "TopContributors": 135,
                     "TopTranslators": 1,
                     "traces": 225,
                     "ps-project-metrics": 4
@@ -5807,7 +5807,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 727,
+        "contributions": 729,
         "repositories": {
             "PrestaShop": 424,
             "PrestaShop-modules": 5,
@@ -5865,7 +5865,7 @@
             "ps_crossselling": 1,
             "ps_dataprivacy": 1,
             "traces": 45,
-            "TopContributors": 37,
+            "TopContributors": 39,
             "psssst": 1,
             "ps_themecusto": 1,
             "psgdpr": 4,
@@ -5974,13 +5974,13 @@
                 }
             },
             "tools": {
-                "total": 89,
+                "total": 91,
                 "repositories": {
                     "docker": 1,
                     "PrestaShop-webservice-lib": 1,
                     "presthubot": 1,
                     "ps-monitor-module-releases": 1,
-                    "TopContributors": 37,
+                    "TopContributors": 39,
                     "traces": 45,
                     "kanbanbot": 1,
                     "psssst": 1,
@@ -13118,7 +13118,7 @@
         "html_url": "https:\/\/github.com\/idnovate",
         "name": null,
         "company": "idnovate.com",
-        "blog": "http:\/\/www.idnovate.com",
+        "blog": "https:\/\/www.idnovate.com",
         "location": "Sant Cugat del Vall\u00e8s, BCN",
         "bio": null,
         "email_domain": "",
@@ -27113,6 +27113,69 @@
             }
         }
     },
+    "claude": {
+        "login": "claude",
+        "id": 81847,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/81847?v=4",
+        "html_url": "https:\/\/github.com\/claude",
+        "name": "Claude",
+        "company": "@anthropics",
+        "blog": "https:\/\/anthropic.com\/claude-code",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 6,
+        "repositories": {
+            "ps_facetedsearch": 2,
+            "TopContributors": 2,
+            "psgdpr": 1,
+            "ps_apiresources": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 4,
+                "repositories": {
+                    "ps_facetedsearch": 2,
+                    "psgdpr": 1,
+                    "ps_apiresources": 1
+                }
+            },
+            "tools": {
+                "total": 2,
+                "repositories": {
+                    "TopContributors": 2
+                }
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "Shiryu75": {
         "login": "Shiryu75",
         "id": 6507405,
@@ -29273,66 +29336,6 @@
                 "repositories": {
                     "ps_wirepayment": 1,
                     "ps_checkpayment": 1
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "claude": {
-        "login": "claude",
-        "id": 81847,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/81847?v=4",
-        "html_url": "https:\/\/github.com\/claude",
-        "name": "Claude",
-        "company": "@anthropics",
-        "blog": "https:\/\/anthropic.com\/claude-code",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 4,
-        "repositories": {
-            "ps_facetedsearch": 2,
-            "psgdpr": 1,
-            "ps_apiresources": 1
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 4,
-                "repositories": {
-                    "ps_facetedsearch": 2,
-                    "psgdpr": 1,
-                    "ps_apiresources": 1
                 }
             },
             "tools": {
@@ -51386,5 +51389,5 @@
             }
         }
     },
-    "updatedAt": "2026-07-10 13:03:54"
+    "updatedAt": "2026-07-11 06:47:06"
 }

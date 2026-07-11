@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-07-10T13:42:56+00:00",
+    "updatedAt": "2026-07-11T07:21:40+00:00",
     "items": [
         {
             "rank": 1,
@@ -138,9 +138,9 @@
             "name": "Jonathan Danse",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2631425?v=4",
             "html_url": "https:\/\/github.com\/PrestaEdit",
-            "count": 809,
+            "count": 814,
             "countByYear": {
-                "2026": 178,
+                "2026": 183,
                 "2025": 79,
                 "2024": 38,
                 "2023": 16,
@@ -529,9 +529,9 @@
             "name": "Blivet Thibault",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/110676325?v=4",
             "html_url": "https:\/\/github.com\/tblivet",
-            "count": 237,
+            "count": 238,
             "countByYear": {
-                "2026": 53,
+                "2026": 54,
                 "2025": 92,
                 "2024": 78,
                 "2023": 14
@@ -728,9 +728,9 @@
             "name": "Matthias Goudjil",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
             "html_url": "https:\/\/github.com\/mattgoud",
-            "count": 163,
+            "count": 164,
             "countByYear": {
-                "2026": 95,
+                "2026": 96,
                 "2025": 49,
                 "2024": 19
             }
