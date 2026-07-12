@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-07-11T07:21:40+00:00",
+    "updatedAt": "2026-07-12T07:30:57+00:00",
     "items": [
         {
             "rank": 1,
@@ -138,9 +138,9 @@
             "name": "Jonathan Danse",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2631425?v=4",
             "html_url": "https:\/\/github.com\/PrestaEdit",
-            "count": 814,
+            "count": 816,
             "countByYear": {
-                "2026": 183,
+                "2026": 185,
                 "2025": 79,
                 "2024": 38,
                 "2023": 16,
@@ -439,6 +439,21 @@
         },
         {
             "rank": 27,
+            "login": "Codencode",
+            "name": "Paolo Cunti @codencode",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
+            "html_url": "https:\/\/github.com\/Codencode",
+            "count": 290,
+            "countByYear": {
+                "2026": 89,
+                "2025": 137,
+                "2024": 35,
+                "2023": 23,
+                "2019": 6
+            }
+        },
+        {
+            "rank": 28,
             "login": "julienbourdeau",
             "name": "Julien Bourdeau",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1525636?v=4",
@@ -448,21 +463,6 @@
                 "2017": 13,
                 "2016": 194,
                 "2015": 83
-            }
-        },
-        {
-            "rank": 28,
-            "login": "Codencode",
-            "name": "Paolo Cunti @codencode",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
-            "html_url": "https:\/\/github.com\/Codencode",
-            "count": 288,
-            "countByYear": {
-                "2026": 87,
-                "2025": 137,
-                "2024": 35,
-                "2023": 23,
-                "2019": 6
             }
         },
         {
@@ -861,9 +861,9 @@
             "name": "Audrius",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65190196?v=4",
             "html_url": "https:\/\/github.com\/boo-code",
-            "count": 123,
+            "count": 124,
             "countByYear": {
-                "2026": 123
+                "2026": 124
             }
         },
         {
@@ -20159,7 +20159,7 @@
             "rank": 1705,
             "login": "jatniel",
             "name": "Jatniel Guzm\u00e1n",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1070744?u=b582d1b57ebbdd4660370f14b0dfabb280c863a3&v=4",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1070744?u=b1f79efee8cccca5adef1ccdbae6c2654e0e1fac&v=4",
             "html_url": "https:\/\/github.com\/jatniel",
             "count": 1,
             "countByYear": {
@@ -22513,7 +22513,7 @@
             "rank": 1919,
             "login": "nsirjent",
             "name": "nsirjent",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/228010495?u=a1418993b76dca41f6579646664587e88173c4d6&v=4",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/228010495?v=4",
             "html_url": "https:\/\/github.com\/nsirjent",
             "count": 1,
             "countByYear": {
