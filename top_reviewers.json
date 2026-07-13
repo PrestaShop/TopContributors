@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-07-12T07:30:57+00:00",
+    "updatedAt": "2026-07-13T10:11:20+00:00",
     "items": [
         {
             "rank": 1,
@@ -7,9 +7,9 @@
             "name": "Progi1984",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1533248?v=4",
             "html_url": "https:\/\/github.com\/Progi1984",
-            "count": 7165,
+            "count": 7166,
             "countByYear": {
-                "2026": 654,
+                "2026": 655,
                 "2025": 801,
                 "2024": 703,
                 "2023": 509,
@@ -59,9 +59,9 @@
             "name": "Krystian Podemski",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2137763?v=4",
             "html_url": "https:\/\/github.com\/kpodemski",
-            "count": 3505,
+            "count": 3506,
             "countByYear": {
-                "2026": 338,
+                "2026": 339,
                 "2025": 428,
                 "2024": 421,
                 "2023": 1040,
@@ -153,9 +153,9 @@
             "name": "Nicolas L\u0153uillet",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/121870?v=4",
             "html_url": "https:\/\/github.com\/nicosomb",
-            "count": 2176,
+            "count": 2183,
             "countByYear": {
-                "2026": 272,
+                "2026": 279,
                 "2025": 581,
                 "2024": 482,
                 "2023": 653,
@@ -197,9 +197,9 @@
             "name": "Daniel Hlav\u00e1\u010dek",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6097524?v=4",
             "html_url": "https:\/\/github.com\/Hlavtox",
-            "count": 1346,
+            "count": 1348,
             "countByYear": {
-                "2026": 220,
+                "2026": 222,
                 "2025": 337,
                 "2024": 310,
                 "2023": 331,
@@ -413,9 +413,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 458,
+            "count": 461,
             "countByYear": {
-                "2026": 164,
+                "2026": 167,
                 "2025": 293,
                 "2023": 1
             }
@@ -553,9 +553,9 @@
             "name": "Matthias Goudjil",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
             "html_url": "https:\/\/github.com\/mattgoud",
-            "count": 279,
+            "count": 280,
             "countByYear": {
-                "2026": 210,
+                "2026": 211,
                 "2025": 60,
                 "2024": 9
             }
@@ -611,9 +611,9 @@
             "name": "Blivet Thibault",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/110676325?v=4",
             "html_url": "https:\/\/github.com\/tblivet",
-            "count": 222,
+            "count": 224,
             "countByYear": {
-                "2026": 84,
+                "2026": 86,
                 "2025": 106,
                 "2024": 27,
                 "2023": 5
@@ -1128,6 +1128,17 @@
         },
         {
             "rank": 80,
+            "login": "ThbPS",
+            "name": "ThbPS",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109082310?v=4",
+            "html_url": "https:\/\/github.com\/ThbPS",
+            "count": 42,
+            "countByYear": {
+                "2026": 42
+            }
+        },
+        {
+            "rank": 81,
             "login": "toutantic",
             "name": "Aur\u00e9lien Pelletier",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/720961?v=4",
@@ -1141,7 +1152,7 @@
             }
         },
         {
-            "rank": 81,
+            "rank": 82,
             "login": "Amoifr",
             "name": "Pascal CESCON",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/31698966?v=4",
@@ -1149,17 +1160,6 @@
             "count": 40,
             "countByYear": {
                 "2022": 40
-            }
-        },
-        {
-            "rank": 82,
-            "login": "ThbPS",
-            "name": "ThbPS",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109082310?v=4",
-            "html_url": "https:\/\/github.com\/ThbPS",
-            "count": 40,
-            "countByYear": {
-                "2026": 40
             }
         },
         {

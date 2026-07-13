@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11028,
+        "contributions": 11029,
         "repositories": {
             "PrestaShop": 4613,
             "PrestaShop-modules": 31,
@@ -136,7 +136,7 @@
             "ps_fixturescreator": 11,
             "ws-client": 25,
             "ps_apiresources": 5,
-            "ui-testing-library": 1312
+            "ui-testing-library": 1313
         },
         "categories": {
             "core": {
@@ -290,9 +290,9 @@
                 }
             },
             "tests": {
-                "total": 1418,
+                "total": 1419,
                 "repositories": {
-                    "ui-testing-library": 1312,
+                    "ui-testing-library": 1313,
                     "ga.tests.ui.pr": 106
                 }
             },
@@ -1657,9 +1657,9 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3723,
+        "contributions": 3725,
         "repositories": {
-            "PrestaShop": 882,
+            "PrestaShop": 884,
             "PrestaShop-modules": 4,
             "PrestaShop-webservice-lib": 3,
             "dashactivity": 1,
@@ -1773,9 +1773,9 @@
         },
         "categories": {
             "core": {
-                "total": 915,
+                "total": 917,
                 "repositories": {
-                    "PrestaShop": 882,
+                    "PrestaShop": 884,
                     "prestashop-ui-kit": 4,
                     "LocalizationFiles": 25,
                     "stylelint-browser-compatibility": 1,
@@ -3358,7 +3358,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1685,
+        "contributions": 1688,
         "repositories": {
             "PrestaShop": 897,
             "PrestaShop-webservice-lib": 1,
@@ -3416,9 +3416,9 @@
             "open-source": 23,
             "mjml-theme-converter": 1,
             "php-dev-tools": 4,
-            "QANightlyResults": 154,
+            "QANightlyResults": 155,
             "LocalizationFiles": 8,
-            "presthubot": 97,
+            "presthubot": 99,
             "example-modules": 7,
             "ps_qualityassurance": 3,
             "test-scenarios": 2,
@@ -3522,7 +3522,7 @@
                 }
             },
             "tools": {
-                "total": 320,
+                "total": 323,
                 "repositories": {
                     "bootstrap-compatibility-layer": 1,
                     "docker": 7,
@@ -3531,9 +3531,9 @@
                     "mjml-theme-converter": 1,
                     "nightly-board": 1,
                     "PrestaShop-webservice-lib": 1,
-                    "presthubot": 97,
+                    "presthubot": 99,
                     "prestonbot": 1,
-                    "QANightlyResults": 154,
+                    "QANightlyResults": 155,
                     "TopContributors": 7,
                     "TopTranslators": 1,
                     "traces": 24,
@@ -11688,6 +11688,70 @@
             }
         }
     },
+    "ThbPS": {
+        "login": "ThbPS",
+        "id": 109082310,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109082310?v=4",
+        "html_url": "https:\/\/github.com\/ThbPS",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 124,
+        "repositories": {
+            "PrestaShop": 21,
+            "native-modules": 3,
+            "prestashop-flashlight": 1,
+            "ps_onepagecheckout": 99
+        },
+        "categories": {
+            "core": {
+                "total": 21,
+                "repositories": {
+                    "PrestaShop": 21
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 99,
+                "repositories": {
+                    "ps_onepagecheckout": 99
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 4,
+                "repositories": {
+                    "native-modules": 3,
+                    "prestashop-flashlight": 1
+                }
+            }
+        }
+    },
     "thoma202": {
         "login": "thoma202",
         "id": 2963059,
@@ -11807,70 +11871,6 @@
             "others": {
                 "total": 0,
                 "repositories": []
-            }
-        }
-    },
-    "ThbPS": {
-        "login": "ThbPS",
-        "id": 109082310,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109082310?v=4",
-        "html_url": "https:\/\/github.com\/ThbPS",
-        "name": null,
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 121,
-        "repositories": {
-            "PrestaShop": 21,
-            "native-modules": 3,
-            "prestashop-flashlight": 1,
-            "ps_onepagecheckout": 96
-        },
-        "categories": {
-            "core": {
-                "total": 21,
-                "repositories": {
-                    "PrestaShop": 21
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 96,
-                "repositories": {
-                    "ps_onepagecheckout": 96
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 4,
-                "repositories": {
-                    "native-modules": 3,
-                    "prestashop-flashlight": 1
-                }
             }
         }
     },
@@ -40308,9 +40308,9 @@
         "html_url": "https:\/\/github.com\/c100k",
         "name": "Chafik",
         "company": null,
-        "blog": "https:\/\/libmodulor.c100k.eu",
+        "blog": "https:\/\/c100k.eu",
         "location": null,
-        "bio": "Senior Software Engineer (libmodulor.c100k.eu, github.com\/c100k) - Road & Trail Runner (10k: 34:59, 21k: 1h17, 42k: 2h46, UTMB idx: 720)",
+        "bio": "RebootX + libmodulor + SelfSync (c100k.eu libmodulor.c100k.eu trekstories.c100k.eu) - Amateur Runner (10k: 34:59, 21k: 1h17, 42k: 2h46, UTMB idx: 720)",
         "email_domain": "gmail.com",
         "contributions": 1,
         "repositories": {
@@ -51445,5 +51445,5 @@
             }
         }
     },
-    "updatedAt": "2026-07-12 06:55:34"
+    "updatedAt": "2026-07-13 09:30:49"
 }
