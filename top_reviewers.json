@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-07-14T07:21:19+00:00",
+    "updatedAt": "2026-07-15T07:30:14+00:00",
     "items": [
         {
             "rank": 1,
@@ -7,9 +7,9 @@
             "name": "Progi1984",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1533248?v=4",
             "html_url": "https:\/\/github.com\/Progi1984",
-            "count": 7166,
+            "count": 7169,
             "countByYear": {
-                "2026": 655,
+                "2026": 658,
                 "2025": 801,
                 "2024": 703,
                 "2023": 509,
@@ -59,9 +59,9 @@
             "name": "Krystian Podemski",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2137763?v=4",
             "html_url": "https:\/\/github.com\/kpodemski",
-            "count": 3506,
+            "count": 3508,
             "countByYear": {
-                "2026": 339,
+                "2026": 341,
                 "2025": 428,
                 "2024": 421,
                 "2023": 1040,
@@ -132,9 +132,9 @@
             "name": "Thomas N",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6768917?v=4",
             "html_url": "https:\/\/github.com\/Quetzacoalt91",
-            "count": 2192,
+            "count": 2193,
             "countByYear": {
-                "2026": 241,
+                "2026": 242,
                 "2025": 399,
                 "2024": 263,
                 "2023": 1,
@@ -413,9 +413,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 462,
+            "count": 463,
             "countByYear": {
-                "2026": 168,
+                "2026": 169,
                 "2025": 293,
                 "2023": 1
             }
@@ -1116,6 +1116,17 @@
         },
         {
             "rank": 79,
+            "login": "ThbPS",
+            "name": "ThbPS",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109082310?v=4",
+            "html_url": "https:\/\/github.com\/ThbPS",
+            "count": 44,
+            "countByYear": {
+                "2026": 44
+            }
+        },
+        {
+            "rank": 80,
             "login": "leemyongpakvn",
             "name": "Leemy Pakvn",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3759923?v=4",
@@ -1124,17 +1135,6 @@
             "countByYear": {
                 "2023": 31,
                 "2022": 13
-            }
-        },
-        {
-            "rank": 80,
-            "login": "ThbPS",
-            "name": "ThbPS",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109082310?v=4",
-            "html_url": "https:\/\/github.com\/ThbPS",
-            "count": 42,
-            "countByYear": {
-                "2026": 42
             }
         },
         {
