@@ -10,18 +10,18 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11033,
+        "contributions": 11038,
         "repositories": {
-            "PrestaShop": 1203,
+            "PrestaShop": 1204,
             "PrestaShop-modules": 2,
             "PrestaShop-webservice-lib": 1,
-            "dashactivity": 9,
-            "dashgoals": 7,
-            "dashproducts": 11,
-            "dashtrends": 16,
-            "graphnvd3": 6,
-            "gridhtml": 8,
-            "pagesnotfound": 3,
+            "dashactivity": 10,
+            "dashgoals": 8,
+            "dashproducts": 12,
+            "dashtrends": 17,
+            "graphnvd3": 7,
+            "gridhtml": 9,
+            "pagesnotfound": 4,
             "statsbestcategories": 1,
             "statsbestcustomers": 5,
             "statsbestmanufacturers": 2,
@@ -39,16 +39,16 @@
             "statssales": 7,
             "statssearch": 2,
             "statsstock": 1,
-            "blockwishlist": 45,
-            "productcomments": 18,
+            "blockwishlist": 46,
+            "productcomments": 19,
             "pscleaner": 4,
             "autoupgrade": 27,
-            "gsitemap": 11,
+            "gsitemap": 12,
             "prestashop.github.io": 14,
             "docker": 19,
-            "contactform": 7,
+            "contactform": 8,
             "prestashop-ui-kit": 1,
-            "blockreassurance": 38,
+            "blockreassurance": 39,
             "ps_sharebuttons": 4,
             "ps_socialfollow": 1,
             "ps_linklist": 13,
@@ -122,9 +122,9 @@
         },
         "categories": {
             "core": {
-                "total": 1217,
+                "total": 1218,
                 "byYear": {
-                    "2026": 91,
+                    "2026": 92,
                     "2025": 174,
                     "2024": 203,
                     "2023": 255,
@@ -134,7 +134,7 @@
                     "2019": 29
                 },
                 "repositories": {
-                    "PrestaShop": 1203,
+                    "PrestaShop": 1204,
                     "prestashop-ui-kit": 1,
                     "TranslationToolsBundle": 2,
                     "TranslationFiles": 3,
@@ -145,7 +145,7 @@
                 },
                 "repositoriesByYear": {
                     "PrestaShop": {
-                        "2026": 91,
+                        "2026": 92,
                         "2025": 174,
                         "2024": 203,
                         "2023": 255,
@@ -266,9 +266,9 @@
                 }
             },
             "modules": {
-                "total": 460,
+                "total": 472,
                 "byYear": {
-                    "2026": 63,
+                    "2026": 75,
                     "2025": 20,
                     "2024": 39,
                     "2023": 29,
@@ -279,13 +279,13 @@
                 },
                 "repositories": {
                     "PrestaShop-modules": 2,
-                    "dashactivity": 9,
-                    "dashgoals": 7,
-                    "dashproducts": 11,
-                    "dashtrends": 16,
-                    "graphnvd3": 6,
-                    "gridhtml": 8,
-                    "pagesnotfound": 3,
+                    "dashactivity": 10,
+                    "dashgoals": 8,
+                    "dashproducts": 12,
+                    "dashtrends": 17,
+                    "graphnvd3": 7,
+                    "gridhtml": 9,
+                    "pagesnotfound": 4,
                     "statsbestcategories": 1,
                     "statsbestcustomers": 5,
                     "statsbestmanufacturers": 2,
@@ -303,13 +303,13 @@
                     "statssales": 7,
                     "statssearch": 2,
                     "statsstock": 1,
-                    "blockwishlist": 45,
-                    "productcomments": 18,
+                    "blockwishlist": 46,
+                    "productcomments": 19,
                     "pscleaner": 4,
                     "autoupgrade": 27,
-                    "gsitemap": 11,
-                    "contactform": 7,
-                    "blockreassurance": 38,
+                    "gsitemap": 12,
+                    "contactform": 8,
+                    "blockreassurance": 39,
                     "ps_sharebuttons": 4,
                     "ps_socialfollow": 1,
                     "ps_linklist": 13,
@@ -356,37 +356,37 @@
                         "2021": 2
                     },
                     "dashactivity": {
-                        "2026": 5,
+                        "2026": 6,
                         "2022": 4
                     },
                     "dashgoals": {
-                        "2026": 5,
+                        "2026": 6,
                         "2022": 2
                     },
                     "dashproducts": {
-                        "2026": 5,
+                        "2026": 6,
                         "2022": 4,
                         "2021": 1,
                         "2020": 1
                     },
                     "dashtrends": {
-                        "2026": 4,
+                        "2026": 5,
                         "2023": 3,
                         "2022": 4,
                         "2021": 1,
                         "2020": 4
                     },
                     "graphnvd3": {
-                        "2026": 4,
+                        "2026": 5,
                         "2022": 2
                     },
                     "gridhtml": {
-                        "2026": 4,
+                        "2026": 5,
                         "2022": 2,
                         "2020": 2
                     },
                     "pagesnotfound": {
-                        "2026": 1,
+                        "2026": 2,
                         "2022": 2
                     },
                     "statsbestcategories": {
@@ -448,7 +448,7 @@
                         "2022": 1
                     },
                     "blockwishlist": {
-                        "2026": 10,
+                        "2026": 11,
                         "2025": 3,
                         "2024": 19,
                         "2023": 3,
@@ -456,7 +456,7 @@
                         "2021": 2
                     },
                     "productcomments": {
-                        "2026": 1,
+                        "2026": 2,
                         "2022": 3,
                         "2021": 9,
                         "2020": 5
@@ -474,19 +474,19 @@
                         "2020": 3
                     },
                     "gsitemap": {
-                        "2026": 3,
+                        "2026": 4,
                         "2023": 1,
                         "2022": 2,
                         "2021": 1,
                         "2020": 4
                     },
                     "contactform": {
-                        "2026": 4,
+                        "2026": 5,
                         "2022": 2,
                         "2021": 1
                     },
                     "blockreassurance": {
-                        "2026": 7,
+                        "2026": 8,
                         "2022": 10,
                         "2021": 2,
                         "2020": 4,
@@ -833,9 +833,9 @@
                 }
             }
         },
-        "mergedPullRequests": 2411,
+        "mergedPullRequests": 2424,
         "mergedPullRequestsByYear": {
-            "2026": 222,
+            "2026": 235,
             "2025": 445,
             "2024": 479,
             "2023": 348,
@@ -846,7 +846,7 @@
         },
         "repositoriesByYear": {
             "PrestaShop": {
-                "2026": 91,
+                "2026": 92,
                 "2025": 174,
                 "2024": 203,
                 "2023": 255,
@@ -862,37 +862,37 @@
                 "2022": 1
             },
             "dashactivity": {
-                "2026": 5,
+                "2026": 6,
                 "2022": 4
             },
             "dashgoals": {
-                "2026": 5,
+                "2026": 6,
                 "2022": 2
             },
             "dashproducts": {
-                "2026": 5,
+                "2026": 6,
                 "2022": 4,
                 "2021": 1,
                 "2020": 1
             },
             "dashtrends": {
-                "2026": 4,
+                "2026": 5,
                 "2023": 3,
                 "2022": 4,
                 "2021": 1,
                 "2020": 4
             },
             "graphnvd3": {
-                "2026": 4,
+                "2026": 5,
                 "2022": 2
             },
             "gridhtml": {
-                "2026": 4,
+                "2026": 5,
                 "2022": 2,
                 "2020": 2
             },
             "pagesnotfound": {
-                "2026": 1,
+                "2026": 2,
                 "2022": 2
             },
             "statsbestcategories": {
@@ -954,7 +954,7 @@
                 "2022": 1
             },
             "blockwishlist": {
-                "2026": 10,
+                "2026": 11,
                 "2025": 3,
                 "2024": 19,
                 "2023": 3,
@@ -962,7 +962,7 @@
                 "2021": 2
             },
             "productcomments": {
-                "2026": 1,
+                "2026": 2,
                 "2022": 3,
                 "2021": 9,
                 "2020": 5
@@ -980,7 +980,7 @@
                 "2020": 3
             },
             "gsitemap": {
-                "2026": 3,
+                "2026": 4,
                 "2023": 1,
                 "2022": 2,
                 "2021": 1,
@@ -999,7 +999,7 @@
                 "2020": 1
             },
             "contactform": {
-                "2026": 4,
+                "2026": 5,
                 "2022": 2,
                 "2021": 1
             },
@@ -1007,7 +1007,7 @@
                 "2022": 1
             },
             "blockreassurance": {
-                "2026": 7,
+                "2026": 8,
                 "2022": 10,
                 "2021": 2,
                 "2020": 4,
@@ -1324,9 +1324,9 @@
                 "2024": 160
             }
         },
-        "reviews": 7172,
+        "reviews": 7175,
         "reviewsByYear": {
-            "2026": 661,
+            "2026": 664,
             "2025": 801,
             "2024": 703,
             "2023": 509,
@@ -1346,9 +1346,9 @@
             "2020": 24,
             "2019": 4
         },
-        "pullRequestsOpened": 2509,
+        "pullRequestsOpened": 2510,
         "pullRequestsOpenedByYear": {
-            "2026": 233,
+            "2026": 234,
             "2025": 465,
             "2024": 492,
             "2023": 342,
@@ -10192,9 +10192,9 @@
             "2018": 1,
             "2016": 4
         },
-        "pullRequestsOpened": 862,
+        "pullRequestsOpened": 863,
         "pullRequestsOpenedByYear": {
-            "2026": 231,
+            "2026": 232,
             "2025": 79,
             "2024": 38,
             "2023": 16,
@@ -15068,7 +15068,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1694,
+        "contributions": 1706,
         "repositories": {
             "PrestaShop": 154,
             "dashactivity": 2,
@@ -15473,9 +15473,9 @@
                 "2026": 5
             }
         },
-        "reviews": 2189,
+        "reviews": 2202,
         "reviewsByYear": {
-            "2026": 285,
+            "2026": 298,
             "2025": 581,
             "2024": 482,
             "2023": 653,
@@ -17048,9 +17048,9 @@
                 "2025": 9
             }
         },
-        "reviews": 463,
+        "reviews": 464,
         "reviewsByYear": {
-            "2026": 169,
+            "2026": 170,
             "2025": 293,
             "2023": 1
         },
@@ -20578,9 +20578,9 @@
                 "2026": 1
             }
         },
-        "reviews": 861,
+        "reviews": 862,
         "reviewsByYear": {
-            "2026": 114,
+            "2026": 115,
             "2025": 214,
             "2024": 229,
             "2023": 304
@@ -22979,15 +22979,15 @@
                 "2026": 8
             }
         },
-        "reviews": 301,
+        "reviews": 307,
         "reviewsByYear": {
-            "2026": 232,
+            "2026": 238,
             "2025": 60,
             "2024": 9
         },
-        "issuesOpened": 60,
+        "issuesOpened": 61,
         "issuesOpenedByYear": {
-            "2026": 37,
+            "2026": 38,
             "2025": 15,
             "2024": 8
         },
@@ -25974,9 +25974,9 @@
             "2024": 147,
             "2023": 62
         },
-        "issuesOpened": 63,
+        "issuesOpened": 64,
         "issuesOpenedByYear": {
-            "2026": 3,
+            "2026": 4,
             "2025": 31,
             "2024": 26,
             "2023": 2,
@@ -32594,9 +32594,9 @@
                 "2023": 1
             }
         },
-        "reviews": 204,
+        "reviews": 205,
         "reviewsByYear": {
-            "2026": 9,
+            "2026": 10,
             "2025": 16,
             "2024": 33,
             "2023": 106,
@@ -39129,11 +39129,13 @@
                 "2026": 1
             }
         },
-        "reviews": 0,
-        "reviewsByYear": [],
-        "issuesOpened": 19,
+        "reviews": 5,
+        "reviewsByYear": {
+            "2026": 5
+        },
+        "issuesOpened": 20,
         "issuesOpenedByYear": {
-            "2026": 19
+            "2026": 20
         },
         "pullRequestsOpened": 131,
         "pullRequestsOpenedByYear": {
@@ -60763,9 +60765,9 @@
         },
         "reviews": 0,
         "reviewsByYear": [],
-        "issuesOpened": 231,
+        "issuesOpened": 232,
         "issuesOpenedByYear": {
-            "2026": 22,
+            "2026": 23,
             "2025": 23,
             "2024": 10,
             "2023": 34,
@@ -102175,5 +102177,5 @@
             "2026": 1
         }
     },
-    "updatedAt": "2026-07-16T07:10:31+00:00"
+    "updatedAt": "2026-07-17T07:09:44+00:00"
 }

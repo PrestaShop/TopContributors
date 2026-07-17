@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11033,
+        "contributions": 11038,
         "repositories": {
             "PrestaShop": 4614,
             "PrestaShop-modules": 31,
@@ -40,7 +40,7 @@
             "statssales": 17,
             "statssearch": 10,
             "statsstock": 9,
-            "blockwishlist": 246,
+            "blockwishlist": 249,
             "productcomments": 45,
             "pscleaner": 13,
             "autoupgrade": 112,
@@ -136,7 +136,7 @@
             "ps_fixturescreator": 11,
             "ws-client": 25,
             "ps_apiresources": 5,
-            "ui-testing-library": 1314
+            "ui-testing-library": 1316
         },
         "categories": {
             "core": {
@@ -186,7 +186,7 @@
                 }
             },
             "modules": {
-                "total": 1854,
+                "total": 1857,
                 "repositories": {
                     "PrestaShop-modules": 31,
                     "dashactivity": 14,
@@ -214,7 +214,7 @@
                     "statssales": 17,
                     "statssearch": 10,
                     "statsstock": 9,
-                    "blockwishlist": 246,
+                    "blockwishlist": 249,
                     "productcomments": 45,
                     "pscleaner": 13,
                     "autoupgrade": 112,
@@ -290,9 +290,9 @@
                 }
             },
             "tests": {
-                "total": 1420,
+                "total": 1422,
                 "repositories": {
-                    "ui-testing-library": 1314,
+                    "ui-testing-library": 1316,
                     "ga.tests.ui.pr": 106
                 }
             },
@@ -3358,30 +3358,30 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1694,
+        "contributions": 1706,
         "repositories": {
             "PrestaShop": 897,
             "PrestaShop-webservice-lib": 1,
-            "dashactivity": 6,
-            "dashgoals": 2,
-            "dashproducts": 5,
-            "dashtrends": 6,
-            "graphnvd3": 2,
-            "gridhtml": 2,
-            "pagesnotfound": 4,
+            "dashactivity": 7,
+            "dashgoals": 3,
+            "dashproducts": 6,
+            "dashtrends": 7,
+            "graphnvd3": 3,
+            "gridhtml": 3,
+            "pagesnotfound": 5,
             "statsbestcustomers": 1,
             "statsbestmanufacturers": 1,
             "statscarrier": 1,
             "statsproduct": 1,
-            "blockwishlist": 20,
-            "productcomments": 6,
+            "blockwishlist": 21,
+            "productcomments": 7,
             "autoupgrade": 37,
-            "gsitemap": 4,
+            "gsitemap": 5,
             "prestashop.github.io": 9,
             "docker": 7,
-            "contactform": 3,
+            "contactform": 4,
             "prestashop-ui-kit": 1,
-            "blockreassurance": 41,
+            "blockreassurance": 42,
             "ps_sharebuttons": 5,
             "ps_linklist": 3,
             "ps_contactinfo": 4,
@@ -3473,25 +3473,25 @@
                 }
             },
             "modules": {
-                "total": 287,
+                "total": 299,
                 "repositories": {
-                    "dashactivity": 6,
-                    "dashgoals": 2,
-                    "dashproducts": 5,
-                    "dashtrends": 6,
-                    "graphnvd3": 2,
-                    "gridhtml": 2,
-                    "pagesnotfound": 4,
+                    "dashactivity": 7,
+                    "dashgoals": 3,
+                    "dashproducts": 6,
+                    "dashtrends": 7,
+                    "graphnvd3": 3,
+                    "gridhtml": 3,
+                    "pagesnotfound": 5,
                     "statsbestcustomers": 1,
                     "statsbestmanufacturers": 1,
                     "statscarrier": 1,
                     "statsproduct": 1,
-                    "blockwishlist": 20,
-                    "productcomments": 6,
+                    "blockwishlist": 21,
+                    "productcomments": 7,
                     "autoupgrade": 37,
-                    "gsitemap": 4,
-                    "contactform": 3,
-                    "blockreassurance": 41,
+                    "gsitemap": 5,
+                    "contactform": 4,
+                    "blockreassurance": 42,
                     "ps_sharebuttons": 5,
                     "ps_linklist": 3,
                     "ps_contactinfo": 4,
@@ -51445,5 +51445,5 @@
             }
         }
     },
-    "updatedAt": "2026-07-16 06:52:36"
+    "updatedAt": "2026-07-17 06:48:36"
 }
