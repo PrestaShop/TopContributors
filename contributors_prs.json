@@ -19,8 +19,8 @@
             "dashgoals": 8,
             "dashproducts": 12,
             "dashtrends": 17,
-            "graphnvd3": 7,
-            "gridhtml": 9,
+            "graphnvd3": 8,
+            "gridhtml": 10,
             "pagesnotfound": 4,
             "statsbestcategories": 1,
             "statsbestcustomers": 5,
@@ -40,10 +40,10 @@
             "statssearch": 2,
             "statsstock": 1,
             "blockwishlist": 46,
-            "productcomments": 19,
+            "productcomments": 20,
             "pscleaner": 4,
             "autoupgrade": 27,
-            "gsitemap": 12,
+            "gsitemap": 13,
             "prestashop.github.io": 14,
             "docker": 19,
             "contactform": 8,
@@ -55,7 +55,7 @@
             "ps_customtext": 3,
             "ps_contactinfo": 1,
             "ps_emailsubscription": 8,
-            "ps_banner": 3,
+            "ps_banner": 4,
             "ps_featuredproducts": 4,
             "ps_imageslider": 7,
             "ps_mainmenu": 4,
@@ -266,9 +266,9 @@
                 }
             },
             "modules": {
-                "total": 472,
+                "total": 477,
                 "byYear": {
-                    "2026": 75,
+                    "2026": 80,
                     "2025": 20,
                     "2024": 39,
                     "2023": 29,
@@ -283,8 +283,8 @@
                     "dashgoals": 8,
                     "dashproducts": 12,
                     "dashtrends": 17,
-                    "graphnvd3": 7,
-                    "gridhtml": 9,
+                    "graphnvd3": 8,
+                    "gridhtml": 10,
                     "pagesnotfound": 4,
                     "statsbestcategories": 1,
                     "statsbestcustomers": 5,
@@ -304,10 +304,10 @@
                     "statssearch": 2,
                     "statsstock": 1,
                     "blockwishlist": 46,
-                    "productcomments": 19,
+                    "productcomments": 20,
                     "pscleaner": 4,
                     "autoupgrade": 27,
-                    "gsitemap": 12,
+                    "gsitemap": 13,
                     "contactform": 8,
                     "blockreassurance": 39,
                     "ps_sharebuttons": 4,
@@ -316,7 +316,7 @@
                     "ps_customtext": 3,
                     "ps_contactinfo": 1,
                     "ps_emailsubscription": 8,
-                    "ps_banner": 3,
+                    "ps_banner": 4,
                     "ps_featuredproducts": 4,
                     "ps_imageslider": 7,
                     "ps_mainmenu": 4,
@@ -377,11 +377,11 @@
                         "2020": 4
                     },
                     "graphnvd3": {
-                        "2026": 5,
+                        "2026": 6,
                         "2022": 2
                     },
                     "gridhtml": {
-                        "2026": 5,
+                        "2026": 6,
                         "2022": 2,
                         "2020": 2
                     },
@@ -456,7 +456,7 @@
                         "2021": 2
                     },
                     "productcomments": {
-                        "2026": 2,
+                        "2026": 3,
                         "2022": 3,
                         "2021": 9,
                         "2020": 5
@@ -474,7 +474,7 @@
                         "2020": 3
                     },
                     "gsitemap": {
-                        "2026": 4,
+                        "2026": 5,
                         "2023": 1,
                         "2022": 2,
                         "2021": 1,
@@ -519,7 +519,7 @@
                         "2019": 3
                     },
                     "ps_banner": {
-                        "2026": 1,
+                        "2026": 2,
                         "2022": 2
                     },
                     "ps_featuredproducts": {
@@ -833,9 +833,9 @@
                 }
             }
         },
-        "mergedPullRequests": 2424,
+        "mergedPullRequests": 2429,
         "mergedPullRequestsByYear": {
-            "2026": 235,
+            "2026": 240,
             "2025": 445,
             "2024": 479,
             "2023": 348,
@@ -883,11 +883,11 @@
                 "2020": 4
             },
             "graphnvd3": {
-                "2026": 5,
+                "2026": 6,
                 "2022": 2
             },
             "gridhtml": {
-                "2026": 5,
+                "2026": 6,
                 "2022": 2,
                 "2020": 2
             },
@@ -962,7 +962,7 @@
                 "2021": 2
             },
             "productcomments": {
-                "2026": 2,
+                "2026": 3,
                 "2022": 3,
                 "2021": 9,
                 "2020": 5
@@ -980,7 +980,7 @@
                 "2020": 3
             },
             "gsitemap": {
-                "2026": 4,
+                "2026": 5,
                 "2023": 1,
                 "2022": 2,
                 "2021": 1,
@@ -1040,7 +1040,7 @@
                 "2019": 3
             },
             "ps_banner": {
-                "2026": 1,
+                "2026": 2,
                 "2022": 2
             },
             "ps_featuredproducts": {
@@ -1324,9 +1324,9 @@
                 "2024": 160
             }
         },
-        "reviews": 7175,
+        "reviews": 7177,
         "reviewsByYear": {
-            "2026": 664,
+            "2026": 666,
             "2025": 801,
             "2024": 703,
             "2023": 509,
@@ -1346,9 +1346,9 @@
             "2020": 24,
             "2019": 4
         },
-        "pullRequestsOpened": 2510,
+        "pullRequestsOpened": 2515,
         "pullRequestsOpenedByYear": {
-            "2026": 234,
+            "2026": 239,
             "2025": 465,
             "2024": 492,
             "2023": 342,
@@ -15068,7 +15068,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1706,
+        "contributions": 1711,
         "repositories": {
             "PrestaShop": 154,
             "dashactivity": 2,
@@ -15473,17 +15473,17 @@
                 "2026": 5
             }
         },
-        "reviews": 2202,
+        "reviews": 2207,
         "reviewsByYear": {
-            "2026": 298,
+            "2026": 303,
             "2025": 581,
             "2024": 482,
             "2023": 653,
             "2022": 188
         },
-        "issuesOpened": 22,
+        "issuesOpened": 23,
         "issuesOpenedByYear": {
-            "2026": 2,
+            "2026": 3,
             "2025": 3,
             "2024": 6,
             "2023": 2,
@@ -22979,9 +22979,9 @@
                 "2026": 8
             }
         },
-        "reviews": 307,
+        "reviews": 308,
         "reviewsByYear": {
-            "2026": 238,
+            "2026": 239,
             "2025": 60,
             "2024": 9
         },
@@ -22991,9 +22991,9 @@
             "2025": 15,
             "2024": 8
         },
-        "pullRequestsOpened": 164,
+        "pullRequestsOpened": 167,
         "pullRequestsOpenedByYear": {
-            "2026": 96,
+            "2026": 99,
             "2025": 49,
             "2024": 19
         }
@@ -29615,9 +29615,9 @@
                 "2025": 1
             }
         },
-        "reviews": 35,
+        "reviews": 36,
         "reviewsByYear": {
-            "2026": 18,
+            "2026": 19,
             "2025": 17
         },
         "issuesOpened": 1,
@@ -102177,5 +102177,5 @@
             "2026": 1
         }
     },
-    "updatedAt": "2026-07-17T07:09:44+00:00"
+    "updatedAt": "2026-07-18T06:57:42+00:00"
 }

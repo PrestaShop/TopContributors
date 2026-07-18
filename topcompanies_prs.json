@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-07-17T07:09:44+00:00",
+    "updatedAt": "2026-07-18T06:57:42+00:00",
     "community": {
         "name": "Open Source Community",
         "slug": "open-source-community",
@@ -223,7 +223,7 @@
                 "2014": 391,
                 "2013": 24
             },
-            "pull_requests_percent": 60.53,
+            "pull_requests_percent": 60.52,
             "contributions": 81410,
             "contributions_by_version": {
                 "9.3": 2,
@@ -408,7 +408,7 @@
                 "2020": 35,
                 "2019": 4
             },
-            "contributions_percent": 3.76,
+            "contributions_percent": 3.75,
             "avatar_url": "https:\/\/www.trendo.cz\/img\/logos\/logo_square_400_inverted.png",
             "html_url": "https:\/\/www.trendo.cz",
             "contributors": [
@@ -686,7 +686,7 @@
             "rank": 7,
             "rank_contributions": 9,
             "rank_pull_requests": 7,
-            "merged_pull_requests": 148,
+            "merged_pull_requests": 153,
             "merged_pull_requests_by_version": {
                 "9.2": 3,
                 "9.1": 10,
@@ -695,13 +695,13 @@
                 "8.1": 1
             },
             "merged_pull_requests_by_year": {
-                "2026": 81,
+                "2026": 86,
                 "2025": 65,
                 "2024": 1,
                 "2023": 1
             },
-            "pull_requests_percent": 0.51,
-            "contributions": 181,
+            "pull_requests_percent": 0.53,
+            "contributions": 186,
             "contributions_by_version": {
                 "9.2": 3,
                 "9.1": 11,
@@ -710,12 +710,12 @@
                 "8.1": 1
             },
             "contributions_by_year": {
-                "2026": 111,
+                "2026": 116,
                 "2025": 67,
                 "2024": 1,
                 "2023": 2
             },
-            "contributions_percent": 0.14,
+            "contributions_percent": 0.15,
             "avatar_url": "https:\/\/lefevre.dev\/progi1984.png",
             "html_url": "https:\/\/lefevre.dev\/",
             "contributors": [
