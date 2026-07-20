@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11038,
+        "contributions": 11039,
         "repositories": {
             "PrestaShop": 1204,
             "PrestaShop-modules": 2,
@@ -1324,9 +1324,9 @@
                 "2024": 160
             }
         },
-        "reviews": 7177,
+        "reviews": 7178,
         "reviewsByYear": {
-            "2026": 666,
+            "2026": 667,
             "2025": 801,
             "2024": 703,
             "2023": 509,
@@ -5304,9 +5304,9 @@
                 "2025": 1
             }
         },
-        "reviews": 1349,
+        "reviews": 1350,
         "reviewsByYear": {
-            "2026": 223,
+            "2026": 224,
             "2025": 337,
             "2024": 310,
             "2023": 331,
@@ -15473,9 +15473,9 @@
                 "2026": 5
             }
         },
-        "reviews": 2207,
+        "reviews": 2212,
         "reviewsByYear": {
-            "2026": 303,
+            "2026": 308,
             "2025": 581,
             "2024": 482,
             "2023": 653,
@@ -15808,9 +15808,9 @@
             "2024": 3,
             "2023": 2
         },
-        "pullRequestsOpened": 239,
+        "pullRequestsOpened": 240,
         "pullRequestsOpenedByYear": {
-            "2026": 55,
+            "2026": 56,
             "2025": 92,
             "2024": 78,
             "2023": 14
@@ -17048,9 +17048,9 @@
                 "2025": 9
             }
         },
-        "reviews": 464,
+        "reviews": 465,
         "reviewsByYear": {
-            "2026": 170,
+            "2026": 171,
             "2025": 293,
             "2023": 1
         },
@@ -17064,9 +17064,9 @@
             "2020": 1,
             "2019": 5
         },
-        "pullRequestsOpened": 290,
+        "pullRequestsOpened": 291,
         "pullRequestsOpenedByYear": {
-            "2026": 89,
+            "2026": 90,
             "2025": 137,
             "2024": 35,
             "2023": 23,
@@ -22685,7 +22685,7 @@
         "location": "La Roche sur Yon",
         "bio": null,
         "email_domain": "",
-        "contributions": 466,
+        "contributions": 468,
         "repositories": {
             "PrestaShop": 55,
             "dashproducts": 1,
@@ -22708,7 +22708,7 @@
             "classic-theme": 3,
             "ps_distributionapiclient": 9,
             "zip-archives": 1,
-            "ps_apiresources": 4,
+            "ps_apiresources": 5,
             "ui-testing-library": 8
         },
         "categories": {
@@ -22776,9 +22776,9 @@
                 }
             },
             "modules": {
-                "total": 29,
+                "total": 30,
                 "byYear": {
-                    "2026": 18,
+                    "2026": 19,
                     "2025": 11
                 },
                 "repositories": {
@@ -22792,7 +22792,7 @@
                     "ps_facetedsearch": 1,
                     "ps_googleanalytics": 2,
                     "ps_distributionapiclient": 9,
-                    "ps_apiresources": 4
+                    "ps_apiresources": 5
                 },
                 "repositoriesByYear": {
                     "dashproducts": {
@@ -22826,7 +22826,7 @@
                         "2025": 9
                     },
                     "ps_apiresources": {
-                        "2026": 3,
+                        "2026": 4,
                         "2025": 1
                     }
                 }
@@ -22897,9 +22897,9 @@
                 }
             }
         },
-        "mergedPullRequests": 115,
+        "mergedPullRequests": 116,
         "mergedPullRequestsByYear": {
-            "2026": 63,
+            "2026": 64,
             "2025": 40,
             "2024": 12
         },
@@ -22972,7 +22972,7 @@
                 "2025": 1
             },
             "ps_apiresources": {
-                "2026": 3,
+                "2026": 4,
                 "2025": 1
             },
             "ui-testing-library": {
@@ -102177,5 +102177,5 @@
             "2026": 1
         }
     },
-    "updatedAt": "2026-07-19T07:12:41+00:00"
+    "updatedAt": "2026-07-20T09:29:37+00:00"
 }

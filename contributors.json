@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11038,
+        "contributions": 11039,
         "repositories": {
             "PrestaShop": 4614,
             "PrestaShop-modules": 31,
@@ -136,7 +136,7 @@
             "ps_fixturescreator": 11,
             "ws-client": 25,
             "ps_apiresources": 5,
-            "ui-testing-library": 1316
+            "ui-testing-library": 1317
         },
         "categories": {
             "core": {
@@ -290,9 +290,9 @@
                 }
             },
             "tests": {
-                "total": 1422,
+                "total": 1423,
                 "repositories": {
-                    "ui-testing-library": 1316,
+                    "ui-testing-library": 1317,
                     "ga.tests.ui.pr": 106
                 }
             },
@@ -6992,7 +6992,7 @@
         "location": "La Roche sur Yon",
         "bio": null,
         "email_domain": "",
-        "contributions": 466,
+        "contributions": 468,
         "repositories": {
             "PrestaShop": 247,
             "dashproducts": 2,
@@ -7014,7 +7014,7 @@
             "distribution-api": 2,
             "classic-theme": 9,
             "zip-archives": 2,
-            "ps_apiresources": 25,
+            "ps_apiresources": 27,
             "ui-testing-library": 11
         },
         "categories": {
@@ -7043,7 +7043,7 @@
                 }
             },
             "modules": {
-                "total": 90,
+                "total": 92,
                 "repositories": {
                     "dashproducts": 2,
                     "pagesnotfound": 10,
@@ -7054,7 +7054,7 @@
                     "ps_emailsubscription": 7,
                     "ps_facetedsearch": 9,
                     "ps_googleanalytics": 9,
-                    "ps_apiresources": 25
+                    "ps_apiresources": 27
                 }
             },
             "tools": {
@@ -51445,5 +51445,5 @@
             }
         }
     },
-    "updatedAt": "2026-07-19 06:53:42"
+    "updatedAt": "2026-07-20 09:08:10"
 }
