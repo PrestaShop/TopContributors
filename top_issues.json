@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-07-20T09:53:22+00:00",
+    "updatedAt": "2026-07-21T07:51:30+00:00",
     "items": [
         {
             "rank": 1,
@@ -448,9 +448,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 78,
+            "count": 79,
             "countByYear": {
-                "2026": 23,
+                "2026": 24,
                 "2025": 28,
                 "2024": 10,
                 "2023": 9,
@@ -621,6 +621,19 @@
         },
         {
             "rank": 41,
+            "login": "mattgoud",
+            "name": "Matthias Goudjil",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
+            "html_url": "https:\/\/github.com\/mattgoud",
+            "count": 62,
+            "countByYear": {
+                "2026": 39,
+                "2025": 15,
+                "2024": 8
+            }
+        },
+        {
+            "rank": 42,
             "login": "LouiseBonnard",
             "name": "LouiseBonnard",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/32565890?v=4",
@@ -631,19 +644,6 @@
                 "2020": 29,
                 "2019": 25,
                 "2018": 4
-            }
-        },
-        {
-            "rank": 42,
-            "login": "mattgoud",
-            "name": "Matthias Goudjil",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
-            "html_url": "https:\/\/github.com\/mattgoud",
-            "count": 61,
-            "countByYear": {
-                "2026": 38,
-                "2025": 15,
-                "2024": 8
             }
         },
         {
@@ -22060,7 +22060,7 @@
         {
             "rank": 1840,
             "login": "Bredamcguigan",
-            "name": "Bredamcguigan",
+            "name": "Breda McGuigan",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/21332609?v=4",
             "html_url": "https:\/\/github.com\/Bredamcguigan",
             "count": 1,
@@ -31763,7 +31763,7 @@
             "rank": 2722,
             "login": "Studio3Points",
             "name": "Studio 3 Points",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/42969476?u=7c003d25c2feb66267c87c41f0fe40753b1caa9b&v=4",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/42969476?u=0594b68db887da37f617accf6641d9ec1f7e7d71&v=4",
             "html_url": "https:\/\/github.com\/Studio3Points",
             "count": 1,
             "countByYear": {
