@@ -1,4 +1,4 @@
-import { inject, provide, ref, watch, type InjectionKey, type Ref } from 'vue'
+import { inject, onMounted, provide, ref, watch, type InjectionKey, type Ref } from 'vue'
 import type { Period } from '@/types'
 
 export const PERIOD_KEY: InjectionKey<Ref<Period>> = Symbol('period')
@@ -26,11 +26,14 @@ export function parsePeriodParam(raw: string | null): Period {
 }
 
 export function providePeriod(): Ref<Period> {
-  const initial = typeof window !== 'undefined'
-    ? parsePeriodParam(new URL(window.location.href).searchParams.get('period'))
-    : DEFAULT
+  // Start with DEFAULT on both server and client so hydration classes match.
+  // The URL query param is applied post-mount to avoid Vue's hydration mismatch,
+  // which for class attributes freezes the SSR value in place.
+  const period = ref<Period>(DEFAULT)
 
-  const period = ref<Period>(initial)
+  onMounted(() => {
+    period.value = parsePeriodParam(new URL(window.location.href).searchParams.get('period'))
+  })
 
   if (typeof window !== 'undefined') {
     watch(period, (next) => {
