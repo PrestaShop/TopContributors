@@ -14,17 +14,18 @@ defineProps<{ vm: EntityDetailVM, yearsActive: number }>()
       <strong>{{ vm.kpis.mergedPr }}</strong>
       <span>Merged PRs</span>
     </div>
-    <!-- Opened PRs / Merge rate: contributors only. For companies, openedPr === mergedPr
-         (see useEntityDetail.ts) so the merge rate would always show 100%, misleading. -->
+    <!-- Opened PRs / Merge rate only make sense when we actually have opened-PR
+         data. Legacy scalar snapshots and edge-case entities (e.g. zero-activity
+         contributors) get these tiles hidden rather than showing "0% Merge rate". -->
     <div
-      v-if="vm.entityType === 'contributor'"
+      v-if="vm.kpis.openedPr > 0"
       class="wof-detail-kpi"
     >
       <strong>{{ vm.kpis.openedPr }}</strong>
       <span>Opened PRs</span>
     </div>
     <div
-      v-if="vm.entityType === 'contributor'"
+      v-if="vm.kpis.openedPr > 0"
       class="wof-detail-kpi"
     >
       <strong>{{ vm.kpis.mergeRate }}%</strong>

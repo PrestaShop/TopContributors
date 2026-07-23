@@ -16,25 +16,21 @@ const props = defineProps<{
   updatedYear: number
 }>()
 
+function inPeriod(y: number): boolean {
+  if (props.period.kind === 'sinceStart') return true
+  if (props.period.kind === 'thisYear') return y === props.updatedYear
+  if (props.period.kind === 'lastYear') return y === props.updatedYear - 1
+  return y >= props.updatedYear - props.period.n + 1 && y <= props.updatedYear
+}
+
 const years = computed(() => {
   const set = new Set<string>([
     ...Object.keys(props.series.mergedPullRequests),
     ...Object.keys(props.series.reviews),
     ...Object.keys(props.series.issuesOpened),
   ])
-  return [...set].sort()
+  return [...set].filter(y => inPeriod(Number(y))).sort()
 })
-
-function isActive(year: string): boolean {
-  const y = Number(year)
-  if (props.period.kind === 'sinceStart') return true
-  if (props.period.kind === 'lastYear') return y === props.updatedYear
-  return y >= props.updatedYear - props.period.n + 1 && y <= props.updatedYear
-}
-
-function color(base: string, active: boolean): string {
-  return active ? base : base + '55'
-}
 
 const data = computed(() => ({
   labels: years.value,
@@ -42,17 +38,17 @@ const data = computed(() => ({
     {
       label: 'Merged PRs',
       data: years.value.map(y => props.series.mergedPullRequests[y] ?? 0),
-      backgroundColor: years.value.map(y => color('#6366f1', isActive(y))),
+      backgroundColor: '#6366f1',
     },
     {
       label: 'Reviews',
       data: years.value.map(y => props.series.reviews[y] ?? 0),
-      backgroundColor: years.value.map(y => color('#22c55e', isActive(y))),
+      backgroundColor: '#22c55e',
     },
     {
       label: 'Issues',
       data: years.value.map(y => props.series.issuesOpened[y] ?? 0),
-      backgroundColor: years.value.map(y => color('#f59e0b', isActive(y))),
+      backgroundColor: '#f59e0b',
     },
   ],
 }))
