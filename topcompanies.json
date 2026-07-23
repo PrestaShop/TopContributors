@@ -5,7 +5,7 @@
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 8486,
+        "merged_pull_requests": 8488,
         "merged_pull_requests_by_version": {
             "9.3": 3,
             "9.2": 85,
@@ -26,7 +26,7 @@
             "1.6.1": 273
         },
         "merged_pull_requests_by_year": {
-            "2026": 344,
+            "2026": 346,
             "2025": 437,
             "2024": 536,
             "2023": 675,
@@ -42,8 +42,8 @@
             "2013": 525,
             "2012": 32
         },
-        "pull_requests_percent": 29.47,
-        "contributions": 35390,
+        "pull_requests_percent": 29.46,
+        "contributions": 35392,
         "contributions_by_version": {
             "9.3": 4,
             "9.2": 681,
@@ -64,7 +64,7 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 2385,
+            "2026": 2387,
             "2025": 2111,
             "2024": 2673,
             "2023": 3579,
@@ -80,7 +80,7 @@
             "2013": 1031,
             "2012": 56
         },
-        "contributions_percent": 28.24,
+        "contributions_percent": 28.22,
         "avatar_url": "",
         "html_url": "https:\/\/www.prestashop-project.org",
         "contributors": [
@@ -187,11 +187,11 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 17417,
+            "merged_pull_requests": 17420,
             "merged_pull_requests_by_version": {
                 "9.3": 3,
                 "9.2": 142,
-                "9.1": 214,
+                "9.1": 215,
                 "9.0": 997,
                 "8.2": 31,
                 "8.1": 469,
@@ -208,7 +208,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 783,
+                "2026": 786,
                 "2025": 1247,
                 "2024": 1290,
                 "2023": 1572,
@@ -223,12 +223,12 @@
                 "2014": 391,
                 "2013": 24
             },
-            "pull_requests_percent": 60.48,
-            "contributions": 81552,
+            "pull_requests_percent": 60.45,
+            "contributions": 81634,
             "contributions_by_version": {
                 "9.3": 3,
                 "9.2": 966,
-                "9.1": 2166,
+                "9.1": 2167,
                 "9.0": 3981,
                 "8.2": 77,
                 "8.1": 2936,
@@ -245,7 +245,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 3331,
+                "2026": 3413,
                 "2025": 4879,
                 "2024": 5067,
                 "2023": 6413,
@@ -260,7 +260,7 @@
                 "2014": 786,
                 "2013": 36
             },
-            "contributions_percent": 65.09,
+            "contributions_percent": 65.1,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2815696?s=200&v=4",
             "html_url": "https:\/\/www.prestashop.com",
             "contributors": [
@@ -992,7 +992,7 @@
             "rank": 2,
             "rank_contributions": 2,
             "rank_pull_requests": 2,
-            "merged_pull_requests": 948,
+            "merged_pull_requests": 949,
             "merged_pull_requests_by_version": {
                 "9.2": 10,
                 "9.1": 15,
@@ -1004,7 +1004,7 @@
                 "1.7.7": 5
             },
             "merged_pull_requests_by_year": {
-                "2026": 67,
+                "2026": 68,
                 "2025": 142,
                 "2024": 192,
                 "2023": 387,
@@ -1014,7 +1014,7 @@
                 "2019": 3
             },
             "pull_requests_percent": 3.29,
-            "contributions": 4698,
+            "contributions": 4699,
             "contributions_by_version": {
                 "9.2": 14,
                 "9.1": 23,
@@ -1026,7 +1026,7 @@
                 "1.7.7": 6
             },
             "contributions_by_year": {
-                "2026": 154,
+                "2026": 155,
                 "2025": 529,
                 "2024": 634,
                 "2023": 2222,
@@ -1060,7 +1060,7 @@
             "rank": 3,
             "rank_contributions": 3,
             "rank_pull_requests": 3,
-            "merged_pull_requests": 469,
+            "merged_pull_requests": 470,
             "merged_pull_requests_by_version": {
                 "9.3": 2,
                 "9.2": 5,
@@ -1074,7 +1074,7 @@
                 "1.6.1": 1
             },
             "merged_pull_requests_by_year": {
-                "2026": 42,
+                "2026": 43,
                 "2025": 56,
                 "2024": 28,
                 "2023": 14,
@@ -1090,7 +1090,7 @@
                 "2012": 13
             },
             "pull_requests_percent": 1.63,
-            "contributions": 679,
+            "contributions": 680,
             "contributions_by_version": {
                 "9.3": 4,
                 "9.2": 16,
@@ -1104,7 +1104,7 @@
                 "1.6.1": 1
             },
             "contributions_by_year": {
-                "2026": 100,
+                "2026": 101,
                 "2025": 79,
                 "2024": 31,
                 "2023": 21,
@@ -1362,7 +1362,7 @@
                 "2024": 32,
                 "2023": 11
             },
-            "contributions_percent": 0.25,
+            "contributions_percent": 0.24,
             "avatar_url": "https:\/\/www.codencode.it\/codencode-github-logo.jpg",
             "html_url": "https:\/\/www.codencode.it",
             "contributors": [
@@ -1418,10 +1418,55 @@
             "employees": []
         },
         {
-            "name": "Friends of Presta",
-            "slug": "friends-of-presta",
+            "name": "Franck Lef\u00e8vre",
+            "slug": "franck-lefevre",
             "rank": 8,
             "rank_contributions": 8,
+            "rank_pull_requests": 7,
+            "merged_pull_requests": 169,
+            "merged_pull_requests_by_version": {
+                "9.3": 1,
+                "9.2": 3,
+                "9.1": 10,
+                "9.0": 42,
+                "8.2": 2,
+                "8.1": 1
+            },
+            "merged_pull_requests_by_year": {
+                "2026": 102,
+                "2025": 65,
+                "2024": 1,
+                "2023": 1
+            },
+            "pull_requests_percent": 0.59,
+            "contributions": 202,
+            "contributions_by_version": {
+                "9.3": 1,
+                "9.2": 3,
+                "9.1": 11,
+                "9.0": 42,
+                "8.2": 2,
+                "8.1": 1
+            },
+            "contributions_by_year": {
+                "2026": 132,
+                "2025": 67,
+                "2024": 1,
+                "2023": 2
+            },
+            "contributions_percent": 0.16,
+            "avatar_url": "https:\/\/lefevre.dev\/progi1984.png",
+            "html_url": "https:\/\/lefevre.dev\/",
+            "contributors": [
+                "Progi1984"
+            ],
+            "employees": []
+        },
+        {
+            "name": "Friends of Presta",
+            "slug": "friends-of-presta",
+            "rank": 9,
+            "rank_contributions": 9,
             "rank_pull_requests": 12,
             "merged_pull_requests": 57,
             "merged_pull_requests_by_version": {
@@ -1492,51 +1537,6 @@
                     ]
                 }
             ]
-        },
-        {
-            "name": "Franck Lef\u00e8vre",
-            "slug": "franck-lefevre",
-            "rank": 9,
-            "rank_contributions": 9,
-            "rank_pull_requests": 7,
-            "merged_pull_requests": 160,
-            "merged_pull_requests_by_version": {
-                "9.3": 1,
-                "9.2": 3,
-                "9.1": 10,
-                "9.0": 42,
-                "8.2": 2,
-                "8.1": 1
-            },
-            "merged_pull_requests_by_year": {
-                "2026": 93,
-                "2025": 65,
-                "2024": 1,
-                "2023": 1
-            },
-            "pull_requests_percent": 0.56,
-            "contributions": 193,
-            "contributions_by_version": {
-                "9.3": 1,
-                "9.2": 3,
-                "9.1": 11,
-                "9.0": 42,
-                "8.2": 2,
-                "8.1": 1
-            },
-            "contributions_by_year": {
-                "2026": 123,
-                "2025": 67,
-                "2024": 1,
-                "2023": 2
-            },
-            "contributions_percent": 0.15,
-            "avatar_url": "https:\/\/lefevre.dev\/progi1984.png",
-            "html_url": "https:\/\/lefevre.dev\/",
-            "contributors": [
-                "Progi1984"
-            ],
-            "employees": []
         },
         {
             "name": "202 ecommerce",

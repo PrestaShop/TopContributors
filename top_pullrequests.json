@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-07-23T07:53:41+00:00",
+    "updatedAt": "2026-07-23T15:26:31+00:00",
     "items": [
         {
             "rank": 1,
@@ -7,9 +7,9 @@
             "name": "Progi1984",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1533248?v=4",
             "html_url": "https:\/\/github.com\/Progi1984",
-            "count": 2531,
+            "count": 2537,
             "countByYear": {
-                "2026": 255,
+                "2026": 261,
                 "2025": 465,
                 "2024": 492,
                 "2023": 342,
@@ -86,9 +86,9 @@
             "name": "Daniel Hlav\u00e1\u010dek",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6097524?v=4",
             "html_url": "https:\/\/github.com\/Hlavtox",
-            "count": 1071,
+            "count": 1072,
             "countByYear": {
-                "2026": 67,
+                "2026": 68,
                 "2025": 156,
                 "2024": 206,
                 "2023": 435,
@@ -138,9 +138,9 @@
             "name": "Jonathan Danse",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2631425?v=4",
             "html_url": "https:\/\/github.com\/PrestaEdit",
-            "count": 866,
+            "count": 869,
             "countByYear": {
-                "2026": 235,
+                "2026": 238,
                 "2025": 79,
                 "2024": 38,
                 "2023": 16,
@@ -412,9 +412,9 @@
             "name": "Nicolas L\u0153uillet",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/121870?v=4",
             "html_url": "https:\/\/github.com\/nicosomb",
-            "count": 332,
+            "count": 333,
             "countByYear": {
-                "2026": 73,
+                "2026": 74,
                 "2025": 85,
                 "2024": 76,
                 "2023": 65,
@@ -443,9 +443,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 292,
+            "count": 293,
             "countByYear": {
-                "2026": 91,
+                "2026": 92,
                 "2025": 137,
                 "2024": 35,
                 "2023": 23,
@@ -529,9 +529,9 @@
             "name": "Blivet Thibault",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/110676325?v=4",
             "html_url": "https:\/\/github.com\/tblivet",
-            "count": 240,
+            "count": 241,
             "countByYear": {
-                "2026": 56,
+                "2026": 57,
                 "2025": 92,
                 "2024": 78,
                 "2023": 14
@@ -948,6 +948,21 @@
         },
         {
             "rank": 64,
+            "login": "ShaiMagal",
+            "name": "Dominik Shaim Ulrich",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8518736?v=4",
+            "html_url": "https:\/\/github.com\/ShaiMagal",
+            "count": 91,
+            "countByYear": {
+                "2026": 2,
+                "2025": 27,
+                "2024": 37,
+                "2023": 24,
+                "2022": 1
+            }
+        },
+        {
+            "rank": 65,
             "login": "JevgenijVisockij",
             "name": "JevgenijVisockij",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/47781757?v=4",
@@ -959,21 +974,6 @@
                 "2021": 21,
                 "2020": 51,
                 "2019": 1
-            }
-        },
-        {
-            "rank": 65,
-            "login": "ShaiMagal",
-            "name": "Dominik Shaim Ulrich",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8518736?v=4",
-            "html_url": "https:\/\/github.com\/ShaiMagal",
-            "count": 90,
-            "countByYear": {
-                "2026": 1,
-                "2025": 27,
-                "2024": 37,
-                "2023": 24,
-                "2022": 1
             }
         },
         {
