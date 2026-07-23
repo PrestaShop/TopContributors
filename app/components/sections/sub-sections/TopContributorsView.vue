@@ -133,15 +133,17 @@ const { currentContributor, isModalOpen, openModal, closeModal } = useContributo
         <a
           :href="item.html_url as string"
           target="_blank"
-          aria-label="Open GitHub profile in a new tab"
+          :aria-label="`Open ${item.login} GitHub profile in a new tab`"
           rel="noopener noreferrer"
         >
           <puik-button
             variant="text"
             force-legacy-text-variant
             right-icon="open_in_new"
-            aria-label="Open GitHub profile in a new tab"
-          />
+            :aria-label="`Open ${item.login} GitHub profile in a new tab`"
+          >
+            <span class="sr-only">{{ item.login }}</span>
+          </puik-button>
         </a>
         <NuxtLink
           :to="`/contributor/${(item.login as string).toLowerCase()}`"
