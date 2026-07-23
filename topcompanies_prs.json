@@ -1,15 +1,15 @@
 {
-    "updatedAt": "2026-07-22T07:18:47+00:00",
+    "updatedAt": "2026-07-23T07:34:36+00:00",
     "community": {
         "name": "Open Source Community",
         "slug": "open-source-community",
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 8483,
+        "merged_pull_requests": 8486,
         "merged_pull_requests_by_version": {
             "9.3": 3,
-            "9.2": 84,
+            "9.2": 85,
             "9.1": 114,
             "9.0": 445,
             "8.2": 27,
@@ -27,7 +27,7 @@
             "1.6.1": 273
         },
         "merged_pull_requests_by_year": {
-            "2026": 341,
+            "2026": 344,
             "2025": 437,
             "2024": 536,
             "2023": 675,
@@ -44,10 +44,10 @@
             "2012": 32
         },
         "pull_requests_percent": 29.47,
-        "contributions": 35383,
+        "contributions": 35390,
         "contributions_by_version": {
             "9.3": 4,
-            "9.2": 676,
+            "9.2": 681,
             "9.1": 1137,
             "9.0": 3078,
             "8.2": 43,
@@ -65,7 +65,7 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 2378,
+            "2026": 2385,
             "2025": 2111,
             "2024": 2673,
             "2023": 3579,
@@ -81,7 +81,7 @@
             "2013": 1031,
             "2012": 56
         },
-        "contributions_percent": 28.25,
+        "contributions_percent": 28.24,
         "avatar_url": "",
         "html_url": "https:\/\/www.prestashop-project.org",
         "contributors": [
@@ -178,7 +178,8 @@
             "paulnoelcholot",
             "florine2623",
             "Progi1984"
-        ]
+        ],
+        "employees": []
     },
     "companies": [
         {
@@ -187,9 +188,9 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 17412,
+            "merged_pull_requests": 17417,
             "merged_pull_requests_by_version": {
-                "9.3": 2,
+                "9.3": 3,
                 "9.2": 142,
                 "9.1": 214,
                 "9.0": 997,
@@ -208,7 +209,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 778,
+                "2026": 783,
                 "2025": 1247,
                 "2024": 1290,
                 "2023": 1572,
@@ -223,10 +224,10 @@
                 "2014": 391,
                 "2013": 24
             },
-            "pull_requests_percent": 60.49,
-            "contributions": 81539,
+            "pull_requests_percent": 60.48,
+            "contributions": 81552,
             "contributions_by_version": {
-                "9.3": 2,
+                "9.3": 3,
                 "9.2": 966,
                 "9.1": 2166,
                 "9.0": 3981,
@@ -245,7 +246,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 3318,
+                "2026": 3331,
                 "2025": 4879,
                 "2024": 5067,
                 "2023": 6413,
@@ -265,8 +266,8 @@
             "html_url": "https:\/\/www.prestashop.com",
             "contributors": [
                 "gRoussac",
-                "Progi1984",
                 "jolelievre",
+                "Progi1984",
                 "nicosomb",
                 "kpodemski",
                 "tleon",
@@ -357,6 +358,633 @@
                 "Alexandre-Lematre",
                 "Clap404",
                 "cdesiles"
+            ],
+            "employees": [
+                {
+                    "login": "0x346e3730",
+                    "time_frames": [
+                        {
+                            "start_date": "2022-10-03",
+                            "end_date": "2023-06-30"
+                        }
+                    ]
+                },
+                {
+                    "login": "aleeks",
+                    "time_frames": [
+                        {
+                            "start_date": "2016-09-06",
+                            "end_date": "2017-09-08"
+                        }
+                    ]
+                },
+                {
+                    "login": "aleksiuno",
+                    "time_frames": [
+                        {
+                            "start_date": "2019-06-26",
+                            "end_date": "2023-07-24"
+                        }
+                    ]
+                },
+                {
+                    "login": "AlexEven",
+                    "time_frames": [
+                        {
+                            "start_date": "2014-06-16",
+                            "end_date": "2017-06-10"
+                        }
+                    ]
+                },
+                {
+                    "login": "amaury-hanser",
+                    "time_frames": [
+                        {
+                            "start_date": "2020-11-16",
+                            "end_date": "2023-03-31"
+                        }
+                    ]
+                },
+                {
+                    "login": "Amoifr",
+                    "time_frames": [
+                        {
+                            "start_date": "2022-01-01",
+                            "end_date": "2022-09-30"
+                        }
+                    ]
+                },
+                {
+                    "login": "AntoineMille",
+                    "time_frames": [
+                        {
+                            "start_date": "2016-09-01",
+                            "end_date": "2017-02-28"
+                        }
+                    ]
+                },
+                {
+                    "login": "atomiix",
+                    "time_frames": [
+                        {
+                            "start_date": "2019-10-14",
+                            "end_date": "2023-03-17"
+                        }
+                    ]
+                },
+                {
+                    "login": "boherm",
+                    "time_frames": [
+                        {
+                            "start_date": "2023-03-06",
+                            "end_date": "2026-06-12"
+                        }
+                    ]
+                },
+                {
+                    "login": "boubkerbribri",
+                    "time_frames": [
+                        {
+                            "start_date": "2019-03-10",
+                            "end_date": "2024-02-28"
+                        }
+                    ]
+                },
+                {
+                    "login": "cdesiles",
+                    "time_frames": [
+                        {
+                            "start_date": "2020-07-01",
+                            "end_date": "2025-03-31"
+                        }
+                    ]
+                },
+                {
+                    "login": "coffrep",
+                    "time_frames": [
+                        {
+                            "start_date": "2022-04-04",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "colinegin",
+                    "time_frames": [
+                        {
+                            "start_date": "2015-04-07",
+                            "end_date": "2020-07-17"
+                        }
+                    ]
+                },
+                {
+                    "login": "djodjo3",
+                    "time_frames": [
+                        {
+                            "start_date": "2015-12-07",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "eternoendless",
+                    "time_frames": [
+                        {
+                            "start_date": "2017-05-23",
+                            "end_date": "2023-10-17"
+                        }
+                    ]
+                },
+                {
+                    "login": "FabienPapet",
+                    "time_frames": [
+                        {
+                            "start_date": "2022-07-13",
+                            "end_date": "2023-06-30"
+                        }
+                    ]
+                },
+                {
+                    "login": "florine2623",
+                    "time_frames": [
+                        {
+                            "start_date": "2019-01-03",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "ga-devfront",
+                    "time_frames": [
+                        {
+                            "start_date": "2022-11-07",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "gaillafr",
+                    "time_frames": [
+                        {
+                            "start_date": "2011-11-01",
+                            "end_date": "2016-01-31"
+                        }
+                    ]
+                },
+                {
+                    "login": "gericfo",
+                    "time_frames": [
+                        {
+                            "start_date": "2022-05-09",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "gRoussac",
+                    "time_frames": [
+                        {
+                            "start_date": "2007-08-01",
+                            "end_date": "2009-10-31"
+                        },
+                        {
+                            "start_date": "2012-08-01",
+                            "end_date": "2015-12-01"
+                        }
+                    ]
+                },
+                {
+                    "login": "gskema",
+                    "time_frames": [
+                        {
+                            "start_date": "2014-08-31",
+                            "end_date": "2016-11-06"
+                        }
+                    ]
+                },
+                {
+                    "login": "intraordinaire",
+                    "time_frames": [
+                        {
+                            "start_date": "2021-10-04",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "jnadaud",
+                    "time_frames": [
+                        {
+                            "start_date": "2013-07-15",
+                            "end_date": "2015-09-30"
+                        }
+                    ]
+                },
+                {
+                    "login": "jocel1",
+                    "time_frames": [
+                        {
+                            "start_date": "2015-01-05",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "jolelievre",
+                    "time_frames": [
+                        {
+                            "start_date": "2018-08-01",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "julienbourdeau",
+                    "time_frames": [
+                        {
+                            "start_date": "2014-02-10",
+                            "end_date": "2017-02-17"
+                        }
+                    ]
+                },
+                {
+                    "login": "Julievrz",
+                    "time_frames": [
+                        {
+                            "start_date": "2020-09-01",
+                            "end_date": "2024-08-31"
+                        }
+                    ]
+                },
+                {
+                    "login": "kelu95",
+                    "time_frames": [
+                        {
+                            "start_date": "2015-05-01",
+                            "end_date": "2015-12-31"
+                        }
+                    ]
+                },
+                {
+                    "login": "khouloudbelguith",
+                    "time_frames": [
+                        {
+                            "start_date": "2017-07-01",
+                            "end_date": "2022-11-30"
+                        }
+                    ]
+                },
+                {
+                    "login": "kpodemski",
+                    "time_frames": [
+                        {
+                            "start_date": "2021-07-25",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "l-delin",
+                    "time_frames": [
+                        {
+                            "start_date": "2022-09-12",
+                            "end_date": "2023-09-15"
+                        }
+                    ]
+                },
+                {
+                    "login": "lartist",
+                    "time_frames": [
+                        {
+                            "start_date": "2022-09-05",
+                            "end_date": "2023-08-31"
+                        }
+                    ]
+                },
+                {
+                    "login": "LittleBigDev",
+                    "time_frames": [
+                        {
+                            "start_date": "2017-05-29",
+                            "end_date": "2018-04-27"
+                        }
+                    ]
+                },
+                {
+                    "login": "LouiseBonnard",
+                    "time_frames": [
+                        {
+                            "start_date": "2017-10-06",
+                            "end_date": "2024-09-13"
+                        }
+                    ]
+                },
+                {
+                    "login": "marionf",
+                    "time_frames": [
+                        {
+                            "start_date": "2013-04-11",
+                            "end_date": "2022-02-19"
+                        }
+                    ]
+                },
+                {
+                    "login": "matks",
+                    "time_frames": [
+                        {
+                            "start_date": "2018-06-11",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "MatShir",
+                    "time_frames": [
+                        {
+                            "start_date": "2018-09-17",
+                            "end_date": "2024-05-31"
+                        }
+                    ]
+                },
+                {
+                    "login": "matthieu-rolland",
+                    "time_frames": [
+                        {
+                            "start_date": "2019-07-02",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "Matt75",
+                    "time_frames": [
+                        {
+                            "start_date": "2018-12-03",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "maximebiloe",
+                    "time_frames": [
+                        {
+                            "start_date": "2013-11-20",
+                            "end_date": "2017-09-15"
+                        }
+                    ]
+                },
+                {
+                    "login": "mickaelandrieu",
+                    "time_frames": [
+                        {
+                            "start_date": "2015-12-14",
+                            "end_date": "2020-05-19"
+                        }
+                    ]
+                },
+                {
+                    "login": "mflasquin",
+                    "time_frames": [
+                        {
+                            "start_date": "2022-09-01",
+                            "end_date": "2023-10-01"
+                        }
+                    ]
+                },
+                {
+                    "login": "M0rgan01",
+                    "time_frames": [
+                        {
+                            "start_date": "2023-05-02",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "NeOMakinG",
+                    "time_frames": [
+                        {
+                            "start_date": "2019-11-01",
+                            "end_date": "2023-01-31"
+                        }
+                    ]
+                },
+                {
+                    "login": "nesrineabdmouleh",
+                    "time_frames": [
+                        {
+                            "start_date": "2017-04-12",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "nicosomb",
+                    "time_frames": [
+                        {
+                            "start_date": "2022-09-05",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "pablopolyte",
+                    "time_frames": [
+                        {
+                            "start_date": "2017-09-11",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "PierreRambaud",
+                    "time_frames": [
+                        {
+                            "start_date": "2018-04-01",
+                            "end_date": "2022-04-30"
+                        }
+                    ]
+                },
+                {
+                    "login": "PoulainMaxime",
+                    "time_frames": [
+                        {
+                            "start_date": "2018-09-24",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "Progi1984",
+                    "time_frames": [
+                        {
+                            "start_date": "2019-07-01",
+                            "end_date": "2026-08-12"
+                        }
+                    ]
+                },
+                {
+                    "login": "Quetzacoalt91",
+                    "time_frames": [
+                        {
+                            "start_date": "2014-02-24",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "rGaillard",
+                    "time_frames": [
+                        {
+                            "start_date": "2008-04-01",
+                            "end_date": "2018-09-30"
+                        }
+                    ]
+                },
+                {
+                    "login": "sam-pires",
+                    "time_frames": [
+                        {
+                            "start_date": "2019-02-04",
+                            "end_date": "2020-06-12"
+                        }
+                    ]
+                },
+                {
+                    "login": "sarahdib",
+                    "time_frames": [
+                        {
+                            "start_date": "2011-09-05",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "SD1982",
+                    "time_frames": [
+                        {
+                            "start_date": "2020-02-03",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "Shudrum",
+                    "time_frames": [
+                        {
+                            "start_date": "2015-01-05",
+                            "end_date": "2017-08-25"
+                        }
+                    ]
+                },
+                {
+                    "login": "SimonasB88",
+                    "time_frames": [
+                        {
+                            "start_date": "2019-04-01",
+                            "end_date": "2024-05-31"
+                        }
+                    ]
+                },
+                {
+                    "login": "SimonGrn",
+                    "time_frames": [
+                        {
+                            "start_date": "2019-04-23",
+                            "end_date": "2021-02-26"
+                        }
+                    ]
+                },
+                {
+                    "login": "sfroment",
+                    "time_frames": [
+                        {
+                            "start_date": "2014-06-01",
+                            "end_date": "2015-08-31"
+                        }
+                    ]
+                },
+                {
+                    "login": "tblivet",
+                    "time_frames": [
+                        {
+                            "start_date": "2022-06-21",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "tchauviere",
+                    "time_frames": [
+                        {
+                            "start_date": "2014-03-31",
+                            "end_date": "2016-05-16"
+                        }
+                    ]
+                },
+                {
+                    "login": "thierrymarianne",
+                    "time_frames": [
+                        {
+                            "start_date": "2016-08-01",
+                            "end_date": "2017-04-30"
+                        }
+                    ]
+                },
+                {
+                    "login": "thomasnares",
+                    "time_frames": [
+                        {
+                            "start_date": "2022-09-15",
+                            "end_date": "2023-12-31"
+                        }
+                    ]
+                },
+                {
+                    "login": "tleon",
+                    "time_frames": [
+                        {
+                            "start_date": "2023-04-03",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "ttoine",
+                    "time_frames": [
+                        {
+                            "start_date": "2018-04-01",
+                            "end_date": "2022-05-31"
+                        }
+                    ]
+                },
+                {
+                    "login": "xBorderie",
+                    "time_frames": [
+                        {
+                            "start_date": "2011-05-23",
+                            "end_date": "2017-10-27"
+                        }
+                    ]
+                },
+                {
+                    "login": "tomas862",
+                    "time_frames": [
+                        {
+                            "start_date": "2018-08-22",
+                            "end_date": "2020-02-06"
+                        }
+                    ]
+                },
+                {
+                    "login": "rokaszygmantas",
+                    "time_frames": [
+                        {
+                            "start_date": "2018-04-09",
+                            "end_date": "2020-01-30"
+                        }
+                    ]
+                }
             ]
         },
         {
@@ -414,6 +1042,17 @@
             "contributors": [
                 "Hlavtox",
                 "Quetzacoalt91"
+            ],
+            "employees": [
+                {
+                    "login": "Hlavtox",
+                    "time_frames": [
+                        {
+                            "start_date": "2008-01-01",
+                            "end_date": null
+                        }
+                    ]
+                }
             ]
         },
         {
@@ -422,7 +1061,7 @@
             "rank": 3,
             "rank_contributions": 3,
             "rank_pull_requests": 3,
-            "merged_pull_requests": 466,
+            "merged_pull_requests": 469,
             "merged_pull_requests_by_version": {
                 "9.3": 2,
                 "9.2": 5,
@@ -436,7 +1075,7 @@
                 "1.6.1": 1
             },
             "merged_pull_requests_by_year": {
-                "2026": 39,
+                "2026": 42,
                 "2025": 56,
                 "2024": 28,
                 "2023": 14,
@@ -451,8 +1090,8 @@
                 "2013": 52,
                 "2012": 13
             },
-            "pull_requests_percent": 1.62,
-            "contributions": 673,
+            "pull_requests_percent": 1.63,
+            "contributions": 679,
             "contributions_by_version": {
                 "9.3": 4,
                 "9.2": 16,
@@ -466,7 +1105,7 @@
                 "1.6.1": 1
             },
             "contributions_by_year": {
-                "2026": 94,
+                "2026": 100,
                 "2025": 79,
                 "2024": 31,
                 "2023": 21,
@@ -486,6 +1125,17 @@
             "html_url": "https:\/\/prestaedit.com\/",
             "contributors": [
                 "PrestaEdit"
+            ],
+            "employees": [
+                {
+                    "login": "PrestaEdit",
+                    "time_frames": [
+                        {
+                            "start_date": "2010-08-01",
+                            "end_date": null
+                        }
+                    ]
+                }
             ]
         },
         {
@@ -550,6 +1200,35 @@
                 "jf-viguier",
                 "LaBisquerie",
                 "micka-fdz"
+            ],
+            "employees": [
+                {
+                    "login": "jf-viguier",
+                    "time_frames": [
+                        {
+                            "start_date": "2002-05-01",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "LaBisquerie",
+                    "time_frames": [
+                        {
+                            "start_date": "2021-10-01",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "micka-fdz",
+                    "time_frames": [
+                        {
+                            "start_date": "2015-09-21",
+                            "end_date": "2024-02-04"
+                        }
+                    ]
+                }
             ]
         },
         {
@@ -634,6 +1313,17 @@
             "html_url": "https:\/\/impsolutions.pl\/",
             "contributors": [
                 "kpodemski"
+            ],
+            "employees": [
+                {
+                    "login": "kpodemski",
+                    "time_frames": [
+                        {
+                            "start_date": "2010-07-01",
+                            "end_date": null
+                        }
+                    ]
+                }
             ]
         },
         {
@@ -642,43 +1332,44 @@
             "rank": 6,
             "rank_contributions": 6,
             "rank_pull_requests": 6,
-            "merged_pull_requests": 183,
+            "merged_pull_requests": 188,
             "merged_pull_requests_by_version": {
                 "9.2": 1,
-                "9.1": 32,
+                "9.1": 37,
                 "9.0": 50,
                 "8.2": 32,
                 "8.1": 11,
                 "8.0": 1
             },
             "merged_pull_requests_by_year": {
-                "2026": 73,
+                "2026": 78,
                 "2025": 87,
                 "2024": 16,
                 "2023": 7
             },
-            "pull_requests_percent": 0.64,
-            "contributions": 300,
+            "pull_requests_percent": 0.65,
+            "contributions": 307,
             "contributions_by_version": {
                 "9.2": 1,
-                "9.1": 64,
+                "9.1": 71,
                 "9.0": 73,
                 "8.2": 44,
                 "8.1": 20,
                 "8.0": 2
             },
             "contributions_by_year": {
-                "2026": 129,
+                "2026": 136,
                 "2025": 128,
                 "2024": 32,
                 "2023": 11
             },
-            "contributions_percent": 0.24,
+            "contributions_percent": 0.25,
             "avatar_url": "https:\/\/www.codencode.it\/codencode-github-logo.jpg",
             "html_url": "https:\/\/www.codencode.it",
             "contributors": [
                 "Codencode"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Franck Lef\u00e8vre",
@@ -722,7 +1413,8 @@
             "html_url": "https:\/\/lefevre.dev\/",
             "contributors": [
                 "Progi1984"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "VersusVenture (BusinessTech \/ PrestaModule)",
@@ -791,6 +1483,35 @@
             "contributors": [
                 "hadjedjvincent",
                 "prestamodule"
+            ],
+            "employees": [
+                {
+                    "login": "prestamodule",
+                    "time_frames": [
+                        {
+                            "start_date": "2010-11-01",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "hadjedjvincent",
+                    "time_frames": [
+                        {
+                            "start_date": "2012-03-01",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "ndabene",
+                    "time_frames": [
+                        {
+                            "start_date": "2014-03-01",
+                            "end_date": null
+                        }
+                    ]
+                }
             ]
         },
         {
@@ -837,7 +1558,8 @@
             "html_url": "https:\/\/okom3pom.com",
             "contributors": [
                 "Touxten"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "OpenServis",
@@ -882,6 +1604,17 @@
             "contributors": [
                 "ShaiMagal",
                 "Hlavtox"
+            ],
+            "employees": [
+                {
+                    "login": "ShaiMagal",
+                    "time_frames": [
+                        {
+                            "start_date": "2009-01-01",
+                            "end_date": null
+                        }
+                    ]
+                }
             ]
         },
         {
@@ -944,6 +1677,80 @@
                 "202-ecommerce",
                 "Thomas-lhuillier",
                 "bogdan202"
+            ],
+            "employees": [
+                {
+                    "login": "202-ecommerce",
+                    "time_frames": [
+                        {
+                            "start_date": "2012-01-01",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "artem202",
+                    "time_frames": [
+                        {
+                            "start_date": "2012-01-01",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "bogdan202",
+                    "time_frames": [
+                        {
+                            "start_date": "2020-01-01",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "clotairer",
+                    "time_frames": [
+                        {
+                            "start_date": "2017-09-01",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "denys202",
+                    "time_frames": [
+                        {
+                            "start_date": "2020-01-01",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "kgleizes",
+                    "time_frames": [
+                        {
+                            "start_date": "2020-08-01",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "Thomas-lhuillier",
+                    "time_frames": [
+                        {
+                            "start_date": "2016-01-01",
+                            "end_date": "2019-12-31"
+                        }
+                    ]
+                },
+                {
+                    "login": "zalexki",
+                    "time_frames": [
+                        {
+                            "start_date": "2019-06-01",
+                            "end_date": "2020-09-30"
+                        }
+                    ]
+                }
             ]
         },
         {
@@ -991,6 +1798,35 @@
                 "Touxten",
                 "tom-combet",
                 "LouisAUTHIE"
+            ],
+            "employees": [
+                {
+                    "login": "LouisAUTHIE",
+                    "time_frames": [
+                        {
+                            "start_date": "2016-01-01",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "Kaudaj",
+                    "time_frames": [
+                        {
+                            "start_date": "2016-01-01",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "tom-combet",
+                    "time_frames": [
+                        {
+                            "start_date": "2016-01-01",
+                            "end_date": null
+                        }
+                    ]
+                }
             ]
         },
         {
@@ -1032,7 +1868,8 @@
                 "PululuK",
                 "web-cooking-factory",
                 "Dreimus"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Kiwik",
@@ -1084,6 +1921,53 @@
                 "Jeremie-Kiwik",
                 "studiokiwik",
                 "CedricKiwik"
+            ],
+            "employees": [
+                {
+                    "login": "Baptiste-Kiwik",
+                    "time_frames": [
+                        {
+                            "start_date": "2024-05-01",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "CedricKiwik",
+                    "time_frames": [
+                        {
+                            "start_date": "2024-10-28",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "ivan-kiwik",
+                    "time_frames": [
+                        {
+                            "start_date": "2022-09-05",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "Jeremie-Kiwik",
+                    "time_frames": [
+                        {
+                            "start_date": "2023-01-01",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "studiokiwik",
+                    "time_frames": [
+                        {
+                            "start_date": "2013-06-17",
+                            "end_date": null
+                        }
+                    ]
+                }
             ]
         },
         {
@@ -1125,6 +2009,53 @@
             "contributors": [
                 "alexandrebru83",
                 "PululuK"
+            ],
+            "employees": [
+                {
+                    "login": "KaitaniRiku0",
+                    "time_frames": [
+                        {
+                            "start_date": "2021-09-06",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "AlexisLavigneBeyonds",
+                    "time_frames": [
+                        {
+                            "start_date": "2020-01-16",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "alexandrebrubeyonds",
+                    "time_frames": [
+                        {
+                            "start_date": "2018-07-01",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "eddy-beyonds",
+                    "time_frames": [
+                        {
+                            "start_date": "2018-07-01",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "PululuK",
+                    "time_frames": [
+                        {
+                            "start_date": "2021-07-19",
+                            "end_date": "2022-07-13"
+                        }
+                    ]
+                }
             ]
         },
         {
@@ -1157,7 +2088,8 @@
             "html_url": "https:\/\/www.mademoiselle-bio.com",
             "contributors": [
                 "MattKelvin"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "PrestaWorks",
@@ -1197,7 +2129,8 @@
             "html_url": "https:\/\/www.prestaworks.se\/",
             "contributors": [
                 "Prestaworks"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Soledis",
@@ -1226,7 +2159,8 @@
             "contributors": [
                 "soledis-contributeur",
                 "Quetzacoalt91"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Soci\u00e9t\u00e9 Biblique de Gen\u00e8ve",
@@ -1258,7 +2192,8 @@
             "html_url": "https:\/\/societebiblique.com",
             "contributors": [
                 "lmeyer1"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Axelweb",
@@ -1286,7 +2221,8 @@
             "html_url": "https:\/\/axelweb.fr",
             "contributors": [
                 "axel-paillaud"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Agence Off",
@@ -1320,7 +2256,8 @@
             "html_url": "https:\/\/www.agenceoff.fr",
             "contributors": [
                 "aomaxime"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Prestaplugins",
@@ -1354,7 +2291,8 @@
             "html_url": "https:\/\/www.prestaplugins.com",
             "contributors": [
                 "Prestaplugins"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "e-frogg",
@@ -1384,7 +2322,8 @@
             "html_url": "https:\/\/www.e-frogg.com",
             "contributors": [
                 "iNem0o"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Fintecture",
@@ -1412,7 +2351,8 @@
             "html_url": "https:\/\/www.fintecture.com\/",
             "contributors": [
                 "hugofintecture"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Web Premiere",
@@ -1446,7 +2386,8 @@
             "html_url": "https:\/\/www.web-premiere.fr",
             "contributors": [
                 "djbuch"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Griiv",
@@ -1474,7 +2415,8 @@
             "html_url": "https:\/\/griiv.fr",
             "contributors": [
                 "Mch0"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Head Issue",
@@ -1504,7 +2446,8 @@
             "html_url": "https:\/\/www.headissue.com\/",
             "contributors": [
                 "cruftex"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Hostinato",
@@ -1538,7 +2481,8 @@
             "html_url": "https:\/\/www.hostinato.it",
             "contributors": [
                 "mcaldex"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Idnovate",
@@ -1572,7 +2516,8 @@
             "html_url": "idnovate.com",
             "contributors": [
                 "idnovate"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Novius",
@@ -1606,7 +2551,8 @@
             "html_url": "https:\/\/www.novius.com",
             "contributors": [
                 "gross-nvs"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Profileo",
@@ -1637,7 +2583,8 @@
             "contributors": [
                 "maxime-morel",
                 "Hlavtox"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Wepika",
@@ -1665,7 +2612,8 @@
             "html_url": "https:\/\/www.wepika.com",
             "contributors": [
                 "PrestaEdit"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Arkonsoft",
@@ -1693,7 +2641,8 @@
             "html_url": "https:\/\/arkonsoft.pl",
             "contributors": [
                 "gwojcik7"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Com'onSoft",
@@ -1723,7 +2672,8 @@
             "html_url": "https:\/\/www.comonsoft.com",
             "contributors": [
                 "ComonSoft"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Code Olympus Studio",
@@ -1753,7 +2703,8 @@
             "html_url": "https:\/\/codeolympus.studio",
             "contributors": [
                 "OrionCodeDev"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Coquille Consulting",
@@ -1781,7 +2732,8 @@
             "html_url": "https:\/\/coquille.fr",
             "contributors": [
                 "alexandrebak42"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Klemart 3D",
@@ -1805,7 +2757,8 @@
             "html_url": "https:\/\/klemart3d.fr",
             "contributors": [
                 "Klemart3D"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "MaoDev",
@@ -1833,7 +2786,8 @@
             "html_url": "https:\/\/www.maofree-developer.com",
             "contributors": [
                 "Maofree"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "ohmyweb!",
@@ -1863,7 +2817,8 @@
             "html_url": "https:\/\/www.ohmyweb.fr",
             "contributors": [
                 "SebBareyre"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Sleed",
@@ -1893,7 +2848,8 @@
             "html_url": "https:\/\/www.sleed.com\/",
             "contributors": [
                 "gfilippakis"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Softizy",
@@ -1921,7 +2877,8 @@
             "html_url": "https:\/\/www.softizy.com",
             "contributors": [
                 "TheoAlloin"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Waynet",
@@ -1949,7 +2906,8 @@
             "html_url": "https:\/\/www.waynet.io",
             "contributors": [
                 "Oksydan"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Web Area",
@@ -1975,7 +2933,8 @@
             "html_url": "https:\/\/www.webarea.fr",
             "contributors": [
                 "Seb33300"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Web Cooking Factory",
@@ -2003,7 +2962,8 @@
             "html_url": "https:\/\/www.web-cooking-factory.com",
             "contributors": [
                 "web-cooking-factory"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Webimpacto Consulting",
@@ -2031,7 +2991,8 @@
             "html_url": "https:\/\/webimpacto.consulting",
             "contributors": [
                 "hherreros-webimpacto"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "AD-Dev",
@@ -2059,7 +3020,8 @@
             "html_url": "https:\/\/www.ad-dev.be",
             "contributors": [
                 "arnauddohogne"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Adilis",
@@ -2087,7 +3049,8 @@
             "html_url": "https:\/\/www.adilis.fr",
             "contributors": [
                 "sas-adilis"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "A\u00e9rographe Discount",
@@ -2115,7 +3078,8 @@
             "html_url": "https:\/\/www.aerographediscount.fr",
             "contributors": [
                 "LameuleFR"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "AGRO-LA",
@@ -2143,7 +3107,8 @@
             "html_url": "https:\/\/agrola.cz",
             "contributors": [
                 "Hlavtox"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "AlienGen",
@@ -2171,7 +3136,8 @@
             "html_url": "https:\/\/www.aliengen.com",
             "contributors": [
                 "pjouglet"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Avalanche Media",
@@ -2199,7 +3165,8 @@
             "html_url": "https:\/\/avalanchemedia.cz",
             "contributors": [
                 "Macin609"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Bakhouche Akram",
@@ -2223,7 +3190,8 @@
             "html_url": "https:\/\/bak-dev.com",
             "contributors": [
                 "akrambak"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "BM Services",
@@ -2251,7 +3219,8 @@
             "html_url": "https:\/\/www.bm-services.com",
             "contributors": [
                 "lea-BMS"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Borja Garc\u00eda",
@@ -2279,7 +3248,8 @@
             "html_url": "https:\/\/boki.es",
             "contributors": [
                 "borjagarciab"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Cubix Tech",
@@ -2307,7 +3277,8 @@
             "html_url": "https:\/\/www.cubixtech.in",
             "contributors": [
                 "edelmacias"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Daniel Hlav\u00e1\u010dek",
@@ -2335,7 +3306,8 @@
             "html_url": "https:\/\/danielhlavacek.cz",
             "contributors": [
                 "Hlavtox"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "ECM",
@@ -2363,7 +3335,8 @@
             "html_url": "https:\/\/www.ecommerce-manager.it",
             "contributors": [
                 "Zudjo"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "eflyshop",
@@ -2387,7 +3360,8 @@
             "html_url": "https:\/\/www.eflyshop.com.ar",
             "contributors": [
                 "fer-av"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Giuseppe Tripiciano",
@@ -2415,7 +3389,8 @@
             "html_url": "",
             "contributors": [
                 "matrixino"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Gurkcity",
@@ -2443,7 +3418,8 @@
             "html_url": "https:\/\/gurkcity.de",
             "contributors": [
                 "Markus-Gurkcity"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Habitium",
@@ -2471,7 +3447,8 @@
             "html_url": "https:\/\/habitium.com",
             "contributors": [
                 "pvujic"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Inform-All",
@@ -2499,7 +3476,8 @@
             "html_url": "https:\/\/inform-all.nl",
             "contributors": [
                 "NKoonen"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Jos\u00e9 Carlos",
@@ -2527,7 +3505,8 @@
             "html_url": "https:\/\/josecarlosphp.com",
             "contributors": [
                 "josecarlosphp"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Kijam L\u00f3pez",
@@ -2555,7 +3534,8 @@
             "html_url": "https:\/\/kijam.com",
             "contributors": [
                 "kijamve"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Kosmo",
@@ -2583,7 +3563,8 @@
             "html_url": "https:\/\/e-kosmo.com",
             "contributors": [
                 "dngraphisme"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Le Vapoteur Discount",
@@ -2611,7 +3592,8 @@
             "html_url": "https:\/\/www.levapoteur-discount.fr",
             "contributors": [
                 "Midoclas"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Lord of Web",
@@ -2639,7 +3621,8 @@
             "html_url": "https:\/\/www.lordofweb.com",
             "contributors": [
                 "tups"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Make Digital",
@@ -2667,7 +3650,8 @@
             "html_url": "https:\/\/makedigital.fr",
             "contributors": [
                 "RomPiot"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "MariaDB Foundation",
@@ -2695,7 +3679,8 @@
             "html_url": "https:\/\/mariadb.org",
             "contributors": [
                 "grooverdan"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Mediacom87",
@@ -2723,7 +3708,8 @@
             "html_url": "https:\/\/mediacom87.fr",
             "contributors": [
                 "jeckyl"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "New Orange",
@@ -2747,7 +3733,8 @@
             "html_url": "https:\/\/neworange.agency",
             "contributors": [
                 "innamhunzai"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "PululuK",
@@ -2775,7 +3762,8 @@
             "html_url": "",
             "contributors": [
                 "PululuK"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Presteamshop",
@@ -2799,7 +3787,8 @@
             "html_url": "https:\/\/www.presteamshop.com",
             "contributors": [
                 "novomusica"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Rub\u00e9n",
@@ -2823,7 +3812,8 @@
             "html_url": "https:\/\/rubenrc.dev",
             "contributors": [
                 "rubenrcdev"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "ShopRunners",
@@ -2851,7 +3841,8 @@
             "html_url": "https:\/\/www.shoprunners.de",
             "contributors": [
                 "Shoprunners"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Tesla Cool Lab",
@@ -2875,7 +3866,8 @@
             "html_url": "https:\/\/teslacoollab.com",
             "contributors": [
                 "jagui"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Thersane",
@@ -2903,7 +3895,8 @@
             "html_url": "https:\/\/www.thersane.fr",
             "contributors": [
                 "thersane-john"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Ukoo",
@@ -2927,7 +3920,8 @@
             "html_url": "https:\/\/www.ukoo.fr",
             "contributors": [
                 "gilles-knani"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Vaisonet",
@@ -2955,7 +3949,8 @@
             "html_url": "https:\/\/www.vaisonet.com",
             "contributors": [
                 "Max84"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Vendi Facile Online",
@@ -2983,7 +3978,8 @@
             "html_url": "https:\/\/vendifacileonline.com\/",
             "contributors": [
                 "danilocarta"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Vilkas",
@@ -3011,7 +4007,8 @@
             "html_url": "https:\/\/www.vilkas.fi",
             "contributors": [
                 "samaij"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "WAM",
@@ -3039,7 +4036,8 @@
             "html_url": "https:\/\/wamkey.com",
             "contributors": [
                 "Roxayl"
-            ]
+            ],
+            "employees": []
         },
         {
             "name": "Web Helpers",
@@ -3063,7 +4061,8 @@
             "html_url": "https:\/\/www.web-helpers.io",
             "contributors": [
                 "LouisAUTHIE"
-            ]
+            ],
+            "employees": []
         }
     ]
 }
