@@ -59,6 +59,15 @@ const aggregated = computed<Contributor | null>(() =>
 
 const vm = useEntityDetail(aggregated, period, updatedYear)
 
+// Employees is the authoritative member list (declared in Traces'
+// var/data/companies.json). `contributors` is the derived set of PR authors —
+// noisier and driven by data availability. Prefer employees when present.
+const memberCount = computed(() => {
+  const c = company.value
+  if (!c) return 0
+  return c.employees?.length ?? c.contributors?.length ?? 0
+})
+
 // Preserve the company entity type + members list downstream — the
 // aggregate is a Contributor shape so useEntityDetail defaults to
 // entityType='contributor'; overwrite so the KPI row + members section render
@@ -68,7 +77,9 @@ const companyVm = computed(() => {
   return {
     ...vm.value,
     entityType: 'company' as const,
-    members: company.value.contributors ?? [],
+    members: company.value.employees?.map(e => e.login)
+      ?? company.value.contributors
+      ?? [],
   }
 })
 
@@ -112,7 +123,7 @@ useHead(() => ({
         <DetailSidebar
           :avatar-url="company.avatar_url"
           :title="company.name"
-          :subtitle="`${companyVm.members?.length ?? 0} contributors`"
+          :subtitle="`${memberCount} contributors`"
           :infos="company.html_url
             ? [{ icon: 'link', label: 'GitHub', value: company.html_url, href: company.html_url }]
             : []"
@@ -146,7 +157,15 @@ useHead(() => ({
         <DetailTopReposChart :top-repos="companyVm.topRepos" />
         <DetailYearTabs :series="companyVm.yearlySeries" />
         <DetailReposTable :rows="companyVm.repoRows" />
-        <DetailMembersList :members="members" />
+        <DetailMembersTable
+          v-if="company.employees?.length"
+          :employees="company.employees"
+          :contributors-data="contributorsData"
+        />
+        <DetailMembersList
+          v-else
+          :members="members"
+        />
       </template>
     </DetailPageLayout>
 

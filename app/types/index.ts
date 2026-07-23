@@ -1,3 +1,13 @@
+export interface EmployeeTimeFrame {
+  start_date: string
+  end_date: string | null
+}
+
+export interface Employee {
+  login: string
+  time_frames: EmployeeTimeFrame[]
+}
+
 export interface Company {
   rank: number
   name: string
@@ -7,7 +17,13 @@ export interface Company {
   html_url: string
   login?: string
   slug?: string
+  // Derived at PR-attribution time (union of authors whose merged PRs were
+  // credited to this company). Noisier than `employees`, kept for back-compat.
   contributors?: string[]
+  // Source of truth for company membership — sourced from
+  // var/data/companies.json in Traces. Supports multiple periods per person
+  // (someone can leave and come back).
+  employees?: Employee[]
   merged_pull_requests_by_year?: Record<string, number>
   contributions?: number
   contributions_by_year?: Record<string, number>
