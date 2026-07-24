@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11068,
+        "contributions": 11071,
         "repositories": {
             "PrestaShop": 4625,
             "PrestaShop-modules": 31,
@@ -41,7 +41,7 @@
             "statssearch": 10,
             "statsstock": 9,
             "blockwishlist": 249,
-            "productcomments": 45,
+            "productcomments": 46,
             "pscleaner": 13,
             "autoupgrade": 113,
             "gsitemap": 28,
@@ -56,7 +56,7 @@
             "ps_customtext": 19,
             "ps_contactinfo": 9,
             "ps_emailsubscription": 36,
-            "ps_banner": 12,
+            "ps_banner": 13,
             "ps_featuredproducts": 21,
             "ps_imageslider": 30,
             "ps_mainmenu": 21,
@@ -94,7 +94,7 @@
             "ps_feeder": 1,
             "traces": 227,
             "core-weekly-generator": 6,
-            "TopContributors": 137,
+            "TopContributors": 138,
             "TranslationFiles": 3,
             "ps_livetranslation": 13,
             "ps_googleanalytics": 20,
@@ -186,7 +186,7 @@
                 }
             },
             "modules": {
-                "total": 1861,
+                "total": 1863,
                 "repositories": {
                     "PrestaShop-modules": 31,
                     "dashactivity": 14,
@@ -215,7 +215,7 @@
                     "statssearch": 10,
                     "statsstock": 9,
                     "blockwishlist": 249,
-                    "productcomments": 45,
+                    "productcomments": 46,
                     "pscleaner": 13,
                     "autoupgrade": 113,
                     "gsitemap": 28,
@@ -227,7 +227,7 @@
                     "ps_customtext": 19,
                     "ps_contactinfo": 9,
                     "ps_emailsubscription": 36,
-                    "ps_banner": 12,
+                    "ps_banner": 13,
                     "ps_featuredproducts": 21,
                     "ps_imageslider": 30,
                     "ps_mainmenu": 21,
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1436,
+                "total": 1437,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -283,7 +283,7 @@
                     "presthubot": 527,
                     "prestonbot": 10,
                     "QANightlyResults": 411,
-                    "TopContributors": 137,
+                    "TopContributors": 138,
                     "TopTranslators": 1,
                     "traces": 227,
                     "ps-project-metrics": 4
@@ -1657,9 +1657,9 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3739,
+        "contributions": 3740,
         "repositories": {
-            "PrestaShop": 884,
+            "PrestaShop": 885,
             "PrestaShop-modules": 4,
             "PrestaShop-webservice-lib": 3,
             "dashactivity": 1,
@@ -1773,9 +1773,9 @@
         },
         "categories": {
             "core": {
-                "total": 917,
+                "total": 918,
                 "repositories": {
-                    "PrestaShop": 884,
+                    "PrestaShop": 885,
                     "prestashop-ui-kit": 4,
                     "LocalizationFiles": 25,
                     "stylelint-browser-compatibility": 1,
@@ -5811,7 +5811,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 743,
+        "contributions": 744,
         "repositories": {
             "PrestaShop": 430,
             "PrestaShop-modules": 5,
@@ -5869,7 +5869,7 @@
             "ps_crossselling": 1,
             "ps_dataprivacy": 1,
             "traces": 46,
-            "TopContributors": 41,
+            "TopContributors": 42,
             "psssst": 1,
             "ps_themecusto": 1,
             "psgdpr": 4,
@@ -5978,13 +5978,13 @@
                 }
             },
             "tools": {
-                "total": 94,
+                "total": 95,
                 "repositories": {
                     "docker": 1,
                     "PrestaShop-webservice-lib": 1,
                     "presthubot": 1,
                     "ps-monitor-module-releases": 1,
-                    "TopContributors": 41,
+                    "TopContributors": 42,
                     "traces": 46,
                     "kanbanbot": 1,
                     "psssst": 1,
@@ -51460,5 +51460,5 @@
             }
         }
     },
-    "updatedAt": "2026-07-24 06:53:30"
+    "updatedAt": "2026-07-24 09:03:09"
 }
