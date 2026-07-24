@@ -1,5 +1,7 @@
 # Top Contributors
 
+[contributors.prestashop-project.org](https://contributors.prestashop-project.org/)
+
 A website to thank every PrestaShop contributors.
 
 This Nuxt 4 application showcasing PrestaShop's top contributors, companies, and community members who actively contribute to the PrestaShop ecosystem.
