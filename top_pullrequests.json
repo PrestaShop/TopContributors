@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-07-24T09:43:19+00:00",
+    "updatedAt": "2026-07-25T07:27:30+00:00",
     "items": [
         {
             "rank": 1,
@@ -7,9 +7,9 @@
             "name": "Progi1984",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1533248?v=4",
             "html_url": "https:\/\/github.com\/Progi1984",
-            "count": 2540,
+            "count": 2545,
             "countByYear": {
-                "2026": 264,
+                "2026": 269,
                 "2025": 465,
                 "2024": 492,
                 "2023": 342,
@@ -44,9 +44,9 @@
             "name": "Jonathan Lelievre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13801017?v=4",
             "html_url": "https:\/\/github.com\/jolelievre",
-            "count": 1376,
+            "count": 1377,
             "countByYear": {
-                "2026": 179,
+                "2026": 180,
                 "2025": 228,
                 "2024": 258,
                 "2023": 136,
@@ -138,9 +138,9 @@
             "name": "Jonathan Danse",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2631425?v=4",
             "html_url": "https:\/\/github.com\/PrestaEdit",
-            "count": 871,
+            "count": 873,
             "countByYear": {
-                "2026": 240,
+                "2026": 242,
                 "2025": 79,
                 "2024": 38,
                 "2023": 16,
@@ -412,9 +412,9 @@
             "name": "Nicolas L\u0153uillet",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/121870?v=4",
             "html_url": "https:\/\/github.com\/nicosomb",
-            "count": 333,
+            "count": 334,
             "countByYear": {
-                "2026": 74,
+                "2026": 75,
                 "2025": 85,
                 "2024": 76,
                 "2023": 65,
@@ -602,8 +602,9 @@
             "name": "Antoine THOMAS",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4619685?v=4",
             "html_url": "https:\/\/github.com\/ttoine",
-            "count": 208,
+            "count": 209,
             "countByYear": {
+                "2026": 1,
                 "2022": 1,
                 "2020": 52,
                 "2019": 59,
@@ -935,6 +936,21 @@
         },
         {
             "rank": 63,
+            "login": "ShaiMagal",
+            "name": "Dominik Shaim Ulrich",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8518736?v=4",
+            "html_url": "https:\/\/github.com\/ShaiMagal",
+            "count": 93,
+            "countByYear": {
+                "2026": 4,
+                "2025": 27,
+                "2024": 37,
+                "2023": 24,
+                "2022": 1
+            }
+        },
+        {
+            "rank": 64,
             "login": "Touxten",
             "name": "Thomas Roux",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/156076965?v=4",
@@ -944,21 +960,6 @@
                 "2026": 26,
                 "2025": 53,
                 "2024": 13
-            }
-        },
-        {
-            "rank": 64,
-            "login": "ShaiMagal",
-            "name": "Dominik Shaim Ulrich",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8518736?v=4",
-            "html_url": "https:\/\/github.com\/ShaiMagal",
-            "count": 91,
-            "countByYear": {
-                "2026": 2,
-                "2025": 27,
-                "2024": 37,
-                "2023": 24,
-                "2022": 1
             }
         },
         {
@@ -20148,7 +20149,7 @@
             "rank": 1704,
             "login": "jainarpit1910",
             "name": "Jain Arpit Ashok",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109543838?u=f2593fb524c3d2c992facc44d736f57ee936f471&v=4",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109543838?u=13ec35346f45bcfafa2b4264c1737bb06a23583e&v=4",
             "html_url": "https:\/\/github.com\/jainarpit1910",
             "count": 1,
             "countByYear": {
