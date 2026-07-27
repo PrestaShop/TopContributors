@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-07-26T07:31:10+00:00",
+    "updatedAt": "2026-07-27T08:51:56+00:00",
     "items": [
         {
             "rank": 1,
@@ -7,9 +7,9 @@
             "name": "Progi1984",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1533248?v=4",
             "html_url": "https:\/\/github.com\/Progi1984",
-            "count": 7208,
+            "count": 7211,
             "countByYear": {
-                "2026": 697,
+                "2026": 700,
                 "2025": 801,
                 "2024": 703,
                 "2023": 509,
@@ -132,9 +132,9 @@
             "name": "Nicolas L\u0153uillet",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/121870?v=4",
             "html_url": "https:\/\/github.com\/nicosomb",
-            "count": 2240,
+            "count": 2246,
             "countByYear": {
-                "2026": 336,
+                "2026": 342,
                 "2025": 581,
                 "2024": 482,
                 "2023": 653,
@@ -147,9 +147,9 @@
             "name": "Thomas N",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6768917?v=4",
             "html_url": "https:\/\/github.com\/Quetzacoalt91",
-            "count": 2203,
+            "count": 2204,
             "countByYear": {
-                "2026": 252,
+                "2026": 253,
                 "2025": 399,
                 "2024": 263,
                 "2023": 1,
@@ -197,9 +197,9 @@
             "name": "Daniel Hlav\u00e1\u010dek",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6097524?v=4",
             "html_url": "https:\/\/github.com\/Hlavtox",
-            "count": 1358,
+            "count": 1359,
             "countByYear": {
-                "2026": 232,
+                "2026": 233,
                 "2025": 337,
                 "2024": 310,
                 "2023": 331,
@@ -413,9 +413,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 469,
+            "count": 473,
             "countByYear": {
-                "2026": 175,
+                "2026": 179,
                 "2025": 293,
                 "2023": 1
             }
@@ -509,9 +509,9 @@
             "name": "Dominik Shaim Ulrich",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8518736?v=4",
             "html_url": "https:\/\/github.com\/ShaiMagal",
-            "count": 331,
+            "count": 332,
             "countByYear": {
-                "2026": 43,
+                "2026": 44,
                 "2025": 79,
                 "2024": 147,
                 "2023": 62
@@ -1104,6 +1104,17 @@
         },
         {
             "rank": 78,
+            "login": "ThbPS",
+            "name": "ThbPS",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109082310?v=4",
+            "html_url": "https:\/\/github.com\/ThbPS",
+            "count": 47,
+            "countByYear": {
+                "2026": 47
+            }
+        },
+        {
+            "rank": 79,
             "login": "fatmaBouchekoua",
             "name": "Fatma Bouchekoua",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20836092?v=4",
@@ -1112,17 +1123,6 @@
             "countByYear": {
                 "2018": 42,
                 "2017": 4
-            }
-        },
-        {
-            "rank": 79,
-            "login": "ThbPS",
-            "name": "ThbPS",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109082310?v=4",
-            "html_url": "https:\/\/github.com\/ThbPS",
-            "count": 45,
-            "countByYear": {
-                "2026": 45
             }
         },
         {

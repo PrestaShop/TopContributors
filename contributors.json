@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11082,
+        "contributions": 11084,
         "repositories": {
             "PrestaShop": 4632,
             "PrestaShop-modules": 31,
@@ -40,7 +40,7 @@
             "statssales": 17,
             "statssearch": 10,
             "statsstock": 9,
-            "blockwishlist": 249,
+            "blockwishlist": 250,
             "productcomments": 50,
             "pscleaner": 13,
             "autoupgrade": 113,
@@ -94,7 +94,7 @@
             "ps_feeder": 1,
             "traces": 227,
             "core-weekly-generator": 6,
-            "TopContributors": 138,
+            "TopContributors": 139,
             "TranslationFiles": 3,
             "ps_livetranslation": 13,
             "ps_googleanalytics": 20,
@@ -186,7 +186,7 @@
                 }
             },
             "modules": {
-                "total": 1867,
+                "total": 1868,
                 "repositories": {
                     "PrestaShop-modules": 31,
                     "dashactivity": 14,
@@ -214,7 +214,7 @@
                     "statssales": 17,
                     "statssearch": 10,
                     "statsstock": 9,
-                    "blockwishlist": 249,
+                    "blockwishlist": 250,
                     "productcomments": 50,
                     "pscleaner": 13,
                     "autoupgrade": 113,
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1437,
+                "total": 1438,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -283,7 +283,7 @@
                     "presthubot": 527,
                     "prestonbot": 10,
                     "QANightlyResults": 411,
-                    "TopContributors": 138,
+                    "TopContributors": 139,
                     "TopTranslators": 1,
                     "traces": 227,
                     "ps-project-metrics": 4
@@ -3358,7 +3358,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1746,
+        "contributions": 1751,
         "repositories": {
             "PrestaShop": 907,
             "PrestaShop-webservice-lib": 1,
@@ -3418,9 +3418,9 @@
             "open-source": 23,
             "mjml-theme-converter": 1,
             "php-dev-tools": 4,
-            "QANightlyResults": 155,
+            "QANightlyResults": 158,
             "LocalizationFiles": 8,
-            "presthubot": 100,
+            "presthubot": 102,
             "example-modules": 7,
             "ps_qualityassurance": 3,
             "test-scenarios": 2,
@@ -3526,7 +3526,7 @@
                 }
             },
             "tools": {
-                "total": 324,
+                "total": 329,
                 "repositories": {
                     "bootstrap-compatibility-layer": 1,
                     "docker": 7,
@@ -3535,9 +3535,9 @@
                     "mjml-theme-converter": 1,
                     "nightly-board": 1,
                     "PrestaShop-webservice-lib": 1,
-                    "presthubot": 100,
+                    "presthubot": 102,
                     "prestonbot": 1,
-                    "QANightlyResults": 155,
+                    "QANightlyResults": 158,
                     "TopContributors": 7,
                     "TopTranslators": 1,
                     "traces": 24,
@@ -10899,13 +10899,13 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 147,
+        "contributions": 148,
         "repositories": {
             "PrestaShop": 21,
             "autoupgrade": 4,
             "native-modules": 3,
             "prestashop-flashlight": 1,
-            "ps_onepagecheckout": 118
+            "ps_onepagecheckout": 119
         },
         "categories": {
             "core": {
@@ -10927,10 +10927,10 @@
                 "repositories": []
             },
             "modules": {
-                "total": 122,
+                "total": 123,
                 "repositories": {
                     "autoupgrade": 4,
-                    "ps_onepagecheckout": 118
+                    "ps_onepagecheckout": 119
                 }
             },
             "tools": {
@@ -51465,5 +51465,5 @@
             }
         }
     },
-    "updatedAt": "2026-07-26 06:56:21"
+    "updatedAt": "2026-07-27 08:06:02"
 }
