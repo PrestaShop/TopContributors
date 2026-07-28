@@ -124,9 +124,10 @@ useHead(() => ({
           :avatar-url="company.avatar_url"
           :title="company.name"
           :subtitle="`${memberCount} contributors`"
-          :infos="company.html_url
-            ? [{ icon: 'link', label: 'GitHub', value: company.html_url, href: company.html_url }]
-            : []"
+          :infos="[
+            ...(company.github_url ? [{ icon: 'link', label: 'GitHub', value: company.github_url, href: company.github_url }] : []),
+            ...(company.html_url ? [{ icon: 'desktop_mac', label: 'Website', value: company.html_url, href: company.html_url }] : []),
+          ]"
           :sections="[
             { id: 'section-kpis', label: 'Overview' },
             { id: 'section-yearly', label: 'Contributions per year' },
