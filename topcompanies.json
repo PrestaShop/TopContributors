@@ -5,9 +5,9 @@
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 8493,
+        "merged_pull_requests": 8495,
         "merged_pull_requests_by_version": {
-            "9.3": 5,
+            "9.3": 6,
             "9.2": 85,
             "9.1": 114,
             "9.0": 445,
@@ -26,7 +26,7 @@
             "1.6.1": 273
         },
         "merged_pull_requests_by_year": {
-            "2026": 351,
+            "2026": 353,
             "2025": 437,
             "2024": 536,
             "2023": 675,
@@ -42,10 +42,10 @@
             "2013": 525,
             "2012": 32
         },
-        "pull_requests_percent": 29.46,
-        "contributions": 35399,
+        "pull_requests_percent": 29.45,
+        "contributions": 35403,
         "contributions_by_version": {
-            "9.3": 8,
+            "9.3": 11,
             "9.2": 681,
             "9.1": 1137,
             "9.0": 3078,
@@ -64,7 +64,7 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 2394,
+            "2026": 2398,
             "2025": 2111,
             "2024": 2673,
             "2023": 3579,
@@ -188,10 +188,10 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 17426,
+            "merged_pull_requests": 17428,
             "merged_pull_requests_by_version": {
-                "9.3": 3,
-                "9.2": 146,
+                "9.3": 4,
+                "9.2": 147,
                 "9.1": 216,
                 "9.0": 997,
                 "8.2": 31,
@@ -209,7 +209,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 792,
+                "2026": 794,
                 "2025": 1247,
                 "2024": 1290,
                 "2023": 1572,
@@ -224,11 +224,11 @@
                 "2014": 391,
                 "2013": 24
             },
-            "pull_requests_percent": 60.44,
-            "contributions": 81702,
+            "pull_requests_percent": 60.42,
+            "contributions": 81711,
             "contributions_by_version": {
-                "9.3": 3,
-                "9.2": 1030,
+                "9.3": 10,
+                "9.2": 1032,
                 "9.1": 2169,
                 "9.0": 3981,
                 "8.2": 77,
@@ -246,7 +246,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 3481,
+                "2026": 3490,
                 "2025": 4879,
                 "2024": 5067,
                 "2023": 6413,
@@ -270,11 +270,11 @@
                 "Progi1984",
                 "jolelievre",
                 "mattgoud",
+                "Quetzacoalt91",
                 "kpodemski",
                 "tleon",
                 "cnavarro-prestashop",
                 "tblivet",
-                "Quetzacoalt91",
                 "AureRita",
                 "boherm",
                 "guillaume60240",
@@ -993,9 +993,9 @@
             "rank": 2,
             "rank_contributions": 2,
             "rank_pull_requests": 2,
-            "merged_pull_requests": 949,
+            "merged_pull_requests": 950,
             "merged_pull_requests_by_version": {
-                "9.2": 10,
+                "9.2": 11,
                 "9.1": 15,
                 "9.0": 175,
                 "8.2": 9,
@@ -1005,7 +1005,7 @@
                 "1.7.7": 5
             },
             "merged_pull_requests_by_year": {
-                "2026": 68,
+                "2026": 69,
                 "2025": 142,
                 "2024": 192,
                 "2023": 387,
@@ -1015,9 +1015,9 @@
                 "2019": 3
             },
             "pull_requests_percent": 3.29,
-            "contributions": 4699,
+            "contributions": 4700,
             "contributions_by_version": {
-                "9.2": 14,
+                "9.2": 15,
                 "9.1": 23,
                 "9.0": 349,
                 "8.2": 13,
@@ -1027,7 +1027,7 @@
                 "1.7.7": 6
             },
             "contributions_by_year": {
-                "2026": 155,
+                "2026": 156,
                 "2025": 529,
                 "2024": 634,
                 "2023": 2222,
@@ -1036,7 +1036,7 @@
                 "2020": 35,
                 "2019": 4
             },
-            "contributions_percent": 3.74,
+            "contributions_percent": 3.75,
             "avatar_url": "https:\/\/www.trendo.cz\/img\/logos\/logo_square_400_inverted.png",
             "html_url": "https:\/\/www.trendo.cz",
             "contributors": [
@@ -1424,7 +1424,7 @@
             "rank": 8,
             "rank_contributions": 8,
             "rank_pull_requests": 7,
-            "merged_pull_requests": 174,
+            "merged_pull_requests": 179,
             "merged_pull_requests_by_version": {
                 "9.3": 1,
                 "9.2": 3,
@@ -1434,13 +1434,13 @@
                 "8.1": 1
             },
             "merged_pull_requests_by_year": {
-                "2026": 107,
+                "2026": 112,
                 "2025": 65,
                 "2024": 1,
                 "2023": 1
             },
-            "pull_requests_percent": 0.6,
-            "contributions": 207,
+            "pull_requests_percent": 0.62,
+            "contributions": 212,
             "contributions_by_version": {
                 "9.3": 1,
                 "9.2": 3,
@@ -1450,12 +1450,12 @@
                 "8.1": 1
             },
             "contributions_by_year": {
-                "2026": 137,
+                "2026": 142,
                 "2025": 67,
                 "2024": 1,
                 "2023": 2
             },
-            "contributions_percent": 0.16,
+            "contributions_percent": 0.17,
             "avatar_url": "https:\/\/lefevre.dev\/progi1984.png",
             "html_url": "https:\/\/lefevre.dev\/",
             "contributors": [
