@@ -15,6 +15,7 @@ export interface Company {
   pull_requests_percent: number
   avatar_url: string
   html_url: string
+  github_url?: string
   login?: string
   slug?: string
   // Derived at PR-attribution time (union of authors whose merged PRs were
