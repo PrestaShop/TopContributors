@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-07-28T07:15:34+00:00",
+    "updatedAt": "2026-07-29T08:21:27+00:00",
     "community": {
         "name": "Open Source Community",
         "slug": "open-source-community",
@@ -43,8 +43,8 @@
             "2013": 525,
             "2012": 32
         },
-        "pull_requests_percent": 29.45,
-        "contributions": 35403,
+        "pull_requests_percent": 29.44,
+        "contributions": 35404,
         "contributions_by_version": {
             "9.3": 11,
             "9.2": 681,
@@ -65,7 +65,7 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 2398,
+            "2026": 2399,
             "2025": 2111,
             "2024": 2673,
             "2023": 3579,
@@ -84,6 +84,7 @@
         "contributions_percent": 28.21,
         "avatar_url": "",
         "html_url": "https:\/\/www.prestashop-project.org",
+        "github_url": null,
         "contributors": [
             "jolelievre",
             "kpodemski",
@@ -189,11 +190,11 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 17428,
+            "merged_pull_requests": 17431,
             "merged_pull_requests_by_version": {
                 "9.3": 4,
                 "9.2": 147,
-                "9.1": 216,
+                "9.1": 217,
                 "9.0": 997,
                 "8.2": 31,
                 "8.1": 469,
@@ -210,7 +211,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 794,
+                "2026": 797,
                 "2025": 1247,
                 "2024": 1290,
                 "2023": 1572,
@@ -225,12 +226,12 @@
                 "2014": 391,
                 "2013": 24
             },
-            "pull_requests_percent": 60.42,
-            "contributions": 81711,
+            "pull_requests_percent": 60.41,
+            "contributions": 81715,
             "contributions_by_version": {
                 "9.3": 10,
                 "9.2": 1032,
-                "9.1": 2169,
+                "9.1": 2170,
                 "9.0": 3981,
                 "8.2": 77,
                 "8.1": 2936,
@@ -247,7 +248,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 3490,
+                "2026": 3494,
                 "2025": 4879,
                 "2024": 5067,
                 "2023": 6413,
@@ -265,10 +266,11 @@
             "contributions_percent": 65.11,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2815696?s=200&v=4",
             "html_url": "https:\/\/www.prestashop.com",
+            "github_url": null,
             "contributors": [
                 "gRoussac",
-                "nicosomb",
                 "Progi1984",
+                "nicosomb",
                 "jolelievre",
                 "mattgoud",
                 "Quetzacoalt91",
@@ -1037,9 +1039,10 @@
                 "2020": 35,
                 "2019": 4
             },
-            "contributions_percent": 3.75,
+            "contributions_percent": 3.74,
             "avatar_url": "https:\/\/www.trendo.cz\/img\/logos\/logo_square_400_inverted.png",
             "html_url": "https:\/\/www.trendo.cz",
+            "github_url": null,
             "contributors": [
                 "Hlavtox",
                 "Quetzacoalt91"
@@ -1062,7 +1065,7 @@
             "rank": 3,
             "rank_contributions": 3,
             "rank_pull_requests": 3,
-            "merged_pull_requests": 471,
+            "merged_pull_requests": 474,
             "merged_pull_requests_by_version": {
                 "9.3": 2,
                 "9.2": 5,
@@ -1076,7 +1079,7 @@
                 "1.6.1": 1
             },
             "merged_pull_requests_by_year": {
-                "2026": 44,
+                "2026": 47,
                 "2025": 56,
                 "2024": 28,
                 "2023": 14,
@@ -1091,8 +1094,8 @@
                 "2013": 52,
                 "2012": 13
             },
-            "pull_requests_percent": 1.63,
-            "contributions": 681,
+            "pull_requests_percent": 1.64,
+            "contributions": 685,
             "contributions_by_version": {
                 "9.3": 4,
                 "9.2": 16,
@@ -1106,7 +1109,7 @@
                 "1.6.1": 1
             },
             "contributions_by_year": {
-                "2026": 102,
+                "2026": 106,
                 "2025": 79,
                 "2024": 31,
                 "2023": 21,
@@ -1121,9 +1124,10 @@
                 "2013": 65,
                 "2012": 24
             },
-            "contributions_percent": 0.54,
+            "contributions_percent": 0.55,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2631425",
             "html_url": "https:\/\/prestaedit.com\/",
+            "github_url": "https:\/\/github.com\/PrestaEdit",
             "contributors": [
                 "PrestaEdit"
             ],
@@ -1197,6 +1201,7 @@
             "contributions_percent": 0.43,
             "avatar_url": "https:\/\/www.creabilis.com\/images\/newLogo.png",
             "html_url": "https:\/\/www.creabilis.com\/",
+            "github_url": null,
             "contributors": [
                 "jf-viguier",
                 "LaBisquerie",
@@ -1312,6 +1317,7 @@
             "contributions_percent": 0.33,
             "avatar_url": "https:\/\/impsolutions.pl\/avatar.png",
             "html_url": "https:\/\/impsolutions.pl\/",
+            "github_url": null,
             "contributors": [
                 "kpodemski"
             ],
@@ -1367,6 +1373,7 @@
             "contributions_percent": 0.25,
             "avatar_url": "https:\/\/www.codencode.it\/codencode-github-logo.jpg",
             "html_url": "https:\/\/www.codencode.it",
+            "github_url": null,
             "contributors": [
                 "Codencode"
             ],
@@ -1378,7 +1385,7 @@
             "rank": 7,
             "rank_contributions": 8,
             "rank_pull_requests": 7,
-            "merged_pull_requests": 179,
+            "merged_pull_requests": 184,
             "merged_pull_requests_by_version": {
                 "9.3": 1,
                 "9.2": 3,
@@ -1388,13 +1395,13 @@
                 "8.1": 1
             },
             "merged_pull_requests_by_year": {
-                "2026": 112,
+                "2026": 117,
                 "2025": 65,
                 "2024": 1,
                 "2023": 1
             },
-            "pull_requests_percent": 0.62,
-            "contributions": 212,
+            "pull_requests_percent": 0.64,
+            "contributions": 217,
             "contributions_by_version": {
                 "9.3": 1,
                 "9.2": 3,
@@ -1404,7 +1411,7 @@
                 "8.1": 1
             },
             "contributions_by_year": {
-                "2026": 142,
+                "2026": 147,
                 "2025": 67,
                 "2024": 1,
                 "2023": 2
@@ -1412,6 +1419,7 @@
             "contributions_percent": 0.17,
             "avatar_url": "https:\/\/lefevre.dev\/progi1984.png",
             "html_url": "https:\/\/lefevre.dev\/",
+            "github_url": null,
             "contributors": [
                 "Progi1984"
             ],
@@ -1481,6 +1489,7 @@
             "contributions_percent": 0.13,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1162527?v=4",
             "html_url": "https:\/\/addons.prestashop.com\/fr\/6_businesstech-prestamodule",
+            "github_url": null,
             "contributors": [
                 "hadjedjvincent",
                 "prestamodule"
@@ -1557,6 +1566,7 @@
             "contributions_percent": 0.18,
             "avatar_url": "",
             "html_url": "https:\/\/okom3pom.com",
+            "github_url": null,
             "contributors": [
                 "Touxten"
             ],
@@ -1602,6 +1612,7 @@
             "contributions_percent": 0.1,
             "avatar_url": "https:\/\/www.openservis.cz\/logo_square_400.png",
             "html_url": "https:\/\/www.openservis.cz\/",
+            "github_url": null,
             "contributors": [
                 "ShaiMagal",
                 "Hlavtox"
@@ -1670,6 +1681,7 @@
             "contributions_percent": 0.13,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65393221",
             "html_url": "https:\/\/www.202-ecommerce.com",
+            "github_url": null,
             "contributors": [
                 "clotairer",
                 "denys202",
@@ -1794,6 +1806,7 @@
             "contributions_percent": 0.16,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/42359739?s=200&v=4",
             "html_url": "https:\/\/friendsofpresta.org\/",
+            "github_url": null,
             "contributors": [
                 "nicohery",
                 "Touxten",
@@ -1864,6 +1877,7 @@
             "contributions_percent": 0.06,
             "avatar_url": "",
             "html_url": "https:\/\/www.evolutive.com\/",
+            "github_url": null,
             "contributors": [
                 "Kaikina",
                 "PululuK",
@@ -1918,6 +1932,7 @@
             "contributions_percent": 0.08,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4717939?s=400&u=1f0d11af9c7298f6420d6667c79e8ebba4a3e8c6&v=4",
             "html_url": "https:\/\/www.kiwik.com\/",
+            "github_url": null,
             "contributors": [
                 "Jeremie-Kiwik",
                 "studiokiwik",
@@ -2007,6 +2022,7 @@
             "contributions_percent": 0.04,
             "avatar_url": "https:\/\/www.beyonds.fr\/static\/beyonds-logo.png",
             "html_url": "https:\/\/www.beyonds.fr\/",
+            "github_url": null,
             "contributors": [
                 "alexandrebru83",
                 "PululuK"
@@ -2087,6 +2103,7 @@
             "contributions_percent": 0.05,
             "avatar_url": "",
             "html_url": "https:\/\/www.mademoiselle-bio.com",
+            "github_url": null,
             "contributors": [
                 "MattKelvin"
             ],
@@ -2128,6 +2145,7 @@
             "contributions_percent": 0.02,
             "avatar_url": "",
             "html_url": "https:\/\/www.prestaworks.se\/",
+            "github_url": null,
             "contributors": [
                 "Prestaworks"
             ],
@@ -2157,6 +2175,7 @@
             "contributions_percent": 0.06,
             "avatar_url": "https:\/\/www.soledis.com\/wp-content\/uploads\/fbrfg\/favicon.svg",
             "html_url": "https:\/\/www.soledis.com",
+            "github_url": null,
             "contributors": [
                 "soledis-contributeur",
                 "Quetzacoalt91"
@@ -2191,6 +2210,7 @@
             "contributions_percent": 0.01,
             "avatar_url": "",
             "html_url": "https:\/\/societebiblique.com",
+            "github_url": null,
             "contributors": [
                 "lmeyer1"
             ],
@@ -2220,6 +2240,7 @@
             "contributions_percent": 0.01,
             "avatar_url": "https:\/\/axelweb.fr\/user\/themes\/axelweb\/images\/apple-touch-icon.png",
             "html_url": "https:\/\/axelweb.fr",
+            "github_url": null,
             "contributors": [
                 "axel-paillaud"
             ],
@@ -2255,6 +2276,7 @@
             "contributions_percent": 0.01,
             "avatar_url": "",
             "html_url": "https:\/\/www.agenceoff.fr",
+            "github_url": null,
             "contributors": [
                 "aomaxime"
             ],
@@ -2290,6 +2312,7 @@
             "contributions_percent": 0.01,
             "avatar_url": "https:\/\/www.prestaplugins.com\/img\/logo-1738257178.jpg",
             "html_url": "https:\/\/www.prestaplugins.com",
+            "github_url": null,
             "contributors": [
                 "Prestaplugins"
             ],
@@ -2321,6 +2344,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.e-frogg.com",
+            "github_url": null,
             "contributors": [
                 "iNem0o"
             ],
@@ -2350,6 +2374,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.fintecture.com\/",
+            "github_url": null,
             "contributors": [
                 "hugofintecture"
             ],
@@ -2385,6 +2410,7 @@
             "contributions_percent": 0.02,
             "avatar_url": "",
             "html_url": "https:\/\/www.web-premiere.fr",
+            "github_url": null,
             "contributors": [
                 "djbuch"
             ],
@@ -2414,6 +2440,7 @@
             "contributions_percent": 0.01,
             "avatar_url": "",
             "html_url": "https:\/\/griiv.fr",
+            "github_url": null,
             "contributors": [
                 "Mch0"
             ],
@@ -2445,6 +2472,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.headissue.com\/",
+            "github_url": null,
             "contributors": [
                 "cruftex"
             ],
@@ -2480,6 +2508,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.hostinato.it",
+            "github_url": null,
             "contributors": [
                 "mcaldex"
             ],
@@ -2515,6 +2544,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "idnovate.com",
+            "github_url": null,
             "contributors": [
                 "idnovate"
             ],
@@ -2550,6 +2580,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.novius.com",
+            "github_url": null,
             "contributors": [
                 "gross-nvs"
             ],
@@ -2581,6 +2612,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.profileo.com\/",
+            "github_url": null,
             "contributors": [
                 "maxime-morel",
                 "Hlavtox"
@@ -2611,6 +2643,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.wepika.com",
+            "github_url": null,
             "contributors": [
                 "PrestaEdit"
             ],
@@ -2640,6 +2673,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/arkonsoft.pl",
+            "github_url": null,
             "contributors": [
                 "gwojcik7"
             ],
@@ -2671,6 +2705,7 @@
             "contributions_percent": 0.01,
             "avatar_url": "",
             "html_url": "https:\/\/www.comonsoft.com",
+            "github_url": null,
             "contributors": [
                 "ComonSoft"
             ],
@@ -2702,6 +2737,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/codeolympus.studio",
+            "github_url": null,
             "contributors": [
                 "OrionCodeDev"
             ],
@@ -2731,6 +2767,7 @@
             "contributions_percent": 0.02,
             "avatar_url": "",
             "html_url": "https:\/\/coquille.fr",
+            "github_url": null,
             "contributors": [
                 "alexandrebak42"
             ],
@@ -2756,6 +2793,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/klemart3d.fr",
+            "github_url": null,
             "contributors": [
                 "Klemart3D"
             ],
@@ -2785,6 +2823,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.maofree-developer.com",
+            "github_url": null,
             "contributors": [
                 "Maofree"
             ],
@@ -2816,6 +2855,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.ohmyweb.fr",
+            "github_url": null,
             "contributors": [
                 "SebBareyre"
             ],
@@ -2847,6 +2887,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.sleed.com\/",
+            "github_url": null,
             "contributors": [
                 "gfilippakis"
             ],
@@ -2876,6 +2917,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.softizy.com",
+            "github_url": null,
             "contributors": [
                 "TheoAlloin"
             ],
@@ -2905,6 +2947,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.waynet.io",
+            "github_url": null,
             "contributors": [
                 "Oksydan"
             ],
@@ -2932,6 +2975,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.webarea.fr",
+            "github_url": null,
             "contributors": [
                 "Seb33300"
             ],
@@ -2961,6 +3005,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.web-cooking-factory.com",
+            "github_url": null,
             "contributors": [
                 "web-cooking-factory"
             ],
@@ -2990,6 +3035,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/webimpacto.consulting",
+            "github_url": null,
             "contributors": [
                 "hherreros-webimpacto"
             ],
@@ -3019,6 +3065,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.ad-dev.be",
+            "github_url": null,
             "contributors": [
                 "arnauddohogne"
             ],
@@ -3048,6 +3095,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.adilis.fr",
+            "github_url": null,
             "contributors": [
                 "sas-adilis"
             ],
@@ -3077,6 +3125,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.aerographediscount.fr",
+            "github_url": null,
             "contributors": [
                 "LameuleFR"
             ],
@@ -3106,6 +3155,7 @@
             "contributions_percent": 0.01,
             "avatar_url": "",
             "html_url": "https:\/\/agrola.cz",
+            "github_url": null,
             "contributors": [
                 "Hlavtox"
             ],
@@ -3135,6 +3185,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.aliengen.com",
+            "github_url": null,
             "contributors": [
                 "pjouglet"
             ],
@@ -3164,6 +3215,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/avalanchemedia.cz",
+            "github_url": null,
             "contributors": [
                 "Macin609"
             ],
@@ -3189,6 +3241,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/bak-dev.com",
+            "github_url": null,
             "contributors": [
                 "akrambak"
             ],
@@ -3218,6 +3271,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.bm-services.com",
+            "github_url": null,
             "contributors": [
                 "lea-BMS"
             ],
@@ -3247,6 +3301,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/boki.es",
+            "github_url": null,
             "contributors": [
                 "borjagarciab"
             ],
@@ -3276,6 +3331,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.cubixtech.in",
+            "github_url": null,
             "contributors": [
                 "edelmacias"
             ],
@@ -3305,6 +3361,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/danielhlavacek.cz",
+            "github_url": null,
             "contributors": [
                 "Hlavtox"
             ],
@@ -3334,6 +3391,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.ecommerce-manager.it",
+            "github_url": null,
             "contributors": [
                 "Zudjo"
             ],
@@ -3359,6 +3417,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.eflyshop.com.ar",
+            "github_url": null,
             "contributors": [
                 "fer-av"
             ],
@@ -3388,6 +3447,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "",
+            "github_url": null,
             "contributors": [
                 "matrixino"
             ],
@@ -3417,6 +3477,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/gurkcity.de",
+            "github_url": null,
             "contributors": [
                 "Markus-Gurkcity"
             ],
@@ -3446,6 +3507,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/habitium.com",
+            "github_url": null,
             "contributors": [
                 "pvujic"
             ],
@@ -3475,6 +3537,7 @@
             "contributions_percent": 0,
             "avatar_url": "https:\/\/inform-all.nl\/img\/logo.png",
             "html_url": "https:\/\/inform-all.nl",
+            "github_url": null,
             "contributors": [
                 "NKoonen"
             ],
@@ -3504,6 +3567,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/josecarlosphp.com",
+            "github_url": null,
             "contributors": [
                 "josecarlosphp"
             ],
@@ -3533,6 +3597,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/kijam.com",
+            "github_url": null,
             "contributors": [
                 "kijamve"
             ],
@@ -3562,6 +3627,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/e-kosmo.com",
+            "github_url": null,
             "contributors": [
                 "dngraphisme"
             ],
@@ -3591,6 +3657,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.levapoteur-discount.fr",
+            "github_url": null,
             "contributors": [
                 "Midoclas"
             ],
@@ -3620,6 +3687,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.lordofweb.com",
+            "github_url": null,
             "contributors": [
                 "tups"
             ],
@@ -3649,6 +3717,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/makedigital.fr",
+            "github_url": null,
             "contributors": [
                 "RomPiot"
             ],
@@ -3678,6 +3747,7 @@
             "contributions_percent": 0,
             "avatar_url": "https:\/\/mariadb.org\/wp-content\/themes\/twentynineteen-child\/icons\/mariadb_org_rgb_h.svg",
             "html_url": "https:\/\/mariadb.org",
+            "github_url": null,
             "contributors": [
                 "grooverdan"
             ],
@@ -3707,6 +3777,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/mediacom87.fr",
+            "github_url": null,
             "contributors": [
                 "jeckyl"
             ],
@@ -3732,6 +3803,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/neworange.agency",
+            "github_url": null,
             "contributors": [
                 "innamhunzai"
             ],
@@ -3761,6 +3833,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "",
+            "github_url": null,
             "contributors": [
                 "PululuK"
             ],
@@ -3786,6 +3859,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.presteamshop.com",
+            "github_url": null,
             "contributors": [
                 "novomusica"
             ],
@@ -3811,6 +3885,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/rubenrc.dev",
+            "github_url": null,
             "contributors": [
                 "rubenrcdev"
             ],
@@ -3840,6 +3915,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.shoprunners.de",
+            "github_url": null,
             "contributors": [
                 "Shoprunners"
             ],
@@ -3865,6 +3941,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/teslacoollab.com",
+            "github_url": null,
             "contributors": [
                 "jagui"
             ],
@@ -3894,6 +3971,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.thersane.fr",
+            "github_url": null,
             "contributors": [
                 "thersane-john"
             ],
@@ -3919,6 +3997,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.ukoo.fr",
+            "github_url": null,
             "contributors": [
                 "gilles-knani"
             ],
@@ -3948,6 +4027,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.vaisonet.com",
+            "github_url": null,
             "contributors": [
                 "Max84"
             ],
@@ -3977,6 +4057,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/vendifacileonline.com\/",
+            "github_url": null,
             "contributors": [
                 "danilocarta"
             ],
@@ -4006,6 +4087,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.vilkas.fi",
+            "github_url": null,
             "contributors": [
                 "samaij"
             ],
@@ -4035,6 +4117,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/wamkey.com",
+            "github_url": null,
             "contributors": [
                 "Roxayl"
             ],
@@ -4060,6 +4143,7 @@
             "contributions_percent": 0,
             "avatar_url": "",
             "html_url": "https:\/\/www.web-helpers.io",
+            "github_url": null,
             "contributors": [
                 "LouisAUTHIE"
             ],
