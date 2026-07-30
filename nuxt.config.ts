@@ -64,6 +64,7 @@ export default defineNuxtConfig({
           for (const login of Object.keys(data)) {
             if (login === 'updatedAt') continue
             routes.push(`/contributor/${encodeURIComponent(login)}`)
+            routes.push(`/card/${encodeURIComponent(login)}.svg`)
           }
         }
         catch (err) {
