@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Martin Fojtík">
+  <title>PrestaShop Top Contributor — Martin Fojtík</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">martinfojtik</text>
+  <text x="90" y="62" class="sub">Martin Fojtík</text>
+  <text x="90" y="78" class="sub">10 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">RANK</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#81</text>
+  </g>
+
+  <text x="24" y="118" class="row-l">PRs merged</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v" text-anchor="end">53</text>
+  <text x="24" y="140" class="row-l">PRs opened</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">73</text>
+  <text x="24" y="162" class="row-l">Reviews</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">3</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">0</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="396" height="6" fill="#7b4fac"/><rect x="420" y="208" width="68" height="6" fill="#59af70"/><rect x="488" y="208" width="48" height="6" fill="#ffb000"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#7b4fac">■</tspan> core  <tspan fill="#59af70">■</tspan> modules  <tspan fill="#ffb000">■</tspan> themes</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/martinfojtik</text>
+</svg>

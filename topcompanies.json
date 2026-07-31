@@ -5,11 +5,11 @@
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 8496,
+        "merged_pull_requests": 8500,
         "merged_pull_requests_by_version": {
             "9.3": 6,
             "9.2": 85,
-            "9.1": 114,
+            "9.1": 116,
             "9.0": 445,
             "8.2": 27,
             "8.1": 257,
@@ -26,7 +26,7 @@
             "1.6.1": 273
         },
         "merged_pull_requests_by_year": {
-            "2026": 354,
+            "2026": 358,
             "2025": 437,
             "2024": 536,
             "2023": 675,
@@ -42,12 +42,12 @@
             "2013": 525,
             "2012": 32
         },
-        "pull_requests_percent": 29.44,
-        "contributions": 35405,
+        "pull_requests_percent": 29.43,
+        "contributions": 35409,
         "contributions_by_version": {
             "9.3": 11,
             "9.2": 681,
-            "9.1": 1137,
+            "9.1": 1139,
             "9.0": 3078,
             "8.2": 43,
             "8.1": 1471,
@@ -64,7 +64,7 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 2400,
+            "2026": 2404,
             "2025": 2111,
             "2024": 2673,
             "2023": 3579,
@@ -80,7 +80,7 @@
             "2013": 1031,
             "2012": 56
         },
-        "contributions_percent": 28.21,
+        "contributions_percent": 28.2,
         "avatar_url": "",
         "html_url": "https:\/\/www.prestashop-project.org",
         "github_url": null,
@@ -189,11 +189,11 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 17432,
+            "merged_pull_requests": 17437,
             "merged_pull_requests_by_version": {
                 "9.3": 4,
-                "9.2": 147,
-                "9.1": 217,
+                "9.2": 149,
+                "9.1": 218,
                 "9.0": 997,
                 "8.2": 31,
                 "8.1": 469,
@@ -210,7 +210,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 798,
+                "2026": 803,
                 "2025": 1247,
                 "2024": 1290,
                 "2023": 1572,
@@ -225,12 +225,12 @@
                 "2014": 391,
                 "2013": 24
             },
-            "pull_requests_percent": 60.41,
-            "contributions": 81716,
+            "pull_requests_percent": 60.38,
+            "contributions": 81734,
             "contributions_by_version": {
                 "9.3": 10,
-                "9.2": 1032,
-                "9.1": 2170,
+                "9.2": 1035,
+                "9.1": 2171,
                 "9.0": 3981,
                 "8.2": 77,
                 "8.1": 2936,
@@ -247,7 +247,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 3495,
+                "2026": 3513,
                 "2025": 4879,
                 "2024": 5067,
                 "2023": 6413,
@@ -262,14 +262,14 @@
                 "2014": 786,
                 "2013": 36
             },
-            "contributions_percent": 65.11,
+            "contributions_percent": 65.09,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2815696?s=200&v=4",
             "html_url": "https:\/\/www.prestashop.com",
             "github_url": null,
             "contributors": [
                 "gRoussac",
-                "Progi1984",
                 "nicosomb",
+                "Progi1984",
                 "jolelievre",
                 "mattgoud",
                 "Quetzacoalt91",
@@ -1064,7 +1064,7 @@
             "rank": 3,
             "rank_contributions": 3,
             "rank_pull_requests": 3,
-            "merged_pull_requests": 474,
+            "merged_pull_requests": 477,
             "merged_pull_requests_by_version": {
                 "9.3": 2,
                 "9.2": 5,
@@ -1078,7 +1078,7 @@
                 "1.6.1": 1
             },
             "merged_pull_requests_by_year": {
-                "2026": 47,
+                "2026": 50,
                 "2025": 56,
                 "2024": 28,
                 "2023": 14,
@@ -1093,8 +1093,8 @@
                 "2013": 52,
                 "2012": 13
             },
-            "pull_requests_percent": 1.64,
-            "contributions": 685,
+            "pull_requests_percent": 1.65,
+            "contributions": 689,
             "contributions_by_version": {
                 "9.3": 4,
                 "9.2": 16,
@@ -1108,7 +1108,7 @@
                 "1.6.1": 1
             },
             "contributions_by_year": {
-                "2026": 106,
+                "2026": 110,
                 "2025": 79,
                 "2024": 31,
                 "2023": 21,
@@ -1337,7 +1337,7 @@
             "slug": "codencode",
             "rank": 6,
             "rank_contributions": 6,
-            "rank_pull_requests": 6,
+            "rank_pull_requests": 7,
             "merged_pull_requests": 189,
             "merged_pull_requests_by_version": {
                 "9.2": 2,
@@ -1431,8 +1431,8 @@
             "slug": "franck-lefevre",
             "rank": 8,
             "rank_contributions": 8,
-            "rank_pull_requests": 7,
-            "merged_pull_requests": 184,
+            "rank_pull_requests": 6,
+            "merged_pull_requests": 194,
             "merged_pull_requests_by_version": {
                 "9.3": 1,
                 "9.2": 3,
@@ -1442,13 +1442,13 @@
                 "8.1": 1
             },
             "merged_pull_requests_by_year": {
-                "2026": 117,
+                "2026": 127,
                 "2025": 65,
                 "2024": 1,
                 "2023": 1
             },
-            "pull_requests_percent": 0.64,
-            "contributions": 217,
+            "pull_requests_percent": 0.67,
+            "contributions": 227,
             "contributions_by_version": {
                 "9.3": 1,
                 "9.2": 3,
@@ -1458,12 +1458,12 @@
                 "8.1": 1
             },
             "contributions_by_year": {
-                "2026": 147,
+                "2026": 157,
                 "2025": 67,
                 "2024": 1,
                 "2023": 2
             },
-            "contributions_percent": 0.17,
+            "contributions_percent": 0.18,
             "avatar_url": "https:\/\/lefevre.dev\/progi1984.png",
             "html_url": "https:\/\/lefevre.dev\/",
             "github_url": null,
@@ -1943,10 +1943,43 @@
             ]
         },
         {
-            "name": "Evolutive",
-            "slug": "evolutive",
+            "name": "Soledis",
+            "slug": "soledis",
             "rank": 14,
             "rank_contributions": 14,
+            "rank_pull_requests": 18,
+            "merged_pull_requests": 17,
+            "merged_pull_requests_by_version": {
+                "9.3": 1,
+                "9.2": 8
+            },
+            "merged_pull_requests_by_year": {
+                "2026": 17
+            },
+            "pull_requests_percent": 0.06,
+            "contributions": 98,
+            "contributions_by_version": {
+                "9.3": 26,
+                "9.2": 56
+            },
+            "contributions_by_year": {
+                "2026": 98
+            },
+            "contributions_percent": 0.08,
+            "avatar_url": "https:\/\/www.soledis.com\/wp-content\/uploads\/fbrfg\/favicon.svg",
+            "html_url": "https:\/\/www.soledis.com",
+            "github_url": null,
+            "contributors": [
+                "soledis-contributeur",
+                "Quetzacoalt91"
+            ],
+            "employees": []
+        },
+        {
+            "name": "Evolutive",
+            "slug": "evolutive",
+            "rank": 15,
+            "rank_contributions": 15,
             "rank_pull_requests": 13,
             "merged_pull_requests": 34,
             "merged_pull_requests_by_version": {
@@ -1982,37 +2015,6 @@
                 "PululuK",
                 "web-cooking-factory",
                 "Dreimus"
-            ],
-            "employees": []
-        },
-        {
-            "name": "Soledis",
-            "slug": "soledis",
-            "rank": 15,
-            "rank_contributions": 15,
-            "rank_pull_requests": 18,
-            "merged_pull_requests": 16,
-            "merged_pull_requests_by_version": {
-                "9.2": 8
-            },
-            "merged_pull_requests_by_year": {
-                "2026": 16
-            },
-            "pull_requests_percent": 0.06,
-            "contributions": 72,
-            "contributions_by_version": {
-                "9.2": 56
-            },
-            "contributions_by_year": {
-                "2026": 72
-            },
-            "contributions_percent": 0.06,
-            "avatar_url": "https:\/\/www.soledis.com\/wp-content\/uploads\/fbrfg\/favicon.svg",
-            "html_url": "https:\/\/www.soledis.com",
-            "github_url": null,
-            "contributors": [
-                "soledis-contributeur",
-                "Quetzacoalt91"
             ],
             "employees": []
         },

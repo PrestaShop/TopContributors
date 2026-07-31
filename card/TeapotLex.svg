@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Alexon Simpkin">
+  <title>PrestaShop Top Contributor — Alexon Simpkin</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">TeapotLex</text>
+  <text x="90" y="62" class="sub">Alexon Simpkin</text>
+  <text x="90" y="78" class="sub">1 repo</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">RANK</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#1356</text>
+  </g>
+
+  <text x="24" y="118" class="row-l">PRs merged</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v" text-anchor="end">1</text>
+  <text x="24" y="140" class="row-l">PRs opened</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">1</text>
+  <text x="24" y="162" class="row-l">Reviews</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">0</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">0</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="512" height="6" fill="#5c92aa"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#5c92aa">■</tspan> documentation</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/TeapotLex</text>
+</svg>

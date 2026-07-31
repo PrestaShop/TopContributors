@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Dave Clark">
+  <title>PrestaShop Top Contributor — Dave Clark</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">clarkdave</text>
+  <text x="90" y="62" class="sub">Dave Clark</text>
+  <text x="90" y="78" class="sub">1 repo</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">RANK</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#1518</text>
+  </g>
+
+  <text x="24" y="118" class="row-l">PRs merged</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v" text-anchor="end">1</text>
+  <text x="24" y="140" class="row-l">PRs opened</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">1</text>
+  <text x="24" y="162" class="row-l">Reviews</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">0</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">0</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="512" height="6" fill="#59af70"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#59af70">■</tspan> modules</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/clarkdave</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Arnaud Schaeffer">
+  <title>PrestaShop Top Contributor — Arnaud Schaeffer</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">arnaudschaeffer</text>
+  <text x="90" y="62" class="sub">Arnaud Schaeffer</text>
+  <text x="90" y="78" class="sub">1 repo</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">RANK</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#841</text>
+  </g>
+
+  <text x="24" y="118" class="row-l">PRs merged</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v" text-anchor="end">2</text>
+  <text x="24" y="140" class="row-l">PRs opened</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">2</text>
+  <text x="24" y="162" class="row-l">Reviews</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">0</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">0</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="512" height="6" fill="#7b4fac"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#7b4fac">■</tspan> core</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/arnaudschaeffer</text>
+</svg>

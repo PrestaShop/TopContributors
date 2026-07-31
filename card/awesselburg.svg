@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Alexander Wesselburg">
+  <title>PrestaShop Top Contributor — Alexander Wesselburg</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">awesselburg</text>
+  <text x="90" y="62" class="sub">Alexander Wesselburg</text>
+  <text x="90" y="78" class="sub">1 repo</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">RANK</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#847</text>
+  </g>
+
+  <text x="24" y="118" class="row-l">PRs merged</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v" text-anchor="end">1</text>
+  <text x="24" y="140" class="row-l">PRs opened</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">2</text>
+  <text x="24" y="162" class="row-l">Reviews</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">0</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">0</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="512" height="6" fill="#59af70"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#59af70">■</tspan> modules</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/awesselburg</text>
+</svg>

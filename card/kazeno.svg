@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Rinku Kazeno">
+  <title>PrestaShop Top Contributor — Rinku Kazeno</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">kazeno</text>
+  <text x="90" y="62" class="sub">Rinku Kazeno</text>
+  <text x="90" y="78" class="sub">2 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">RANK</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#681</text>
+  </g>
+
+  <text x="24" y="118" class="row-l">PRs merged</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v" text-anchor="end">2</text>
+  <text x="24" y="140" class="row-l">PRs opened</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">3</text>
+  <text x="24" y="162" class="row-l">Reviews</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">0</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">1</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="256" height="6" fill="#7b4fac"/><rect x="280" y="208" width="256" height="6" fill="#59af70"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#7b4fac">■</tspan> core  <tspan fill="#59af70">■</tspan> modules</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/kazeno</text>
+</svg>

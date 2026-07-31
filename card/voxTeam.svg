@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: VOX">
+  <title>PrestaShop Top Contributor — VOX</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">voxTeam</text>
+  <text x="90" y="62" class="sub">VOX</text>
+  <text x="90" y="78" class="sub">1 repo</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">RANK</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#728</text>
+  </g>
+
+  <text x="24" y="118" class="row-l">PRs merged</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v" text-anchor="end">1</text>
+  <text x="24" y="140" class="row-l">PRs opened</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">3</text>
+  <text x="24" y="162" class="row-l">Reviews</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">0</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">2</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="512" height="6" fill="#59af70"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#59af70">■</tspan> modules</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/voxTeam</text>
+</svg>

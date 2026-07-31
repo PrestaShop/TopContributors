@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Maxime Biloé">
+  <title>PrestaShop Top Contributor — Maxime Biloé</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">maximebiloe</text>
+  <text x="90" y="62" class="sub">Maxime Biloé</text>
+  <text x="90" y="78" class="sub">31 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">RANK</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#12</text>
+  </g>
+
+  <text x="24" y="118" class="row-l">PRs merged</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v" text-anchor="end">582</text>
+  <text x="24" y="140" class="row-l">PRs opened</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">627</text>
+  <text x="24" y="162" class="row-l">Reviews</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">147</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">0</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="406" height="6" fill="#7b4fac"/><rect x="430" y="208" width="41" height="6" fill="#59af70"/><rect x="471" y="208" width="39" height="6" fill="#ffb000"/><rect x="510" y="208" width="19" height="6" fill="#f8e08e"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#7b4fac">■</tspan> core  <tspan fill="#59af70">■</tspan> modules  <tspan fill="#ffb000">■</tspan> themes  <tspan fill="#f8e08e">■</tspan> blog</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/maximebiloe</text>
+</svg>

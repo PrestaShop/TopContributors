@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-07-30T07:37:02+00:00",
+    "updatedAt": "2026-07-31T10:14:10+00:00",
     "items": [
         {
             "rank": 1,
@@ -7,9 +7,9 @@
             "name": "Progi1984",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1533248?v=4",
             "html_url": "https:\/\/github.com\/Progi1984",
-            "count": 7224,
+            "count": 7230,
             "countByYear": {
-                "2026": 713,
+                "2026": 719,
                 "2025": 801,
                 "2024": 703,
                 "2023": 509,
@@ -98,9 +98,9 @@
             "name": "Jonathan Lelievre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13801017?v=4",
             "html_url": "https:\/\/github.com\/jolelievre",
-            "count": 3072,
+            "count": 3075,
             "countByYear": {
-                "2026": 337,
+                "2026": 340,
                 "2025": 326,
                 "2024": 363,
                 "2023": 459,
@@ -132,9 +132,9 @@
             "name": "Nicolas L\u0153uillet",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/121870?v=4",
             "html_url": "https:\/\/github.com\/nicosomb",
-            "count": 2259,
+            "count": 2275,
             "countByYear": {
-                "2026": 355,
+                "2026": 371,
                 "2025": 581,
                 "2024": 482,
                 "2023": 653,
@@ -147,9 +147,9 @@
             "name": "Thomas N",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6768917?v=4",
             "html_url": "https:\/\/github.com\/Quetzacoalt91",
-            "count": 2208,
+            "count": 2209,
             "countByYear": {
-                "2026": 257,
+                "2026": 258,
                 "2025": 399,
                 "2024": 263,
                 "2023": 1,
@@ -413,9 +413,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 479,
+            "count": 482,
             "countByYear": {
-                "2026": 185,
+                "2026": 188,
                 "2025": 293,
                 "2023": 1
             }
@@ -566,9 +566,9 @@
             "name": "ingridusta",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109083351?u=27eaf664324b1ab9ef6eb66d715c68a942c08370&v=4",
             "html_url": "https:\/\/github.com\/ingridusta",
-            "count": 256,
+            "count": 258,
             "countByYear": {
-                "2026": 170,
+                "2026": 172,
                 "2025": 86
             }
         },
@@ -611,9 +611,9 @@
             "name": "Blivet Thibault",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/110676325?v=4",
             "html_url": "https:\/\/github.com\/tblivet",
-            "count": 229,
+            "count": 230,
             "countByYear": {
-                "2026": 91,
+                "2026": 92,
                 "2025": 106,
                 "2024": 27,
                 "2023": 5
@@ -808,9 +808,9 @@
             "name": "Cyril Navarro",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/127135637?v=4",
             "html_url": "https:\/\/github.com\/cnavarro-prestashop",
-            "count": 111,
+            "count": 112,
             "countByYear": {
-                "2026": 104,
+                "2026": 105,
                 "2025": 7
             }
         },
@@ -1643,6 +1643,18 @@
         },
         {
             "rank": 121,
+            "login": "Alexandre-Lematre",
+            "name": "Alexandre Lematre",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/107846409?v=4",
+            "html_url": "https:\/\/github.com\/Alexandre-Lematre",
+            "count": 7,
+            "countByYear": {
+                "2026": 5,
+                "2025": 2
+            }
+        },
+        {
+            "rank": 122,
             "login": "TristanLDD",
             "name": "TristanLDD",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/27484094?v=4",
@@ -1657,7 +1669,7 @@
             }
         },
         {
-            "rank": 122,
+            "rank": 123,
             "login": "copilot-pull-request-reviewer",
             "name": "copilot-pull-request-reviewer",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/in\/946600?v=4",
@@ -1669,7 +1681,7 @@
             }
         },
         {
-            "rank": 123,
+            "rank": 124,
             "login": "fabienvallon",
             "name": "fabienvallon",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/93661074?v=4",
@@ -1681,7 +1693,7 @@
             }
         },
         {
-            "rank": 124,
+            "rank": 125,
             "login": "kseghair",
             "name": "K\u00e9vin S\u00e9ghair",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16594134?v=4",
@@ -1693,7 +1705,7 @@
             }
         },
         {
-            "rank": 125,
+            "rank": 126,
             "login": "szavadskiy",
             "name": "Serhii Zavadskyi",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/90208051?u=9de8f9871394b5ce3642ad9d5a4e633d7e15c3dd&v=4",
@@ -1705,7 +1717,7 @@
             }
         },
         {
-            "rank": 126,
+            "rank": 127,
             "login": "zalexki",
             "name": "Alex",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3863527?v=4",
@@ -1714,18 +1726,6 @@
             "countByYear": {
                 "2020": 3,
                 "2019": 4
-            }
-        },
-        {
-            "rank": 127,
-            "login": "Alexandre-Lematre",
-            "name": "Alexandre Lematre",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/107846409?v=4",
-            "html_url": "https:\/\/github.com\/Alexandre-Lematre",
-            "count": 6,
-            "countByYear": {
-                "2026": 4,
-                "2025": 2
             }
         },
         {

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Jean-François Viguier">
+  <title>PrestaShop Top Contributor — Jean-François Viguier</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">jf-viguier</text>
+  <text x="90" y="62" class="sub">Jean-François Viguier</text>
+  <text x="90" y="78" class="sub">33 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">RANK</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#35</text>
+  </g>
+
+  <text x="24" y="118" class="row-l">PRs merged</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v" text-anchor="end">183</text>
+  <text x="24" y="140" class="row-l">PRs opened</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">225</text>
+  <text x="24" y="162" class="row-l">Reviews</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">167</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">109</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="201" height="6" fill="#7b4fac"/><rect x="225" y="208" width="159" height="6" fill="#5c92aa"/><rect x="384" y="208" width="118" height="6" fill="#59af70"/><rect x="502" y="208" width="14" height="6" fill="#bde9c9"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#7b4fac">■</tspan> core  <tspan fill="#5c92aa">■</tspan> documentation  <tspan fill="#59af70">■</tspan> modules  <tspan fill="#bde9c9">■</tspan> specs</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/jf-viguier</text>
+</svg>
