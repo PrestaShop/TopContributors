@@ -42,7 +42,7 @@
             "2013": 525,
             "2012": 32
         },
-        "pull_requests_percent": 29.43,
+        "pull_requests_percent": 29.42,
         "contributions": 35409,
         "contributions_by_version": {
             "9.3": 11,
@@ -80,7 +80,7 @@
             "2013": 1031,
             "2012": 56
         },
-        "contributions_percent": 28.2,
+        "contributions_percent": 28.19,
         "avatar_url": "",
         "html_url": "https:\/\/www.prestashop-project.org",
         "github_url": null,
@@ -189,10 +189,10 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 17437,
+            "merged_pull_requests": 17444,
             "merged_pull_requests_by_version": {
-                "9.3": 4,
-                "9.2": 149,
+                "9.3": 5,
+                "9.2": 151,
                 "9.1": 218,
                 "9.0": 997,
                 "8.2": 31,
@@ -210,7 +210,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 803,
+                "2026": 810,
                 "2025": 1247,
                 "2024": 1290,
                 "2023": 1572,
@@ -226,10 +226,10 @@
                 "2013": 24
             },
             "pull_requests_percent": 60.38,
-            "contributions": 81734,
+            "contributions": 81752,
             "contributions_by_version": {
-                "9.3": 10,
-                "9.2": 1035,
+                "9.3": 21,
+                "9.2": 1037,
                 "9.1": 2171,
                 "9.0": 3981,
                 "8.2": 77,
@@ -247,7 +247,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 3513,
+                "2026": 3531,
                 "2025": 4879,
                 "2024": 5067,
                 "2023": 6413,
@@ -268,8 +268,8 @@
             "github_url": null,
             "contributors": [
                 "gRoussac",
-                "nicosomb",
                 "Progi1984",
+                "nicosomb",
                 "jolelievre",
                 "mattgoud",
                 "Quetzacoalt91",
@@ -1064,7 +1064,7 @@
             "rank": 3,
             "rank_contributions": 3,
             "rank_pull_requests": 3,
-            "merged_pull_requests": 477,
+            "merged_pull_requests": 478,
             "merged_pull_requests_by_version": {
                 "9.3": 2,
                 "9.2": 5,
@@ -1078,7 +1078,7 @@
                 "1.6.1": 1
             },
             "merged_pull_requests_by_year": {
-                "2026": 50,
+                "2026": 51,
                 "2025": 56,
                 "2024": 28,
                 "2023": 14,
@@ -1094,7 +1094,7 @@
                 "2012": 13
             },
             "pull_requests_percent": 1.65,
-            "contributions": 689,
+            "contributions": 690,
             "contributions_by_version": {
                 "9.3": 4,
                 "9.2": 16,
@@ -1108,7 +1108,7 @@
                 "1.6.1": 1
             },
             "contributions_by_year": {
-                "2026": 110,
+                "2026": 111,
                 "2025": 79,
                 "2024": 31,
                 "2023": 21,
@@ -1379,10 +1379,56 @@
             "employees": []
         },
         {
-            "name": "Okom3pom",
-            "slug": "okom3pom",
+            "name": "Franck Lef\u00e8vre",
+            "slug": "franck-lefevre",
             "rank": 7,
             "rank_contributions": 7,
+            "rank_pull_requests": 6,
+            "merged_pull_requests": 199,
+            "merged_pull_requests_by_version": {
+                "9.3": 1,
+                "9.2": 3,
+                "9.1": 10,
+                "9.0": 42,
+                "8.2": 2,
+                "8.1": 1
+            },
+            "merged_pull_requests_by_year": {
+                "2026": 132,
+                "2025": 65,
+                "2024": 1,
+                "2023": 1
+            },
+            "pull_requests_percent": 0.69,
+            "contributions": 232,
+            "contributions_by_version": {
+                "9.3": 1,
+                "9.2": 3,
+                "9.1": 11,
+                "9.0": 42,
+                "8.2": 2,
+                "8.1": 1
+            },
+            "contributions_by_year": {
+                "2026": 162,
+                "2025": 67,
+                "2024": 1,
+                "2023": 2
+            },
+            "contributions_percent": 0.18,
+            "avatar_url": "https:\/\/lefevre.dev\/progi1984.png",
+            "html_url": "https:\/\/lefevre.dev\/",
+            "github_url": null,
+            "contributors": [
+                "Progi1984"
+            ],
+            "employees": []
+        },
+        {
+            "name": "Okom3pom",
+            "slug": "okom3pom",
+            "rank": 8,
+            "rank_contributions": 8,
             "rank_pull_requests": 9,
             "merged_pull_requests": 87,
             "merged_pull_requests_by_version": {
@@ -1423,52 +1469,6 @@
             "github_url": null,
             "contributors": [
                 "Touxten"
-            ],
-            "employees": []
-        },
-        {
-            "name": "Franck Lef\u00e8vre",
-            "slug": "franck-lefevre",
-            "rank": 8,
-            "rank_contributions": 8,
-            "rank_pull_requests": 6,
-            "merged_pull_requests": 194,
-            "merged_pull_requests_by_version": {
-                "9.3": 1,
-                "9.2": 3,
-                "9.1": 10,
-                "9.0": 42,
-                "8.2": 2,
-                "8.1": 1
-            },
-            "merged_pull_requests_by_year": {
-                "2026": 127,
-                "2025": 65,
-                "2024": 1,
-                "2023": 1
-            },
-            "pull_requests_percent": 0.67,
-            "contributions": 227,
-            "contributions_by_version": {
-                "9.3": 1,
-                "9.2": 3,
-                "9.1": 11,
-                "9.0": 42,
-                "8.2": 2,
-                "8.1": 1
-            },
-            "contributions_by_year": {
-                "2026": 157,
-                "2025": 67,
-                "2024": 1,
-                "2023": 2
-            },
-            "contributions_percent": 0.18,
-            "avatar_url": "https:\/\/lefevre.dev\/progi1984.png",
-            "html_url": "https:\/\/lefevre.dev\/",
-            "github_url": null,
-            "contributors": [
-                "Progi1984"
             ],
             "employees": []
         },
@@ -1576,7 +1576,7 @@
                 "2019": 21,
                 "2013": 1
             },
-            "pull_requests_percent": 0.23,
+            "pull_requests_percent": 0.22,
             "contributions": 161,
             "contributions_by_version": {
                 "9.1": 1,

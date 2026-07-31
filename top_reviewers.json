@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-07-31T10:14:10+00:00",
+    "updatedAt": "2026-07-31T13:11:26+00:00",
     "items": [
         {
             "rank": 1,
@@ -7,9 +7,9 @@
             "name": "Progi1984",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1533248?v=4",
             "html_url": "https:\/\/github.com\/Progi1984",
-            "count": 7230,
+            "count": 7231,
             "countByYear": {
-                "2026": 719,
+                "2026": 720,
                 "2025": 801,
                 "2024": 703,
                 "2023": 509,
@@ -132,9 +132,9 @@
             "name": "Nicolas L\u0153uillet",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/121870?v=4",
             "html_url": "https:\/\/github.com\/nicosomb",
-            "count": 2275,
+            "count": 2280,
             "countByYear": {
-                "2026": 371,
+                "2026": 376,
                 "2025": 581,
                 "2024": 482,
                 "2023": 653,
@@ -369,9 +369,9 @@
             "name": "AureRita",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/100699445?v=4",
             "html_url": "https:\/\/github.com\/AureRita",
-            "count": 566,
+            "count": 567,
             "countByYear": {
-                "2026": 71,
+                "2026": 72,
                 "2025": 137,
                 "2024": 169,
                 "2023": 74,
@@ -441,9 +441,9 @@
             "name": "SiraDIOP",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/177132156?v=4",
             "html_url": "https:\/\/github.com\/SiraDIOP",
-            "count": 434,
+            "count": 436,
             "countByYear": {
-                "2026": 142,
+                "2026": 144,
                 "2025": 292
             }
         },
