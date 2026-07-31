@@ -32,7 +32,13 @@ const readRanking = (file: string) => {
 
 const indexBy = (r: Ranking | null, field: 'rank' | 'count') => {
   const m = new Map<string, number>()
-  for (const it of r?.items ?? []) m.set(it.login.toLowerCase(), it[field])
+  const items = Array.isArray(r?.items) ? r.items : []
+  for (const it of items) {
+    // Production ranking files occasionally carry summary/entries lacking a
+    // login (e.g. aggregate rows). Skip them rather than 500'ing the card.
+    if (!it || typeof it.login !== 'string' || !it.login) continue
+    m.set(it.login.toLowerCase(), it[field])
+  }
   return m
 }
 
