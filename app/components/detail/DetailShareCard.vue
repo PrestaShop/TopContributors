@@ -17,7 +17,9 @@ const copy = async (kind: 'url' | 'md', text: string) => {
   try {
     await navigator.clipboard.writeText(text)
     copied.value = kind
-    setTimeout(() => { if (copied.value === kind) copied.value = null }, 1500)
+    setTimeout(() => {
+      if (copied.value === kind) copied.value = null
+    }, 1500)
   }
   catch { /* clipboard unavailable — user can still select the text */ }
 }
