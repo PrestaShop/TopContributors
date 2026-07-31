@@ -13,6 +13,10 @@ const escapeXml = (s: string) =>
 interface Ranking { updatedAt: string, items: { rank: number, login: string, count: number }[] }
 interface Cache {
   data: Record<string, Contributor>
+  // Top Contributors ranking (aggregate contributions) — mirrors the derivation
+  // in app/pages/index.vue where rank = 1-based index into the natural order
+  // of contributors_prs.json. Not to be confused with top_pullrequests.json
+  // which ranks PR authors only.
   rankByLogin: Map<string, number>
   reviewsByLogin: Map<string, number>
   issuesByLogin: Map<string, number>
@@ -49,16 +53,28 @@ const load = (): Cache => {
   if (!existsSync(contribPath)) throw createError({ statusCode: 500, statusMessage: 'contributors_prs.json missing' })
   const data = JSON.parse(readFileSync(contribPath, 'utf-8')) as Record<string, Contributor>
 
-  // Rank + per-dimension counts live in the top_*.json ranking files; the raw
+  // Per-dimension counts live in the top_*.json ranking files; the raw
   // contributor JSON only carries merged PRs reliably. Read once, index by
   // lowercased login for case-insensitive lookup.
   const pulls = readRanking('top_pullrequests.json')
   const reviewers = readRanking('top_reviewers.json')
   const issues = readRanking('top_issues.json')
 
+  // Top Contributors rank is derived from the natural order of
+  // contributors_prs.json (already sorted by aggregate contributions in
+  // Traces), same as app/pages/index.vue does at runtime. `updatedAt` is a
+  // sibling metadata key on the same object, so skip it during enumeration.
+  const rankByLogin = new Map<string, number>()
+  let rank = 0
+  for (const [k, v] of Object.entries(data)) {
+    if (k === 'updatedAt' || !v || typeof v !== 'object' || !('login' in v)) continue
+    rank += 1
+    rankByLogin.set(k.toLowerCase(), rank)
+  }
+
   cache = {
     data,
-    rankByLogin: indexBy(pulls, 'rank'),
+    rankByLogin,
     openedByLogin: indexBy(pulls, 'count'),
     reviewsByLogin: indexBy(reviewers, 'count'),
     issuesByLogin: indexBy(issues, 'count'),
