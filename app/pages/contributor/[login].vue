@@ -103,6 +103,7 @@ useHead(() => ({
             { id: 'section-top-repos', label: 'Top repositories' },
             { id: 'section-year-detail', label: 'Year drilldown' },
             { id: 'section-repos-table', label: 'All repos' },
+            { id: 'section-share', label: 'Share your card' },
           ]"
         />
       </template>
@@ -125,6 +126,7 @@ useHead(() => ({
         <DetailTopReposChart :top-repos="vm.topRepos" />
         <DetailYearTabs :series="vm.yearlySeries" />
         <DetailReposTable :rows="vm.repoRows" />
+        <DetailShareCard :login="contributor.login" />
       </template>
     </DetailPageLayout>
 
