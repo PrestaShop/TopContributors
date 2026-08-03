@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-08-02T07:30:50+00:00",
+    "updatedAt": "2026-08-03T08:37:28+00:00",
     "items": [
         {
             "rank": 1,
@@ -177,9 +177,9 @@
             "name": "Krystian Podemski",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2137763?v=4",
             "html_url": "https:\/\/github.com\/kpodemski",
-            "count": 688,
+            "count": 690,
             "countByYear": {
-                "2026": 82,
+                "2026": 84,
                 "2025": 88,
                 "2024": 68,
                 "2023": 103,
@@ -551,6 +551,17 @@
         },
         {
             "rank": 35,
+            "login": "boo-code",
+            "name": "Audrius",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65190196?v=4",
+            "html_url": "https:\/\/github.com\/boo-code",
+            "count": 225,
+            "countByYear": {
+                "2026": 225
+            }
+        },
+        {
+            "rank": 36,
             "login": "jf-viguier",
             "name": "Jean-Fran\u00e7ois Viguier",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16720275?v=4",
@@ -566,17 +577,6 @@
                 "2020": 19,
                 "2019": 14,
                 "2018": 4
-            }
-        },
-        {
-            "rank": 36,
-            "login": "boo-code",
-            "name": "Audrius",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65190196?v=4",
-            "html_url": "https:\/\/github.com\/boo-code",
-            "count": 221,
-            "countByYear": {
-                "2026": 221
             }
         },
         {
@@ -15079,7 +15079,7 @@
             "rank": 1243,
             "login": "M0nd0R",
             "name": "Mundur",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/150439604?u=579a6c91a8fac36aa967c09061e9543ac73cfd99&v=4",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/150439604?u=ac7d2b170b29a30a6a7a3dfa9525bd6bf7d2174a&v=4",
             "html_url": "https:\/\/github.com\/M0nd0R",
             "count": 1,
             "countByYear": {
@@ -25144,7 +25144,7 @@
             "rank": 2158,
             "login": "vgiorgi",
             "name": "Vasile Giorgi",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2556196?v=4",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2556196?u=2044de0f1c4be49342c8fe8fb2bb3d5a77b50854&v=4",
             "html_url": "https:\/\/github.com\/vgiorgi",
             "count": 1,
             "countByYear": {

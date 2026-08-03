@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-08-02T07:30:50+00:00",
+    "updatedAt": "2026-08-03T08:37:28+00:00",
     "items": [
         {
             "rank": 1,
@@ -7,9 +7,9 @@
             "name": "Progi1984",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1533248?v=4",
             "html_url": "https:\/\/github.com\/Progi1984",
-            "count": 7231,
+            "count": 7233,
             "countByYear": {
-                "2026": 720,
+                "2026": 722,
                 "2025": 801,
                 "2024": 703,
                 "2023": 509,
@@ -59,9 +59,9 @@
             "name": "Krystian Podemski",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2137763?v=4",
             "html_url": "https:\/\/github.com\/kpodemski",
-            "count": 3536,
+            "count": 3542,
             "countByYear": {
-                "2026": 369,
+                "2026": 375,
                 "2025": 428,
                 "2024": 421,
                 "2023": 1040,
@@ -808,9 +808,9 @@
             "name": "Cyril Navarro",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/127135637?v=4",
             "html_url": "https:\/\/github.com\/cnavarro-prestashop",
-            "count": 112,
+            "count": 115,
             "countByYear": {
-                "2026": 105,
+                "2026": 108,
                 "2025": 7
             }
         },

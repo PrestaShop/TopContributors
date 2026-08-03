@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-08-02T07:30:50+00:00",
+    "updatedAt": "2026-08-03T08:37:28+00:00",
     "items": [
         {
             "rank": 1,
@@ -1377,6 +1377,17 @@
         },
         {
             "rank": 92,
+            "login": "boo-code",
+            "name": "Audrius",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65190196?v=4",
+            "html_url": "https:\/\/github.com\/boo-code",
+            "count": 26,
+            "countByYear": {
+                "2026": 26
+            }
+        },
+        {
+            "rank": 93,
             "login": "LinkOfLight",
             "name": "Angel Moreno Cubero",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9163980?v=4",
@@ -1390,17 +1401,6 @@
                 "2020": 2,
                 "2019": 4,
                 "2018": 5
-            }
-        },
-        {
-            "rank": 93,
-            "login": "boo-code",
-            "name": "Audrius",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65190196?v=4",
-            "html_url": "https:\/\/github.com\/boo-code",
-            "count": 25,
-            "countByYear": {
-                "2026": 25
             }
         },
         {
