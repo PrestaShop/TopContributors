@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-08-03T08:17:30+00:00",
+    "updatedAt": "2026-08-04T07:13:37+00:00",
     "community": {
         "name": "Open Source Community",
         "slug": "open-source-community",
@@ -43,7 +43,7 @@
             "2013": 525,
             "2012": 32
         },
-        "pull_requests_percent": 29.43,
+        "pull_requests_percent": 29.42,
         "contributions": 35419,
         "contributions_by_version": {
             "9.3": 11,
@@ -190,10 +190,10 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 17445,
+            "merged_pull_requests": 17447,
             "merged_pull_requests_by_version": {
                 "9.3": 5,
-                "9.2": 151,
+                "9.2": 152,
                 "9.1": 218,
                 "9.0": 997,
                 "8.2": 31,
@@ -211,7 +211,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 811,
+                "2026": 813,
                 "2025": 1247,
                 "2024": 1290,
                 "2023": 1572,
@@ -226,11 +226,11 @@
                 "2014": 391,
                 "2013": 24
             },
-            "pull_requests_percent": 60.37,
-            "contributions": 81754,
+            "pull_requests_percent": 60.36,
+            "contributions": 81758,
             "contributions_by_version": {
                 "9.3": 21,
-                "9.2": 1037,
+                "9.2": 1038,
                 "9.1": 2171,
                 "9.0": 3981,
                 "8.2": 77,
@@ -248,7 +248,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 3533,
+                "2026": 3537,
                 "2025": 4879,
                 "2024": 5067,
                 "2023": 6413,
@@ -1341,9 +1341,9 @@
             "rank": 6,
             "rank_contributions": 7,
             "rank_pull_requests": 6,
-            "merged_pull_requests": 199,
+            "merged_pull_requests": 205,
             "merged_pull_requests_by_version": {
-                "9.3": 1,
+                "9.3": 2,
                 "9.2": 3,
                 "9.1": 10,
                 "9.0": 42,
@@ -1351,15 +1351,15 @@
                 "8.1": 1
             },
             "merged_pull_requests_by_year": {
-                "2026": 132,
+                "2026": 138,
                 "2025": 65,
                 "2024": 1,
                 "2023": 1
             },
-            "pull_requests_percent": 0.69,
-            "contributions": 232,
+            "pull_requests_percent": 0.71,
+            "contributions": 238,
             "contributions_by_version": {
-                "9.3": 1,
+                "9.3": 2,
                 "9.2": 3,
                 "9.1": 11,
                 "9.0": 42,
@@ -1367,12 +1367,12 @@
                 "8.1": 1
             },
             "contributions_by_year": {
-                "2026": 162,
+                "2026": 168,
                 "2025": 67,
                 "2024": 1,
                 "2023": 2
             },
-            "contributions_percent": 0.18,
+            "contributions_percent": 0.19,
             "avatar_url": "https:\/\/lefevre.dev\/progi1984.png",
             "html_url": "https:\/\/lefevre.dev\/",
             "github_url": null,

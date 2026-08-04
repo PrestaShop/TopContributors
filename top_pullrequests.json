@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-08-03T08:37:28+00:00",
+    "updatedAt": "2026-08-04T07:35:58+00:00",
     "items": [
         {
             "rank": 1,
@@ -7,9 +7,9 @@
             "name": "Progi1984",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1533248?v=4",
             "html_url": "https:\/\/github.com\/Progi1984",
-            "count": 2576,
+            "count": 2582,
             "countByYear": {
-                "2026": 300,
+                "2026": 306,
                 "2025": 465,
                 "2024": 492,
                 "2023": 342,
@@ -44,9 +44,9 @@
             "name": "Jonathan Lelievre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13801017?v=4",
             "html_url": "https:\/\/github.com\/jolelievre",
-            "count": 1380,
+            "count": 1381,
             "countByYear": {
-                "2026": 183,
+                "2026": 184,
                 "2025": 228,
                 "2024": 258,
                 "2023": 136,
@@ -177,9 +177,9 @@
             "name": "Krystian Podemski",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2137763?v=4",
             "html_url": "https:\/\/github.com\/kpodemski",
-            "count": 690,
+            "count": 692,
             "countByYear": {
-                "2026": 84,
+                "2026": 86,
                 "2025": 88,
                 "2024": 68,
                 "2023": 103,
@@ -555,9 +555,9 @@
             "name": "Audrius",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65190196?v=4",
             "html_url": "https:\/\/github.com\/boo-code",
-            "count": 225,
+            "count": 226,
             "countByYear": {
-                "2026": 225
+                "2026": 226
             }
         },
         {
@@ -2279,6 +2279,19 @@
         },
         {
             "rank": 156,
+            "login": "cnavarro-prestashop",
+            "name": "Cyril Navarro",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/127135637?v=4",
+            "html_url": "https:\/\/github.com\/cnavarro-prestashop",
+            "count": 27,
+            "countByYear": {
+                "2026": 22,
+                "2025": 3,
+                "2023": 2
+            }
+        },
+        {
+            "rank": 157,
             "login": "luigimassa",
             "name": "Luigi Massa",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/186556?v=4",
@@ -2298,7 +2311,7 @@
             }
         },
         {
-            "rank": 157,
+            "rank": 158,
             "login": "sam-pires",
             "name": "Samuel Pir\u00e8s",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/25405887?v=4",
@@ -2310,7 +2323,7 @@
             }
         },
         {
-            "rank": 158,
+            "rank": 159,
             "login": "SimonasB88",
             "name": "SimonasB88",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/29095235?v=4",
@@ -2322,7 +2335,7 @@
             }
         },
         {
-            "rank": 159,
+            "rank": 160,
             "login": "gaillafr",
             "name": "Fran\u00e7ois Gaillard",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2244330?v=4",
@@ -2335,7 +2348,7 @@
             }
         },
         {
-            "rank": 160,
+            "rank": 161,
             "login": "panploenes",
             "name": "Pan P.",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8298538?u=aada3179ebc6f34fd59a9e9a9fddb75decccb7f0&v=4",
@@ -2348,7 +2361,7 @@
             }
         },
         {
-            "rank": 161,
+            "rank": 162,
             "login": "Alexandre-Lematre",
             "name": "Alexandre Lematre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/107846409?v=4",
@@ -2362,7 +2375,7 @@
             }
         },
         {
-            "rank": 162,
+            "rank": 163,
             "login": "cinscaen",
             "name": "CINS",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4561091?v=4",
@@ -2374,7 +2387,7 @@
             }
         },
         {
-            "rank": 163,
+            "rank": 164,
             "login": "clotairer",
             "name": "Clotaire",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/52157233?v=4",
@@ -2388,19 +2401,6 @@
                 "2022": 11,
                 "2021": 1,
                 "2020": 5
-            }
-        },
-        {
-            "rank": 164,
-            "login": "cnavarro-prestashop",
-            "name": "Cyril Navarro",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/127135637?v=4",
-            "html_url": "https:\/\/github.com\/cnavarro-prestashop",
-            "count": 25,
-            "countByYear": {
-                "2026": 20,
-                "2025": 3,
-                "2023": 2
             }
         },
         {
