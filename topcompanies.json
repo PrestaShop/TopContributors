@@ -5,9 +5,9 @@
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 8504,
+        "merged_pull_requests": 8509,
         "merged_pull_requests_by_version": {
-            "9.3": 6,
+            "9.3": 7,
             "9.2": 85,
             "9.1": 116,
             "9.0": 445,
@@ -26,7 +26,7 @@
             "1.6.1": 273
         },
         "merged_pull_requests_by_year": {
-            "2026": 362,
+            "2026": 367,
             "2025": 437,
             "2024": 536,
             "2023": 675,
@@ -42,10 +42,10 @@
             "2013": 525,
             "2012": 32
         },
-        "pull_requests_percent": 29.41,
-        "contributions": 35420,
+        "pull_requests_percent": 29.42,
+        "contributions": 35434,
         "contributions_by_version": {
-            "9.3": 11,
+            "9.3": 12,
             "9.2": 681,
             "9.1": 1139,
             "9.0": 3078,
@@ -64,7 +64,7 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 2415,
+            "2026": 2429,
             "2025": 2111,
             "2024": 2673,
             "2023": 3579,
@@ -85,6 +85,7 @@
         "html_url": "https:\/\/www.prestashop-project.org",
         "github_url": null,
         "contributors": [
+            "gumgl",
             "jolelievre",
             "kpodemski",
             "M0rgan01",
@@ -189,9 +190,9 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 17451,
+            "merged_pull_requests": 17454,
             "merged_pull_requests_by_version": {
-                "9.3": 5,
+                "9.3": 6,
                 "9.2": 152,
                 "9.1": 218,
                 "9.0": 997,
@@ -210,7 +211,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 817,
+                "2026": 820,
                 "2025": 1247,
                 "2024": 1290,
                 "2023": 1572,
@@ -225,10 +226,10 @@
                 "2014": 391,
                 "2013": 24
             },
-            "pull_requests_percent": 60.36,
-            "contributions": 81767,
+            "pull_requests_percent": 60.35,
+            "contributions": 81778,
             "contributions_by_version": {
-                "9.3": 21,
+                "9.3": 26,
                 "9.2": 1038,
                 "9.1": 2171,
                 "9.0": 3981,
@@ -247,7 +248,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 3546,
+                "2026": 3557,
                 "2025": 4879,
                 "2024": 5067,
                 "2023": 6413,

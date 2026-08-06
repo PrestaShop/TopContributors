@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-08-05T07:32:43+00:00",
+    "updatedAt": "2026-08-06T07:35:02+00:00",
     "items": [
         {
             "rank": 1,
@@ -1022,6 +1022,17 @@
         },
         {
             "rank": 67,
+            "login": "Paule-M",
+            "name": "Paule-M",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/162342761?v=4",
+            "html_url": "https:\/\/github.com\/Paule-M",
+            "count": 40,
+            "countByYear": {
+                "2026": 40
+            }
+        },
+        {
+            "rank": 68,
             "login": "eveneme",
             "name": "Micha\u0142",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/85762221?v=4",
@@ -1034,17 +1045,6 @@
                 "2023": 10,
                 "2022": 4,
                 "2021": 20
-            }
-        },
-        {
-            "rank": 68,
-            "login": "Paule-M",
-            "name": "Paule-M",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/162342761?v=4",
-            "html_url": "https:\/\/github.com\/Paule-M",
-            "count": 39,
-            "countByYear": {
-                "2026": 39
             }
         },
         {
