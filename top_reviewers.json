@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-08-06T07:35:02+00:00",
+    "updatedAt": "2026-08-07T11:27:33+00:00",
     "items": [
         {
             "rank": 1,
@@ -7,9 +7,9 @@
             "name": "Progi1984",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1533248?v=4",
             "html_url": "https:\/\/github.com\/Progi1984",
-            "count": 7240,
+            "count": 7241,
             "countByYear": {
-                "2026": 729,
+                "2026": 730,
                 "2025": 801,
                 "2024": 703,
                 "2023": 509,
@@ -59,9 +59,9 @@
             "name": "Krystian Podemski",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2137763?v=4",
             "html_url": "https:\/\/github.com\/kpodemski",
-            "count": 3556,
+            "count": 3558,
             "countByYear": {
-                "2026": 389,
+                "2026": 391,
                 "2025": 428,
                 "2024": 421,
                 "2023": 1040,
@@ -98,9 +98,9 @@
             "name": "Jonathan Lelievre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13801017?v=4",
             "html_url": "https:\/\/github.com\/jolelievre",
-            "count": 3085,
+            "count": 3250,
             "countByYear": {
-                "2026": 350,
+                "2026": 515,
                 "2025": 326,
                 "2024": 363,
                 "2023": 459,
@@ -413,9 +413,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 486,
+            "count": 487,
             "countByYear": {
-                "2026": 192,
+                "2026": 193,
                 "2025": 293,
                 "2023": 1
             }
@@ -744,6 +744,18 @@
         },
         {
             "rank": 50,
+            "login": "cnavarro-prestashop",
+            "name": "Cyril Navarro",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/127135637?v=4",
+            "html_url": "https:\/\/github.com\/cnavarro-prestashop",
+            "count": 146,
+            "countByYear": {
+                "2026": 139,
+                "2025": 7
+            }
+        },
+        {
+            "rank": 51,
             "login": "saulaski",
             "name": "SauLaski",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/97030953?v=4",
@@ -754,7 +766,7 @@
             }
         },
         {
-            "rank": 51,
+            "rank": 52,
             "login": "hibatallahAouadni",
             "name": "Hibatallah Aouadni",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/23308427?v=4",
@@ -768,7 +780,7 @@
             }
         },
         {
-            "rank": 52,
+            "rank": 53,
             "login": "djoelleuch",
             "name": "Hejer ELLEUCH",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/115152460?v=4",
@@ -779,7 +791,7 @@
             }
         },
         {
-            "rank": 53,
+            "rank": 54,
             "login": "khouloudbelguith",
             "name": "khouloudbelguith",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16067358?v=4",
@@ -790,7 +802,7 @@
             }
         },
         {
-            "rank": 54,
+            "rank": 55,
             "login": "sarjon",
             "name": "\u0160ar\u016bnas Jonu\u0161as",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/15143151?v=4",
@@ -800,18 +812,6 @@
                 "2019": 86,
                 "2018": 38,
                 "2017": 1
-            }
-        },
-        {
-            "rank": 55,
-            "login": "cnavarro-prestashop",
-            "name": "Cyril Navarro",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/127135637?v=4",
-            "html_url": "https:\/\/github.com\/cnavarro-prestashop",
-            "count": 120,
-            "countByYear": {
-                "2026": 113,
-                "2025": 7
             }
         },
         {
@@ -3000,7 +3000,7 @@
         {
             "rank": 240,
             "login": "Pierstoval",
-            "name": "Alex Rock",
+            "name": "Pierstoval",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3369266?u=cd40e98364c064016bdef62d5442d93c8b2a19a0&v=4",
             "html_url": "https:\/\/github.com\/Pierstoval",
             "count": 1,
