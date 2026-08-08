@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11125,
+        "contributions": 11128,
         "repositories": {
             "PrestaShop": 1211,
             "PrestaShop-modules": 2,
@@ -109,7 +109,7 @@
             "example-modules": 1,
             "ps_qualityassurance": 1,
             ".github": 3,
-            "test-scenarios": 20,
+            "test-scenarios": 21,
             "hummingbird": 3,
             "ga.tests.ui.pr": 36,
             "ps-project-metrics": 2,
@@ -193,9 +193,9 @@
                 }
             },
             "documentation": {
-                "total": 64,
+                "total": 65,
                 "byYear": {
-                    "2026": 5,
+                    "2026": 6,
                     "2024": 6,
                     "2023": 19,
                     "2022": 4,
@@ -207,7 +207,7 @@
                     "docs": 25,
                     "open-source": 16,
                     "example-modules": 1,
-                    "test-scenarios": 20,
+                    "test-scenarios": 21,
                     "keycloak_connector_demo": 2
                 },
                 "repositoriesByYear": {
@@ -228,7 +228,7 @@
                         "2021": 1
                     },
                     "test-scenarios": {
-                        "2026": 4,
+                        "2026": 5,
                         "2024": 5,
                         "2023": 5,
                         "2021": 5,
@@ -844,9 +844,9 @@
                 }
             }
         },
-        "mergedPullRequests": 2492,
+        "mergedPullRequests": 2493,
         "mergedPullRequestsByYear": {
-            "2026": 303,
+            "2026": 304,
             "2025": 445,
             "2024": 479,
             "2023": 348,
@@ -1299,7 +1299,7 @@
                 "2026": 3
             },
             "test-scenarios": {
-                "2026": 4,
+                "2026": 5,
                 "2024": 5,
                 "2023": 5,
                 "2021": 5,
@@ -1346,9 +1346,9 @@
                 "2024": 160
             }
         },
-        "reviews": 7241,
+        "reviews": 7242,
         "reviewsByYear": {
-            "2026": 730,
+            "2026": 731,
             "2025": 801,
             "2024": 703,
             "2023": 509,
@@ -4519,9 +4519,9 @@
             "2018": 11,
             "2017": 1
         },
-        "pullRequestsOpened": 1345,
+        "pullRequestsOpened": 1346,
         "pullRequestsOpenedByYear": {
-            "2026": 87,
+            "2026": 88,
             "2025": 228,
             "2024": 76,
             "2023": 2,
@@ -5516,9 +5516,9 @@
                 "2025": 1
             }
         },
-        "reviews": 1370,
+        "reviews": 1371,
         "reviewsByYear": {
-            "2026": 244,
+            "2026": 245,
             "2025": 337,
             "2024": 310,
             "2023": 331,
@@ -5537,9 +5537,9 @@
             "2019": 60,
             "2018": 3
         },
-        "pullRequestsOpened": 1073,
+        "pullRequestsOpened": 1074,
         "pullRequestsOpenedByYear": {
-            "2026": 69,
+            "2026": 70,
             "2025": 156,
             "2024": 206,
             "2023": 435,
@@ -19884,9 +19884,9 @@
                 "2022": 1
             }
         },
-        "reviews": 585,
+        "reviews": 586,
         "reviewsByYear": {
-            "2026": 6,
+            "2026": 7,
             "2025": 56,
             "2024": 23,
             "2023": 53,
@@ -36984,9 +36984,9 @@
                 "2026": 1
             }
         },
-        "reviews": 146,
+        "reviews": 147,
         "reviewsByYear": {
-            "2026": 139,
+            "2026": 140,
             "2025": 7
         },
         "issuesOpened": 77,
@@ -49542,9 +49542,9 @@
             "2025": 1,
             "2021": 1
         },
-        "pullRequestsOpened": 16,
+        "pullRequestsOpened": 17,
         "pullRequestsOpenedByYear": {
-            "2026": 11,
+            "2026": 12,
             "2025": 5
         }
     },
@@ -102498,5 +102498,5 @@
             "2026": 1
         }
     },
-    "updatedAt": "2026-08-07T11:06:58+00:00"
+    "updatedAt": "2026-08-08T06:31:04+00:00"
 }
