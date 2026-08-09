@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11128,
+        "contributions": 11130,
         "repositories": {
             "PrestaShop": 4638,
             "PrestaShop-modules": 31,
@@ -109,7 +109,7 @@
             "example_module_mailtheme": 4,
             "eslint-config": 3,
             "nightly-board": 50,
-            "open-source": 32,
+            "open-source": 34,
             "mjml-theme-converter": 1,
             "php-dev-tools": 4,
             "QANightlyResults": 414,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1322,
+                "total": 1324,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -171,7 +171,7 @@
                     "functional-documentation": 2,
                     "test-scenarios": 1104,
                     "example-modules": 6,
-                    "open-source": 32,
+                    "open-source": 34,
                     "example_module_mailtheme": 4,
                     "ps-docs-theme": 3,
                     "contextual-help-api": 1,
@@ -1669,7 +1669,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3804,
+        "contributions": 3807,
         "repositories": {
             "PrestaShop": 909,
             "PrestaShop-modules": 4,
@@ -1753,7 +1753,7 @@
             "circuit-breaker": 1,
             "ADR": 7,
             "nightly-board": 1,
-            "open-source": 142,
+            "open-source": 143,
             "mjml-theme-converter": 1,
             "php-dev-tools": 2,
             "LocalizationFiles": 25,
@@ -1780,7 +1780,7 @@
             "webservice-postman-examples": 6,
             "ps_apiresources": 21,
             "ui-testing-library": 2,
-            "ps_onepagecheckout": 13,
+            "ps_onepagecheckout": 15,
             "pshotfix_ghsaw9f3qc75qgx9": 1
         },
         "categories": {
@@ -1802,14 +1802,14 @@
                 }
             },
             "documentation": {
-                "total": 1055,
+                "total": 1056,
                 "repositories": {
                     "paymentexample": 7,
                     "docs": 665,
                     "user-documentation-en": 1,
                     "ADR": 7,
                     "example-modules": 125,
-                    "open-source": 142,
+                    "open-source": 143,
                     "ps-docs-theme": 65,
                     "devdocs-site": 36,
                     "contextual-help-api": 1,
@@ -1826,7 +1826,7 @@
                 }
             },
             "modules": {
-                "total": 660,
+                "total": 662,
                 "repositories": {
                     "PrestaShop-modules": 4,
                     "dashactivity": 1,
@@ -1898,7 +1898,7 @@
                     "ps_apiresources": 21,
                     "ps_distributionapiclient": 1,
                     "ps_fixturescreator": 6,
-                    "ps_onepagecheckout": 13
+                    "ps_onepagecheckout": 15
                 }
             },
             "tools": {
@@ -36276,9 +36276,9 @@
         "html_url": "https:\/\/github.com\/somratpro",
         "name": "Somrat Sorkar",
         "company": "@themefisher ",
-        "blog": "https:\/\/somrat.netlify.app",
+        "blog": "https:\/\/somrat.pro.bd",
         "location": "Dhaka, Bangladesh",
-        "bio": "My mind is the ultimate weapon.",
+        "bio": "My mind is the ultimate weapon.\r\nOffice ID: @tfsomrat",
         "email_domain": "",
         "contributions": 2,
         "repositories": {
@@ -51501,5 +51501,5 @@
             }
         }
     },
-    "updatedAt": "2026-08-08 06:15:26"
+    "updatedAt": "2026-08-09 06:16:46"
 }

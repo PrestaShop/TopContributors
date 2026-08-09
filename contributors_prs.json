@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11128,
+        "contributions": 11130,
         "repositories": {
             "PrestaShop": 1211,
             "PrestaShop-modules": 2,
@@ -102,7 +102,7 @@
             "circuit-breaker": 2,
             "eslint-config": 1,
             "nightly-board": 12,
-            "open-source": 16,
+            "open-source": 17,
             "QANightlyResults": 52,
             "LocalizationFiles": 2,
             "presthubot": 37,
@@ -193,9 +193,9 @@
                 }
             },
             "documentation": {
-                "total": 65,
+                "total": 66,
                 "byYear": {
-                    "2026": 6,
+                    "2026": 7,
                     "2024": 6,
                     "2023": 19,
                     "2022": 4,
@@ -205,7 +205,7 @@
                 },
                 "repositories": {
                     "docs": 25,
-                    "open-source": 16,
+                    "open-source": 17,
                     "example-modules": 1,
                     "test-scenarios": 21,
                     "keycloak_connector_demo": 2
@@ -218,7 +218,7 @@
                         "2019": 3
                     },
                     "open-source": {
-                        "2026": 1,
+                        "2026": 2,
                         "2024": 1,
                         "2023": 12,
                         "2022": 1,
@@ -844,9 +844,9 @@
                 }
             }
         },
-        "mergedPullRequests": 2493,
+        "mergedPullRequests": 2494,
         "mergedPullRequestsByYear": {
-            "2026": 304,
+            "2026": 305,
             "2025": 445,
             "2024": 479,
             "2023": 348,
@@ -1266,7 +1266,7 @@
                 "2023": 8
             },
             "open-source": {
-                "2026": 1,
+                "2026": 2,
                 "2024": 1,
                 "2023": 12,
                 "2022": 1,
@@ -7455,7 +7455,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3804,
+        "contributions": 3807,
         "repositories": {
             "PrestaShop": 178,
             "PrestaShop-modules": 3,
@@ -8157,9 +8157,9 @@
                 "2026": 2
             }
         },
-        "reviews": 3558,
+        "reviews": 3560,
         "reviewsByYear": {
-            "2026": 391,
+            "2026": 393,
             "2025": 428,
             "2024": 421,
             "2023": 1040,
@@ -60276,13 +60276,15 @@
         "reviewsByYear": {
             "2022": 1
         },
-        "issuesOpened": 3,
+        "issuesOpened": 4,
         "issuesOpenedByYear": {
+            "2026": 1,
             "2023": 2,
             "2022": 1
         },
-        "pullRequestsOpened": 6,
+        "pullRequestsOpened": 7,
         "pullRequestsOpenedByYear": {
+            "2026": 1,
             "2023": 2,
             "2022": 4
         }
@@ -102498,5 +102500,5 @@
             "2026": 1
         }
     },
-    "updatedAt": "2026-08-08T06:31:04+00:00"
+    "updatedAt": "2026-08-09T06:33:19+00:00"
 }
