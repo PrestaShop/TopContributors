@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11130,
+        "contributions": 11136,
         "repositories": {
             "PrestaShop": 4638,
             "PrestaShop-modules": 31,
@@ -40,7 +40,7 @@
             "statssales": 17,
             "statssearch": 10,
             "statsstock": 9,
-            "blockwishlist": 256,
+            "blockwishlist": 257,
             "productcomments": 52,
             "pscleaner": 13,
             "autoupgrade": 113,
@@ -49,7 +49,7 @@
             "docker": 44,
             "contactform": 14,
             "prestashop-ui-kit": 50,
-            "blockreassurance": 156,
+            "blockreassurance": 157,
             "ps_sharebuttons": 16,
             "ps_socialfollow": 12,
             "ps_linklist": 48,
@@ -94,7 +94,7 @@
             "ps_feeder": 1,
             "traces": 230,
             "core-weekly-generator": 6,
-            "TopContributors": 144,
+            "TopContributors": 145,
             "TranslationFiles": 3,
             "ps_livetranslation": 13,
             "ps_googleanalytics": 20,
@@ -114,12 +114,12 @@
             "php-dev-tools": 4,
             "QANightlyResults": 414,
             "LocalizationFiles": 9,
-            "presthubot": 530,
+            "presthubot": 531,
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1104,
+            "test-scenarios": 1105,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -135,7 +135,7 @@
             "keycloak_connector_demo": 19,
             "ps_fixturescreator": 11,
             "ws-client": 25,
-            "ps_apiresources": 5,
+            "ps_apiresources": 6,
             "ui-testing-library": 1331
         },
         "categories": {
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1324,
+                "total": 1325,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1104,
+                    "test-scenarios": 1105,
                     "example-modules": 6,
                     "open-source": 34,
                     "example_module_mailtheme": 4,
@@ -186,7 +186,7 @@
                 }
             },
             "modules": {
-                "total": 1877,
+                "total": 1880,
                 "repositories": {
                     "PrestaShop-modules": 31,
                     "dashactivity": 14,
@@ -214,13 +214,13 @@
                     "statssales": 17,
                     "statssearch": 10,
                     "statsstock": 9,
-                    "blockwishlist": 256,
+                    "blockwishlist": 257,
                     "productcomments": 52,
                     "pscleaner": 13,
                     "autoupgrade": 113,
                     "gsitemap": 28,
                     "contactform": 14,
-                    "blockreassurance": 156,
+                    "blockreassurance": 157,
                     "ps_sharebuttons": 16,
                     "ps_socialfollow": 12,
                     "ps_linklist": 48,
@@ -264,13 +264,13 @@
                     "ps_googleanalytics": 20,
                     "ps_themecusto": 28,
                     "psgdpr": 37,
-                    "ps_apiresources": 5,
+                    "ps_apiresources": 6,
                     "ps_distributionapiclient": 1,
                     "ps_fixturescreator": 11
                 }
             },
             "tools": {
-                "total": 1452,
+                "total": 1454,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -280,10 +280,10 @@
                     "mjml-theme-converter": 1,
                     "nightly-board": 50,
                     "PrestaShop-webservice-lib": 4,
-                    "presthubot": 530,
+                    "presthubot": 531,
                     "prestonbot": 10,
                     "QANightlyResults": 414,
-                    "TopContributors": 144,
+                    "TopContributors": 145,
                     "TopTranslators": 1,
                     "traces": 230,
                     "ps-project-metrics": 4
@@ -322,7 +322,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7784,
+        "contributions": 7799,
         "repositories": {
             "PrestaShop": 6153,
             "dashactivity": 3,
@@ -348,13 +348,14 @@
             "prestashop-ui-kit": 16,
             "blockreassurance": 4,
             "ps_sharebuttons": 2,
+            "ps_socialfollow": 3,
             "ps_linklist": 104,
-            "ps_customtext": 1,
+            "ps_customtext": 4,
             "ps_contactinfo": 6,
             "ps_emailsubscription": 4,
             "ps_banner": 3,
             "ps_featuredproducts": 1,
-            "ps_imageslider": 1,
+            "ps_imageslider": 4,
             "ps_customersignin": 3,
             "ps_categorytree": 3,
             "docs": 162,
@@ -386,8 +387,9 @@
             "ps_googleanalytics": 8,
             "prestashop-shop-creator": 4,
             "ps_themecusto": 9,
-            "psgdpr": 6,
+            "psgdpr": 9,
             "ps_buybuttonlite": 2,
+            "ps_faviconnotificationbo": 3,
             "circuit-breaker": 36,
             "composer-script-handler": 1,
             "example_module_mailtheme": 29,
@@ -460,7 +462,7 @@
                 }
             },
             "modules": {
-                "total": 697,
+                "total": 712,
                 "repositories": {
                     "dashactivity": 3,
                     "dashgoals": 3,
@@ -482,13 +484,14 @@
                     "contactform": 2,
                     "blockreassurance": 4,
                     "ps_sharebuttons": 2,
+                    "ps_socialfollow": 3,
                     "ps_linklist": 104,
-                    "ps_customtext": 1,
+                    "ps_customtext": 4,
                     "ps_contactinfo": 6,
                     "ps_emailsubscription": 4,
                     "ps_banner": 3,
                     "ps_featuredproducts": 1,
-                    "ps_imageslider": 1,
+                    "ps_imageslider": 4,
                     "ps_customersignin": 3,
                     "ps_categorytree": 3,
                     "ps_wirepayment": 2,
@@ -510,10 +513,11 @@
                     "ps_cashondelivery": 2,
                     "ps_viewedproduct": 4,
                     "ps_buybuttonlite": 2,
+                    "ps_faviconnotificationbo": 3,
                     "ps_qualityassurance": 2,
                     "ps_googleanalytics": 8,
                     "ps_themecusto": 9,
-                    "psgdpr": 6,
+                    "psgdpr": 9,
                     "ps_apiresources": 223,
                     "ps_distributionapiclient": 18,
                     "ps_fixturescreator": 13
@@ -6684,10 +6688,10 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7426640?v=4",
         "html_url": "https:\/\/github.com\/sowbiba",
         "name": "Ibrahima SOW",
-        "company": "Prestashop",
+        "company": "Softway Medical",
         "blog": "",
-        "location": "Paris 12, FRANCE",
-        "bio": null,
+        "location": "La Rochelle, FRANCE",
+        "bio": "France-based backend developer, 15+ years \u2014 PHP\/Symfony, ex-PrestaShop core maintainer. Now on Java in e-health. Shipping side products for Senegal and myself.",
         "email_domain": "hotmail.com",
         "contributions": 520,
         "repositories": {
@@ -41253,17 +41257,17 @@
             }
         }
     },
-    "bhavikvaghani": {
-        "login": "bhavikvaghani",
-        "id": 17020526,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/17020526?v=4",
-        "html_url": "https:\/\/github.com\/bhavikvaghani",
-        "name": "Bhavik Vaghani",
-        "company": null,
+    "elburgl69": {
+        "login": "elburgl69",
+        "id": 5506942,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5506942?v=4",
+        "html_url": "https:\/\/github.com\/elburgl69",
+        "name": "Leo van Elburg",
+        "company": "LvESoft.nl",
         "blog": "",
-        "location": "Surat, India",
+        "location": "Netherlands",
         "bio": null,
-        "email_domain": "",
+        "email_domain": "lvesoft.nl",
         "contributions": 1,
         "repositories": {
             "ps_customtext": 1
@@ -41309,17 +41313,17 @@
             }
         }
     },
-    "elburgl69": {
-        "login": "elburgl69",
-        "id": 5506942,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5506942?v=4",
-        "html_url": "https:\/\/github.com\/elburgl69",
-        "name": "Leo van Elburg",
-        "company": "LvESoft.nl",
+    "bhavikvaghani": {
+        "login": "bhavikvaghani",
+        "id": 17020526,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/17020526?v=4",
+        "html_url": "https:\/\/github.com\/bhavikvaghani",
+        "name": "Bhavik Vaghani",
+        "company": null,
         "blog": "",
-        "location": "Netherlands",
+        "location": "Surat, India",
         "bio": null,
-        "email_domain": "lvesoft.nl",
+        "email_domain": "",
         "contributions": 1,
         "repositories": {
             "ps_customtext": 1
@@ -51333,15 +51337,15 @@
             }
         }
     },
-    "alexll": {
-        "login": "alexll",
-        "id": 1861615,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1861615?v=4",
-        "html_url": "https:\/\/github.com\/alexll",
-        "name": "Alex",
+    "MatthieuCutin": {
+        "login": "MatthieuCutin",
+        "id": 12746178,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12746178?v=4",
+        "html_url": "https:\/\/github.com\/MatthieuCutin",
+        "name": null,
         "company": null,
         "blog": "",
-        "location": "Catalunya",
+        "location": null,
         "bio": null,
         "email_domain": "",
         "contributions": 1,
@@ -51445,15 +51449,15 @@
             }
         }
     },
-    "MatthieuCutin": {
-        "login": "MatthieuCutin",
-        "id": 12746178,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12746178?v=4",
-        "html_url": "https:\/\/github.com\/MatthieuCutin",
-        "name": null,
+    "alexll": {
+        "login": "alexll",
+        "id": 1861615,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1861615?v=4",
+        "html_url": "https:\/\/github.com\/alexll",
+        "name": "Alex",
         "company": null,
         "blog": "",
-        "location": null,
+        "location": "Catalunya",
         "bio": null,
         "email_domain": "",
         "contributions": 1,
@@ -51501,5 +51505,5 @@
             }
         }
     },
-    "updatedAt": "2026-08-09 06:16:46"
+    "updatedAt": "2026-08-10 09:51:15"
 }

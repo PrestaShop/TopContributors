@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11130,
+        "contributions": 11136,
         "repositories": {
             "PrestaShop": 1211,
             "PrestaShop-modules": 2,
@@ -1346,9 +1346,9 @@
                 "2024": 160
             }
         },
-        "reviews": 7242,
+        "reviews": 7250,
         "reviewsByYear": {
-            "2026": 731,
+            "2026": 739,
             "2025": 801,
             "2024": 703,
             "2023": 509,
@@ -1368,9 +1368,9 @@
             "2020": 24,
             "2019": 4
         },
-        "pullRequestsOpened": 2591,
+        "pullRequestsOpened": 2592,
         "pullRequestsOpenedByYear": {
-            "2026": 315,
+            "2026": 316,
             "2025": 465,
             "2024": 492,
             "2023": 342,
@@ -2649,7 +2649,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7784,
+        "contributions": 7799,
         "repositories": {
             "PrestaShop": 784,
             "dashactivity": 1,
@@ -2670,10 +2670,13 @@
             "contactform": 1,
             "prestashop-ui-kit": 10,
             "blockreassurance": 2,
+            "ps_socialfollow": 1,
             "ps_linklist": 33,
+            "ps_customtext": 1,
             "ps_contactinfo": 4,
             "ps_emailsubscription": 1,
             "ps_banner": 1,
+            "ps_imageslider": 1,
             "ps_customersignin": 1,
             "ps_categorytree": 1,
             "docs": 57,
@@ -2696,6 +2699,8 @@
             "TranslationFiles": 12,
             "ps_googleanalytics": 2,
             "ps_themecusto": 6,
+            "psgdpr": 1,
+            "ps_faviconnotificationbo": 1,
             "circuit-breaker": 10,
             "composer-script-handler": 1,
             "example_module_mailtheme": 3,
@@ -2880,9 +2885,9 @@
                 }
             },
             "modules": {
-                "total": 211,
+                "total": 216,
                 "byYear": {
-                    "2026": 64,
+                    "2026": 69,
                     "2025": 31,
                     "2024": 38,
                     "2023": 15,
@@ -2908,10 +2913,13 @@
                     "gsitemap": 1,
                     "contactform": 1,
                     "blockreassurance": 2,
+                    "ps_socialfollow": 1,
                     "ps_linklist": 33,
+                    "ps_customtext": 1,
                     "ps_contactinfo": 4,
                     "ps_emailsubscription": 1,
                     "ps_banner": 1,
+                    "ps_imageslider": 1,
                     "ps_customersignin": 1,
                     "ps_categorytree": 1,
                     "ps_currencyselector": 5,
@@ -2928,6 +2936,8 @@
                     "ps_viewedproduct": 2,
                     "ps_googleanalytics": 2,
                     "ps_themecusto": 6,
+                    "psgdpr": 1,
+                    "ps_faviconnotificationbo": 1,
                     "ps_qualityassurance": 1,
                     "ps_distributionapiclient": 10,
                     "ps_fixturescreator": 3,
@@ -2987,6 +2997,9 @@
                     "blockreassurance": {
                         "2026": 2
                     },
+                    "ps_socialfollow": {
+                        "2026": 1
+                    },
                     "ps_linklist": {
                         "2024": 8,
                         "2023": 4,
@@ -2994,6 +3007,9 @@
                         "2020": 6,
                         "2019": 3,
                         "2018": 8
+                    },
+                    "ps_customtext": {
+                        "2026": 1
                     },
                     "ps_contactinfo": {
                         "2026": 1,
@@ -3003,6 +3019,9 @@
                         "2026": 1
                     },
                     "ps_banner": {
+                        "2026": 1
+                    },
+                    "ps_imageslider": {
                         "2026": 1
                     },
                     "ps_customersignin": {
@@ -3059,6 +3078,12 @@
                         "2025": 3,
                         "2020": 1,
                         "2019": 2
+                    },
+                    "psgdpr": {
+                        "2026": 1
+                    },
+                    "ps_faviconnotificationbo": {
+                        "2026": 1
                     },
                     "ps_qualityassurance": {
                         "2025": 1
@@ -3201,9 +3226,9 @@
                 }
             }
         },
-        "mergedPullRequests": 1258,
+        "mergedPullRequests": 1263,
         "mergedPullRequestsByYear": {
-            "2026": 192,
+            "2026": 197,
             "2025": 220,
             "2024": 237,
             "2023": 105,
@@ -3293,6 +3318,9 @@
             "blockreassurance": {
                 "2026": 2
             },
+            "ps_socialfollow": {
+                "2026": 1
+            },
             "ps_linklist": {
                 "2024": 8,
                 "2023": 4,
@@ -3300,6 +3328,9 @@
                 "2020": 6,
                 "2019": 3,
                 "2018": 8
+            },
+            "ps_customtext": {
+                "2026": 1
             },
             "ps_contactinfo": {
                 "2026": 1,
@@ -3309,6 +3340,9 @@
                 "2026": 1
             },
             "ps_banner": {
+                "2026": 1
+            },
+            "ps_imageslider": {
                 "2026": 1
             },
             "ps_customersignin": {
@@ -3397,6 +3431,12 @@
                 "2025": 3,
                 "2020": 1,
                 "2019": 2
+            },
+            "psgdpr": {
+                "2026": 1
+            },
+            "ps_faviconnotificationbo": {
+                "2026": 1
             },
             "circuit-breaker": {
                 "2024": 5,
@@ -3499,9 +3539,9 @@
                 "2025": 1
             }
         },
-        "reviews": 3250,
+        "reviews": 3251,
         "reviewsByYear": {
-            "2026": 515,
+            "2026": 516,
             "2025": 326,
             "2024": 363,
             "2023": 459,
@@ -5516,9 +5556,9 @@
                 "2025": 1
             }
         },
-        "reviews": 1371,
+        "reviews": 1372,
         "reviewsByYear": {
-            "2026": 245,
+            "2026": 246,
             "2025": 337,
             "2024": 310,
             "2023": 331,
@@ -8157,9 +8197,9 @@
                 "2026": 2
             }
         },
-        "reviews": 3560,
+        "reviews": 3561,
         "reviewsByYear": {
-            "2026": 393,
+            "2026": 394,
             "2025": 428,
             "2024": 421,
             "2023": 1040,
@@ -8184,9 +8224,9 @@
             "2018": 15,
             "2016": 6
         },
-        "pullRequestsOpened": 693,
+        "pullRequestsOpened": 694,
         "pullRequestsOpenedByYear": {
-            "2026": 87,
+            "2026": 88,
             "2025": 88,
             "2024": 68,
             "2023": 103,
@@ -10404,9 +10444,9 @@
             "2018": 1,
             "2016": 4
         },
-        "pullRequestsOpened": 882,
+        "pullRequestsOpened": 883,
         "pullRequestsOpenedByYear": {
-            "2026": 251,
+            "2026": 252,
             "2025": 79,
             "2024": 38,
             "2023": 16,
@@ -20839,10 +20879,10 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7426640?v=4",
         "html_url": "https:\/\/github.com\/sowbiba",
         "name": "Ibrahima SOW",
-        "company": "Prestashop",
+        "company": "Softway Medical",
         "blog": "",
-        "location": "Paris 12, FRANCE",
-        "bio": null,
+        "location": "La Rochelle, FRANCE",
+        "bio": "France-based backend developer, 15+ years \u2014 PHP\/Symfony, ex-PrestaShop core maintainer. Now on Java in e-health. Shipping side products for Senegal and myself.",
         "email_domain": "hotmail.com",
         "contributions": 520,
         "repositories": {
@@ -30641,8 +30681,9 @@
         },
         "reviews": 0,
         "reviewsByYear": [],
-        "issuesOpened": 65,
+        "issuesOpened": 66,
         "issuesOpenedByYear": {
+            "2026": 1,
             "2025": 2,
             "2024": 1,
             "2023": 8,
@@ -30652,9 +30693,9 @@
             "2019": 20,
             "2018": 6
         },
-        "pullRequestsOpened": 75,
+        "pullRequestsOpened": 76,
         "pullRequestsOpenedByYear": {
-            "2026": 7,
+            "2026": 8,
             "2025": 1,
             "2024": 2,
             "2023": 8,
@@ -31686,13 +31727,13 @@
         "reviewsByYear": {
             "2026": 5
         },
-        "issuesOpened": 27,
+        "issuesOpened": 29,
         "issuesOpenedByYear": {
-            "2026": 27
+            "2026": 29
         },
-        "pullRequestsOpened": 226,
+        "pullRequestsOpened": 272,
         "pullRequestsOpenedByYear": {
-            "2026": 226
+            "2026": 272
         }
     },
     "Nobodaddy": {
@@ -89827,103 +89868,6 @@
             "2022": 1
         }
     },
-    "bhavikvaghani": {
-        "login": "bhavikvaghani",
-        "id": 17020526,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/17020526?v=4",
-        "html_url": "https:\/\/github.com\/bhavikvaghani",
-        "name": "Bhavik Vaghani",
-        "company": null,
-        "blog": "",
-        "location": "Surat, India",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 1,
-        "repositories": {
-            "ps_customtext": 1
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "specs": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "documentation": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "themes": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "modules": {
-                "total": 1,
-                "byYear": {
-                    "2020": 1
-                },
-                "repositories": {
-                    "ps_customtext": 1
-                },
-                "repositoriesByYear": {
-                    "ps_customtext": {
-                        "2020": 1
-                    }
-                }
-            },
-            "tools": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "tests": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "blog": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "others": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            }
-        },
-        "mergedPullRequests": 1,
-        "mergedPullRequestsByYear": {
-            "2020": 1
-        },
-        "repositoriesByYear": {
-            "ps_customtext": {
-                "2020": 1
-            }
-        },
-        "reviews": 0,
-        "reviewsByYear": [],
-        "issuesOpened": 0,
-        "issuesOpenedByYear": [],
-        "pullRequestsOpened": 1,
-        "pullRequestsOpenedByYear": {
-            "2018": 1
-        }
-    },
     "elburgl69": {
         "login": "elburgl69",
         "id": 5506942,
@@ -90023,6 +89967,103 @@
         "pullRequestsOpenedByYear": {
             "2021": 1,
             "2020": 1
+        }
+    },
+    "bhavikvaghani": {
+        "login": "bhavikvaghani",
+        "id": 17020526,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/17020526?v=4",
+        "html_url": "https:\/\/github.com\/bhavikvaghani",
+        "name": "Bhavik Vaghani",
+        "company": null,
+        "blog": "",
+        "location": "Surat, India",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "ps_customtext": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "specs": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "documentation": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "themes": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "modules": {
+                "total": 1,
+                "byYear": {
+                    "2020": 1
+                },
+                "repositories": {
+                    "ps_customtext": 1
+                },
+                "repositoriesByYear": {
+                    "ps_customtext": {
+                        "2020": 1
+                    }
+                }
+            },
+            "tools": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tests": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "blog": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "others": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            }
+        },
+        "mergedPullRequests": 1,
+        "mergedPullRequestsByYear": {
+            "2020": 1
+        },
+        "repositoriesByYear": {
+            "ps_customtext": {
+                "2020": 1
+            }
+        },
+        "reviews": 0,
+        "reviewsByYear": [],
+        "issuesOpened": 0,
+        "issuesOpenedByYear": [],
+        "pullRequestsOpened": 1,
+        "pullRequestsOpenedByYear": {
+            "2018": 1
         }
     },
     "toar86": {
@@ -102500,5 +102541,5 @@
             "2026": 1
         }
     },
-    "updatedAt": "2026-08-09T06:33:19+00:00"
+    "updatedAt": "2026-08-10T10:12:28+00:00"
 }
