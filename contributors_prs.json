@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11136,
+        "contributions": 11144,
         "repositories": {
             "PrestaShop": 1211,
             "PrestaShop-modules": 2,
@@ -52,24 +52,24 @@
             "ps_sharebuttons": 4,
             "ps_socialfollow": 1,
             "ps_linklist": 13,
-            "ps_customtext": 4,
+            "ps_customtext": 5,
             "ps_contactinfo": 6,
             "ps_emailsubscription": 8,
             "ps_banner": 7,
             "ps_featuredproducts": 4,
             "ps_imageslider": 7,
             "ps_mainmenu": 4,
-            "ps_customersignin": 5,
+            "ps_customersignin": 6,
             "ps_categorytree": 9,
             "docs": 25,
             "docker-ci": 2,
             "docker-internal-images": 1,
             "ps_wirepayment": 11,
             "ps_shoppingcart": 5,
-            "ps_currencyselector": 5,
+            "ps_currencyselector": 6,
             "ps_languageselector": 4,
             "ps_facetedsearch": 8,
-            "ps_customeraccountlinks": 6,
+            "ps_customeraccountlinks": 7,
             "ps_searchbar": 8,
             "ps_checkpayment": 11,
             "TranslationToolsBundle": 2,
@@ -83,7 +83,7 @@
             "ps_specials": 2,
             "ps_supplierlist": 1,
             "ps_crossselling": 12,
-            "ps_dataprivacy": 5,
+            "ps_dataprivacy": 6,
             "ps_cashondelivery": 21,
             "ps_viewedproduct": 3,
             "traces": 48,
@@ -109,7 +109,7 @@
             "example-modules": 1,
             "ps_qualityassurance": 1,
             ".github": 3,
-            "test-scenarios": 21,
+            "test-scenarios": 22,
             "hummingbird": 3,
             "ga.tests.ui.pr": 36,
             "ps-project-metrics": 2,
@@ -193,9 +193,9 @@
                 }
             },
             "documentation": {
-                "total": 66,
+                "total": 67,
                 "byYear": {
-                    "2026": 7,
+                    "2026": 8,
                     "2024": 6,
                     "2023": 19,
                     "2022": 4,
@@ -207,7 +207,7 @@
                     "docs": 25,
                     "open-source": 17,
                     "example-modules": 1,
-                    "test-scenarios": 21,
+                    "test-scenarios": 22,
                     "keycloak_connector_demo": 2
                 },
                 "repositoriesByYear": {
@@ -228,7 +228,7 @@
                         "2021": 1
                     },
                     "test-scenarios": {
-                        "2026": 5,
+                        "2026": 6,
                         "2024": 5,
                         "2023": 5,
                         "2021": 5,
@@ -266,9 +266,9 @@
                 }
             },
             "modules": {
-                "total": 527,
+                "total": 532,
                 "byYear": {
-                    "2026": 130,
+                    "2026": 135,
                     "2025": 20,
                     "2024": 39,
                     "2023": 29,
@@ -313,21 +313,21 @@
                     "ps_sharebuttons": 4,
                     "ps_socialfollow": 1,
                     "ps_linklist": 13,
-                    "ps_customtext": 4,
+                    "ps_customtext": 5,
                     "ps_contactinfo": 6,
                     "ps_emailsubscription": 8,
                     "ps_banner": 7,
                     "ps_featuredproducts": 4,
                     "ps_imageslider": 7,
                     "ps_mainmenu": 4,
-                    "ps_customersignin": 5,
+                    "ps_customersignin": 6,
                     "ps_categorytree": 9,
                     "ps_wirepayment": 11,
                     "ps_shoppingcart": 5,
-                    "ps_currencyselector": 5,
+                    "ps_currencyselector": 6,
                     "ps_languageselector": 4,
                     "ps_facetedsearch": 8,
-                    "ps_customeraccountlinks": 6,
+                    "ps_customeraccountlinks": 7,
                     "ps_searchbar": 8,
                     "ps_checkpayment": 11,
                     "ps_emailalerts": 6,
@@ -338,7 +338,7 @@
                     "ps_specials": 2,
                     "ps_supplierlist": 1,
                     "ps_crossselling": 12,
-                    "ps_dataprivacy": 5,
+                    "ps_dataprivacy": 6,
                     "ps_cashondelivery": 21,
                     "ps_viewedproduct": 3,
                     "ps_livetranslation": 4,
@@ -506,7 +506,7 @@
                         "2020": 5
                     },
                     "ps_customtext": {
-                        "2026": 1,
+                        "2026": 2,
                         "2022": 1,
                         "2020": 2
                     },
@@ -540,7 +540,7 @@
                         "2020": 2
                     },
                     "ps_customersignin": {
-                        "2026": 2,
+                        "2026": 3,
                         "2022": 1,
                         "2020": 2
                     },
@@ -561,7 +561,7 @@
                         "2020": 2
                     },
                     "ps_currencyselector": {
-                        "2026": 3,
+                        "2026": 4,
                         "2022": 1,
                         "2021": 1
                     },
@@ -578,7 +578,7 @@
                         "2020": 2
                     },
                     "ps_customeraccountlinks": {
-                        "2026": 2,
+                        "2026": 3,
                         "2022": 1,
                         "2021": 1,
                         "2020": 2
@@ -631,6 +631,7 @@
                         "2020": 2
                     },
                     "ps_dataprivacy": {
+                        "2026": 1,
                         "2022": 1,
                         "2021": 2,
                         "2020": 2
@@ -844,9 +845,9 @@
                 }
             }
         },
-        "mergedPullRequests": 2494,
+        "mergedPullRequests": 2500,
         "mergedPullRequestsByYear": {
-            "2026": 305,
+            "2026": 311,
             "2025": 445,
             "2024": 479,
             "2023": 348,
@@ -1038,7 +1039,7 @@
                 "2020": 5
             },
             "ps_customtext": {
-                "2026": 1,
+                "2026": 2,
                 "2022": 1,
                 "2020": 2
             },
@@ -1072,7 +1073,7 @@
                 "2020": 2
             },
             "ps_customersignin": {
-                "2026": 2,
+                "2026": 3,
                 "2022": 1,
                 "2020": 2
             },
@@ -1106,7 +1107,7 @@
                 "2020": 2
             },
             "ps_currencyselector": {
-                "2026": 3,
+                "2026": 4,
                 "2022": 1,
                 "2021": 1
             },
@@ -1123,7 +1124,7 @@
                 "2020": 2
             },
             "ps_customeraccountlinks": {
-                "2026": 2,
+                "2026": 3,
                 "2022": 1,
                 "2021": 1,
                 "2020": 2
@@ -1185,6 +1186,7 @@
                 "2020": 2
             },
             "ps_dataprivacy": {
+                "2026": 1,
                 "2022": 1,
                 "2021": 2,
                 "2020": 2
@@ -1299,7 +1301,7 @@
                 "2026": 3
             },
             "test-scenarios": {
-                "2026": 5,
+                "2026": 6,
                 "2024": 5,
                 "2023": 5,
                 "2021": 5,
@@ -1346,9 +1348,9 @@
                 "2024": 160
             }
         },
-        "reviews": 7250,
+        "reviews": 7255,
         "reviewsByYear": {
-            "2026": 739,
+            "2026": 744,
             "2025": 801,
             "2024": 703,
             "2023": 509,
@@ -1368,9 +1370,9 @@
             "2020": 24,
             "2019": 4
         },
-        "pullRequestsOpened": 2592,
+        "pullRequestsOpened": 2593,
         "pullRequestsOpenedByYear": {
-            "2026": 316,
+            "2026": 317,
             "2025": 465,
             "2024": 492,
             "2023": 342,
@@ -3539,9 +3541,9 @@
                 "2025": 1
             }
         },
-        "reviews": 3251,
+        "reviews": 3252,
         "reviewsByYear": {
-            "2026": 516,
+            "2026": 517,
             "2025": 326,
             "2024": 363,
             "2023": 459,
@@ -8197,9 +8199,9 @@
                 "2026": 2
             }
         },
-        "reviews": 3561,
+        "reviews": 3562,
         "reviewsByYear": {
-            "2026": 394,
+            "2026": 395,
             "2025": 428,
             "2024": 421,
             "2023": 1040,
@@ -16052,9 +16054,9 @@
                 "2024": 3
             }
         },
-        "reviews": 230,
+        "reviews": 231,
         "reviewsByYear": {
-            "2026": 92,
+            "2026": 93,
             "2025": 106,
             "2024": 27,
             "2023": 5
@@ -16065,9 +16067,9 @@
             "2024": 3,
             "2023": 2
         },
-        "pullRequestsOpened": 241,
+        "pullRequestsOpened": 242,
         "pullRequestsOpenedByYear": {
-            "2026": 57,
+            "2026": 58,
             "2025": 92,
             "2024": 78,
             "2023": 14
@@ -18289,7 +18291,7 @@
         "location": "Toulouse \/ France",
         "bio": "e-commerce, dev, founder of Creabilis Agency",
         "email_domain": "",
-        "contributions": 459,
+        "contributions": 464,
         "repositories": {
             "PrestaShop": 71,
             "PrestaShop-webservice-lib": 1,
@@ -18730,9 +18732,9 @@
                 "2025": 1
             }
         },
-        "reviews": 173,
+        "reviews": 179,
         "reviewsByYear": {
-            "2026": 121,
+            "2026": 127,
             "2025": 16,
             "2024": 11,
             "2023": 8,
@@ -35864,9 +35866,9 @@
             "2025": 1,
             "2021": 1
         },
-        "pullRequestsOpened": 28,
+        "pullRequestsOpened": 29,
         "pullRequestsOpenedByYear": {
-            "2026": 25,
+            "2026": 26,
             "2020": 1,
             "2019": 2
         }
@@ -102541,5 +102543,5 @@
             "2026": 1
         }
     },
-    "updatedAt": "2026-08-10T10:12:28+00:00"
+    "updatedAt": "2026-08-11T06:39:22+00:00"
 }

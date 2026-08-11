@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-08-10T10:36:51+00:00",
+    "updatedAt": "2026-08-11T07:00:11+00:00",
     "items": [
         {
             "rank": 1,
@@ -7,9 +7,9 @@
             "name": "Progi1984",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1533248?v=4",
             "html_url": "https:\/\/github.com\/Progi1984",
-            "count": 7250,
+            "count": 7255,
             "countByYear": {
-                "2026": 739,
+                "2026": 744,
                 "2025": 801,
                 "2024": 703,
                 "2023": 509,
@@ -59,9 +59,9 @@
             "name": "Krystian Podemski",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2137763?v=4",
             "html_url": "https:\/\/github.com\/kpodemski",
-            "count": 3561,
+            "count": 3562,
             "countByYear": {
-                "2026": 394,
+                "2026": 395,
                 "2025": 428,
                 "2024": 421,
                 "2023": 1040,
@@ -98,9 +98,9 @@
             "name": "Jonathan Lelievre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13801017?v=4",
             "html_url": "https:\/\/github.com\/jolelievre",
-            "count": 3251,
+            "count": 3252,
             "countByYear": {
-                "2026": 516,
+                "2026": 517,
                 "2025": 326,
                 "2024": 363,
                 "2023": 459,
@@ -611,9 +611,9 @@
             "name": "Blivet Thibault",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/110676325?v=4",
             "html_url": "https:\/\/github.com\/tblivet",
-            "count": 230,
+            "count": 231,
             "countByYear": {
-                "2026": 92,
+                "2026": 93,
                 "2025": 106,
                 "2024": 27,
                 "2023": 5
@@ -663,6 +663,24 @@
         },
         {
             "rank": 44,
+            "login": "jf-viguier",
+            "name": "Jean-Fran\u00e7ois Viguier",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16720275?v=4",
+            "html_url": "https:\/\/github.com\/jf-viguier",
+            "count": 179,
+            "countByYear": {
+                "2026": 127,
+                "2025": 16,
+                "2024": 11,
+                "2023": 8,
+                "2022": 3,
+                "2021": 8,
+                "2020": 5,
+                "2019": 1
+            }
+        },
+        {
+            "rank": 45,
             "login": "MhiriFaten",
             "name": "Faten Mhiri",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/111756615?u=a62dff723561692a7365f39d379f0d1df3188cfb&v=4",
@@ -671,24 +689,6 @@
             "countByYear": {
                 "2023": 122,
                 "2022": 54
-            }
-        },
-        {
-            "rank": 45,
-            "login": "jf-viguier",
-            "name": "Jean-Fran\u00e7ois Viguier",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16720275?v=4",
-            "html_url": "https:\/\/github.com\/jf-viguier",
-            "count": 173,
-            "countByYear": {
-                "2026": 121,
-                "2025": 16,
-                "2024": 11,
-                "2023": 8,
-                "2022": 3,
-                "2021": 8,
-                "2020": 5,
-                "2019": 1
             }
         },
         {
