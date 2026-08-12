@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11144,
+        "contributions": 11149,
         "repositories": {
             "PrestaShop": 1211,
             "PrestaShop-modules": 2,
@@ -1348,9 +1348,9 @@
                 "2024": 160
             }
         },
-        "reviews": 7255,
+        "reviews": 7259,
         "reviewsByYear": {
-            "2026": 744,
+            "2026": 748,
             "2025": 801,
             "2024": 703,
             "2023": 509,
@@ -3541,9 +3541,9 @@
                 "2025": 1
             }
         },
-        "reviews": 3252,
+        "reviews": 3253,
         "reviewsByYear": {
-            "2026": 517,
+            "2026": 518,
             "2025": 326,
             "2024": 363,
             "2023": 459,
@@ -3565,9 +3565,9 @@
             "2019": 19,
             "2018": 10
         },
-        "pullRequestsOpened": 1418,
+        "pullRequestsOpened": 1419,
         "pullRequestsOpenedByYear": {
-            "2026": 221,
+            "2026": 222,
             "2025": 228,
             "2024": 258,
             "2023": 136,
@@ -4591,7 +4591,7 @@
         "email_domain": "",
         "contributions": 2450,
         "repositories": {
-            "PrestaShop": 396,
+            "PrestaShop": 397,
             "dashactivity": 4,
             "dashgoals": 4,
             "dashproducts": 7,
@@ -4674,9 +4674,9 @@
         },
         "categories": {
             "core": {
-                "total": 401,
+                "total": 402,
                 "byYear": {
-                    "2026": 35,
+                    "2026": 36,
                     "2025": 55,
                     "2024": 98,
                     "2023": 132,
@@ -4686,14 +4686,14 @@
                     "2019": 3
                 },
                 "repositories": {
-                    "PrestaShop": 396,
+                    "PrestaShop": 397,
                     "prestashop-ui-kit": 3,
                     "circuit-breaker": 1,
                     "LocalizationFiles": 1
                 },
                 "repositoriesByYear": {
                     "PrestaShop": {
-                        "2026": 35,
+                        "2026": 36,
                         "2025": 55,
                         "2024": 97,
                         "2023": 131,
@@ -5204,9 +5204,9 @@
                 }
             }
         },
-        "mergedPullRequests": 961,
+        "mergedPullRequests": 962,
         "mergedPullRequestsByYear": {
-            "2026": 68,
+            "2026": 69,
             "2025": 142,
             "2024": 193,
             "2023": 398,
@@ -5217,7 +5217,7 @@
         },
         "repositoriesByYear": {
             "PrestaShop": {
-                "2026": 35,
+                "2026": 36,
                 "2025": 55,
                 "2024": 97,
                 "2023": 131,
@@ -5579,9 +5579,9 @@
             "2019": 60,
             "2018": 3
         },
-        "pullRequestsOpened": 1074,
+        "pullRequestsOpened": 1076,
         "pullRequestsOpenedByYear": {
-            "2026": 70,
+            "2026": 72,
             "2025": 156,
             "2024": 206,
             "2023": 435,
@@ -7497,7 +7497,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3807,
+        "contributions": 3809,
         "repositories": {
             "PrestaShop": 178,
             "PrestaShop-modules": 3,
@@ -7548,6 +7548,7 @@
             "classic-theme": 4,
             "ps-monitor-module-releases": 1,
             "ps_fixturescreator": 2,
+            "kanbanbot": 1,
             "ps_apiresources": 5,
             "ps_onepagecheckout": 2
         },
@@ -7857,9 +7858,9 @@
                 }
             },
             "tools": {
-                "total": 16,
+                "total": 17,
                 "byYear": {
-                    "2026": 2,
+                    "2026": 3,
                     "2025": 5,
                     "2023": 3,
                     "2022": 6
@@ -7870,7 +7871,8 @@
                     "nightly-board": 1,
                     "presthubot": 7,
                     "ps-project-metrics": 1,
-                    "ps-monitor-module-releases": 1
+                    "ps-monitor-module-releases": 1,
+                    "kanbanbot": 1
                 },
                 "repositoriesByYear": {
                     "traces": {
@@ -7894,6 +7896,9 @@
                     },
                     "ps-monitor-module-releases": {
                         "2022": 1
+                    },
+                    "kanbanbot": {
+                        "2026": 1
                     }
                 }
             },
@@ -7959,9 +7964,9 @@
                 }
             }
         },
-        "mergedPullRequests": 592,
+        "mergedPullRequests": 593,
         "mergedPullRequestsByYear": {
-            "2026": 79,
+            "2026": 80,
             "2025": 82,
             "2024": 62,
             "2023": 94,
@@ -8191,6 +8196,9 @@
             "ps_fixturescreator": {
                 "2024": 2
             },
+            "kanbanbot": {
+                "2026": 1
+            },
             "ps_apiresources": {
                 "2026": 3,
                 "2025": 2
@@ -8199,9 +8207,9 @@
                 "2026": 2
             }
         },
-        "reviews": 3562,
+        "reviews": 3566,
         "reviewsByYear": {
-            "2026": 395,
+            "2026": 399,
             "2025": 428,
             "2024": 421,
             "2023": 1040,
@@ -10433,9 +10441,9 @@
             "2017": 18,
             "2016": 23
         },
-        "issuesOpened": 128,
+        "issuesOpened": 129,
         "issuesOpenedByYear": {
-            "2026": 6,
+            "2026": 7,
             "2025": 3,
             "2024": 7,
             "2023": 24,
@@ -10446,9 +10454,9 @@
             "2018": 1,
             "2016": 4
         },
-        "pullRequestsOpened": 883,
+        "pullRequestsOpened": 884,
         "pullRequestsOpenedByYear": {
-            "2026": 252,
+            "2026": 253,
             "2025": 79,
             "2024": 38,
             "2023": 16,
@@ -16739,9 +16747,9 @@
                 "2025": 9
             }
         },
-        "reviews": 487,
+        "reviews": 488,
         "reviewsByYear": {
-            "2026": 193,
+            "2026": 194,
             "2025": 293,
             "2023": 1
         },
@@ -18732,9 +18740,9 @@
                 "2025": 1
             }
         },
-        "reviews": 179,
+        "reviews": 180,
         "reviewsByYear": {
-            "2026": 127,
+            "2026": 128,
             "2025": 16,
             "2024": 11,
             "2023": 8,
@@ -102543,5 +102551,5 @@
             "2026": 1
         }
     },
-    "updatedAt": "2026-08-11T06:39:22+00:00"
+    "updatedAt": "2026-08-12T06:48:18+00:00"
 }

@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-08-11T07:00:11+00:00",
+    "updatedAt": "2026-08-12T07:10:25+00:00",
     "items": [
         {
             "rank": 1,
@@ -44,9 +44,9 @@
             "name": "Jonathan Lelievre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13801017?v=4",
             "html_url": "https:\/\/github.com\/jolelievre",
-            "count": 1418,
+            "count": 1419,
             "countByYear": {
-                "2026": 221,
+                "2026": 222,
                 "2025": 228,
                 "2024": 258,
                 "2023": 136,
@@ -86,9 +86,9 @@
             "name": "Daniel Hlav\u00e1\u010dek",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6097524?v=4",
             "html_url": "https:\/\/github.com\/Hlavtox",
-            "count": 1074,
+            "count": 1076,
             "countByYear": {
-                "2026": 70,
+                "2026": 72,
                 "2025": 156,
                 "2024": 206,
                 "2023": 435,
@@ -119,28 +119,13 @@
         },
         {
             "rank": 7,
-            "login": "PierreRambaud",
-            "name": "GoT",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1462701?v=4",
-            "html_url": "https:\/\/github.com\/PierreRambaud",
-            "count": 883,
-            "countByYear": {
-                "2022": 30,
-                "2021": 198,
-                "2020": 286,
-                "2019": 241,
-                "2018": 128
-            }
-        },
-        {
-            "rank": 8,
             "login": "PrestaEdit",
             "name": "Jonathan Danse",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2631425?v=4",
             "html_url": "https:\/\/github.com\/PrestaEdit",
-            "count": 883,
+            "count": 884,
             "countByYear": {
-                "2026": 252,
+                "2026": 253,
                 "2025": 79,
                 "2024": 38,
                 "2023": 16,
@@ -154,6 +139,21 @@
                 "2014": 36,
                 "2013": 86,
                 "2012": 30
+            }
+        },
+        {
+            "rank": 8,
+            "login": "PierreRambaud",
+            "name": "GoT",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1462701?v=4",
+            "html_url": "https:\/\/github.com\/PierreRambaud",
+            "count": 883,
+            "countByYear": {
+                "2022": 30,
+                "2021": 198,
+                "2020": 286,
+                "2019": 241,
+                "2018": 128
             }
         },
         {
@@ -20602,7 +20602,7 @@
             "rank": 1745,
             "login": "jonathanlamela",
             "name": "Jonathan La Mela",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3153308?u=3fac204e83fef35f0a97a874f87c979675a3b348&v=4",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3153308?u=739a2d9597e895578c6e2d87d80fdf1f9b25aff9&v=4",
             "html_url": "https:\/\/github.com\/jonathanlamela",
             "count": 1,
             "countByYear": {
