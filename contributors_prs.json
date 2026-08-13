@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11149,
+        "contributions": 11150,
         "repositories": {
             "PrestaShop": 1211,
             "PrestaShop-modules": 2,
@@ -2651,9 +2651,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7799,
+        "contributions": 7805,
         "repositories": {
-            "PrestaShop": 784,
+            "PrestaShop": 785,
             "dashactivity": 1,
             "dashgoals": 1,
             "dashproducts": 3,
@@ -2712,7 +2712,7 @@
             "LocalizationFiles": 1,
             "example-modules": 25,
             "ps_qualityassurance": 1,
-            ".github": 11,
+            ".github": 12,
             "DocToolsBundle": 1,
             "hummingbird": 5,
             "ps-docs-theme": 1,
@@ -2730,9 +2730,9 @@
         },
         "categories": {
             "core": {
-                "total": 821,
+                "total": 822,
                 "byYear": {
-                    "2026": 94,
+                    "2026": 95,
                     "2025": 125,
                     "2024": 132,
                     "2023": 75,
@@ -2743,7 +2743,7 @@
                     "2018": 52
                 },
                 "repositories": {
-                    "PrestaShop": 784,
+                    "PrestaShop": 785,
                     "prestashop-ui-kit": 10,
                     "TranslationToolsBundle": 4,
                     "TranslationFiles": 12,
@@ -2752,7 +2752,7 @@
                 },
                 "repositoriesByYear": {
                     "PrestaShop": {
-                        "2026": 93,
+                        "2026": 94,
                         "2025": 123,
                         "2024": 120,
                         "2023": 70,
@@ -3202,20 +3202,20 @@
                 }
             },
             "others": {
-                "total": 17,
+                "total": 18,
                 "byYear": {
-                    "2026": 13,
+                    "2026": 14,
                     "2025": 3,
                     "2023": 1
                 },
                 "repositories": {
-                    ".github": 11,
+                    ".github": 12,
                     "distribution-api": 5,
                     "native-modules": 1
                 },
                 "repositoriesByYear": {
                     ".github": {
-                        "2026": 8,
+                        "2026": 9,
                         "2025": 3
                     },
                     "distribution-api": {
@@ -3228,9 +3228,9 @@
                 }
             }
         },
-        "mergedPullRequests": 1263,
+        "mergedPullRequests": 1265,
         "mergedPullRequestsByYear": {
-            "2026": 197,
+            "2026": 199,
             "2025": 220,
             "2024": 237,
             "2023": 105,
@@ -3242,7 +3242,7 @@
         },
         "repositoriesByYear": {
             "PrestaShop": {
-                "2026": 93,
+                "2026": 94,
                 "2025": 123,
                 "2024": 120,
                 "2023": 70,
@@ -3476,7 +3476,7 @@
                 "2025": 1
             },
             ".github": {
-                "2026": 8,
+                "2026": 9,
                 "2025": 3
             },
             "DocToolsBundle": {
@@ -3565,9 +3565,9 @@
             "2019": 19,
             "2018": 10
         },
-        "pullRequestsOpened": 1419,
+        "pullRequestsOpened": 1422,
         "pullRequestsOpenedByYear": {
-            "2026": 222,
+            "2026": 225,
             "2025": 228,
             "2024": 258,
             "2023": 136,
@@ -5558,9 +5558,9 @@
                 "2025": 1
             }
         },
-        "reviews": 1372,
+        "reviews": 1373,
         "reviewsByYear": {
-            "2026": 246,
+            "2026": 247,
             "2025": 337,
             "2024": 310,
             "2023": 331,
@@ -7497,7 +7497,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
         "email_domain": "",
-        "contributions": 3809,
+        "contributions": 3811,
         "repositories": {
             "PrestaShop": 178,
             "PrestaShop-modules": 3,
@@ -7535,7 +7535,7 @@
             "nightly-board": 1,
             "open-source": 24,
             "LocalizationFiles": 1,
-            "presthubot": 7,
+            "presthubot": 8,
             "example-modules": 7,
             "ps_qualityassurance": 1,
             ".github": 1,
@@ -7858,9 +7858,9 @@
                 }
             },
             "tools": {
-                "total": 17,
+                "total": 18,
                 "byYear": {
-                    "2026": 3,
+                    "2026": 4,
                     "2025": 5,
                     "2023": 3,
                     "2022": 6
@@ -7869,7 +7869,7 @@
                     "traces": 4,
                     "core-weekly-generator": 2,
                     "nightly-board": 1,
-                    "presthubot": 7,
+                    "presthubot": 8,
                     "ps-project-metrics": 1,
                     "ps-monitor-module-releases": 1,
                     "kanbanbot": 1
@@ -7886,7 +7886,7 @@
                         "2025": 1
                     },
                     "presthubot": {
-                        "2026": 2,
+                        "2026": 3,
                         "2025": 1,
                         "2023": 3,
                         "2022": 1
@@ -7964,9 +7964,9 @@
                 }
             }
         },
-        "mergedPullRequests": 593,
+        "mergedPullRequests": 594,
         "mergedPullRequestsByYear": {
-            "2026": 80,
+            "2026": 81,
             "2025": 82,
             "2024": 62,
             "2023": 94,
@@ -8141,7 +8141,7 @@
                 "2026": 1
             },
             "presthubot": {
-                "2026": 2,
+                "2026": 3,
                 "2025": 1,
                 "2023": 3,
                 "2022": 1
@@ -8207,9 +8207,9 @@
                 "2026": 2
             }
         },
-        "reviews": 3566,
+        "reviews": 3570,
         "reviewsByYear": {
-            "2026": 399,
+            "2026": 403,
             "2025": 428,
             "2024": 421,
             "2023": 1040,
@@ -8234,9 +8234,9 @@
             "2018": 15,
             "2016": 6
         },
-        "pullRequestsOpened": 694,
+        "pullRequestsOpened": 695,
         "pullRequestsOpenedByYear": {
-            "2026": 88,
+            "2026": 89,
             "2025": 88,
             "2024": 68,
             "2023": 103,
@@ -9604,7 +9604,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 763,
+        "contributions": 768,
         "repositories": {
             "PrestaShop": 232,
             "PrestaShop-modules": 4,
@@ -10441,9 +10441,9 @@
             "2017": 18,
             "2016": 23
         },
-        "issuesOpened": 129,
+        "issuesOpened": 130,
         "issuesOpenedByYear": {
-            "2026": 7,
+            "2026": 8,
             "2025": 3,
             "2024": 7,
             "2023": 24,
@@ -10454,9 +10454,9 @@
             "2018": 1,
             "2016": 4
         },
-        "pullRequestsOpened": 884,
+        "pullRequestsOpened": 885,
         "pullRequestsOpenedByYear": {
-            "2026": 253,
+            "2026": 254,
             "2025": 79,
             "2024": 38,
             "2023": 16,
@@ -12797,9 +12797,9 @@
                 "2024": 16
             }
         },
-        "reviews": 664,
+        "reviews": 665,
         "reviewsByYear": {
-            "2026": 61,
+            "2026": 62,
             "2025": 104,
             "2024": 234,
             "2023": 265
@@ -16062,9 +16062,9 @@
                 "2024": 3
             }
         },
-        "reviews": 231,
+        "reviews": 232,
         "reviewsByYear": {
-            "2026": 93,
+            "2026": 94,
             "2025": 106,
             "2024": 27,
             "2023": 5
@@ -16448,7 +16448,7 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 417,
+        "contributions": 418,
         "repositories": {
             "PrestaShop": 142,
             "dashactivity": 1,
@@ -16747,9 +16747,9 @@
                 "2025": 9
             }
         },
-        "reviews": 488,
+        "reviews": 489,
         "reviewsByYear": {
-            "2026": 194,
+            "2026": 195,
             "2025": 293,
             "2023": 1
         },
@@ -31580,7 +31580,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 40,
+        "contributions": 41,
         "repositories": {
             "PrestaShop": 10,
             "ps_emailsubscription": 1,
@@ -102551,5 +102551,5 @@
             "2026": 1
         }
     },
-    "updatedAt": "2026-08-12T06:48:18+00:00"
+    "updatedAt": "2026-08-13T06:53:15+00:00"
 }
