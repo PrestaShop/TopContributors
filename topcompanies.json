@@ -190,10 +190,10 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 17496,
+            "merged_pull_requests": 17497,
             "merged_pull_requests_by_version": {
                 "9.3": 6,
-                "9.2": 152,
+                "9.2": 153,
                 "9.1": 218,
                 "9.0": 997,
                 "8.2": 31,
@@ -211,7 +211,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 862,
+                "2026": 863,
                 "2025": 1247,
                 "2024": 1290,
                 "2023": 1572,
@@ -226,11 +226,11 @@
                 "2014": 391,
                 "2013": 24
             },
-            "pull_requests_percent": 60.39,
-            "contributions": 81828,
+            "pull_requests_percent": 60.38,
+            "contributions": 81830,
             "contributions_by_version": {
                 "9.3": 26,
-                "9.2": 1038,
+                "9.2": 1040,
                 "9.1": 2171,
                 "9.0": 3981,
                 "8.2": 77,
@@ -248,7 +248,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 3607,
+                "2026": 3609,
                 "2025": 4879,
                 "2024": 5067,
                 "2023": 6413,
@@ -263,15 +263,15 @@
                 "2014": 786,
                 "2013": 36
             },
-            "contributions_percent": 65.08,
+            "contributions_percent": 65.07,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2815696?s=200&v=4",
             "html_url": "https:\/\/www.prestashop.com",
             "github_url": null,
             "contributors": [
                 "gRoussac",
+                "jolelievre",
                 "Progi1984",
                 "nicosomb",
-                "jolelievre",
                 "mattgoud",
                 "Quetzacoalt91",
                 "kpodemski",
@@ -1065,10 +1065,10 @@
             "rank": 3,
             "rank_contributions": 3,
             "rank_pull_requests": 3,
-            "merged_pull_requests": 480,
+            "merged_pull_requests": 482,
             "merged_pull_requests_by_version": {
                 "9.3": 2,
-                "9.2": 6,
+                "9.2": 7,
                 "9.1": 3,
                 "9.0": 21,
                 "8.2": 2,
@@ -1079,7 +1079,7 @@
                 "1.6.1": 1
             },
             "merged_pull_requests_by_year": {
-                "2026": 53,
+                "2026": 55,
                 "2025": 56,
                 "2024": 28,
                 "2023": 14,
@@ -1095,10 +1095,10 @@
                 "2012": 13
             },
             "pull_requests_percent": 1.66,
-            "contributions": 705,
+            "contributions": 722,
             "contributions_by_version": {
                 "9.3": 4,
-                "9.2": 21,
+                "9.2": 27,
                 "9.1": 5,
                 "9.0": 27,
                 "8.2": 3,
@@ -1109,7 +1109,7 @@
                 "1.6.1": 1
             },
             "contributions_by_year": {
-                "2026": 126,
+                "2026": 143,
                 "2025": 79,
                 "2024": 31,
                 "2023": 21,
@@ -1124,7 +1124,7 @@
                 "2013": 65,
                 "2012": 24
             },
-            "contributions_percent": 0.56,
+            "contributions_percent": 0.57,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2631425",
             "html_url": "https:\/\/prestaedit.com\/",
             "github_url": "https:\/\/github.com\/PrestaEdit",
@@ -1387,7 +1387,7 @@
             "rank": 7,
             "rank_contributions": 7,
             "rank_pull_requests": 6,
-            "merged_pull_requests": 210,
+            "merged_pull_requests": 211,
             "merged_pull_requests_by_version": {
                 "9.3": 2,
                 "9.2": 3,
@@ -1397,13 +1397,13 @@
                 "8.1": 1
             },
             "merged_pull_requests_by_year": {
-                "2026": 143,
+                "2026": 144,
                 "2025": 65,
                 "2024": 1,
                 "2023": 1
             },
-            "pull_requests_percent": 0.72,
-            "contributions": 244,
+            "pull_requests_percent": 0.73,
+            "contributions": 245,
             "contributions_by_version": {
                 "9.3": 2,
                 "9.2": 3,
@@ -1413,7 +1413,7 @@
                 "8.1": 1
             },
             "contributions_by_year": {
-                "2026": 174,
+                "2026": 175,
                 "2025": 67,
                 "2024": 1,
                 "2023": 2
