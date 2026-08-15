@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-08-14T07:14:37+00:00",
+    "updatedAt": "2026-08-15T06:51:08+00:00",
     "items": [
         {
             "rank": 1,
@@ -310,9 +310,9 @@
             "name": "Morgan Pichat",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/36233446?v=4",
             "html_url": "https:\/\/github.com\/M0rgan01",
-            "count": 665,
+            "count": 666,
             "countByYear": {
-                "2026": 62,
+                "2026": 63,
                 "2025": 104,
                 "2024": 234,
                 "2023": 265
@@ -538,9 +538,9 @@
             "name": "Matthias Goudjil",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
             "html_url": "https:\/\/github.com\/mattgoud",
-            "count": 325,
+            "count": 327,
             "countByYear": {
-                "2026": 256,
+                "2026": 258,
                 "2025": 60,
                 "2024": 9
             }

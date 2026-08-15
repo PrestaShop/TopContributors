@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11157,
+        "contributions": 11158,
         "repositories": {
             "PrestaShop": 1211,
             "PrestaShop-modules": 2,
@@ -12805,9 +12805,9 @@
                 "2024": 16
             }
         },
-        "reviews": 665,
+        "reviews": 666,
         "reviewsByYear": {
-            "2026": 62,
+            "2026": 63,
             "2025": 104,
             "2024": 234,
             "2023": 265
@@ -18771,9 +18771,9 @@
             "2019": 16,
             "2018": 4
         },
-        "pullRequestsOpened": 225,
+        "pullRequestsOpened": 226,
         "pullRequestsOpenedByYear": {
-            "2026": 38,
+            "2026": 39,
             "2025": 20,
             "2024": 14,
             "2023": 12,
@@ -22769,21 +22769,21 @@
                 "2026": 8
             }
         },
-        "reviews": 325,
+        "reviews": 327,
         "reviewsByYear": {
-            "2026": 256,
+            "2026": 258,
             "2025": 60,
             "2024": 9
         },
-        "issuesOpened": 67,
+        "issuesOpened": 68,
         "issuesOpenedByYear": {
-            "2026": 44,
+            "2026": 45,
             "2025": 15,
             "2024": 8
         },
-        "pullRequestsOpened": 171,
+        "pullRequestsOpened": 172,
         "pullRequestsOpenedByYear": {
-            "2026": 103,
+            "2026": 104,
             "2025": 49,
             "2024": 19
         }
@@ -102559,5 +102559,5 @@
             "2026": 1
         }
     },
-    "updatedAt": "2026-08-14T06:51:10+00:00"
+    "updatedAt": "2026-08-15T06:28:57+00:00"
 }
