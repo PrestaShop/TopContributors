@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11158,
+        "contributions": 11159,
         "repositories": {
             "PrestaShop": 1211,
             "PrestaShop-modules": 2,
@@ -7501,9 +7501,9 @@
         "html_url": "https:\/\/github.com\/kpodemski",
         "name": "Krystian Podemski",
         "company": "@PrestaShop",
-        "blog": "https:\/\/podemski.info",
+        "blog": "",
         "location": "Bydgoszcz, Poland",
-        "bio": "I'm a web developer from Poland, specializing in working with PrestaShop e-commerce",
+        "bio": "Head of Technology & Community at @PrestaShop, working across technology, product, and the open-source ecosystem",
         "email_domain": "",
         "contributions": 3811,
         "repositories": {
@@ -8215,9 +8215,9 @@
                 "2026": 2
             }
         },
-        "reviews": 3570,
+        "reviews": 3571,
         "reviewsByYear": {
-            "2026": 403,
+            "2026": 404,
             "2025": 428,
             "2024": 421,
             "2023": 1040,
@@ -16755,9 +16755,9 @@
                 "2025": 9
             }
         },
-        "reviews": 489,
+        "reviews": 490,
         "reviewsByYear": {
-            "2026": 195,
+            "2026": 196,
             "2025": 293,
             "2023": 1
         },
@@ -102559,5 +102559,5 @@
             "2026": 1
         }
     },
-    "updatedAt": "2026-08-15T06:28:57+00:00"
+    "updatedAt": "2026-08-16T06:27:47+00:00"
 }
