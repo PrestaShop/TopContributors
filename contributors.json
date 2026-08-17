@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11159,
+        "contributions": 11164,
         "repositories": {
-            "PrestaShop": 4642,
+            "PrestaShop": 4643,
             "PrestaShop-modules": 31,
             "PrestaShop-webservice-lib": 4,
             "dashactivity": 14,
@@ -112,14 +112,14 @@
             "open-source": 34,
             "mjml-theme-converter": 1,
             "php-dev-tools": 4,
-            "QANightlyResults": 415,
+            "QANightlyResults": 416,
             "LocalizationFiles": 9,
             "presthubot": 531,
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1113,
+            "test-scenarios": 1115,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -136,13 +136,13 @@
             "ps_fixturescreator": 11,
             "ws-client": 25,
             "ps_apiresources": 6,
-            "ui-testing-library": 1333
+            "ui-testing-library": 1334
         },
         "categories": {
             "core": {
-                "total": 4745,
+                "total": 4746,
                 "repositories": {
-                    "PrestaShop": 4642,
+                    "PrestaShop": 4643,
                     "prestashop-ui-kit": 50,
                     "TranslationToolsBundle": 9,
                     "LocalizationFiles": 9,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1333,
+                "total": 1335,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1113,
+                    "test-scenarios": 1115,
                     "example-modules": 6,
                     "open-source": 34,
                     "example_module_mailtheme": 4,
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1457,
+                "total": 1458,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -282,7 +282,7 @@
                     "PrestaShop-webservice-lib": 4,
                     "presthubot": 531,
                     "prestonbot": 10,
-                    "QANightlyResults": 415,
+                    "QANightlyResults": 416,
                     "TopContributors": 146,
                     "TopTranslators": 1,
                     "traces": 231,
@@ -290,9 +290,9 @@
                 }
             },
             "tests": {
-                "total": 1439,
+                "total": 1440,
                 "repositories": {
-                    "ui-testing-library": 1333,
+                    "ui-testing-library": 1334,
                     "ga.tests.ui.pr": 106
                 }
             },
@@ -322,7 +322,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7823,
+        "contributions": 7824,
         "repositories": {
             "PrestaShop": 6165,
             "dashactivity": 3,
@@ -402,7 +402,7 @@
             "presthubot": 2,
             "example-modules": 106,
             "ps_qualityassurance": 2,
-            ".github": 32,
+            ".github": 33,
             "DocToolsBundle": 34,
             "hummingbird": 14,
             "ps-docs-theme": 3,
@@ -558,9 +558,9 @@
                 }
             },
             "others": {
-                "total": 50,
+                "total": 51,
                 "repositories": {
-                    ".github": 32,
+                    ".github": 33,
                     "zip-archives": 1,
                     "distribution-api": 12,
                     "native-modules": 3,
@@ -6935,7 +6935,7 @@
         "location": "La Roche sur Yon",
         "bio": null,
         "email_domain": "",
-        "contributions": 489,
+        "contributions": 490,
         "repositories": {
             "PrestaShop": 258,
             "dashproducts": 2,
@@ -6954,7 +6954,7 @@
             "ps_googleanalytics": 9,
             "open-source": 12,
             "example-modules": 4,
-            ".github": 7,
+            ".github": 8,
             "hummingbird": 52,
             "distribution-api": 2,
             "classic-theme": 9,
@@ -7025,9 +7025,9 @@
                 "repositories": []
             },
             "others": {
-                "total": 11,
+                "total": 12,
                 "repositories": {
-                    ".github": 7,
+                    ".github": 8,
                     "zip-archives": 2,
                     "distribution-api": 2
                 }
@@ -7346,9 +7346,9 @@
         "location": "Toulouse \/ France",
         "bio": "e-commerce, dev, founder of Creabilis Agency",
         "email_domain": "",
-        "contributions": 464,
+        "contributions": 465,
         "repositories": {
-            "PrestaShop": 232,
+            "PrestaShop": 233,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 4,
             "dashgoals": 4,
@@ -7398,9 +7398,9 @@
         },
         "categories": {
             "core": {
-                "total": 234,
+                "total": 235,
                 "repositories": {
-                    "PrestaShop": 232,
+                    "PrestaShop": 233,
                     "php-ps-info": 2
                 }
             },
@@ -8175,9 +8175,9 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 418,
+        "contributions": 419,
         "repositories": {
-            "PrestaShop": 277,
+            "PrestaShop": 278,
             "dashactivity": 2,
             "statsforecast": 1,
             "statsstock": 1,
@@ -8202,9 +8202,9 @@
         },
         "categories": {
             "core": {
-                "total": 279,
+                "total": 280,
                 "repositories": {
-                    "PrestaShop": 277,
+                    "PrestaShop": 278,
                     "LocalizationFiles": 2
                 }
             },
@@ -51507,5 +51507,5 @@
             }
         }
     },
-    "updatedAt": "2026-08-16 06:09:28"
+    "updatedAt": "2026-08-17 08:12:30"
 }

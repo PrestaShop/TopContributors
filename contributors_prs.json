@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11159,
+        "contributions": 11164,
         "repositories": {
             "PrestaShop": 1211,
             "PrestaShop-modules": 2,
@@ -1356,9 +1356,9 @@
                 "2024": 160
             }
         },
-        "reviews": 7265,
+        "reviews": 7268,
         "reviewsByYear": {
-            "2026": 754,
+            "2026": 757,
             "2025": 801,
             "2024": 703,
             "2023": 509,
@@ -2659,7 +2659,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7823,
+        "contributions": 7824,
         "repositories": {
             "PrestaShop": 786,
             "dashactivity": 1,
@@ -3549,9 +3549,9 @@
                 "2025": 1
             }
         },
-        "reviews": 3255,
+        "reviews": 3258,
         "reviewsByYear": {
-            "2026": 520,
+            "2026": 523,
             "2025": 326,
             "2024": 363,
             "2023": 459,
@@ -16456,7 +16456,7 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 418,
+        "contributions": 419,
         "repositories": {
             "PrestaShop": 142,
             "dashactivity": 1,
@@ -16755,9 +16755,9 @@
                 "2025": 9
             }
         },
-        "reviews": 490,
+        "reviews": 491,
         "reviewsByYear": {
-            "2026": 196,
+            "2026": 197,
             "2025": 293,
             "2023": 1
         },
@@ -16771,9 +16771,9 @@
             "2020": 1,
             "2019": 5
         },
-        "pullRequestsOpened": 301,
+        "pullRequestsOpened": 303,
         "pullRequestsOpenedByYear": {
-            "2026": 100,
+            "2026": 102,
             "2025": 137,
             "2024": 35,
             "2023": 23,
@@ -18307,9 +18307,9 @@
         "location": "Toulouse \/ France",
         "bio": "e-commerce, dev, founder of Creabilis Agency",
         "email_domain": "",
-        "contributions": 464,
+        "contributions": 465,
         "repositories": {
-            "PrestaShop": 71,
+            "PrestaShop": 72,
             "PrestaShop-webservice-lib": 1,
             "dashproducts": 1,
             "statsbestcustomers": 2,
@@ -18345,9 +18345,9 @@
         },
         "categories": {
             "core": {
-                "total": 73,
+                "total": 74,
                 "byYear": {
-                    "2026": 9,
+                    "2026": 10,
                     "2025": 6,
                     "2024": 4,
                     "2023": 5,
@@ -18358,12 +18358,12 @@
                     "2018": 3
                 },
                 "repositories": {
-                    "PrestaShop": 71,
+                    "PrestaShop": 72,
                     "php-ps-info": 2
                 },
                 "repositoriesByYear": {
                     "PrestaShop": {
-                        "2026": 9,
+                        "2026": 10,
                         "2025": 6,
                         "2024": 4,
                         "2023": 5,
@@ -18607,9 +18607,9 @@
                 "repositoriesByYear": []
             }
         },
-        "mergedPullRequests": 184,
+        "mergedPullRequests": 185,
         "mergedPullRequestsByYear": {
-            "2026": 29,
+            "2026": 30,
             "2025": 14,
             "2024": 12,
             "2023": 10,
@@ -18621,7 +18621,7 @@
         },
         "repositoriesByYear": {
             "PrestaShop": {
-                "2026": 9,
+                "2026": 10,
                 "2025": 6,
                 "2024": 4,
                 "2023": 5,
@@ -18748,9 +18748,9 @@
                 "2025": 1
             }
         },
-        "reviews": 180,
+        "reviews": 181,
         "reviewsByYear": {
-            "2026": 128,
+            "2026": 129,
             "2025": 16,
             "2024": 11,
             "2023": 8,
@@ -19942,9 +19942,9 @@
                 "2022": 1
             }
         },
-        "reviews": 586,
+        "reviews": 587,
         "reviewsByYear": {
-            "2026": 7,
+            "2026": 8,
             "2025": 56,
             "2024": 23,
             "2023": 53,
@@ -22449,7 +22449,7 @@
         "location": "La Roche sur Yon",
         "bio": null,
         "email_domain": "",
-        "contributions": 489,
+        "contributions": 490,
         "repositories": {
             "PrestaShop": 58,
             "dashproducts": 1,
@@ -22468,7 +22468,7 @@
             "ps_googleanalytics": 2,
             "open-source": 2,
             "example-modules": 1,
-            ".github": 4,
+            ".github": 5,
             "hummingbird": 7,
             "distribution-api": 1,
             "classic-theme": 3,
@@ -22655,19 +22655,19 @@
                 "repositoriesByYear": []
             },
             "others": {
-                "total": 6,
+                "total": 7,
                 "byYear": {
-                    "2026": 4,
+                    "2026": 5,
                     "2025": 2
                 },
                 "repositories": {
-                    ".github": 4,
+                    ".github": 5,
                     "distribution-api": 1,
                     "zip-archives": 1
                 },
                 "repositoriesByYear": {
                     ".github": {
-                        "2026": 4
+                        "2026": 5
                     },
                     "distribution-api": {
                         "2025": 1
@@ -22678,9 +22678,9 @@
                 }
             }
         },
-        "mergedPullRequests": 125,
+        "mergedPullRequests": 126,
         "mergedPullRequestsByYear": {
-            "2026": 73,
+            "2026": 74,
             "2025": 40,
             "2024": 12
         },
@@ -22739,7 +22739,7 @@
                 "2026": 1
             },
             ".github": {
-                "2026": 4
+                "2026": 5
             },
             "hummingbird": {
                 "2025": 6,
@@ -49473,9 +49473,9 @@
             "2021": 2,
             "2019": 1
         },
-        "pullRequestsOpened": 27,
+        "pullRequestsOpened": 28,
         "pullRequestsOpenedByYear": {
-            "2026": 6,
+            "2026": 7,
             "2025": 5,
             "2022": 3,
             "2020": 3,
@@ -102559,5 +102559,5 @@
             "2026": 1
         }
     },
-    "updatedAt": "2026-08-16T06:27:47+00:00"
+    "updatedAt": "2026-08-17T08:33:03+00:00"
 }

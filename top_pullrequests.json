@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-08-16T06:46:03+00:00",
+    "updatedAt": "2026-08-17T08:56:24+00:00",
     "items": [
         {
             "rank": 1,
@@ -443,9 +443,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 301,
+            "count": 303,
             "countByYear": {
-                "2026": 100,
+                "2026": 102,
                 "2025": 137,
                 "2024": 35,
                 "2023": 23,
@@ -2251,6 +2251,26 @@
         },
         {
             "rank": 154,
+            "login": "luigimassa",
+            "name": "Luigi Massa",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/186556?v=4",
+            "html_url": "https:\/\/github.com\/luigimassa",
+            "count": 28,
+            "countByYear": {
+                "2026": 7,
+                "2025": 5,
+                "2022": 3,
+                "2020": 3,
+                "2019": 2,
+                "2018": 1,
+                "2017": 3,
+                "2016": 1,
+                "2015": 1,
+                "2013": 2
+            }
+        },
+        {
+            "rank": 155,
             "login": "rodriciru",
             "name": "rodriciru",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10741347?v=4",
@@ -2263,7 +2283,7 @@
             }
         },
         {
-            "rank": 155,
+            "rank": 156,
             "login": "Jonadabe",
             "name": "cosvaldo",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/986504?u=ec8a651ffabef555fc7108d64485e032efa5923a&v=4",
@@ -2277,7 +2297,7 @@
             }
         },
         {
-            "rank": 156,
+            "rank": 157,
             "login": "bellini13",
             "name": "bellini13",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5391548?v=4",
@@ -2288,26 +2308,6 @@
                 "2015": 5,
                 "2014": 16,
                 "2013": 5
-            }
-        },
-        {
-            "rank": 157,
-            "login": "luigimassa",
-            "name": "Luigi Massa",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/186556?v=4",
-            "html_url": "https:\/\/github.com\/luigimassa",
-            "count": 27,
-            "countByYear": {
-                "2026": 6,
-                "2025": 5,
-                "2022": 3,
-                "2020": 3,
-                "2019": 2,
-                "2018": 1,
-                "2017": 3,
-                "2016": 1,
-                "2015": 1,
-                "2013": 2
             }
         },
         {
