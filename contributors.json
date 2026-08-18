@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11164,
+        "contributions": 11165,
         "repositories": {
             "PrestaShop": 4643,
             "PrestaShop-modules": 31,
@@ -40,7 +40,7 @@
             "statssales": 17,
             "statssearch": 10,
             "statsstock": 9,
-            "blockwishlist": 260,
+            "blockwishlist": 261,
             "productcomments": 52,
             "pscleaner": 13,
             "autoupgrade": 113,
@@ -186,7 +186,7 @@
                 }
             },
             "modules": {
-                "total": 1886,
+                "total": 1887,
                 "repositories": {
                     "PrestaShop-modules": 31,
                     "dashactivity": 14,
@@ -214,7 +214,7 @@
                     "statssales": 17,
                     "statssearch": 10,
                     "statsstock": 9,
-                    "blockwishlist": 260,
+                    "blockwishlist": 261,
                     "productcomments": 52,
                     "pscleaner": 13,
                     "autoupgrade": 113,
@@ -7346,7 +7346,7 @@
         "location": "Toulouse \/ France",
         "bio": "e-commerce, dev, founder of Creabilis Agency",
         "email_domain": "",
-        "contributions": 465,
+        "contributions": 466,
         "repositories": {
             "PrestaShop": 233,
             "PrestaShop-webservice-lib": 1,
@@ -7371,7 +7371,7 @@
             "ps_imageslider": 1,
             "ps_customersignin": 3,
             "ps_categorytree": 2,
-            "docs": 69,
+            "docs": 70,
             "ps_shoppingcart": 3,
             "ps_currencyselector": 2,
             "ps_facetedsearch": 8,
@@ -7411,9 +7411,9 @@
                 }
             },
             "documentation": {
-                "total": 72,
+                "total": 73,
                 "repositories": {
-                    "docs": 69,
+                    "docs": 70,
                     "open-source": 3
                 }
             },
@@ -8175,7 +8175,7 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 419,
+        "contributions": 420,
         "repositories": {
             "PrestaShop": 278,
             "dashactivity": 2,
@@ -8190,7 +8190,7 @@
             "ps_emailsubscription": 25,
             "ps_imageslider": 2,
             "ps_mainmenu": 1,
-            "docs": 6,
+            "docs": 7,
             "ps_facetedsearch": 8,
             "ps_specials": 4,
             "traces": 2,
@@ -8213,9 +8213,9 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 6,
+                "total": 7,
                 "repositories": {
-                    "docs": 6
+                    "docs": 7
                 }
             },
             "themes": {
@@ -51507,5 +51507,5 @@
             }
         }
     },
-    "updatedAt": "2026-08-17 08:12:30"
+    "updatedAt": "2026-08-18 06:36:35"
 }
