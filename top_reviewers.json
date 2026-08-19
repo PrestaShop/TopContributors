@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-08-18T07:16:55+00:00",
+    "updatedAt": "2026-08-19T06:55:49+00:00",
     "items": [
         {
             "rank": 1,
@@ -80,9 +80,9 @@
             "name": "Jonathan Lelievre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13801017?v=4",
             "html_url": "https:\/\/github.com\/jolelievre",
-            "count": 3259,
+            "count": 3261,
             "countByYear": {
-                "2026": 524,
+                "2026": 526,
                 "2025": 326,
                 "2024": 363,
                 "2023": 459,
@@ -197,9 +197,9 @@
             "name": "Daniel Hlav\u00e1\u010dek",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6097524?v=4",
             "html_url": "https:\/\/github.com\/Hlavtox",
-            "count": 1374,
+            "count": 1376,
             "countByYear": {
-                "2026": 248,
+                "2026": 250,
                 "2025": 337,
                 "2024": 310,
                 "2023": 331,
@@ -413,9 +413,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 491,
+            "count": 493,
             "countByYear": {
-                "2026": 197,
+                "2026": 199,
                 "2025": 293,
                 "2023": 1
             }
@@ -505,6 +505,19 @@
         },
         {
             "rank": 33,
+            "login": "mattgoud",
+            "name": "Matthias Goudjil",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
+            "html_url": "https:\/\/github.com\/mattgoud",
+            "count": 339,
+            "countByYear": {
+                "2026": 270,
+                "2025": 60,
+                "2024": 9
+            }
+        },
+        {
+            "rank": 34,
             "login": "ShaiMagal",
             "name": "Dominik Shaim Ulrich",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8518736?v=4",
@@ -518,7 +531,7 @@
             }
         },
         {
-            "rank": 34,
+            "rank": 35,
             "login": "zuk3975",
             "name": "Julius",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/31609858?v=4",
@@ -530,19 +543,6 @@
                 "2021": 18,
                 "2020": 19,
                 "2019": 9
-            }
-        },
-        {
-            "rank": 35,
-            "login": "mattgoud",
-            "name": "Matthias Goudjil",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
-            "html_url": "https:\/\/github.com\/mattgoud",
-            "count": 328,
-            "countByYear": {
-                "2026": 259,
-                "2025": 60,
-                "2024": 9
             }
         },
         {
@@ -611,9 +611,9 @@
             "name": "Blivet Thibault",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/110676325?v=4",
             "html_url": "https:\/\/github.com\/tblivet",
-            "count": 232,
+            "count": 234,
             "countByYear": {
-                "2026": 94,
+                "2026": 96,
                 "2025": 106,
                 "2024": 27,
                 "2023": 5
