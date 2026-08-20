@@ -30,7 +30,7 @@
 
   <text x="24" y="118" class="row-l">PRs merged</text>
   <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
-  <text x="536" y="118" class="row-v" text-anchor="end">368</text>
+  <text x="536" y="118" class="row-v" text-anchor="end">369</text>
   <text x="24" y="140" class="row-l">PRs opened</text>
   <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
   <text x="536" y="140" class="row-v" text-anchor="end">402</text>
@@ -43,7 +43,7 @@
 
   <g>
     <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
-    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="230" height="6" fill="#59af70"/><rect x="254" y="208" width="167" height="6" fill="#7b4fac"/><rect x="421" y="208" width="56" height="6" fill="#5c92aa"/><rect x="477" y="208" width="38" height="6" fill="#a4dbe8"/></g>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="229" height="6" fill="#59af70"/><rect x="253" y="208" width="168" height="6" fill="#7b4fac"/><rect x="421" y="208" width="56" height="6" fill="#5c92aa"/><rect x="477" y="208" width="37" height="6" fill="#a4dbe8"/></g>
     <text x="24" y="228" class="legend"><tspan fill="#59af70">■</tspan> modules  <tspan fill="#7b4fac">■</tspan> core  <tspan fill="#5c92aa">■</tspan> documentation  <tspan fill="#a4dbe8">■</tspan> tools</text>
   </g>
 
