@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-08-21T06:53:56+00:00",
+    "updatedAt": "2026-08-22T06:48:50+00:00",
     "items": [
         {
             "rank": 1,
@@ -44,9 +44,9 @@
             "name": "Jonathan Lelievre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13801017?v=4",
             "html_url": "https:\/\/github.com\/jolelievre",
-            "count": 1430,
+            "count": 1431,
             "countByYear": {
-                "2026": 233,
+                "2026": 234,
                 "2025": 228,
                 "2024": 258,
                 "2023": 136,
@@ -322,9 +322,9 @@
             "name": "Morgan Pichat",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/36233446?v=4",
             "html_url": "https:\/\/github.com\/M0rgan01",
-            "count": 402,
+            "count": 403,
             "countByYear": {
-                "2026": 31,
+                "2026": 32,
                 "2025": 109,
                 "2024": 165,
                 "2023": 97
@@ -443,9 +443,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 303,
+            "count": 304,
             "countByYear": {
-                "2026": 102,
+                "2026": 103,
                 "2025": 137,
                 "2024": 35,
                 "2023": 23,
@@ -17896,7 +17896,7 @@
             "rank": 1499,
             "login": "caglarutkuguler",
             "name": "caglarutkuguler",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/35502440?u=76eb5d320b26f272d6b188304779d851153e3dad&v=4",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/35502440?u=170f1190c64d3812f540d14b757b94cde221e9d0&v=4",
             "html_url": "https:\/\/github.com\/caglarutkuguler",
             "count": 1,
             "countByYear": {

@@ -1,16 +1,16 @@
 {
-    "updatedAt": "2026-08-21T06:32:02+00:00",
+    "updatedAt": "2026-08-22T06:30:05+00:00",
     "community": {
         "name": "Open Source Community",
         "slug": "open-source-community",
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 8521,
+        "merged_pull_requests": 8524,
         "merged_pull_requests_by_version": {
-            "9.3": 10,
-            "9.2": 88,
-            "9.1": 116,
+            "9.3": 11,
+            "9.2": 89,
+            "9.1": 117,
             "9.0": 445,
             "8.2": 27,
             "8.1": 257,
@@ -27,7 +27,7 @@
             "1.6.1": 273
         },
         "merged_pull_requests_by_year": {
-            "2026": 379,
+            "2026": 382,
             "2025": 437,
             "2024": 536,
             "2023": 675,
@@ -44,11 +44,11 @@
             "2012": 32
         },
         "pull_requests_percent": 29.39,
-        "contributions": 35477,
+        "contributions": 35483,
         "contributions_by_version": {
-            "9.3": 15,
-            "9.2": 714,
-            "9.1": 1139,
+            "9.3": 18,
+            "9.2": 716,
+            "9.1": 1140,
             "9.0": 3078,
             "8.2": 43,
             "8.1": 1471,
@@ -65,7 +65,7 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 2472,
+            "2026": 2478,
             "2025": 2111,
             "2024": 2673,
             "2023": 3579,
@@ -191,7 +191,7 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 17504,
+            "merged_pull_requests": 17505,
             "merged_pull_requests_by_version": {
                 "9.3": 6,
                 "9.2": 153,
@@ -212,7 +212,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 870,
+                "2026": 871,
                 "2025": 1247,
                 "2024": 1290,
                 "2023": 1572,
@@ -228,7 +228,7 @@
                 "2013": 24
             },
             "pull_requests_percent": 60.36,
-            "contributions": 81840,
+            "contributions": 81841,
             "contributions_by_version": {
                 "9.3": 26,
                 "9.2": 1040,
@@ -249,7 +249,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 3619,
+                "2026": 3620,
                 "2025": 4879,
                 "2024": 5067,
                 "2023": 6413,
@@ -2222,6 +2222,42 @@
             "employees": []
         },
         {
+            "name": "Agence Off",
+            "slug": "agence-off",
+            "rank": 20,
+            "rank_contributions": 24,
+            "rank_pull_requests": 20,
+            "merged_pull_requests": 6,
+            "merged_pull_requests_by_version": {
+                "9.2": 2,
+                "9.1": 1,
+                "9.0": 3
+            },
+            "merged_pull_requests_by_year": {
+                "2026": 2,
+                "2025": 4
+            },
+            "pull_requests_percent": 0.02,
+            "contributions": 12,
+            "contributions_by_version": {
+                "9.2": 6,
+                "9.1": 3,
+                "9.0": 3
+            },
+            "contributions_by_year": {
+                "2026": 6,
+                "2025": 6
+            },
+            "contributions_percent": 0.01,
+            "avatar_url": "",
+            "html_url": "https:\/\/www.agenceoff.fr",
+            "github_url": null,
+            "contributors": [
+                "aomaxime"
+            ],
+            "employees": []
+        },
+        {
             "name": "Axelweb",
             "slug": "axelweb",
             "rank": 20,
@@ -2248,42 +2284,6 @@
             "github_url": null,
             "contributors": [
                 "axel-paillaud"
-            ],
-            "employees": []
-        },
-        {
-            "name": "Agence Off",
-            "slug": "agence-off",
-            "rank": 21,
-            "rank_contributions": 24,
-            "rank_pull_requests": 21,
-            "merged_pull_requests": 5,
-            "merged_pull_requests_by_version": {
-                "9.2": 1,
-                "9.1": 1,
-                "9.0": 3
-            },
-            "merged_pull_requests_by_year": {
-                "2026": 1,
-                "2025": 4
-            },
-            "pull_requests_percent": 0.02,
-            "contributions": 11,
-            "contributions_by_version": {
-                "9.2": 5,
-                "9.1": 3,
-                "9.0": 3
-            },
-            "contributions_by_year": {
-                "2026": 5,
-                "2025": 6
-            },
-            "contributions_percent": 0.01,
-            "avatar_url": "",
-            "html_url": "https:\/\/www.agenceoff.fr",
-            "github_url": null,
-            "contributors": [
-                "aomaxime"
             ],
             "employees": []
         },
