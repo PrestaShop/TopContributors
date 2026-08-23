@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11175,
+        "contributions": 11179,
         "repositories": {
             "PrestaShop": 4645,
             "PrestaShop-modules": 31,
@@ -109,7 +109,7 @@
             "example_module_mailtheme": 4,
             "eslint-config": 3,
             "nightly-board": 50,
-            "open-source": 34,
+            "open-source": 38,
             "mjml-theme-converter": 1,
             "php-dev-tools": 4,
             "QANightlyResults": 416,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1338,
+                "total": 1342,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -171,7 +171,7 @@
                     "functional-documentation": 2,
                     "test-scenarios": 1118,
                     "example-modules": 6,
-                    "open-source": 34,
+                    "open-source": 38,
                     "example_module_mailtheme": 4,
                     "ps-docs-theme": 3,
                     "contextual-help-api": 1,
@@ -1673,7 +1673,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "Head of Technology & Community at @PrestaShop, working across technology, product, and the open-source ecosystem",
         "email_domain": "",
-        "contributions": 3815,
+        "contributions": 3816,
         "repositories": {
             "PrestaShop": 910,
             "PrestaShop-modules": 4,
@@ -1757,7 +1757,7 @@
             "circuit-breaker": 1,
             "ADR": 7,
             "nightly-board": 1,
-            "open-source": 143,
+            "open-source": 144,
             "mjml-theme-converter": 1,
             "php-dev-tools": 2,
             "LocalizationFiles": 25,
@@ -1807,14 +1807,14 @@
                 }
             },
             "documentation": {
-                "total": 1056,
+                "total": 1057,
                 "repositories": {
                     "paymentexample": 7,
                     "docs": 665,
                     "user-documentation-en": 1,
                     "ADR": 7,
                     "example-modules": 125,
-                    "open-source": 143,
+                    "open-source": 144,
                     "ps-docs-theme": 65,
                     "devdocs-site": 36,
                     "contextual-help-api": 1,
@@ -29652,7 +29652,7 @@
         "blog": "https:\/\/www.twitch.tv\/ajenbo",
         "location": "Denmark",
         "bio": null,
-        "email_domain": "jenbo.dk",
+        "email_domain": "",
         "contributions": 4,
         "repositories": {
             "php-dev-tools": 4
@@ -51507,5 +51507,5 @@
             }
         }
     },
-    "updatedAt": "2026-08-22 06:08:58"
+    "updatedAt": "2026-08-23 06:09:46"
 }

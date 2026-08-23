@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11175,
+        "contributions": 11179,
         "repositories": {
             "PrestaShop": 1211,
             "PrestaShop-modules": 2,
@@ -102,7 +102,7 @@
             "circuit-breaker": 2,
             "eslint-config": 1,
             "nightly-board": 12,
-            "open-source": 17,
+            "open-source": 18,
             "QANightlyResults": 52,
             "LocalizationFiles": 2,
             "presthubot": 37,
@@ -194,9 +194,9 @@
                 }
             },
             "documentation": {
-                "total": 67,
+                "total": 68,
                 "byYear": {
-                    "2026": 8,
+                    "2026": 9,
                     "2024": 6,
                     "2023": 19,
                     "2022": 4,
@@ -206,7 +206,7 @@
                 },
                 "repositories": {
                     "docs": 25,
-                    "open-source": 17,
+                    "open-source": 18,
                     "example-modules": 1,
                     "test-scenarios": 22,
                     "keycloak_connector_demo": 2
@@ -219,7 +219,7 @@
                         "2019": 3
                     },
                     "open-source": {
-                        "2026": 2,
+                        "2026": 3,
                         "2024": 1,
                         "2023": 12,
                         "2022": 1,
@@ -850,9 +850,9 @@
                 }
             }
         },
-        "mergedPullRequests": 2501,
+        "mergedPullRequests": 2502,
         "mergedPullRequestsByYear": {
-            "2026": 312,
+            "2026": 313,
             "2025": 445,
             "2024": 479,
             "2023": 348,
@@ -1273,7 +1273,7 @@
                 "2023": 8
             },
             "open-source": {
-                "2026": 2,
+                "2026": 3,
                 "2024": 1,
                 "2023": 12,
                 "2022": 1,
@@ -7508,7 +7508,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "Head of Technology & Community at @PrestaShop, working across technology, product, and the open-source ecosystem",
         "email_domain": "",
-        "contributions": 3815,
+        "contributions": 3816,
         "repositories": {
             "PrestaShop": 178,
             "PrestaShop-modules": 3,
@@ -8218,9 +8218,9 @@
                 "2026": 2
             }
         },
-        "reviews": 3576,
+        "reviews": 3577,
         "reviewsByYear": {
-            "2026": 409,
+            "2026": 410,
             "2025": 428,
             "2024": 421,
             "2023": 1040,
@@ -16251,7 +16251,7 @@
         "email_domain": "codencode.it",
         "contributions": 429,
         "repositories": {
-            "PrestaShop": 144,
+            "PrestaShop": 145,
             "dashactivity": 1,
             "autoupgrade": 7,
             "prestashop.github.io": 1,
@@ -16274,21 +16274,21 @@
         },
         "categories": {
             "core": {
-                "total": 146,
+                "total": 147,
                 "byYear": {
-                    "2026": 58,
+                    "2026": 59,
                     "2025": 67,
                     "2024": 13,
                     "2023": 7,
                     "2019": 1
                 },
                 "repositories": {
-                    "PrestaShop": 144,
+                    "PrestaShop": 145,
                     "LocalizationFiles": 2
                 },
                 "repositoriesByYear": {
                     "PrestaShop": {
-                        "2026": 57,
+                        "2026": 58,
                         "2025": 66,
                         "2024": 13,
                         "2023": 7,
@@ -16460,9 +16460,9 @@
                 "repositoriesByYear": []
             }
         },
-        "mergedPullRequests": 210,
+        "mergedPullRequests": 211,
         "mergedPullRequestsByYear": {
-            "2026": 89,
+            "2026": 90,
             "2025": 93,
             "2024": 18,
             "2023": 7,
@@ -16471,7 +16471,7 @@
         },
         "repositoriesByYear": {
             "PrestaShop": {
-                "2026": 57,
+                "2026": 58,
                 "2025": 66,
                 "2024": 13,
                 "2023": 7,
@@ -16548,9 +16548,9 @@
                 "2025": 9
             }
         },
-        "reviews": 495,
+        "reviews": 496,
         "reviewsByYear": {
-            "2026": 201,
+            "2026": 202,
             "2025": 293,
             "2023": 1
         },
@@ -16564,9 +16564,9 @@
             "2020": 1,
             "2019": 5
         },
-        "pullRequestsOpened": 304,
+        "pullRequestsOpened": 305,
         "pullRequestsOpenedByYear": {
-            "2026": 103,
+            "2026": 104,
             "2025": 137,
             "2024": 35,
             "2023": 23,
@@ -69864,7 +69864,7 @@
         "blog": "https:\/\/www.twitch.tv\/ajenbo",
         "location": "Denmark",
         "bio": null,
-        "email_domain": "jenbo.dk",
+        "email_domain": "",
         "contributions": 4,
         "repositories": {
             "PrestaShop": 1,
@@ -102566,5 +102566,5 @@
             "2026": 1
         }
     },
-    "updatedAt": "2026-08-22T06:30:05+00:00"
+    "updatedAt": "2026-08-23T06:27:08+00:00"
 }

@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-08-22T06:48:50+00:00",
+    "updatedAt": "2026-08-23T06:49:14+00:00",
     "items": [
         {
             "rank": 1,
@@ -59,9 +59,9 @@
             "name": "Krystian Podemski",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2137763?v=4",
             "html_url": "https:\/\/github.com\/kpodemski",
-            "count": 3576,
+            "count": 3577,
             "countByYear": {
-                "2026": 409,
+                "2026": 410,
                 "2025": 428,
                 "2024": 421,
                 "2023": 1040,
@@ -413,9 +413,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 495,
+            "count": 496,
             "countByYear": {
-                "2026": 201,
+                "2026": 202,
                 "2025": 293,
                 "2023": 1
             }
