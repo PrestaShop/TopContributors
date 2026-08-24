@@ -5,7 +5,7 @@
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 8525,
+        "merged_pull_requests": 8526,
         "merged_pull_requests_by_version": {
             "9.3": 11,
             "9.2": 90,
@@ -26,7 +26,7 @@
             "1.6.1": 273
         },
         "merged_pull_requests_by_year": {
-            "2026": 383,
+            "2026": 384,
             "2025": 437,
             "2024": 536,
             "2023": 675,
@@ -43,7 +43,7 @@
             "2012": 32
         },
         "pull_requests_percent": 29.39,
-        "contributions": 35485,
+        "contributions": 35486,
         "contributions_by_version": {
             "9.3": 18,
             "9.2": 718,
@@ -64,7 +64,7 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 2480,
+            "2026": 2481,
             "2025": 2111,
             "2024": 2673,
             "2023": 3579,
@@ -169,6 +169,7 @@
             "marsaldev",
             "Maxence-Perrin",
             "fulldecent",
+            "boo-code",
             "Peter-Liska",
             "iamtiagogalvao",
             "JBLach",
