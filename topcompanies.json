@@ -5,9 +5,9 @@
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 8526,
+        "merged_pull_requests": 8529,
         "merged_pull_requests_by_version": {
-            "9.3": 11,
+            "9.3": 13,
             "9.2": 90,
             "9.1": 117,
             "9.0": 445,
@@ -26,7 +26,7 @@
             "1.6.1": 273
         },
         "merged_pull_requests_by_year": {
-            "2026": 384,
+            "2026": 387,
             "2025": 437,
             "2024": 536,
             "2023": 675,
@@ -42,10 +42,10 @@
             "2013": 525,
             "2012": 32
         },
-        "pull_requests_percent": 29.39,
-        "contributions": 35486,
+        "pull_requests_percent": 29.4,
+        "contributions": 35489,
         "contributions_by_version": {
-            "9.3": 18,
+            "9.3": 20,
             "9.2": 718,
             "9.1": 1140,
             "9.0": 3078,
@@ -64,7 +64,7 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 2481,
+            "2026": 2484,
             "2025": 2111,
             "2024": 2673,
             "2023": 3579,
@@ -85,9 +85,9 @@
         "html_url": "https:\/\/www.prestashop-project.org",
         "github_url": null,
         "contributors": [
+            "M0rgan01",
             "jolelievre",
             "gumgl",
-            "M0rgan01",
             "kpodemski",
             "mattgoud",
             "paulschwahn",
@@ -191,7 +191,7 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 17505,
+            "merged_pull_requests": 17507,
             "merged_pull_requests_by_version": {
                 "9.3": 6,
                 "9.2": 153,
@@ -212,7 +212,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 871,
+                "2026": 873,
                 "2025": 1247,
                 "2024": 1290,
                 "2023": 1572,
@@ -227,8 +227,8 @@
                 "2014": 391,
                 "2013": 24
             },
-            "pull_requests_percent": 60.35,
-            "contributions": 81841,
+            "pull_requests_percent": 60.34,
+            "contributions": 81843,
             "contributions_by_version": {
                 "9.3": 26,
                 "9.2": 1040,
@@ -249,7 +249,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 3620,
+                "2026": 3622,
                 "2025": 4879,
                 "2024": 5067,
                 "2023": 6413,
@@ -264,7 +264,7 @@
                 "2014": 786,
                 "2013": 36
             },
-            "contributions_percent": 65.04,
+            "contributions_percent": 65.03,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2815696?s=200&v=4",
             "html_url": "https:\/\/www.prestashop.com",
             "github_url": null,
@@ -1095,7 +1095,7 @@
                 "2013": 52,
                 "2012": 13
             },
-            "pull_requests_percent": 1.67,
+            "pull_requests_percent": 1.66,
             "contributions": 724,
             "contributions_by_version": {
                 "9.3": 4,
@@ -1434,8 +1434,9 @@
             "rank": 8,
             "rank_contributions": 8,
             "rank_pull_requests": 9,
-            "merged_pull_requests": 87,
+            "merged_pull_requests": 88,
             "merged_pull_requests_by_version": {
+                "9.3": 1,
                 "9.2": 1,
                 "9.1": 1,
                 "9.0": 4,
@@ -1443,7 +1444,7 @@
                 "8.0": 2
             },
             "merged_pull_requests_by_year": {
-                "2026": 21,
+                "2026": 22,
                 "2025": 40,
                 "2024": 4,
                 "2023": 1,
@@ -1451,8 +1452,9 @@
                 "2021": 16
             },
             "pull_requests_percent": 0.3,
-            "contributions": 232,
+            "contributions": 233,
             "contributions_by_version": {
+                "9.3": 1,
                 "9.2": 1,
                 "9.1": 2,
                 "9.0": 6,
@@ -1460,14 +1462,14 @@
                 "8.0": 8
             },
             "contributions_by_year": {
-                "2026": 68,
+                "2026": 69,
                 "2025": 77,
                 "2024": 5,
                 "2023": 1,
                 "2022": 47,
                 "2021": 34
             },
-            "contributions_percent": 0.18,
+            "contributions_percent": 0.19,
             "avatar_url": "",
             "html_url": "https:\/\/okom3pom.com",
             "github_url": null,
