@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-08-25T06:53:16+00:00",
+    "updatedAt": "2026-08-26T06:57:30+00:00",
     "items": [
         {
             "rank": 1,
@@ -44,9 +44,9 @@
             "name": "Jonathan Lelievre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13801017?v=4",
             "html_url": "https:\/\/github.com\/jolelievre",
-            "count": 1431,
+            "count": 1433,
             "countByYear": {
-                "2026": 234,
+                "2026": 236,
                 "2025": 228,
                 "2024": 258,
                 "2023": 136,
@@ -322,9 +322,9 @@
             "name": "Morgan Pichat",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/36233446?v=4",
             "html_url": "https:\/\/github.com\/M0rgan01",
-            "count": 404,
+            "count": 405,
             "countByYear": {
-                "2026": 33,
+                "2026": 34,
                 "2025": 109,
                 "2024": 165,
                 "2023": 97
@@ -443,9 +443,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 306,
+            "count": 307,
             "countByYear": {
-                "2026": 105,
+                "2026": 106,
                 "2025": 137,
                 "2024": 35,
                 "2023": 23,
@@ -740,9 +740,9 @@
             "name": "Matthias Goudjil",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
             "html_url": "https:\/\/github.com\/mattgoud",
-            "count": 172,
+            "count": 174,
             "countByYear": {
-                "2026": 104,
+                "2026": 106,
                 "2025": 49,
                 "2024": 19
             }
@@ -1802,6 +1802,20 @@
         },
         {
             "rank": 121,
+            "login": "rdy4ever",
+            "name": "Horia Rudan",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12268701?v=4",
+            "html_url": "https:\/\/github.com\/rdy4ever",
+            "count": 35,
+            "countByYear": {
+                "2026": 4,
+                "2025": 1,
+                "2019": 12,
+                "2018": 18
+            }
+        },
+        {
+            "rank": 122,
             "login": "LittleBigDev",
             "name": "Bastien Bieri",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6631597?v=4",
@@ -1813,7 +1827,7 @@
             }
         },
         {
-            "rank": 122,
+            "rank": 123,
             "login": "Oksydan",
             "name": "Igor St\u0119pie\u0144",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/25306716?v=4",
@@ -1828,7 +1842,7 @@
             }
         },
         {
-            "rank": 123,
+            "rank": 124,
             "login": "nenes25",
             "name": "Herv\u00e9 H.",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7163132?v=4",
@@ -1845,7 +1859,7 @@
             }
         },
         {
-            "rank": 124,
+            "rank": 125,
             "login": "rGaillard",
             "name": "R\u00e9mi Gaillard",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2787216?v=4",
@@ -1857,20 +1871,6 @@
                 "2017": 6,
                 "2016": 15,
                 "2015": 1
-            }
-        },
-        {
-            "rank": 125,
-            "login": "rdy4ever",
-            "name": "Horia Rudan",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12268701?v=4",
-            "html_url": "https:\/\/github.com\/rdy4ever",
-            "count": 34,
-            "countByYear": {
-                "2026": 3,
-                "2025": 1,
-                "2019": 12,
-                "2018": 18
             }
         },
         {
@@ -12907,7 +12907,7 @@
             "rank": 1047,
             "login": "semicolonSimp",
             "name": "coderoshan",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/226712034?u=d124d600affb7f69ee6b25cd7033770bafcd0e88&v=4",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/226712034?u=a97e3db6aad79c3f1b04100e65a1221646fc09ab&v=4",
             "html_url": "https:\/\/github.com\/semicolonSimp",
             "count": 2,
             "countByYear": {
