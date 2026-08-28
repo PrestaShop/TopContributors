@@ -18,6 +18,7 @@ const topReviewers = ref<RankingEntry[]>([])
 const topIssues = ref<RankingEntry[]>([])
 const topPullRequests = ref<RankingEntry[]>([])
 const topSecurity = ref<RankingEntry[]>([])
+const topQa = ref<RankingEntry[]>([])
 
 const totalMergedPr = computed<number>(() => {
   const cs = companiesData.value
@@ -148,6 +149,16 @@ onMounted(async () => {
   catch (error) {
     console.error('Error loading top security:', error)
   }
+
+  try {
+    const response = await fetch('/top_qa.json')
+    if (!response.ok) throw new Error('Error loading top QA')
+    const data = await response.json()
+    topQa.value = data.items ?? []
+  }
+  catch (error) {
+    console.error('Error loading top QA:', error)
+  }
 })
 </script>
 
@@ -169,6 +180,7 @@ onMounted(async () => {
         :top-issues="topIssues"
         :top-pull-requests="topPullRequests"
         :top-security="topSecurity"
+        :top-qa="topQa"
         :updated-year="updatedYear"
       />
       <NewContributorsSectionView :new-contributors="newContributors" />
@@ -179,6 +191,7 @@ onMounted(async () => {
         :issues="topIssues"
         :pull-requests="topPullRequests"
         :security="topSecurity"
+        :qa="topQa"
         :updated-year="updatedYear"
       />
       <ContributeSectionView
