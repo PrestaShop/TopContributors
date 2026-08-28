@@ -32,6 +32,7 @@ describe('WallOfFameSectionView', () => {
       issues: ranking('iss'),
       pullRequests: ranking('pr'),
       security: ranking('sec'),
+      qa: ranking('qa'),
       updatedYear: 2026,
     }))
     const text = component.text()
@@ -39,6 +40,7 @@ describe('WallOfFameSectionView', () => {
     expect(text).toContain('Issue reporters')
     expect(text).toContain('PR authors')
     expect(text).toContain('Security')
+    expect(text).toContain('QA')
   })
 
   it('hides the Security tab when no advisory data is available', async () => {
@@ -49,8 +51,10 @@ describe('WallOfFameSectionView', () => {
       issues: ranking('iss'),
       pullRequests: ranking('pr'),
       security: [],
+      qa: [],
       updatedYear: 2026,
     }))
     expect(component.text()).not.toContain('Security')
+    expect(component.text()).not.toContain('QA')
   })
 })

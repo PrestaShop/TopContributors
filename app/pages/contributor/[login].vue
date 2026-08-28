@@ -9,6 +9,7 @@ const period = usePeriod()
 const contributor = ref<Contributor | null>(null)
 const updatedYear = ref<number>(new Date().getFullYear())
 const loadError = ref<string | null>(null)
+const qaCount = ref<number>(0)
 
 watchEffect(async () => {
   const login = route.params.login as string
@@ -40,6 +41,21 @@ watchEffect(async () => {
   catch (e) {
     loadError.value = 'Failed to load data.'
     console.error(e)
+  }
+
+  // QA validations (label posed on merged PRs) — surfaced as a KPI tile when > 0.
+  // Case-insensitive lookup to match the URL param handling above.
+  try {
+    const res = await fetch('/top_qa.json')
+    if (!res.ok) return
+    const data = await res.json() as { items?: { login: string, count: number }[] }
+    const items = Array.isArray(data.items) ? data.items : []
+    const lower = login.toLowerCase()
+    const match = items.find(it => it.login?.toLowerCase() === lower)
+    qaCount.value = match?.count ?? 0
+  }
+  catch (e) {
+    console.error('Failed to load top_qa.json', e)
   }
 })
 
@@ -111,6 +127,7 @@ useHead(() => ({
         <DetailKpiRow
           :vm="vm"
           :years-active="yearsActive"
+          :qa-count="qaCount"
         />
         <div class="wof-detail-two-col">
           <DetailYearlyChart
