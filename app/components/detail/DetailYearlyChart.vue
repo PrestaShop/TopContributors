@@ -14,6 +14,10 @@ const props = defineProps<{
   }
   period: Period
   updatedYear: number
+  // Sourced from top_qa.json rather than contributors_prs.json (QA validations
+  // are not per-contributor in the base dataset). Optional — companies and
+  // contributors without QA activity omit it and the dataset stays hidden.
+  qaByYear?: Record<string, number>
 }>()
 
 function inPeriod(y: number): boolean {
@@ -23,11 +27,14 @@ function inPeriod(y: number): boolean {
   return y >= props.updatedYear - props.period.n + 1 && y <= props.updatedYear
 }
 
+const hasQa = computed(() => !!props.qaByYear && Object.keys(props.qaByYear).length > 0)
+
 const years = computed(() => {
   const set = new Set<string>([
     ...Object.keys(props.series.mergedPullRequests),
     ...Object.keys(props.series.reviews),
     ...Object.keys(props.series.issuesOpened),
+    ...(props.qaByYear ? Object.keys(props.qaByYear) : []),
   ])
   return [...set].filter(y => inPeriod(Number(y))).sort()
 })
@@ -50,6 +57,13 @@ const data = computed(() => ({
       data: years.value.map(y => props.series.issuesOpened[y] ?? 0),
       backgroundColor: '#f59e0b',
     },
+    ...(hasQa.value
+      ? [{
+          label: 'QA validations',
+          data: years.value.map(y => props.qaByYear?.[y] ?? 0),
+          backgroundColor: '#a855f7',
+        }]
+      : []),
   ],
 }))
 </script>
@@ -74,7 +88,7 @@ const data = computed(() => ({
             y: { stacked: true, beginAtZero: true },
           },
         }"
-        aria-label="Contributions per year (merged, reviews, issues)"
+        aria-label="Contributions per year (merged, reviews, issues, QA)"
       />
     </div>
   </div>
