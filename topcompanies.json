@@ -5,7 +5,7 @@
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 8539,
+        "merged_pull_requests": 8549,
         "merged_pull_requests_by_version": {
             "9.3": 15,
             "9.2": 92,
@@ -26,7 +26,7 @@
             "1.6.1": 273
         },
         "merged_pull_requests_by_year": {
-            "2026": 397,
+            "2026": 407,
             "2025": 437,
             "2024": 536,
             "2023": 675,
@@ -42,8 +42,8 @@
             "2013": 525,
             "2012": 32
         },
-        "pull_requests_percent": 29.39,
-        "contributions": 35507,
+        "pull_requests_percent": 29.41,
+        "contributions": 35523,
         "contributions_by_version": {
             "9.3": 25,
             "9.2": 722,
@@ -64,7 +64,7 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 2502,
+            "2026": 2518,
             "2025": 2111,
             "2024": 2673,
             "2023": 3579,
@@ -80,7 +80,7 @@
             "2013": 1031,
             "2012": 56
         },
-        "contributions_percent": 28.19,
+        "contributions_percent": 28.2,
         "avatar_url": "",
         "html_url": "https:\/\/www.prestashop-project.org",
         "github_url": null,
@@ -191,7 +191,7 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 17532,
+            "merged_pull_requests": 17534,
             "merged_pull_requests_by_version": {
                 "9.3": 8,
                 "9.2": 154,
@@ -212,7 +212,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 898,
+                "2026": 900,
                 "2025": 1247,
                 "2024": 1290,
                 "2023": 1572,
@@ -227,8 +227,8 @@
                 "2014": 391,
                 "2013": 24
             },
-            "pull_requests_percent": 60.35,
-            "contributions": 81930,
+            "pull_requests_percent": 60.33,
+            "contributions": 81932,
             "contributions_by_version": {
                 "9.3": 65,
                 "9.2": 1042,
@@ -249,7 +249,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 3709,
+                "2026": 3711,
                 "2025": 4879,
                 "2024": 5067,
                 "2023": 6413,
@@ -264,7 +264,7 @@
                 "2014": 786,
                 "2013": 36
             },
-            "contributions_percent": 65.04,
+            "contributions_percent": 65.03,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2815696?s=200&v=4",
             "html_url": "https:\/\/www.prestashop.com",
             "github_url": null,

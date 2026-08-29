@@ -1,4 +1,12 @@
 {
+    "abdullacm": {
+        "login": "abdullacm",
+        "name": "Abdulla Chozhimadathil",
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5052597?v=4",
+        "html_url": "https:\/\/github.com\/abdullacm",
+        "contributions": 1,
+        "firstContributionAt": "2026-08-28T22:52:03Z"
+    },
     "nsirjent": {
         "login": "nsirjent",
         "name": null,
@@ -20,7 +28,7 @@
         "name": "Audrius",
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65190196?v=4",
         "html_url": "https:\/\/github.com\/boo-code",
-        "contributions": 48,
+        "contributions": 55,
         "firstContributionAt": "2026-07-02T12:07:58Z"
     },
     "piotr-jagiello": {
@@ -70,13 +78,5 @@
         "html_url": "https:\/\/github.com\/islemdev",
         "contributions": 1,
         "firstContributionAt": "2026-04-19T08:00:23Z"
-    },
-    "paulnoelcholot": {
-        "login": "paulnoelcholot",
-        "name": "Camille",
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/112863083?v=4",
-        "html_url": "https:\/\/github.com\/paulnoelcholot",
-        "contributions": 54,
-        "firstContributionAt": "2026-04-16T07:55:42Z"
     }
 }
