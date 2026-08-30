@@ -2,19 +2,15 @@
 import { ref, computed, onMounted, onUnmounted, watch } from 'vue'
 import type { PuikTableHeader, searchOption, sortOption } from '@prestashopcorp/puik-components'
 import { PuikPaginationVariants } from '@prestashopcorp/puik-components'
-import type { Company, Contributor } from '@/types'
+import type { Company, Contributor, RankingEntry } from '@/types'
 
-type TableType = 'contributor' | 'company'
-type TableItem = Contributor | Company
+type TableType = 'contributor' | 'company' | 'ranking'
+type TableItem = Contributor | Company | RankingEntry
 
 const props = defineProps<{
   items: TableItem[]
   headers: PuikTableHeader[]
   type: TableType
-}>()
-
-const emit = defineEmits<{
-  (e: 'action-click', item: TableItem): void
 }>()
 
 const stickyLastCol = ref(false)
@@ -130,16 +126,16 @@ watch(
   { immediate: true },
 )
 
-const handleActionClick = (item: TableItem) => {
-  emit('action-click', item)
-}
-
 const isContributor = (_item: TableItem): _item is Contributor => {
   return props.type === 'contributor'
 }
 
 const isCompany = (_item: TableItem): _item is Company => {
   return props.type === 'company'
+}
+
+const isRanking = (item: TableItem): item is RankingEntry => {
+  return props.type === 'ranking' && 'count' in item
 }
 </script>
 
@@ -226,34 +222,78 @@ const isCompany = (_item: TableItem): _item is Company => {
             </span>
           </div>
         </div>
+
+        <!-- Ranking display -->
+        <div
+          v-else-if="isRanking(item)"
+          class="wof-contributors__login__container"
+        >
+          <puik-avatar
+            size="large"
+            type="photo"
+            :src="item.avatar_url"
+          />
+          <div class="wof-top-contributors__name">
+            <span class="puik-body-default">{{ item.name || item.login }}</span>
+            <span
+              v-if="item.name"
+              class="puik-body-small-bold"
+            >({{ item.login }})</span>
+          </div>
+        </div>
+      </template>
+
+      <template #item-count="{ item }">
+        <span
+          v-if="isRanking(item)"
+          class="puik-body-default-bold"
+        >{{ item.count }}</span>
       </template>
 
       <template #item-actions="{ item }">
-        <!-- Contributor actions: button that emits event -->
-        <puik-button
-          v-if="type === 'contributor'"
-          variant="text"
-          force-legacy-text-variant
-          right-icon="visibility"
-          aria-label="view profile"
-          @click="handleActionClick(item)"
-        />
-
-        <!-- Company actions: link to GitHub -->
-        <a
-          v-else-if="type === 'company'"
-          :href="item.html_url"
-          target="_blank"
-          aria-label="view profile"
-          rel="noopener noreferrer"
-        >
-          <puik-button
-            variant="text"
-            force-legacy-text-variant
-            right-icon="visibility"
-            aria-label="view profile icon"
-          />
-        </a>
+        <div class="wof-top-actions">
+          <!-- External link: GitHub profile (contributor / ranking) or company page. -->
+          <a
+            v-if="(item as { html_url?: string }).html_url"
+            :href="(item as { html_url: string }).html_url"
+            target="_blank"
+            :aria-label="type === 'company' ? 'Open company page in a new tab' : 'Open GitHub profile in a new tab'"
+            rel="noopener noreferrer"
+          >
+            <puik-button
+              variant="text"
+              force-legacy-text-variant
+              right-icon="open_in_new"
+              :aria-label="type === 'company' ? 'Open company page in a new tab' : 'Open GitHub profile in a new tab'"
+            />
+          </a>
+          <!-- Details link → internal detail route. Contributors + rankings resolve
+               by lowercase login; companies by slug when present. -->
+          <NuxtLink
+            v-if="type === 'company' && (item as { slug?: string }).slug"
+            :to="`/company/${((item as { slug: string }).slug).toLowerCase()}`"
+            aria-label="View company detail"
+          >
+            <puik-button
+              variant="text"
+              force-legacy-text-variant
+              right-icon="insights"
+              aria-label="View company detail"
+            />
+          </NuxtLink>
+          <NuxtLink
+            v-else-if="type !== 'company' && (item as { login?: string }).login"
+            :to="`/contributor/${((item as { login: string }).login).toLowerCase()}`"
+            aria-label="View contributor detail"
+          >
+            <puik-button
+              variant="text"
+              force-legacy-text-variant
+              right-icon="insights"
+              aria-label="View contributor detail"
+            />
+          </NuxtLink>
+        </div>
       </template>
     </puik-table>
 
@@ -261,7 +301,7 @@ const isCompany = (_item: TableItem): _item is Company => {
       v-if="itemsRef.length === 0"
       class="wof-no-results"
     >
-      No {{ type === 'contributor' ? 'contributors' : 'companies' }} found with your search.
+      No results found with your search.
     </div>
 
     <puik-pagination

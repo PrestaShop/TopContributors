@@ -1,5 +1,7 @@
 # Top Contributors
 
+[contributors.prestashop-project.org](https://contributors.prestashop-project.org/)
+
 A website to thank every PrestaShop contributors.
 
 This Nuxt 4 application showcasing PrestaShop's top contributors, companies, and community members who actively contribute to the PrestaShop ecosystem.
@@ -11,6 +13,7 @@ This Nuxt 4 application showcasing PrestaShop's top contributors, companies, and
 - **Wall of Fame**: Comprehensive tables featuring all contributors and companies
 - **New Contributors**: Highlight recent additions to the contributor community
 - **Responsive Design**: Built with Tailwind CSS and PUIK Components for a modern, mobile-friendly experience
+- **Contributor Cards**: Each contributor has an embeddable SVG card at `/card/<login>.svg` — drop it into a GitHub profile README with `![](https://contributors.prestashop-project.org/card/<login>.svg)`. Grab the ready-made snippet from the "Share your card" section of each contributor page.
 
 ## Tech Stack
 

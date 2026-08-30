@@ -29,7 +29,7 @@ jobs:
       - name: Setup Node.js 🏗
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
 
       - name: Setup pnpm 📦
         uses: pnpm/action-setup@v3
@@ -60,9 +60,6 @@ jobs:
       - name: Install Contributors dependencies 💚
         run: pnpm install --frozen-lockfile
 
-      - name: Build Contributors Site 👷
-        run: pnpm run build && pnpm run generate
-
       - name: Install Traces project 💚
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         run: composer create-project prestashop/traces
@@ -92,6 +89,31 @@ jobs:
         working-directory: ./traces
         run: php bin/console traces:generate:topcompanies --ghtoken=${ENV_USER_PASS} --config="./config.dist.yml"
 
+      - name: Fetch all pull requests 🔧
+        if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
+        working-directory: ./traces
+        run: php bin/console traces:fetch:pullrequests:all --ghtoken=${ENV_USER_PASS}
+
+      - name: Fetch issues 🔧
+        if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
+        working-directory: ./traces
+        run: php bin/console traces:fetch:issues --ghtoken=${ENV_USER_PASS}
+
+      - name: Generate top stats 🔧
+        if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
+        working-directory: ./traces
+        run: php bin/console traces:generate:topstats --ghtoken=${ENV_USER_PASS} --config="./config.dist.yml"
+
+      - name: Fetch security advisories 🔧
+        if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
+        working-directory: ./traces
+        run: php bin/console traces:fetch:security-advisories --ghtoken=${ENV_USER_PASS}
+
+      - name: Generate top security 🔧
+        if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
+        working-directory: ./traces
+        run: php bin/console traces:generate:topsecurity --ghtoken=${ENV_USER_PASS} --config="./config.dist.yml"
+
       - name: Fetch QA label events 🔧
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         working-directory: ./traces
@@ -106,15 +128,28 @@ jobs:
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         run: cat ./traces/gh_loginsWOCompany.json
 
-      - name: Move JSON files 📁
+      - name: Move JSON files into public/ 📁
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         run: |
-          mv ./traces/contributors.json ./dist
-          mv ./traces/contributors_prs.json ./dist
-          mv ./traces/topcompanies.json ./dist
-          mv ./traces/topcompanies_prs.json ./dist
-          mv ./traces/newcontributors.json ./dist
-          mv ./traces/top_qa.json ./dist
+          mkdir -p ./public
+          mv ./traces/contributors.json ./public/
+          mv ./traces/contributors_prs.json ./public/
+          mv ./traces/topcompanies.json ./public/
+          mv ./traces/topcompanies_prs.json ./public/
+          mv ./traces/newcontributors.json ./public/
+          mv ./traces/top_reviewers.json ./public/
+          mv ./traces/top_issues.json ./public/
+          mv ./traces/top_pullrequests.json ./public/
+          mv ./traces/top_security.json ./public/
+          mv ./traces/top_qa.json ./public/
+
+      - name: Build Contributors Site 👷
+        run: pnpm run build && pnpm run generate
+
+      - name: Copy Nuxt output to dist for deploy 📦
+        run: |
+          rm -rf ./dist
+          cp -r ./.output/public ./dist
 
       - name: Write CNAME file 🌐
         run: echo 'contributors.prestashop-project.org' > ./dist/CNAME

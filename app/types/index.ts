@@ -1,3 +1,13 @@
+export interface EmployeeTimeFrame {
+  start_date: string
+  end_date: string | null
+}
+
+export interface Employee {
+  login: string
+  time_frames: EmployeeTimeFrame[]
+}
+
 export interface Company {
   rank: number
   name: string
@@ -5,7 +15,19 @@ export interface Company {
   pull_requests_percent: number
   avatar_url: string
   html_url: string
+  github_url?: string
   login?: string
+  slug?: string
+  // Derived at PR-attribution time (union of authors whose merged PRs were
+  // credited to this company). Noisier than `employees`, kept for back-compat.
+  contributors?: string[]
+  // Source of truth for company membership — sourced from
+  // var/data/companies.json in Traces. Supports multiple periods per person
+  // (someone can leave and come back).
+  employees?: Employee[]
+  merged_pull_requests_by_year?: Record<string, number>
+  contributions?: number
+  contributions_by_year?: Record<string, number>
   [key: string]: unknown
 }
 
@@ -31,6 +53,14 @@ export interface Contributor {
       repositories: Record<string, number>
     }
   >
+  reviews?: number
+  issuesOpened?: number
+  pullRequestsOpened?: number
+  mergedPullRequestsByYear?: Record<string, number>
+  pullRequestsOpenedByYear?: Record<string, number>
+  reviewsByYear?: Record<string, number>
+  issuesOpenedByYear?: Record<string, number>
+  repositoriesByYear?: Record<string, Record<string, number>>
   [key: string]: unknown
 }
 
@@ -42,3 +72,29 @@ export interface NewContributor {
   contributions: number
   firstContributionAt: string
 }
+
+export interface RankingEntry {
+  rank: number
+  login: string
+  name: string
+  avatar_url: string
+  html_url: string
+  count: number
+  // Security ranking only: per-advisory credits split between research
+  // (finder / reporter / analyst) and remediation (developer / reviewer /
+  // verifier). `count` is the sum of both.
+  research?: number
+  remediation?: number
+}
+
+export interface Ranking {
+  updatedAt: string
+  items: RankingEntry[]
+}
+
+export type Counter = number | { total: number, byYear?: Record<string, number> }
+
+export type Period
+  = | { kind: 'sinceStart' }
+    | { kind: 'lastYear' }
+    | { kind: 'lastNYears', n: number }

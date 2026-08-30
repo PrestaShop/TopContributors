@@ -1,9 +1,15 @@
 <script setup lang="ts">
-import type { Contributor, Company } from '@/types'
+import type { Contributor, Company, RankingEntry } from '@/types'
 
 defineProps<{
   topContributors: Contributor[]
   topCompanies: Company[]
+  topReviewers: RankingEntry[]
+  topIssues: RankingEntry[]
+  topPullRequests: RankingEntry[]
+  topSecurity: RankingEntry[]
+  topQa: RankingEntry[]
+  updatedYear: number
 }>()
 </script>
 
@@ -13,8 +19,62 @@ defineProps<{
       PrestaShop Project’s top contributors
     </h2>
     <div class="wof-top-section__cards">
-      <TopCompaniesView :top-companies="topCompanies" />
-      <TopContributorsView :top-contributors="topContributors" />
+      <TopCompaniesView
+        :top-companies="topCompanies"
+        :updated-year="updatedYear"
+      />
+      <TopContributorsView
+        :top-contributors="topContributors"
+        :updated-year="updatedYear"
+      />
+      <TopRankingView
+        v-if="topReviewers.length"
+        title="👀 Top reviewers"
+        description="They review pull requests to keep PrestaShop's quality high."
+        count-label="Reviews"
+        :items="topReviewers"
+        :updated-year="updatedYear"
+      />
+      <TopRankingView
+        v-if="topIssues.length"
+        title="🐛 Top issue reporters"
+        description="They report issues that help us improve PrestaShop."
+        count-label="Issues"
+        :items="topIssues"
+        :updated-year="updatedYear"
+      />
+      <TopRankingView
+        v-if="topPullRequests.length"
+        title="🔀 Top PR authors"
+        description="They open pull requests to move PrestaShop forward."
+        count-label="Pull requests"
+        :items="topPullRequests"
+        :updated-year="updatedYear"
+      />
+      <TopRankingView
+        v-if="topSecurity.length"
+        title="🛡️ Top security contributors"
+        description="They are credited on published security advisories — reporting the vulnerability or shipping the fix."
+        count-label="Advisories"
+        :items="topSecurity"
+        :updated-year="updatedYear"
+        :extra-columns="[
+          { label: 'Research', value: 'research' },
+          { label: 'Fixes', value: 'remediation' },
+        ]"
+      />
+      <TopRankingView
+        v-if="topQa.length"
+        title="✔️ Top QA contributors"
+        description="They validate merged pull requests by setting the QA label — internal QA team and community QA reviewers."
+        count-label="QA"
+        :items="topQa"
+        :updated-year="updatedYear"
+        :extra-columns="[
+          { label: 'Internal', value: 'qa' },
+          { label: 'Community', value: 'qa_community' },
+        ]"
+      />
     </div>
   </section>
 </template>
