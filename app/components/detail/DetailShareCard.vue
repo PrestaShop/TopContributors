@@ -3,13 +3,25 @@ import { computed, ref } from 'vue'
 
 const props = defineProps<{ login: string }>()
 
+type RankingVariant = 'overall' | 'author' | 'reviewer' | 'qa' | 'issues'
+const VARIANTS: { value: RankingVariant, label: string }[] = [
+  { value: 'overall', label: 'Overall' },
+  { value: 'author', label: 'Top author' },
+  { value: 'reviewer', label: 'Top reviewer' },
+  { value: 'qa', label: 'Top QA' },
+  { value: 'issues', label: 'Top issues' },
+]
+const variant = ref<RankingVariant>('overall')
+
 // Absolute URL so the snippet works when pasted anywhere. Falls back to the
 // production origin during SSR (import.meta.client guard keeps window off the
 // server path).
 const origin = computed(() =>
   import.meta.client ? window.location.origin : 'https://contributors.prestashop-project.org',
 )
-const cardUrl = computed(() => `${origin.value}/card/${props.login}.svg`)
+// Omit the query param for the default variant so existing embeds stay bit-for-bit stable.
+const rankingQuery = computed(() => (variant.value === 'overall' ? '' : `?ranking=${variant.value}`))
+const cardUrl = computed(() => `${origin.value}/card/${props.login}.svg${rankingQuery.value}`)
 const markdown = computed(() => `[![PrestaShop Top Contributor](${cardUrl.value})](${origin.value}/contributor/${props.login})`)
 
 const copied = ref<'url' | 'md' | null>(null)
@@ -37,6 +49,24 @@ const copy = async (kind: 'url' | 'md', text: string) => {
     <p class="wof-detail-share__lede">
       Embed this card in your GitHub profile README or anywhere else.
     </p>
+
+    <div
+      class="wof-detail-share__variants"
+      role="tablist"
+      aria-label="Ranking variant"
+    >
+      <button
+        v-for="v in VARIANTS"
+        :key="v.value"
+        type="button"
+        role="tab"
+        :aria-selected="variant === v.value"
+        :class="['wof-detail-share__variant', { 'is-active': variant === v.value }]"
+        @click="variant = v.value"
+      >
+        {{ v.label }}
+      </button>
+    </div>
 
     <div class="wof-detail-share__preview">
       <img
@@ -101,6 +131,30 @@ const copy = async (kind: 'url' | 'md', text: string) => {
   margin: 0;
   color: #5e5e5e;
   font-size: 0.9rem;
+}
+.wof-detail-share__variants {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+.wof-detail-share__variant {
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.4rem 0.75rem;
+  border: 1px solid #dddddd;
+  border-radius: 999px;
+  background: #f7f7f7;
+  color: #1d1d1b;
+  cursor: pointer;
+}
+.wof-detail-share__variant:hover {
+  border-color: #7b4fac;
+  color: #7b4fac;
+}
+.wof-detail-share__variant.is-active {
+  background: #7b4fac;
+  border-color: #7b4fac;
+  color: #fff;
 }
 .wof-detail-share__preview {
   background: #f4f4f8;

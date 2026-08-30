@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import type { EntityDetailVM } from '@/composables/useEntityDetail'
 
-defineProps<{ vm: EntityDetailVM, yearsActive: number }>()
+defineProps<{ vm: EntityDetailVM, yearsActive: number, qaCount?: number }>()
 </script>
 
 <template>
@@ -45,6 +45,13 @@ defineProps<{ vm: EntityDetailVM, yearsActive: number }>()
     <div class="wof-detail-kpi">
       <strong>{{ vm.kpis.issues }}</strong>
       <span>Issues</span>
+    </div>
+    <div
+      v-if="qaCount !== undefined && qaCount > 0"
+      class="wof-detail-kpi"
+    >
+      <strong>{{ qaCount }}</strong>
+      <span>QA validations</span>
     </div>
     <div class="wof-detail-kpi">
       <strong>{{ yearsActive }}</strong>

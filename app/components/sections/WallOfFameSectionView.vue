@@ -12,6 +12,7 @@ const props = defineProps<{
   issues: RankingEntry[]
   pullRequests: RankingEntry[]
   security: RankingEntry[]
+  qa: RankingEntry[]
   updatedYear: number
 }>()
 
@@ -127,6 +128,31 @@ const rankingHeaders = (countLabel: string): PuikTableHeader[] => [
   { value: 'actions', size: 'sm', align: 'center', preventExpand: true, searchSubmit: true },
 ]
 
+const decoratedQa = computed(() => {
+  return props.qa
+    .map((it) => {
+      const c = it as unknown as { count: number, qa?: number, qa_community?: number }
+      return {
+        ...it,
+        count: c.count,
+        qa: c.qa ?? 0,
+        qa_community: c.qa_community ?? 0,
+      }
+    })
+    .sort((a, b) => b.count - a.count)
+    .map((it, i) => ({ ...it, rank: i + 1 }))
+})
+
+// QA TABLE CONFIG — QA total splits into internal QA and QA by Community
+const qaHeaders: PuikTableHeader[] = [
+  { text: 'Rank', value: 'rank', size: 'sm', align: 'center', searchable: true, searchType: 'range', sortable: true },
+  { text: 'Name', value: 'name', size: 'lg', align: 'left', searchable: true, sortable: true },
+  { text: 'QA', value: 'count', size: 'sm', align: 'center', searchable: true, searchType: 'range', sortable: true },
+  { text: 'Internal', value: 'qa', size: 'sm', align: 'center', searchable: true, searchType: 'range', sortable: true },
+  { text: 'Community', value: 'qa_community', size: 'sm', align: 'center', searchable: true, searchType: 'range', sortable: true },
+  { value: 'actions', size: 'sm', align: 'center', preventExpand: true, searchSubmit: true },
+]
+
 // SECURITY TABLE CONFIG — Advisories is the total (sorted), then split
 // between research credits (finder / reporter / analyst) and remediation
 // credits (developer / reviewer / verifier).
@@ -184,6 +210,12 @@ useContributorModalRouter(decoratedContributors)
         >
           Security
         </puik-tab-navigation-title>
+        <puik-tab-navigation-title
+          v-if="qa.length"
+          :position="7"
+        >
+          QA
+        </puik-tab-navigation-title>
       </puik-tab-navigation-group-titles>
       <puik-tab-navigation-group-panels>
         <puik-tab-navigation-panel :position="1">
@@ -228,6 +260,16 @@ useContributorModalRouter(decoratedContributors)
           <WallOfFameTable
             :items="decoratedSecurity"
             :headers="securityHeaders"
+            type="ranking"
+          />
+        </puik-tab-navigation-panel>
+        <puik-tab-navigation-panel
+          v-if="qa.length"
+          :position="7"
+        >
+          <WallOfFameTable
+            :items="decoratedQa"
+            :headers="qaHeaders"
             type="ranking"
           />
         </puik-tab-navigation-panel>

@@ -27,6 +27,7 @@ describe('TopSectionView', () => {
       topIssues: ranking('iss'),
       topPullRequests: ranking('pr'),
       topSecurity: ranking('sec'),
+      topQa: ranking('qa'),
       updatedYear: 2026,
     }))
     const text = component.text()
@@ -44,6 +45,7 @@ describe('TopSectionView', () => {
       topIssues: [],
       topPullRequests: [],
       topSecurity: [],
+      topQa: [],
       updatedYear: 2026,
     }))
     const text = component.text()
@@ -63,6 +65,7 @@ describe('TopSectionView', () => {
       topContributors: [], topCompanies: [],
       topReviewers: many('rev'), topIssues: many('iss'), topPullRequests: many('pr'),
       topSecurity: many('sec'),
+      topQa: many('qa'),
       updatedYear: 2026,
     }))
     // TopCard shows "<total> result(s)" from the items length — the full 60, not a capped subset
