@@ -92,6 +92,16 @@ jobs:
         working-directory: ./traces
         run: php bin/console traces:generate:topcompanies --ghtoken=${ENV_USER_PASS} --config="./config.dist.yml"
 
+      - name: Fetch QA label events 🔧
+        if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
+        working-directory: ./traces
+        run: php bin/console traces:fetch:qaevents --ghtoken=${ENV_USER_PASS}
+
+      - name: Generate top QA contributors 🔧
+        if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
+        working-directory: ./traces
+        run: php bin/console traces:generate:topqa --ghtoken=${ENV_USER_PASS} --config="./config.dist.yml"
+
       - name: Display Contributors without Companies 🔎
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         run: cat ./traces/gh_loginsWOCompany.json
@@ -104,6 +114,7 @@ jobs:
           mv ./traces/topcompanies.json ./dist
           mv ./traces/topcompanies_prs.json ./dist
           mv ./traces/newcontributors.json ./dist
+          mv ./traces/top_qa.json ./dist
 
       - name: Write CNAME file 🌐
         run: echo 'contributors.prestashop-project.org' > ./dist/CNAME
