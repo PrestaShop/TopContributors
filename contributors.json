@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11190,
+        "contributions": 11191,
         "repositories": {
             "PrestaShop": 4645,
             "PrestaShop-modules": 31,
@@ -94,7 +94,7 @@
             "ps_feeder": 1,
             "traces": 233,
             "core-weekly-generator": 6,
-            "TopContributors": 146,
+            "TopContributors": 147,
             "TranslationFiles": 3,
             "ps_livetranslation": 13,
             "ps_googleanalytics": 20,
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1468,
+                "total": 1469,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -283,7 +283,7 @@
                     "presthubot": 538,
                     "prestonbot": 10,
                     "QANightlyResults": 417,
-                    "TopContributors": 146,
+                    "TopContributors": 147,
                     "TopTranslators": 1,
                     "traces": 233,
                     "ps-project-metrics": 4
@@ -5615,7 +5615,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 783,
+        "contributions": 787,
         "repositories": {
             "PrestaShop": 443,
             "PrestaShop-modules": 5,
@@ -5673,7 +5673,7 @@
             "ps_crossselling": 1,
             "ps_dataprivacy": 1,
             "traces": 54,
-            "TopContributors": 48,
+            "TopContributors": 52,
             "psssst": 1,
             "ps_themecusto": 1,
             "psgdpr": 4,
@@ -5782,13 +5782,13 @@
                 }
             },
             "tools": {
-                "total": 109,
+                "total": 113,
                 "repositories": {
                     "docker": 1,
                     "PrestaShop-webservice-lib": 1,
                     "presthubot": 1,
                     "ps-monitor-module-releases": 1,
-                    "TopContributors": 48,
+                    "TopContributors": 52,
                     "traces": 54,
                     "kanbanbot": 1,
                     "psssst": 1,
@@ -51638,5 +51638,5 @@
             }
         }
     },
-    "updatedAt": "2026-08-30 06:14:31"
+    "updatedAt": "2026-08-30 07:59:41"
 }

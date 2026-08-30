@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11190,
+        "contributions": 11191,
         "repositories": {
             "PrestaShop": 1212,
             "PrestaShop-modules": 2,
@@ -88,7 +88,7 @@
             "ps_viewedproduct": 3,
             "traces": 48,
             "core-weekly-generator": 1,
-            "TopContributors": 54,
+            "TopContributors": 55,
             "TranslationFiles": 3,
             "ps_livetranslation": 4,
             "ps_googleanalytics": 8,
@@ -688,9 +688,9 @@
                 }
             },
             "tools": {
-                "total": 233,
+                "total": 234,
                 "byYear": {
-                    "2026": 23,
+                    "2026": 24,
                     "2025": 77,
                     "2024": 58,
                     "2023": 24,
@@ -707,7 +707,7 @@
                     "TopTranslators": 1,
                     "traces": 48,
                     "core-weekly-generator": 1,
-                    "TopContributors": 54,
+                    "TopContributors": 55,
                     "issuebot": 2,
                     "nightly-board": 12,
                     "QANightlyResults": 52,
@@ -749,7 +749,7 @@
                         "2021": 1
                     },
                     "TopContributors": {
-                        "2026": 13,
+                        "2026": 14,
                         "2025": 25,
                         "2023": 2,
                         "2022": 7,
@@ -850,9 +850,9 @@
                 }
             }
         },
-        "mergedPullRequests": 2503,
+        "mergedPullRequests": 2504,
         "mergedPullRequestsByYear": {
-            "2026": 314,
+            "2026": 315,
             "2025": 445,
             "2024": 479,
             "2023": 348,
@@ -1217,7 +1217,7 @@
                 "2021": 1
             },
             "TopContributors": {
-                "2026": 13,
+                "2026": 14,
                 "2025": 25,
                 "2023": 2,
                 "2022": 7,
@@ -1356,9 +1356,9 @@
                 "2024": 160
             }
         },
-        "reviews": 7285,
+        "reviews": 7286,
         "reviewsByYear": {
-            "2026": 774,
+            "2026": 775,
             "2025": 801,
             "2024": 703,
             "2023": 509,
@@ -1378,9 +1378,9 @@
             "2020": 24,
             "2019": 4
         },
-        "pullRequestsOpened": 2593,
+        "pullRequestsOpened": 2594,
         "pullRequestsOpenedByYear": {
-            "2026": 317,
+            "2026": 318,
             "2025": 465,
             "2024": 492,
             "2023": 342,
@@ -9623,7 +9623,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 783,
+        "contributions": 787,
         "repositories": {
             "PrestaShop": 235,
             "PrestaShop-modules": 4,
@@ -9679,7 +9679,7 @@
             "ps_crossselling": 1,
             "ps_dataprivacy": 1,
             "traces": 26,
-            "TopContributors": 24,
+            "TopContributors": 25,
             "psssst": 1,
             "ps_themecusto": 1,
             "psgdpr": 2,
@@ -10063,9 +10063,9 @@
                 }
             },
             "tools": {
-                "total": 57,
+                "total": 58,
                 "byYear": {
-                    "2026": 32,
+                    "2026": 33,
                     "2025": 16,
                     "2024": 1,
                     "2022": 8
@@ -10074,7 +10074,7 @@
                     "PrestaShop-webservice-lib": 1,
                     "docker": 1,
                     "traces": 26,
-                    "TopContributors": 24,
+                    "TopContributors": 25,
                     "psssst": 1,
                     "presthubot": 1,
                     "ps-monitor-module-releases": 1,
@@ -10094,7 +10094,7 @@
                         "2022": 4
                     },
                     "TopContributors": {
-                        "2026": 19,
+                        "2026": 20,
                         "2025": 4,
                         "2022": 1
                     },
@@ -10160,9 +10160,9 @@
                 "repositoriesByYear": []
             }
         },
-        "mergedPullRequests": 488,
+        "mergedPullRequests": 489,
         "mergedPullRequestsByYear": {
-            "2026": 58,
+            "2026": 59,
             "2025": 56,
             "2024": 28,
             "2023": 17,
@@ -10385,7 +10385,7 @@
                 "2022": 4
             },
             "TopContributors": {
-                "2026": 19,
+                "2026": 20,
                 "2025": 4,
                 "2022": 1
             },
@@ -102864,5 +102864,5 @@
             "2026": 1
         }
     },
-    "updatedAt": "2026-08-30T06:33:04+00:00"
+    "updatedAt": "2026-08-30T08:18:40+00:00"
 }
