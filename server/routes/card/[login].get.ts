@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from 'node:fs'
 import { resolve } from 'node:path'
-import { defineEventHandler, getRouterParam, setHeader, createError } from 'h3'
+import { defineEventHandler, getRouterParam, getQuery, setHeader, createError } from 'h3'
 import type { Contributor } from '../../../app/types'
 
 const escapeXml = (s: string) =>
@@ -21,6 +21,19 @@ interface Cache {
   reviewsByLogin: Map<string, number>
   issuesByLogin: Map<string, number>
   openedByLogin: Map<string, number>
+  authorRankByLogin: Map<string, number>
+  reviewerRankByLogin: Map<string, number>
+  issuesRankByLogin: Map<string, number>
+  qaRankByLogin: Map<string, number>
+  qaByLogin: Map<string, number>
+}
+
+type RankingVariant = 'overall' | 'author' | 'reviewer' | 'qa' | 'issues'
+const RANKING_VARIANTS: readonly RankingVariant[] = ['overall', 'author', 'reviewer', 'qa', 'issues']
+const parseVariant = (raw: unknown): RankingVariant => {
+  if (typeof raw !== 'string') return 'overall'
+  const v = raw.toLowerCase()
+  return (RANKING_VARIANTS as readonly string[]).includes(v) ? (v as RankingVariant) : 'overall'
 }
 
 const readRanking = (file: string) => {
@@ -59,6 +72,7 @@ const load = (): Cache => {
   const pulls = readRanking('top_pullrequests.json')
   const reviewers = readRanking('top_reviewers.json')
   const issues = readRanking('top_issues.json')
+  const qa = readRanking('top_qa.json')
 
   // Top Contributors rank is derived from the natural order of
   // contributors_prs.json (already sorted by aggregate contributions in
@@ -78,6 +92,11 @@ const load = (): Cache => {
     openedByLogin: indexBy(pulls, 'count'),
     reviewsByLogin: indexBy(reviewers, 'count'),
     issuesByLogin: indexBy(issues, 'count'),
+    authorRankByLogin: indexBy(pulls, 'rank'),
+    reviewerRankByLogin: indexBy(reviewers, 'rank'),
+    issuesRankByLogin: indexBy(issues, 'rank'),
+    qaRankByLogin: indexBy(qa, 'rank'),
+    qaByLogin: indexBy(qa, 'count'),
   }
   return cache
 }
@@ -129,9 +148,9 @@ const medalColour = (rank?: number) => {
   return '#decde7'
 }
 
-const buildStatRow = (label: string, value: number | string, y: number, W: number) => `  <text x="24" y="${y}" class="row-l">${escapeXml(label)}</text>
+const buildStatRow = (label: string, value: number | string, y: number, W: number, highlight = false) => `  <text x="24" y="${y}" class="${highlight ? 'row-l row-l--hi' : 'row-l'}">${escapeXml(label)}</text>
   <line x1="140" y1="${y - 4}" x2="${W - 40}" y2="${y - 4}" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
-  <text x="${W - 24}" y="${y}" class="row-v" text-anchor="end">${value}</text>`
+  <text x="${W - 24}" y="${y}" class="${highlight ? 'row-v row-v--hi' : 'row-v'}" text-anchor="end">${value}</text>`
 
 const buildBreakdownBar = (
   categories: Contributor['categories'] | undefined,
@@ -164,7 +183,10 @@ export default defineEventHandler(async (event) => {
   const raw = getRouterParam(event, 'login') ?? ''
   const login = decodeURIComponent(raw).replace(/\.svg$/i, '')
   if (!login) throw createError({ statusCode: 400, statusMessage: 'Missing login' })
-  const { data, rankByLogin, reviewsByLogin, issuesByLogin, openedByLogin } = load()
+  const variant = parseVariant(getQuery(event).ranking)
+  const cache = load()
+  const { data, rankByLogin, reviewsByLogin, issuesByLogin, openedByLogin,
+    authorRankByLogin, reviewerRankByLogin, issuesRankByLogin, qaRankByLogin, qaByLogin } = cache
   let c = data[login]
   if (!c) {
     const lower = login.toLowerCase()
@@ -180,15 +202,34 @@ export default defineEventHandler(async (event) => {
   const name = escapeXml(c.name || c.login)
   const login2 = escapeXml(c.login)
   const lk = c.login.toLowerCase()
-  const rank = c.rank ?? rankByLogin.get(lk)
-  const rankTxt = rank ? `#${rank}` : '—'
-  const medal = medalColour(rank)
   const merged = c.mergedPullRequests ?? 0
   const opened = c.pullRequestsOpened ?? openedByLogin.get(lk) ?? 0
   const reviews = c.reviews ?? reviewsByLogin.get(lk) ?? 0
   const issues = c.issuesOpened ?? issuesByLogin.get(lk) ?? 0
+  const qaCount = qaByLogin.get(lk) ?? 0
   const repoCount = c.repositories ? Object.keys(c.repositories).length : 0
   const avatarDataUri = c.avatar_url ? await fetchAvatar(c.avatar_url) : null
+
+  // Per-variant rank source, badge label, and stat-row ordering. The first row
+  // of each set is the "primary" metric and gets highlighted.
+  type RowKey = 'merged' | 'opened' | 'reviews' | 'issues' | 'qa'
+  const ROW_DEFS: Record<RowKey, { label: string, value: number }> = {
+    merged: { label: 'PRs merged', value: merged },
+    opened: { label: 'PRs opened', value: opened },
+    reviews: { label: 'Reviews', value: reviews },
+    issues: { label: 'Issues opened', value: issues },
+    qa: { label: 'QA reviews', value: qaCount },
+  }
+  const variantConf: Record<RankingVariant, { rank: number | undefined, label: string, rows: RowKey[] }> = {
+    overall: { rank: c.rank ?? rankByLogin.get(lk), label: 'RANK', rows: ['merged', 'opened', 'reviews', 'issues'] },
+    author: { rank: authorRankByLogin.get(lk), label: 'AUTHOR', rows: ['merged', 'opened', 'reviews', 'issues'] },
+    reviewer: { rank: reviewerRankByLogin.get(lk), label: 'REVIEWER', rows: ['reviews', 'merged', 'opened', 'issues'] },
+    qa: { rank: qaRankByLogin.get(lk), label: 'QA', rows: ['qa', 'reviews', 'merged', 'opened'] },
+    issues: { rank: issuesRankByLogin.get(lk), label: 'ISSUES', rows: ['issues', 'merged', 'opened', 'reviews'] },
+  }
+  const { rank, label: rankLabel, rows } = variantConf[variant]
+  const rankTxt = rank ? `#${rank}` : '—'
+  const medal = medalColour(rank)
 
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="PrestaShop Top Contributor: ${name}">
   <title>PrestaShop Top Contributor — ${name}</title>
@@ -199,7 +240,9 @@ export default defineEventHandler(async (event) => {
     .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
     .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
     .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
     .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
     .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
     .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
   </style>
@@ -219,14 +262,14 @@ export default defineEventHandler(async (event) => {
 
   <g transform="translate(${W - 24 - 108}, 22)">
     <rect width="108" height="56" rx="6" fill="${medal}"/>
-    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">RANK</text>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">${escapeXml(rankLabel)}</text>
     <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">${rankTxt}</text>
   </g>
 
-${buildStatRow('PRs merged', merged, 118, W)}
-${buildStatRow('PRs opened', opened, 140, W)}
-${buildStatRow('Reviews', reviews, 162, W)}
-${buildStatRow('Issues opened', issues, 184, W)}
+${rows.map((key, i) => {
+  const def = ROW_DEFS[key]
+  return buildStatRow(def.label, def.value, 118 + i * 22, W, i === 0 && variant !== 'overall')
+}).join('\n')}
 
 ${buildBreakdownBar(c.categories, 24, 208, W - 48, 6)}
 

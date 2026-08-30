@@ -8,6 +8,7 @@ defineProps<{
   topIssues: RankingEntry[]
   topPullRequests: RankingEntry[]
   topSecurity: RankingEntry[]
+  topQa: RankingEntry[]
   updatedYear: number
 }>()
 </script>
@@ -60,6 +61,18 @@ defineProps<{
         :extra-columns="[
           { label: 'Research', value: 'research' },
           { label: 'Fixes', value: 'remediation' },
+        ]"
+      />
+      <TopRankingView
+        v-if="topQa.length"
+        title="✔️ Top QA contributors"
+        description="They validate merged pull requests by setting the QA label — internal QA team and community QA reviewers."
+        count-label="QA"
+        :items="topQa"
+        :updated-year="updatedYear"
+        :extra-columns="[
+          { label: 'Internal', value: 'qa' },
+          { label: 'Community', value: 'qa_community' },
         ]"
       />
     </div>
