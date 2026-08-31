@@ -114,6 +114,16 @@ jobs:
         working-directory: ./traces
         run: php bin/console traces:generate:topsecurity --ghtoken=${ENV_USER_PASS} --config="./config.dist.yml"
 
+      - name: Fetch QA label events 🔧
+        if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
+        working-directory: ./traces
+        run: php bin/console traces:fetch:qaevents --ghtoken=${ENV_USER_PASS}
+
+      - name: Generate top QA contributors 🔧
+        if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
+        working-directory: ./traces
+        run: php bin/console traces:generate:topqa --ghtoken=${ENV_USER_PASS} --config="./config.dist.yml"
+
       - name: Display Contributors without Companies 🔎
         if: ${{ github.event_name == 'release' || github.event_name == 'schedule' }}
         run: cat ./traces/gh_loginsWOCompany.json
@@ -131,6 +141,7 @@ jobs:
           mv ./traces/top_issues.json ./public/
           mv ./traces/top_pullrequests.json ./public/
           mv ./traces/top_security.json ./public/
+          mv ./traces/top_qa.json ./public/
 
       - name: Build Contributors Site 👷
         run: pnpm run build && pnpm run generate
