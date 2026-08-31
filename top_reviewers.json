@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-08-30T08:38:16+00:00",
+    "updatedAt": "2026-08-31T10:41:05+00:00",
     "items": [
         {
             "rank": 1,
@@ -7,9 +7,9 @@
             "name": "Progi1984",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1533248?v=4",
             "html_url": "https:\/\/github.com\/Progi1984",
-            "count": 7286,
+            "count": 7288,
             "countByYear": {
-                "2026": 775,
+                "2026": 777,
                 "2025": 801,
                 "2024": 703,
                 "2023": 509,
@@ -80,9 +80,9 @@
             "name": "Jonathan Lelievre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13801017?v=4",
             "html_url": "https:\/\/github.com\/jolelievre",
-            "count": 3282,
+            "count": 3308,
             "countByYear": {
-                "2026": 547,
+                "2026": 573,
                 "2025": 326,
                 "2024": 363,
                 "2023": 459,
@@ -132,9 +132,9 @@
             "name": "Nicolas L\u0153uillet",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/121870?v=4",
             "html_url": "https:\/\/github.com\/nicosomb",
-            "count": 2285,
+            "count": 2289,
             "countByYear": {
-                "2026": 381,
+                "2026": 385,
                 "2025": 581,
                 "2024": 482,
                 "2023": 653,
@@ -399,9 +399,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 501,
+            "count": 502,
             "countByYear": {
-                "2026": 207,
+                "2026": 208,
                 "2025": 293,
                 "2023": 1
             }
@@ -509,9 +509,9 @@
             "name": "Matthias Goudjil",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
             "html_url": "https:\/\/github.com\/mattgoud",
-            "count": 354,
+            "count": 357,
             "countByYear": {
-                "2026": 285,
+                "2026": 288,
                 "2025": 60,
                 "2024": 9
             }
@@ -1513,6 +1513,18 @@
         },
         {
             "rank": 111,
+            "login": "copilot-pull-request-reviewer",
+            "name": "copilot-pull-request-reviewer",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/in\/946600?v=4",
+            "html_url": "https:\/\/github.com\/apps\/copilot-pull-request-reviewer",
+            "count": 9,
+            "countByYear": {
+                "2026": 6,
+                "2025": 3
+            }
+        },
+        {
+            "rank": 112,
             "login": "djodjo3",
             "name": "djodjo3",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16487473?v=4",
@@ -1527,7 +1539,7 @@
             }
         },
         {
-            "rank": 112,
+            "rank": 113,
             "login": "hadjedjvincent",
             "name": "Vincent HADJEDJ",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3198580?v=4",
@@ -1539,7 +1551,7 @@
             }
         },
         {
-            "rank": 113,
+            "rank": 114,
             "login": "julienbourdeau",
             "name": "Julien Bourdeau",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1525636?v=4",
@@ -1551,7 +1563,7 @@
             }
         },
         {
-            "rank": 114,
+            "rank": 115,
             "login": "micka-fdz",
             "name": "Micka\u00ebl Fernandez",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/50865159?v=4",
@@ -1565,7 +1577,7 @@
             }
         },
         {
-            "rank": 115,
+            "rank": 116,
             "login": "NicolasJOUGNEAU",
             "name": "NicolasJOUGNEAU",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/100757215?u=277e00d1f34f8024c447516d05b4827b0905583a&v=4",
@@ -1577,7 +1589,7 @@
             }
         },
         {
-            "rank": 116,
+            "rank": 117,
             "login": "Seb33300",
             "name": "S\u00e9bastien Alfaiate",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/915273?v=4",
@@ -1588,18 +1600,6 @@
                 "2023": 1,
                 "2022": 3,
                 "2020": 2
-            }
-        },
-        {
-            "rank": 117,
-            "login": "copilot-pull-request-reviewer",
-            "name": "copilot-pull-request-reviewer",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/in\/946600?v=4",
-            "html_url": "https:\/\/github.com\/apps\/copilot-pull-request-reviewer",
-            "count": 8,
-            "countByYear": {
-                "2026": 5,
-                "2025": 3
             }
         },
         {
