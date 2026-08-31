@@ -19,9 +19,16 @@ const variant = ref<RankingVariant>('overall')
 const origin = computed(() =>
   import.meta.client ? window.location.origin : 'https://contributors.prestashop-project.org',
 )
-// Omit the query param for the default variant so existing embeds stay bit-for-bit stable.
-const rankingQuery = computed(() => (variant.value === 'overall' ? '' : `?ranking=${variant.value}`))
-const cardUrl = computed(() => `${origin.value}/card/${props.login}.svg${rankingQuery.value}`)
+// Path-based URL per variant — GitHub Pages ignores query strings, so a
+// prerendered /card/${login}.svg?ranking=reviewer always resolved to the
+// overall card. The nested /card/${login}/${variant}.svg is prerendered
+// separately in nuxt.config so each variant gets its own file. The flat
+// overall URL is kept for backwards compatibility with existing embeds.
+const cardUrl = computed(() =>
+  variant.value === 'overall'
+    ? `${origin.value}/card/${props.login}.svg`
+    : `${origin.value}/card/${props.login}/${variant.value}.svg`,
+)
 const markdown = computed(() => `[![PrestaShop Top Contributor](${cardUrl.value})](${origin.value}/contributor/${props.login})`)
 
 const copied = ref<'url' | 'md' | null>(null)
