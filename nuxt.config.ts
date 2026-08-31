@@ -61,10 +61,16 @@ export default defineNuxtConfig({
       if (existsSync(contribPath)) {
         try {
           const data = JSON.parse(readFileSync(contribPath, 'utf-8'))
+          // Every non-overall variant needs its own prerendered file — the
+          // GitHub Pages deploy has no runtime handler, so query-string based
+          // URLs (?ranking=…) all resolve to the single overall card.
+          const CARD_VARIANTS = ['author', 'reviewer', 'qa', 'issues']
           for (const login of Object.keys(data)) {
             if (login === 'updatedAt') continue
-            routes.push(`/contributor/${encodeURIComponent(login)}`)
-            routes.push(`/card/${encodeURIComponent(login)}.svg`)
+            const enc = encodeURIComponent(login)
+            routes.push(`/contributor/${enc}`)
+            routes.push(`/card/${enc}.svg`)
+            for (const v of CARD_VARIANTS) routes.push(`/card/${enc}/${v}.svg`)
           }
         }
         catch (err) {
