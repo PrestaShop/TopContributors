@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-09-01T07:00:57+00:00",
+    "updatedAt": "2026-09-01T13:21:50+00:00",
     "items": [
         {
             "rank": 1,
@@ -80,9 +80,9 @@
             "name": "Jonathan Lelievre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13801017?v=4",
             "html_url": "https:\/\/github.com\/jolelievre",
-            "count": 3311,
+            "count": 3314,
             "countByYear": {
-                "2026": 576,
+                "2026": 579,
                 "2025": 326,
                 "2024": 363,
                 "2023": 459,
@@ -132,9 +132,9 @@
             "name": "Nicolas L\u0153uillet",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/121870?v=4",
             "html_url": "https:\/\/github.com\/nicosomb",
-            "count": 2290,
+            "count": 2293,
             "countByYear": {
-                "2026": 386,
+                "2026": 389,
                 "2025": 581,
                 "2024": 482,
                 "2023": 653,
@@ -147,9 +147,9 @@
             "name": "Thomas N",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6768917?v=4",
             "html_url": "https:\/\/github.com\/Quetzacoalt91",
-            "count": 2223,
+            "count": 2224,
             "countByYear": {
-                "2026": 272,
+                "2026": 273,
                 "2025": 399,
                 "2024": 263,
                 "2023": 1,
@@ -494,9 +494,9 @@
             "name": "Matthias Goudjil",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
             "html_url": "https:\/\/github.com\/mattgoud",
-            "count": 358,
+            "count": 359,
             "countByYear": {
-                "2026": 289,
+                "2026": 290,
                 "2025": 60,
                 "2024": 9
             }
@@ -625,9 +625,9 @@
             "name": "Tom Zajac",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5007456?v=4",
             "html_url": "https:\/\/github.com\/SharakPL",
-            "count": 211,
+            "count": 212,
             "countByYear": {
-                "2026": 16,
+                "2026": 17,
                 "2025": 16,
                 "2024": 33,
                 "2023": 106,

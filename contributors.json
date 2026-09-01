@@ -322,9 +322,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7941,
+        "contributions": 7945,
         "repositories": {
-            "PrestaShop": 6221,
+            "PrestaShop": 6225,
             "dashactivity": 4,
             "dashgoals": 4,
             "dashproducts": 7,
@@ -426,9 +426,9 @@
         },
         "categories": {
             "core": {
-                "total": 6317,
+                "total": 6321,
                 "repositories": {
-                    "PrestaShop": 6221,
+                    "PrestaShop": 6225,
                     "prestashop-ui-kit": 16,
                     "TranslationToolsBundle": 18,
                     "LocalizationFiles": 3,
@@ -18937,10 +18937,10 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/397671?v=4",
         "html_url": "https:\/\/github.com\/manfield",
         "name": "Manfredi Petruso",
-        "company": "M-Code Artisan",
-        "blog": "",
+        "company": "MCA",
+        "blog": "https:\/\/mca-presta.com",
         "location": "Spain",
-        "bio": null,
+        "bio": "Free riding developer and software designer",
         "email_domain": "",
         "contributions": 22,
         "repositories": {
@@ -51686,5 +51686,5 @@
             }
         }
     },
-    "updatedAt": "2026-09-01 06:16:05"
+    "updatedAt": "2026-09-01 12:35:20"
 }

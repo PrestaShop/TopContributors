@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-09-01T07:00:57+00:00",
+    "updatedAt": "2026-09-01T13:21:50+00:00",
     "items": [
         {
             "rank": 1,
@@ -7,9 +7,9 @@
             "name": "Progi1984",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1533248?v=4",
             "html_url": "https:\/\/github.com\/Progi1984",
-            "count": 2595,
+            "count": 2596,
             "countByYear": {
-                "2026": 319,
+                "2026": 320,
                 "2025": 465,
                 "2024": 492,
                 "2023": 342,
@@ -44,9 +44,9 @@
             "name": "Jonathan Lelievre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13801017?v=4",
             "html_url": "https:\/\/github.com\/jolelievre",
-            "count": 1437,
+            "count": 1439,
             "countByYear": {
-                "2026": 240,
+                "2026": 242,
                 "2025": 228,
                 "2024": 258,
                 "2023": 136,
@@ -10008,7 +10008,7 @@
             "rank": 790,
             "login": "NicolasMugnier",
             "name": "Nicolas Mugnier",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6680190?u=b36d4c657ca42c0ac117b71929352442f81dd507&v=4",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6680190?u=714e99dd4a5a5fd72cebd566ef02af6fcb0af5a3&v=4",
             "html_url": "https:\/\/github.com\/NicolasMugnier",
             "count": 2,
             "countByYear": {
