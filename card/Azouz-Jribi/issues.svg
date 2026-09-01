@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Azouz-Jribi">
+  <title>PrestaShop Top Contributor — Azouz-Jribi</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">Azouz-Jribi</text>
+  <text x="90" y="62" class="sub">Azouz-Jribi</text>
+  <text x="90" y="78" class="sub">3 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">ISSUES</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">—</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">Issues opened</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">0</text>
+  <text x="24" y="140" class="row-l">PRs merged</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">24</text>
+  <text x="24" y="162" class="row-l">PRs opened</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">78</text>
+  <text x="24" y="184" class="row-l">Reviews</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">1</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="469" height="6" fill="#7b4fac"/><rect x="493" y="208" width="43" height="6" fill="#59af70"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#7b4fac">■</tspan> core  <tspan fill="#59af70">■</tspan> modules</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/Azouz-Jribi</text>
+</svg>

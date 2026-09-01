@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Adrien Griveau">
+  <title>PrestaShop Top Contributor — Adrien Griveau</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">Adrien-Griveau</text>
+  <text x="90" y="62" class="sub">Adrien Griveau</text>
+  <text x="90" y="78" class="sub">1 repo</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">AUTHOR</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#1106</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">PRs merged</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">1</text>
+  <text x="24" y="140" class="row-l">PRs opened</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">1</text>
+  <text x="24" y="162" class="row-l">Reviews</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">0</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">0</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="512" height="6" fill="#f8e08e"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#f8e08e">■</tspan> blog</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/Adrien-Griveau</text>
+</svg>

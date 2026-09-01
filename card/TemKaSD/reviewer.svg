@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: TemKaSD">
+  <title>PrestaShop Top Contributor — TemKaSD</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">TemKaSD</text>
+  <text x="90" y="62" class="sub">TemKaSD</text>
+  <text x="90" y="78" class="sub">1 repo</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">REVIEWER</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">—</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">Reviews</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">0</text>
+  <text x="24" y="140" class="row-l">PRs merged</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">1</text>
+  <text x="24" y="162" class="row-l">PRs opened</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">6</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">22</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="512" height="6" fill="#59af70"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#59af70">■</tspan> modules</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/TemKaSD</text>
+</svg>

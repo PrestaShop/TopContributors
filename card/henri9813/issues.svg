@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Henri Devigne">
+  <title>PrestaShop Top Contributor — Henri Devigne</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">henri9813</text>
+  <text x="90" y="62" class="sub">Henri Devigne</text>
+  <text x="90" y="78" class="sub">2 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">ISSUES</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#122</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">Issues opened</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">20</text>
+  <text x="24" y="140" class="row-l">PRs merged</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">2</text>
+  <text x="24" y="162" class="row-l">PRs opened</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">4</text>
+  <text x="24" y="184" class="row-l">Reviews</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">0</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="256" height="6" fill="#7b4fac"/><rect x="280" y="208" width="256" height="6" fill="#59af70"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#7b4fac">■</tspan> core  <tspan fill="#59af70">■</tspan> modules</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/henri9813</text>
+</svg>

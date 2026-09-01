@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Eolia">
+  <title>PrestaShop Top Contributor — Eolia</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">Eolia</text>
+  <text x="90" y="62" class="sub">Eolia</text>
+  <text x="90" y="78" class="sub">1 repo</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">QA</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">—</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">QA reviews</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">0</text>
+  <text x="24" y="140" class="row-l">Reviews</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">10</text>
+  <text x="24" y="162" class="row-l">PRs merged</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">8</text>
+  <text x="24" y="184" class="row-l">PRs opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">15</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="512" height="6" fill="#7b4fac"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#7b4fac">■</tspan> core</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/Eolia</text>
+</svg>

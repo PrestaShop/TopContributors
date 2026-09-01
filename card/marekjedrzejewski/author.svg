@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: marekjedrzejewski">
+  <title>PrestaShop Top Contributor — marekjedrzejewski</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/png;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">marekjedrzejewski</text>
+  <text x="90" y="62" class="sub">marekjedrzejewski</text>
+  <text x="90" y="78" class="sub">2 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">AUTHOR</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#690</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">PRs merged</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">2</text>
+  <text x="24" y="140" class="row-l">PRs opened</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">3</text>
+  <text x="24" y="162" class="row-l">Reviews</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">0</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">3</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="256" height="6" fill="#7b4fac"/><rect x="280" y="208" width="256" height="6" fill="#5c92aa"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#7b4fac">■</tspan> core  <tspan fill="#5c92aa">■</tspan> documentation</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/marekjedrzejewski</text>
+</svg>

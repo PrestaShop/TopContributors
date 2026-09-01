@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Krystian Podemski">
+  <title>PrestaShop Top Contributor — Krystian Podemski</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">kpodemski</text>
+  <text x="90" y="62" class="sub">Krystian Podemski</text>
+  <text x="90" y="78" class="sub">52 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">QA</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#9</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">QA reviews</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">89</text>
+  <text x="24" y="140" class="row-l">Reviews</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">3609</text>
+  <text x="24" y="162" class="row-l">PRs merged</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">596</text>
+  <text x="24" y="184" class="row-l">PRs opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">698</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="158" height="6" fill="#f8e08e"/><rect x="182" y="208" width="154" height="6" fill="#7b4fac"/><rect x="336" y="208" width="101" height="6" fill="#5c92aa"/><rect x="437" y="208" width="65" height="6" fill="#59af70"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#f8e08e">■</tspan> blog  <tspan fill="#7b4fac">■</tspan> core  <tspan fill="#5c92aa">■</tspan> documentation  <tspan fill="#59af70">■</tspan> modules</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/kpodemski</text>
+</svg>

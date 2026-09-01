@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Fabien Papet">
+  <title>PrestaShop Top Contributor — Fabien Papet</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">FabienPapet</text>
+  <text x="90" y="62" class="sub">Fabien Papet</text>
+  <text x="90" y="78" class="sub">11 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">AUTHOR</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#53</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">PRs merged</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">103</text>
+  <text x="24" y="140" class="row-l">PRs opened</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">144</text>
+  <text x="24" y="162" class="row-l">Reviews</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">563</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">8</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="447" height="6" fill="#7b4fac"/><rect x="471" y="208" width="35" height="6" fill="#59af70"/><rect x="506" y="208" width="20" height="6" fill="#a4dbe8"/><rect x="526" y="208" width="10" height="6" fill="#5c92aa"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#7b4fac">■</tspan> core  <tspan fill="#59af70">■</tspan> modules  <tspan fill="#a4dbe8">■</tspan> tools  <tspan fill="#5c92aa">■</tspan> documentation</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/FabienPapet</text>
+</svg>

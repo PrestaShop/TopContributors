@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: RaimondasSapola">
+  <title>PrestaShop Top Contributor — RaimondasSapola</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">RaimondasSapola</text>
+  <text x="90" y="62" class="sub">RaimondasSapola</text>
+  <text x="90" y="78" class="sub">1 repo</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">REVIEWER</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#242</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">Reviews</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">1</text>
+  <text x="24" y="140" class="row-l">PRs merged</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">6</text>
+  <text x="24" y="162" class="row-l">PRs opened</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">12</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">1</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="512" height="6" fill="#7b4fac"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#7b4fac">■</tspan> core</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/RaimondasSapola</text>
+</svg>

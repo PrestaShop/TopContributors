@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Nicolas Martin">
+  <title>PrestaShop Top Contributor — Nicolas Martin</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/png;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">nihco2</text>
+  <text x="90" y="62" class="sub">Nicolas Martin</text>
+  <text x="90" y="78" class="sub">4 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">REVIEWER</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#340</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">Reviews</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">1</text>
+  <text x="24" y="140" class="row-l">PRs merged</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">133</text>
+  <text x="24" y="162" class="row-l">PRs opened</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">143</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">0</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="497" height="6" fill="#7b4fac"/><rect x="521" y="208" width="8" height="6" fill="#ffb000"/><rect x="529" y="208" width="8" height="6" fill="#59af70"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#7b4fac">■</tspan> core  <tspan fill="#ffb000">■</tspan> themes  <tspan fill="#59af70">■</tspan> modules</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/nihco2</text>
+</svg>

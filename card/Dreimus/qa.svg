@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Paul Coudeville">
+  <title>PrestaShop Top Contributor — Paul Coudeville</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">Dreimus</text>
+  <text x="90" y="62" class="sub">Paul Coudeville</text>
+  <text x="90" y="78" class="sub">3 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">QA</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">—</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">QA reviews</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">0</text>
+  <text x="24" y="140" class="row-l">Reviews</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">2</text>
+  <text x="24" y="162" class="row-l">PRs merged</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">5</text>
+  <text x="24" y="184" class="row-l">PRs opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">8</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="307" height="6" fill="#7b4fac"/><rect x="331" y="208" width="102" height="6" fill="#5c92aa"/><rect x="433" y="208" width="102" height="6" fill="#59af70"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#7b4fac">■</tspan> core  <tspan fill="#5c92aa">■</tspan> documentation  <tspan fill="#59af70">■</tspan> modules</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/Dreimus</text>
+</svg>

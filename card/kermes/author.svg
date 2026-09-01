@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: kermes">
+  <title>PrestaShop Top Contributor — kermes</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">kermes</text>
+  <text x="90" y="62" class="sub">kermes</text>
+  <text x="90" y="78" class="sub">2 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">AUTHOR</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#192</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">PRs merged</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">6</text>
+  <text x="24" y="140" class="row-l">PRs opened</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">19</text>
+  <text x="24" y="162" class="row-l">Reviews</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">0</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">1</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="427" height="6" fill="#7b4fac"/><rect x="451" y="208" width="85" height="6" fill="#59af70"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#7b4fac">■</tspan> core  <tspan fill="#59af70">■</tspan> modules</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/kermes</text>
+</svg>

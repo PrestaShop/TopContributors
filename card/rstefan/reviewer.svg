@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Richard Stefan">
+  <title>PrestaShop Top Contributor — Richard Stefan</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">rstefan</text>
+  <text x="90" y="62" class="sub">Richard Stefan</text>
+  <text x="90" y="78" class="sub">1 repo</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">REVIEWER</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">—</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">Reviews</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">0</text>
+  <text x="24" y="140" class="row-l">PRs merged</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">1</text>
+  <text x="24" y="162" class="row-l">PRs opened</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">1</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">0</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="512" height="6" fill="#5c92aa"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#5c92aa">■</tspan> documentation</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/rstefan</text>
+</svg>

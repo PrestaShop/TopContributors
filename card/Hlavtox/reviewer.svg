@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Daniel Hlaváček">
+  <title>PrestaShop Top Contributor — Daniel Hlaváček</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAGAAYAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APJbPw4JgrNco0AG6RlONvtmr0vhmxt2WX7S7oVykQGGPufaj7OYpC1xcn7MpXYsJ4AHc+9RXPiE28N1FZSSvNLjM0i/Mq/3ee1eXzVZv3ZGmhrWvh63itPtMV8I4nADKwzmuk0rxrdaNHBpzSJLbQ5PmNnJXsK8ttbu5M6kEtkcqTWnJcyykPGhCYx83XNNQq05fEF0+h0Gu+JpzrgvLSddzEMNhP5GpPFPiB9ditFLOFVfm3cfNXPtbG5sd7DZKD8pC8/jSS2k6weXt3ED71bqTa1ZPKrl6DV7+2tDaw3kqxkYIDVNY61eafYzadDPtE5y2eetY9vEYGC3EioWGcE1o2MFrdK80V1EfL4bGSapJ9AdjrNQ8YG00OCxjuN8mArEDtVHRNatNE1KOdEY7lw2GwDXLSRvK2Dyc8YrQt9D1W+kX7PYXUq9OIjj86fPLcXIjb1PxreahfJ5UxghRj901fsfG15Dp09q8y3EmCFkPB56VlL8PfEsuAulMqnnLuoP86enw38URSCRbNM+nmis5Ko9UxrlRxVlfmyjmSSBZSgA2SHpjrVOaWO5uG8sbUY7z7e1V5wy3BKhgHGSW712ngjwrp/iktDdX4gul+5HEBuYepq/ZqLv1Yr3OcUrDaoeHdm5AHIq0sRAaR42QA5VWr1DTvhRGHl+03Db4pCI3wPmXsatz/ChLlWB1KQA/wCyOKTpNjTOC0aO51i3FhZQo88jYBJ6D1Ndi3wy1MWgae7gjUDkRjczew6Utt4YtPCMzxW12015IQC3TYtejXF48OhKJFHmlASMdu5rWUUo3FS1mkcJp3hvSfCiwvqFi+p3N04CsYRIEwSBhcfmfrXM+ONG05ZY9T0lbeO5SdUeOHGJOcYIHcE+nrmup8QXsnh60n1C2v2ubq4YbVOWVEPG0YOPfOAfc9KPh54Xtbi8TUzC4jgCviQ53Tlev4ZJwf7wrCF5STPRqqMKbVj0Gy0TT7OJPJsbWJsDOyMDmr6RKDgED2AxUpQVFcSC2t5JgpbYpbHrXYeWV7khZyME/jUG8ZxsqPT9RTU4hcKB8wzwDj9atnGaQHyKHSdQZWO/HYe3FdD4Ue8067Gq6fCks9mhd42O35f611118K57p0McltbBRghFJ3e9bbeA4LfT4YrdUt5QoWaVGJMg78USguhKnLqR6N8Wb2/uBbT2VlAxBIklkIU89OleraRHezR+fqPkJGwzHHEpBI9STXCeBfh5pOmXbXup7bm/SUyW0T/cRexx3Yfp+tdrqusxW2cv8wOMZ7042a0NJRcXqaf9jaULhrsabA07Yy/lBifzpmqWaX1uFEEqSKCFITjHoauWknmwrknPtUzQKesko+khFNpNWYRbi7o8S1rwrcx6mIpHWCLqdpOW98dK6vR9a1d2FjDYxSqvyxsfl4HTpxwK7W+0O1vkXe0odej7yT+tCabZ2OZUDKdoUlnPOKcIwitEKpKc3qxmJAitImCRzg5FKhDNyOKYkryAlfmU+lYvjDUrrQfDF3qVoqmWJcgMM/pSlpqOMXJqK6l7aqysFAA56UNWP4U1STVvDdnqV4yiWZNz7RgZrZ3xMNynIqQlFxbTPMLb4q2F7aCaCziRy5QRSzBW+v0q14W8cW/iq4uVeBYJrZsLCHzuH973ryyHXvCpRC2ixRuR8wIJANVm8W29hr0F3pVnFBBGRu2LtZh3FKpFuLSKoyUaicloeneONcv9JnivYJGSND/B1DduazrfxWNYEK3EkcV1cp5ixLkjHpk962J47PxlojorhllTnaevcEV5Je2UemeI5LdJ5ohCyoPO+8OecH071z4RqzT3OzMU/dktrH1fptwfskL/AHtyKfzFaCzsx5UfjXK+F7xP7Aso3ZiYo1jVmP31HAYeuRg10iybiBiuxO6OAsvdBB82OPQ1y+vao7AxQwnecKJJGyATwMAf1rflmUApnn2/xrhvFOppaWU0tkIlkgYMu4/ebcBn8CetAGpDpF1p5MtpeSSE8tFJjDHvg9qx73VdT1DWZ7W6097Wzt1yGc5Dj1GODk/kPesGLxpr8jrDbi3uJnICpsIz+tauvaubCyxOVl1CZQNidM47e1ceJn7vKup34GPv87WiEtNUubbS3sNFtbcywvuWN8hQhPPA6cn8qjkvvGRBCLpqkdgjmsuPXx4X0cfZLi1utSuH33Cclh7ZHYelUJPiXrbfdt7ZP+An/GtqSaglLc5a7UqjlHY84g8LTW0fnG5Ac5GNmRVifQLm5XF0pKKPvRRcivSItKZsSSW7kYxs21rWIksADFavtPVWGc1wxxNTm95HU8OraM868LzXPhqZfKE1zaM2ShT7vriu41nwVpvjeCG+S4e2kAwHQA5HowrrrS6t5CVks1iI9QMVJeQ2ElvJO5aLy1JLxMVOAPyP41s/efPHRhCXLHknqjnxbDw/YWECyTzmFRDvQHY/UAbVyQec8A+9dVo15c3NsXhIcpw0bthl9PwrgdPg1bVyXgkgfTTjMsj/ACqOp/Dvjt2I4FZ2o+NtE03UbiC01ESWZGyVRExWQ/7BH8P4n8q2pua3Ma/snZwZ6Xq2uD7P5VtIPNmUEFCCqqe5I7nt+dec6dajxRC8M81wu6TDSDaqbQcsBnJJ4I46d8Vmr400Nk2xNOxSPa2xXZnUDHJx1HY5rNsvFdjpSbrC2Zfk8tZGGScscLx0HG49MnA6Cibm1oKjKknaTO/+y6L4E0u4vfNeRwpzJM25j/sj/wCtXj2p+Pbq/v5Z1jxuPyluoFehaONO8dXE0GqwSyQbR5BaXBBHGCBjJI56dvwqW8+D+hSE/ZpLiI9hkEVEIKLvPcuddVFy0vhOBt/GduulPaXttulmfeZIcKQOgGaxm1nTDKF+wShc4ZnnZuK72T4MMSNt8qj1K0R/BhASJdUx/upW3PEw5JHpimpAR3Gaqo4z0NTBvSsTYsBlB6VzfjnWLXTfDUyTZJn+UDPYck/yH41vNIsaF3IVVGST2FeM+L9VOv8Aie3jYn7OkuEj6AInJJ+uDVwV2c2JqcseXq/6Zd0mM3cLf2rLLKkgAeNXMag+h243Y980670VrIs6KbvT3PLwMRImf7wH3vqRn3qPTbqZLU+TIqMzZPmRhlP1Hapry41i3tmneK0SL/nrE68j/dY8/nXVofKurVc3yv5GVfWenSTqLTzyuAxa6mPlRDucdT+f4VW1ho7S1t5rdWwG+SWVcM5+nZe20djzzVKG4NvKLm6tJrmQkGKNlKx57E+v0H507xHPNNHbPPKZJmwW42qv+yoHAAqTujGXPFSdzs/BFsB4hspXZVVXlPlK3G4qSB9Bz+VesGdfT9a8h8Hyg+L7RCem/A+sWR/7NXqpYVhV3PYwDvSv/WyJjOPSoml5zgZqNnwOlMMgHUGsztP/2Q==" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">Hlavtox</text>
+  <text x="90" y="62" class="sub">Daniel Hlaváček</text>
+  <text x="90" y="78" class="sub">80 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">REVIEWER</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#12</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">Reviews</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">1387</text>
+  <text x="24" y="140" class="row-l">PRs merged</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">965</text>
+  <text x="24" y="162" class="row-l">PRs opened</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">1082</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">463</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="257" height="6" fill="#59af70"/><rect x="281" y="208" width="214" height="6" fill="#7b4fac"/><rect x="495" y="208" width="30" height="6" fill="#ffb000"/><rect x="525" y="208" width="5" height="6" fill="#5c92aa"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#59af70">■</tspan> modules  <tspan fill="#7b4fac">■</tspan> core  <tspan fill="#ffb000">■</tspan> themes  <tspan fill="#5c92aa">■</tspan> documentation</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/Hlavtox</text>
+</svg>

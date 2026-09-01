@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Julien Jakubowski">
+  <title>PrestaShop Top Contributor — Julien Jakubowski</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">jak78</text>
+  <text x="90" y="62" class="sub">Julien Jakubowski</text>
+  <text x="90" y="78" class="sub">1 repo</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">QA</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">—</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">QA reviews</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">0</text>
+  <text x="24" y="140" class="row-l">Reviews</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">0</text>
+  <text x="24" y="162" class="row-l">PRs merged</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">2</text>
+  <text x="24" y="184" class="row-l">PRs opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">5</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="512" height="6" fill="#5c92aa"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#5c92aa">■</tspan> documentation</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/jak78</text>
+</svg>

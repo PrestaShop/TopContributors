@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Blivet Thibault">
+  <title>PrestaShop Top Contributor — Blivet Thibault</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">tblivet</text>
+  <text x="90" y="62" class="sub">Blivet Thibault</text>
+  <text x="90" y="78" class="sub">18 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">AUTHOR</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#34</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">PRs merged</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">236</text>
+  <text x="24" y="140" class="row-l">PRs opened</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">244</text>
+  <text x="24" y="162" class="row-l">Reviews</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">234</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">9</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="289" height="6" fill="#ffb000"/><rect x="313" y="208" width="121" height="6" fill="#59af70"/><rect x="434" y="208" width="54" height="6" fill="#7b4fac"/><rect x="488" y="208" width="22" height="6" fill="#5c92aa"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#ffb000">■</tspan> themes  <tspan fill="#59af70">■</tspan> modules  <tspan fill="#7b4fac">■</tspan> core  <tspan fill="#5c92aa">■</tspan> documentation</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/tblivet</text>
+</svg>

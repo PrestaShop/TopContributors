@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Adyen bv">
+  <title>PrestaShop Top Contributor — Adyen bv</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAClElEQVR42u3dsUsWYRzA8a9vLw4iIQ4SEtFg0BBCQV54ETrUEO0tTRFvtVW8DQ39AdVtIUIRzUVjNERDEAfd5uAQ0vBitTgFNTjIW8M9hYRDYN7PXr9fcFGU19/He997Xu4eh/Ii+4Ftpz7QA5aAd8BbYLnsVht/881DAuxIK8AL4HHZrXoCxLUOPAfult1qVYC4vgJ3gEdlt+pv/kLL2TTSGLAALOZF1hYgphbQARbyImsJEFcHuCJAbA/yIpsUIK79wG3PgmJbA454BMQ1AZwRILZ5AWKbFiC2KQFiGxcgthEBYmsLEJwAAghgAghgAghgAuzBlRiQDejvdgx4stsf5NCg/mXlRTYLlD4FmQACmAACmAAC2JYLse2eb7eAUerL7cY2fQynn9/+B9DLZbda2vMAadhHgVPA8bTaPAyMJ4Cd6j71PVh7DyDdUHAauAhcACZ96moAIA3+EnATmHZUDQHkRQZwAlgEZhxRg2dBafiXqe93dfhNHgFp+B3qm8najqb5I2AOeOjwAwDyIhsBnqZzdws4Aq6l83lrGiAvsmHguqOIOwJmgClHEQcw5xhiAU46hlgAn36CAQ44hliAUccQC+DiaxcsxEwAAUwAAUwAAUwAAUwAAUwAAUwAAUyAwe2/uQwxXbsqQFC3gBsC+Dh9DRDABBDABBDABBDABBgEgHXHEAvw3THEAnx2DLEAK44hFqB0DLEAb4ANRxEH8AF47yiCANI/mb8H9B1H3ELsJfDKcTTf7+3r8yKbACrcNSXkCKDsVmvAWaDnWAIAEsJHIE9nRtZA+/78xKfXX74dOnfwGbBKvZWNd9I38RqwVXmRjVLvHXqVeu9Q3z1tEmATxK8ti88D88As9f7Qts1+AnfFaX2tB8jyAAAAAElFTkSuQmCC" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">adyenpayments</text>
+  <text x="90" y="62" class="sub">Adyen bv</text>
+  <text x="90" y="78" class="sub">1 repo</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">AUTHOR</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#1400</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">PRs merged</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">1</text>
+  <text x="24" y="140" class="row-l">PRs opened</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">1</text>
+  <text x="24" y="162" class="row-l">Reviews</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">0</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">0</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="512" height="6" fill="#59af70"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#59af70">■</tspan> modules</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/adyenpayments</text>
+</svg>

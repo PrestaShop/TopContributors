@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: LouiseBonnard">
+  <title>PrestaShop Top Contributor — LouiseBonnard</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">LouiseBonnard</text>
+  <text x="90" y="62" class="sub">LouiseBonnard</text>
+  <text x="90" y="78" class="sub">9 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">AUTHOR</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#41</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">PRs merged</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">196</text>
+  <text x="24" y="140" class="row-l">PRs opened</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">207</text>
+  <text x="24" y="162" class="row-l">Reviews</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">357</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">61</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="327" height="6" fill="#f8e08e"/><rect x="351" y="208" width="91" height="6" fill="#7b4fac"/><rect x="442" y="208" width="71" height="6" fill="#bde9c9"/><rect x="513" y="208" width="13" height="6" fill="#a4dbe8"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#f8e08e">■</tspan> blog  <tspan fill="#7b4fac">■</tspan> core  <tspan fill="#bde9c9">■</tspan> specs  <tspan fill="#a4dbe8">■</tspan> tools</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/LouiseBonnard</text>
+</svg>

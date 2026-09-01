@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Fong-Wan Chau">
+  <title>PrestaShop Top Contributor — Fong-Wan Chau</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">FongWan</text>
+  <text x="90" y="62" class="sub">Fong-Wan Chau</text>
+  <text x="90" y="78" class="sub">1 repo</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">QA</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">—</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">QA reviews</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">0</text>
+  <text x="24" y="140" class="row-l">Reviews</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">0</text>
+  <text x="24" y="162" class="row-l">PRs merged</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">1</text>
+  <text x="24" y="184" class="row-l">PRs opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">2</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="512" height="6" fill="#59af70"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#59af70">■</tspan> modules</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/FongWan</text>
+</svg>

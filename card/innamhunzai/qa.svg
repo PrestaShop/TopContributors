@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Innam Hunzai">
+  <title>PrestaShop Top Contributor — Innam Hunzai</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">innamhunzai</text>
+  <text x="90" y="62" class="sub">Innam Hunzai</text>
+  <text x="90" y="78" class="sub">1 repo</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">QA</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">—</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">QA reviews</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">0</text>
+  <text x="24" y="140" class="row-l">Reviews</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">0</text>
+  <text x="24" y="162" class="row-l">PRs merged</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">1</text>
+  <text x="24" y="184" class="row-l">PRs opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">1</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="512" height="6" fill="#a4dbe8"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#a4dbe8">■</tspan> tools</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/innamhunzai</text>
+</svg>

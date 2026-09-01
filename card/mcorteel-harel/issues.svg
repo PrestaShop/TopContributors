@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Maxime Corteel">
+  <title>PrestaShop Top Contributor — Maxime Corteel</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">mcorteel-harel</text>
+  <text x="90" y="62" class="sub">Maxime Corteel</text>
+  <text x="90" y="78" class="sub">1 repo</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">ISSUES</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">—</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">Issues opened</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">0</text>
+  <text x="24" y="140" class="row-l">PRs merged</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">1</text>
+  <text x="24" y="162" class="row-l">PRs opened</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">1</text>
+  <text x="24" y="184" class="row-l">Reviews</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">0</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="512" height="6" fill="#5c92aa"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#5c92aa">■</tspan> documentation</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/mcorteel-harel</text>
+</svg>

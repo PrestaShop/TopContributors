@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: iqit-commerce (Marcin Sz)">
+  <title>PrestaShop Top Contributor — iqit-commerce (Marcin Sz)</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">iqit-commerce</text>
+  <text x="90" y="62" class="sub">iqit-commerce (Marcin Sz)</text>
+  <text x="90" y="78" class="sub">4 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">ISSUES</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#266</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">Issues opened</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">8</text>
+  <text x="24" y="140" class="row-l">PRs merged</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">16</text>
+  <text x="24" y="162" class="row-l">PRs opened</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">31</text>
+  <text x="24" y="184" class="row-l">Reviews</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">0</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="384" height="6" fill="#7b4fac"/><rect x="408" y="208" width="128" height="6" fill="#59af70"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#7b4fac">■</tspan> core  <tspan fill="#59af70">■</tspan> modules</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/iqit-commerce</text>
+</svg>

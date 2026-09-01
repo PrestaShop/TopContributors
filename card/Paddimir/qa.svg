@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Patrik Kopecký">
+  <title>PrestaShop Top Contributor — Patrik Kopecký</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">Paddimir</text>
+  <text x="90" y="62" class="sub">Patrik Kopecký</text>
+  <text x="90" y="78" class="sub">1 repo</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">QA</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">—</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">QA reviews</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">0</text>
+  <text x="24" y="140" class="row-l">Reviews</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">0</text>
+  <text x="24" y="162" class="row-l">PRs merged</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">1</text>
+  <text x="24" y="184" class="row-l">PRs opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">1</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="512" height="6" fill="#5c92aa"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#5c92aa">■</tspan> documentation</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/Paddimir</text>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Sarah Dib">
+  <title>PrestaShop Top Contributor — Sarah Dib</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAGAAYAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOUl8Xz3Esj3FjaTFldULxhigYg8Fs5x83X+8enGJD4uYSCSPTreN1GFZcZUbs8ZH1Hp8zcYOBzPNLg+ldNkSdMvi5Xu/OudJs5R5itgrk7QoXbk5JHGee/5Vz93cC6u5JxEkQc52IOB/wDXqGl2k9qasgG0tJ3pelO9gFopu/rgE45OB0pwORmhTi9EOzRZ0+4jtdStbiaETxRSo7xHo4BBK/j0rtPEXjmxv7+G4sdO8zykdVN2SSAxQ7TySQNrcZA+b654OihxTdxXsdLF4h0lXRjoEAKszZDD+/kDBXHAAHTnnpk0q6/pMcLpHokeWQgbiDgncAc45ABA98Z45zzYoquVANcYcjFa9vcrJaQQGAEpuO4dTxVJvsbMjbpiSfmG0DH055rSmv7CP7N9iNyFjB3iRVyTjtisXqBVtYUezu5DExVNvQ9OfpXUaBb2ktha4MYl3y/K46fJ61haVa3d7b3iW6l5GVWA3Dnmt26t59F8OWN1dxMJDLIDg/7OKzctbAGsv4Ij03T/ALIglYGNn2Ah8c+Yr8gk9Ocjk8cVj6fp+l+IPEFnZ2YNpbMAZjLJwOSTgntgdMn61yu/mu6+F+l2eq61qKXbyqEhUL5bFep56fQfn61jiZclPc6KCTndo9bTwT4ZsdElso4oIftUZj85mG9s+hP8q8Lm0eHSteutN1YSokLEbo2wdvUMODkFeQPfqK+hJNPsb7TobaR5lhhYYKMQRg8An8BXlXxYjhh8T6bKnBNsyNk5LBTwT/30a4aVW0lY6HHm0kebA5paSZDDMV7dQfahTmvbhLmV0cEk07MfRSgcUlaIk3YtG0meBGXXIYpfKRpEkH8RTcQDx0ORjn654qQ+HtOEiD+3LZ0G3ftkjHViOMv6YPeuXJ4pu6sGM7zTLeOyvGt7DWrNjKy2+GkUgHA5ByMjnGR37YyRzuu61fXLfYZr0XEETEoVORyPYke3U9+TWFupjNU+YWHIGeQbRnmuj8K6vceE/EsV3t8y2nHlSIf4lJHP4GqHh+COW9hE2NhY5Jq/PaNdu1wpV7VZGhjB4wAePxxk1w16icnF7HdQpe5zdbnuVhdaZBbKYo3ZlyY4jDgp+Pf614l4p1yfVPGF7dTR5ZT5EcfUIo7fz/M17N4GnGp+DIy04eeINC57qR6/gQfxrwOW9C+I70qwMctwwDMAcYbhq5KEJXbl2Npzjzb9TR0/STrviKw095FthcZG84A4DNgZ4yeg9609R8JafYak1udaiiBRNgkGcOS67WIxxlOoHRgapeIwn9m2r7RHcockg8MPUH+hwf51zLSvK5d3ZmPJZjkmvSwtRygjkxMeWozrE8Kh4ww1iwO5UIAc8Fumc+3JxnFSHwpD9niP9s2azuxXa52qDyevXoPTg8VyatxS7zXZd9zmIieKjzQxptQwFzUZOTTj0qMdaiWw0X9KnFvdGRwduMZA79q6OV49OtIlUlomuVmC5/hC9/xJH41ydveSW+4Qkq543Z6fT3q5bFppPNkkWR2HId/mPtzXFVp8zu9jspVVGPKek/DPXnjtPEVttCSLaSXEagYJYZxj3y2Py9K8svFMd7Lx92VsjHvXUeDi0viCOOKRkkkG3A/jAGWU/XFYGpqF1e9UHIFxIAf+BGuiKXLcwk9S5dTfaNIWNZGOzDqHA5Xvgj0PY1kr0qeF4Ps0scrOkmCY3XkH2Pp9arr92porlbQ6suazJVPFPFRr1zTzXYjA2pNI0I3DW662FZXdRKU3I4EhUem3KhW6nqemKaNC0vYrHXIidrMwCrnAAIHL9Scj8vfHO5oJqAOjfw/pktwIoNat1bAyGZWGSTgBsjOABnA6kYz2wby2S0vHhjmSZVAw6kYOQDjgkcZx1PSoCa6DwX4Sn8W6ubUTrBBGN0suMlQegAzyTis6slCPNLYqKbdkc2rfOasA8V1HjrwFP4NuoXW4NzZz5CyFNpVvQ8muYQjeuemRWcZqauimmtGaGi3JtdYt7gPIhjJYFMZzg9MkD9aoSOXmkcnJZic+tfQy+FbEeVDD4Xk8qPhZxIELgcBvlQZz15PeuL+KmhRaTpFlJHpgsg85APmBi/ynr9OKu2gjyeWTC4x1q5p1ul7drDLcx2yEEmSXO0YHT8a1/Cfgi/8AGV7IltJHBDAMvLICRk9AMd6b4q8JX3hHUY7W8khlEilo5ImyGA46HkVCqR5uS+o3F2uWU8OWB4Ov2eTIFBDLjGSCeW7YB+h4zwDJJoWleWhTXIVkJyVJVvlwOcg4znORzx0JPB5YU9TxXSrmZDSGlpppAIa6TwJr/wDwj3ii3uJG22837qbPQAng/gcfhmubNNNRUgpxcX1KhJxd0fTHjzSP+El8D3UcC754186EDqSvOB9RkV82A8CvaPhL41+2QjQb+TNxGv7h2P8ArEHb6j+X0rmfiH4Cv7LxPLPpOnzzWV3+9UQRlhG5+8vA455H19q8/DN05OnM3qJSSlE+gbfVbKLT7TfdQBjGmVaVQR8orzP453dteaBpi20yTMt2ciM7sZU46fSuMOseO3VJo9AvEVcRgi2lA/H/ABrrvD3hXxLquq2l34nhtobS2kFwsKtuZpADtzyeBnP5V11KkIxvczUW2b/gDQR4V8Hx/a8RTyA3FwWONpI6H6AD9a8P8Z+IT4m8TXN8pP2dT5UAPaMdD+PJ/GvQvi74z2g+GtPl5wDeOp6Dsn9T+A9a8dFYYWk7urLdlVZacqFFPHSmU/tXoGB//9k=" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">sarahdib</text>
+  <text x="90" y="62" class="sub">Sarah Dib</text>
+  <text x="90" y="78" class="sub">4 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">ISSUES</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#29</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">Issues opened</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">80</text>
+  <text x="24" y="140" class="row-l">PRs merged</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">5</text>
+  <text x="24" y="162" class="row-l">PRs opened</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">5</text>
+  <text x="24" y="184" class="row-l">Reviews</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">2</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="307" height="6" fill="#5c92aa"/><rect x="331" y="208" width="102" height="6" fill="#7b4fac"/><rect x="433" y="208" width="102" height="6" fill="#bde9c9"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#5c92aa">■</tspan> documentation  <tspan fill="#7b4fac">■</tspan> core  <tspan fill="#bde9c9">■</tspan> specs</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/sarahdib</text>
+</svg>

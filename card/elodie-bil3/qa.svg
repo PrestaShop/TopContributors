@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Elodie Billiot">
+  <title>PrestaShop Top Contributor — Elodie Billiot</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">elodie-bil3</text>
+  <text x="90" y="62" class="sub">Elodie Billiot</text>
+  <text x="90" y="78" class="sub">2 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">QA</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">—</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">QA reviews</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">0</text>
+  <text x="24" y="140" class="row-l">Reviews</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">6</text>
+  <text x="24" y="162" class="row-l">PRs merged</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">10</text>
+  <text x="24" y="184" class="row-l">PRs opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">13</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="512" height="6" fill="#a4dbe8"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#a4dbe8">■</tspan> tools</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/elodie-bil3</text>
+</svg>

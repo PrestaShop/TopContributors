@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Ludovic HENIN">
+  <title>PrestaShop Top Contributor — Ludovic HENIN</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">ludohenin</text>
+  <text x="90" y="62" class="sub">Ludovic HENIN</text>
+  <text x="90" y="78" class="sub">2 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">QA</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">—</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">QA reviews</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">0</text>
+  <text x="24" y="140" class="row-l">Reviews</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">0</text>
+  <text x="24" y="162" class="row-l">PRs merged</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">4</text>
+  <text x="24" y="184" class="row-l">PRs opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">8</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="384" height="6" fill="#ffb000"/><rect x="408" y="208" width="128" height="6" fill="#59af70"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#ffb000">■</tspan> themes  <tspan fill="#59af70">■</tspan> modules</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/ludohenin</text>
+</svg>

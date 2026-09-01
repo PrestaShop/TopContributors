@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Ishiki">
+  <title>PrestaShop Top Contributor — Ishiki</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">vytsci</text>
+  <text x="90" y="62" class="sub">Ishiki</text>
+  <text x="90" y="78" class="sub">2 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">REVIEWER</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">—</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">Reviews</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">0</text>
+  <text x="24" y="140" class="row-l">PRs merged</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">2</text>
+  <text x="24" y="162" class="row-l">PRs opened</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">8</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">0</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="256" height="6" fill="#7b4fac"/><rect x="280" y="208" width="256" height="6" fill="#ffb000"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#7b4fac">■</tspan> core  <tspan fill="#ffb000">■</tspan> themes</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/vytsci</text>
+</svg>

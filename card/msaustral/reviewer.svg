@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Msaustral">
+  <title>PrestaShop Top Contributor — Msaustral</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">msaustral</text>
+  <text x="90" y="62" class="sub">Msaustral</text>
+  <text x="90" y="78" class="sub">1 repo</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">REVIEWER</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#336</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">Reviews</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">1</text>
+  <text x="24" y="140" class="row-l">PRs merged</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">1</text>
+  <text x="24" y="162" class="row-l">PRs opened</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">4</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">23</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="512" height="6" fill="#5c92aa"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#5c92aa">■</tspan> documentation</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/msaustral</text>
+</svg>

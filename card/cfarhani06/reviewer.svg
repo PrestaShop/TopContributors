@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: CheDus">
+  <title>PrestaShop Top Contributor — CheDus</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">cfarhani06</text>
+  <text x="90" y="62" class="sub">CheDus</text>
+  <text x="90" y="78" class="sub">1 repo</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">REVIEWER</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#107</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">Reviews</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">12</text>
+  <text x="24" y="140" class="row-l">PRs merged</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">9</text>
+  <text x="24" y="162" class="row-l">PRs opened</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">12</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">0</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="512" height="6" fill="#7b4fac"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#7b4fac">■</tspan> core</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/cfarhani06</text>
+</svg>

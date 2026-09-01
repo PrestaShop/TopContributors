@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Edvinas Gurevicius">
+  <title>PrestaShop Top Contributor — Edvinas Gurevicius</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">gadnis</text>
+  <text x="90" y="62" class="sub">Edvinas Gurevicius</text>
+  <text x="90" y="78" class="sub">3 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">ISSUES</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#379</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">Issues opened</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">6</text>
+  <text x="24" y="140" class="row-l">PRs merged</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">5</text>
+  <text x="24" y="162" class="row-l">PRs opened</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">9</text>
+  <text x="24" y="184" class="row-l">Reviews</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">0</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="307" height="6" fill="#59af70"/><rect x="331" y="208" width="205" height="6" fill="#5c92aa"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#59af70">■</tspan> modules  <tspan fill="#5c92aa">■</tspan> documentation</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/gadnis</text>
+</svg>

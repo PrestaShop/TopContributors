@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: İbrahim YILDIZ">
+  <title>PrestaShop Top Contributor — İbrahim YILDIZ</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">yildizib</text>
+  <text x="90" y="62" class="sub">İbrahim YILDIZ</text>
+  <text x="90" y="78" class="sub">1 repo</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">QA</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">—</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">QA reviews</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">0</text>
+  <text x="24" y="140" class="row-l">Reviews</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">0</text>
+  <text x="24" y="162" class="row-l">PRs merged</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">1</text>
+  <text x="24" y="184" class="row-l">PRs opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">1</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="512" height="6" fill="#5c92aa"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#5c92aa">■</tspan> documentation</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/yildizib</text>
+</svg>
