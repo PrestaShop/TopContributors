@@ -1356,9 +1356,9 @@
                 "2024": 160
             }
         },
-        "reviews": 7291,
+        "reviews": 7293,
         "reviewsByYear": {
-            "2026": 780,
+            "2026": 782,
             "2025": 801,
             "2024": 703,
             "2023": 509,
@@ -2659,7 +2659,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7945,
+        "contributions": 7998,
         "repositories": {
             "PrestaShop": 792,
             "dashactivity": 1,
@@ -3560,9 +3560,9 @@
                 "2025": 1
             }
         },
-        "reviews": 3314,
+        "reviews": 3315,
         "reviewsByYear": {
-            "2026": 579,
+            "2026": 580,
             "2025": 326,
             "2024": 363,
             "2023": 459,
@@ -3584,9 +3584,9 @@
             "2019": 19,
             "2018": 10
         },
-        "pullRequestsOpened": 1439,
+        "pullRequestsOpened": 1440,
         "pullRequestsOpenedByYear": {
-            "2026": 242,
+            "2026": 243,
             "2025": 228,
             "2024": 258,
             "2023": 136,
@@ -4580,9 +4580,9 @@
             "2018": 11,
             "2017": 1
         },
-        "pullRequestsOpened": 1346,
+        "pullRequestsOpened": 1347,
         "pullRequestsOpenedByYear": {
-            "2026": 88,
+            "2026": 89,
             "2025": 228,
             "2024": 76,
             "2023": 2,
@@ -5598,9 +5598,9 @@
             "2019": 60,
             "2018": 3
         },
-        "pullRequestsOpened": 1082,
+        "pullRequestsOpened": 1083,
         "pullRequestsOpenedByYear": {
-            "2026": 78,
+            "2026": 79,
             "2025": 156,
             "2024": 206,
             "2023": 435,
@@ -15013,7 +15013,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1797,
+        "contributions": 1802,
         "repositories": {
             "PrestaShop": 163,
             "dashactivity": 2,
@@ -15044,7 +15044,7 @@
             "ps_fixturescreator": 3,
             "kanbanbot": 3,
             "zip-archives": 2,
-            "ps_apiresources": 9,
+            "ps_apiresources": 10,
             "ui-testing-library": 5
         },
         "categories": {
@@ -15140,9 +15140,9 @@
                 }
             },
             "modules": {
-                "total": 39,
+                "total": 40,
                 "byYear": {
-                    "2026": 13,
+                    "2026": 14,
                     "2025": 11,
                     "2024": 11,
                     "2023": 2,
@@ -15160,7 +15160,7 @@
                     "ps_cashondelivery": 1,
                     "ps_distributionapiclient": 2,
                     "ps_fixturescreator": 3,
-                    "ps_apiresources": 9
+                    "ps_apiresources": 10
                 },
                 "repositoriesByYear": {
                     "dashactivity": {
@@ -15199,7 +15199,7 @@
                         "2024": 2
                     },
                     "ps_apiresources": {
-                        "2026": 4,
+                        "2026": 5,
                         "2025": 3,
                         "2024": 2
                     }
@@ -15297,9 +15297,9 @@
                 }
             }
         },
-        "mergedPullRequests": 257,
+        "mergedPullRequests": 258,
         "mergedPullRequestsByYear": {
-            "2026": 57,
+            "2026": 58,
             "2025": 67,
             "2024": 62,
             "2023": 50,
@@ -15412,7 +15412,7 @@
                 "2023": 1
             },
             "ps_apiresources": {
-                "2026": 4,
+                "2026": 5,
                 "2025": 3,
                 "2024": 2
             },
@@ -15420,9 +15420,9 @@
                 "2026": 5
             }
         },
-        "reviews": 2293,
+        "reviews": 2295,
         "reviewsByYear": {
-            "2026": 389,
+            "2026": 391,
             "2025": 581,
             "2024": 482,
             "2023": 653,
@@ -16262,7 +16262,7 @@
         "email_domain": "codencode.it",
         "contributions": 435,
         "repositories": {
-            "PrestaShop": 145,
+            "PrestaShop": 146,
             "dashactivity": 1,
             "autoupgrade": 7,
             "prestashop.github.io": 1,
@@ -16285,21 +16285,21 @@
         },
         "categories": {
             "core": {
-                "total": 147,
+                "total": 148,
                 "byYear": {
-                    "2026": 59,
+                    "2026": 60,
                     "2025": 67,
                     "2024": 13,
                     "2023": 7,
                     "2019": 1
                 },
                 "repositories": {
-                    "PrestaShop": 145,
+                    "PrestaShop": 146,
                     "LocalizationFiles": 2
                 },
                 "repositoriesByYear": {
                     "PrestaShop": {
-                        "2026": 58,
+                        "2026": 59,
                         "2025": 66,
                         "2024": 13,
                         "2023": 7,
@@ -16471,9 +16471,9 @@
                 "repositoriesByYear": []
             }
         },
-        "mergedPullRequests": 213,
+        "mergedPullRequests": 214,
         "mergedPullRequestsByYear": {
-            "2026": 92,
+            "2026": 93,
             "2025": 93,
             "2024": 18,
             "2023": 7,
@@ -16482,7 +16482,7 @@
         },
         "repositoriesByYear": {
             "PrestaShop": {
-                "2026": 58,
+                "2026": 59,
                 "2025": 66,
                 "2024": 13,
                 "2023": 7,
@@ -16575,9 +16575,9 @@
             "2020": 1,
             "2019": 5
         },
-        "pullRequestsOpened": 310,
+        "pullRequestsOpened": 311,
         "pullRequestsOpenedByYear": {
-            "2026": 109,
+            "2026": 110,
             "2025": 137,
             "2024": 35,
             "2023": 23,
@@ -19220,7 +19220,7 @@
         "location": "La Roche sur Yon",
         "bio": null,
         "email_domain": "",
-        "contributions": 559,
+        "contributions": 560,
         "repositories": {
             "PrestaShop": 58,
             "dashactivity": 1,
@@ -19774,9 +19774,9 @@
                 "2026": 8
             }
         },
-        "reviews": 359,
+        "reviews": 361,
         "reviewsByYear": {
-            "2026": 290,
+            "2026": 292,
             "2025": 60,
             "2024": 9
         },
@@ -25572,9 +25572,9 @@
                 "2025": 1
             }
         },
-        "reviews": 364,
+        "reviews": 365,
         "reviewsByYear": {
-            "2026": 187,
+            "2026": 188,
             "2025": 160,
             "2024": 17
         },
@@ -26543,17 +26543,17 @@
             "2024": 147,
             "2023": 62
         },
-        "issuesOpened": 68,
+        "issuesOpened": 69,
         "issuesOpenedByYear": {
-            "2026": 8,
+            "2026": 9,
             "2025": 31,
             "2024": 26,
             "2023": 2,
             "2022": 1
         },
-        "pullRequestsOpened": 97,
+        "pullRequestsOpened": 98,
         "pullRequestsOpenedByYear": {
-            "2026": 8,
+            "2026": 9,
             "2025": 27,
             "2024": 37,
             "2023": 24,
@@ -29402,9 +29402,9 @@
         "issuesOpenedByYear": {
             "2026": 29
         },
-        "pullRequestsOpened": 301,
+        "pullRequestsOpened": 311,
         "pullRequestsOpenedByYear": {
-            "2026": 301
+            "2026": 311
         }
     },
     "moncef-essid": {
@@ -37416,9 +37416,9 @@
                 "2026": 1
             }
         },
-        "reviews": 147,
+        "reviews": 149,
         "reviewsByYear": {
-            "2026": 140,
+            "2026": 142,
             "2025": 7
         },
         "issuesOpened": 77,
@@ -72614,7 +72614,7 @@
         "name": "\u00d2scar Casajuana",
         "company": "@vocdoni",
         "blog": "https:\/\/vocdoni.io",
-        "location": "La Cerdanya, Spain",
+        "location": "Puigcerd\u00e0",
         "bio": "full-stack engineer",
         "email_domain": "",
         "contributions": 2,
@@ -103056,5 +103056,5 @@
             "2026": 1
         }
     },
-    "updatedAt": "2026-09-01T12:58:45+00:00"
+    "updatedAt": "2026-09-02T06:41:06+00:00"
 }

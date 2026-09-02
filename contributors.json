@@ -322,9 +322,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 7945,
+        "contributions": 7998,
         "repositories": {
-            "PrestaShop": 6225,
+            "PrestaShop": 6263,
             "dashactivity": 4,
             "dashgoals": 4,
             "dashproducts": 7,
@@ -418,7 +418,7 @@
             "kanbanbot": 3,
             "zip-archives": 1,
             "bootstrap-compatibility-layer": 1,
-            "ps_apiresources": 232,
+            "ps_apiresources": 247,
             "CoreUpgradeBundle": 1,
             "CLIUpgrade": 1,
             "ui-testing-library": 44,
@@ -426,9 +426,9 @@
         },
         "categories": {
             "core": {
-                "total": 6321,
+                "total": 6359,
                 "repositories": {
-                    "PrestaShop": 6225,
+                    "PrestaShop": 6263,
                     "prestashop-ui-kit": 16,
                     "TranslationToolsBundle": 18,
                     "LocalizationFiles": 3,
@@ -462,7 +462,7 @@
                 }
             },
             "modules": {
-                "total": 762,
+                "total": 777,
                 "repositories": {
                     "dashactivity": 4,
                     "dashgoals": 4,
@@ -518,7 +518,7 @@
                     "ps_googleanalytics": 10,
                     "ps_themecusto": 9,
                     "psgdpr": 10,
-                    "ps_apiresources": 232,
+                    "ps_apiresources": 247,
                     "ps_distributionapiclient": 19,
                     "ps_fixturescreator": 13
                 }
@@ -3376,9 +3376,9 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1797,
+        "contributions": 1802,
         "repositories": {
-            "PrestaShop": 922,
+            "PrestaShop": 926,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 7,
             "dashgoals": 3,
@@ -3458,15 +3458,15 @@
             "kanbanbot": 22,
             "zip-archives": 6,
             "bootstrap-compatibility-layer": 1,
-            "ps_apiresources": 24,
+            "ps_apiresources": 25,
             "ui-testing-library": 7,
             "SeamlessUpgradeToolbox": 1
         },
         "categories": {
             "core": {
-                "total": 935,
+                "total": 939,
                 "repositories": {
-                    "PrestaShop": 922,
+                    "PrestaShop": 926,
                     "prestashop-ui-kit": 1,
                     "LocalizationFiles": 8,
                     "php-dev-tools": 4
@@ -3496,7 +3496,7 @@
                 }
             },
             "modules": {
-                "total": 356,
+                "total": 357,
                 "repositories": {
                     "dashactivity": 7,
                     "dashgoals": 3,
@@ -3544,7 +3544,7 @@
                     "ps_googleanalytics": 4,
                     "ps_themecusto": 3,
                     "psgdpr": 10,
-                    "ps_apiresources": 24,
+                    "ps_apiresources": 25,
                     "ps_distributionapiclient": 3,
                     "ps_fixturescreator": 3
                 }
@@ -6695,9 +6695,9 @@
         "location": "La Roche sur Yon",
         "bio": null,
         "email_domain": "",
-        "contributions": 559,
+        "contributions": 560,
         "repositories": {
-            "PrestaShop": 261,
+            "PrestaShop": 262,
             "dashactivity": 1,
             "dashgoals": 1,
             "dashproducts": 3,
@@ -6754,9 +6754,9 @@
         },
         "categories": {
             "core": {
-                "total": 264,
+                "total": 265,
                 "repositories": {
-                    "PrestaShop": 261,
+                    "PrestaShop": 262,
                     "prestashop-ui-kit": 3
                 }
             },
@@ -34771,7 +34771,7 @@
         "name": "\u00d2scar Casajuana",
         "company": "@vocdoni",
         "blog": "https:\/\/vocdoni.io",
-        "location": "La Cerdanya, Spain",
+        "location": "Puigcerd\u00e0",
         "bio": "full-stack engineer",
         "email_domain": "",
         "contributions": 2,
@@ -51686,5 +51686,5 @@
             }
         }
     },
-    "updatedAt": "2026-09-01 12:35:20"
+    "updatedAt": "2026-09-02 06:19:03"
 }
