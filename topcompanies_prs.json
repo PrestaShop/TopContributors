@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-09-02T06:41:06+00:00",
+    "updatedAt": "2026-09-03T07:13:02+00:00",
     "community": {
         "name": "Open Source Community",
         "slug": "open-source-community",
@@ -43,7 +43,7 @@
             "2013": 525,
             "2012": 32
         },
-        "pull_requests_percent": 29.39,
+        "pull_requests_percent": 29.38,
         "contributions": 35539,
         "contributions_by_version": {
             "9.3": 26,
@@ -192,10 +192,10 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 17564,
+            "merged_pull_requests": 17567,
             "merged_pull_requests_by_version": {
-                "9.3": 9,
-                "9.2": 156,
+                "9.3": 10,
+                "9.2": 157,
                 "9.1": 218,
                 "9.0": 997,
                 "8.2": 31,
@@ -213,7 +213,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 930,
+                "2026": 933,
                 "2025": 1247,
                 "2024": 1290,
                 "2023": 1572,
@@ -229,10 +229,10 @@
                 "2013": 24
             },
             "pull_requests_percent": 60.34,
-            "contributions": 81999,
+            "contributions": 82006,
             "contributions_by_version": {
-                "9.3": 68,
-                "9.2": 1065,
+                "9.3": 69,
+                "9.2": 1070,
                 "9.1": 2171,
                 "9.0": 3981,
                 "8.2": 77,
@@ -250,7 +250,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 3778,
+                "2026": 3785,
                 "2025": 4879,
                 "2024": 5067,
                 "2023": 6413,
@@ -271,10 +271,10 @@
             "github_url": null,
             "contributors": [
                 "gRoussac",
-                "nicosomb",
                 "jolelievre",
-                "Progi1984",
+                "nicosomb",
                 "mattgoud",
+                "Progi1984",
                 "Quetzacoalt91",
                 "kpodemski",
                 "tleon",
@@ -2164,22 +2164,22 @@
             "rank": 17,
             "rank_contributions": 14,
             "rank_pull_requests": 17,
-            "merged_pull_requests": 17,
+            "merged_pull_requests": 18,
             "merged_pull_requests_by_version": {
-                "9.3": 1,
+                "9.3": 2,
                 "9.2": 8
             },
             "merged_pull_requests_by_year": {
-                "2026": 17
+                "2026": 18
             },
             "pull_requests_percent": 0.06,
-            "contributions": 98,
+            "contributions": 101,
             "contributions_by_version": {
-                "9.3": 26,
+                "9.3": 29,
                 "9.2": 56
             },
             "contributions_by_year": {
-                "2026": 98
+                "2026": 101
             },
             "contributions_percent": 0.08,
             "avatar_url": "https:\/\/www.soledis.com\/wp-content\/uploads\/fbrfg\/favicon.svg",
