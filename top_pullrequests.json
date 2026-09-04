@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-09-03T07:32:57+00:00",
+    "updatedAt": "2026-09-04T07:53:47+00:00",
     "items": [
         {
             "rank": 1,
@@ -44,9 +44,9 @@
             "name": "Jonathan Lelievre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13801017?v=4",
             "html_url": "https:\/\/github.com\/jolelievre",
-            "count": 1440,
+            "count": 1441,
             "countByYear": {
-                "2026": 243,
+                "2026": 244,
                 "2025": 228,
                 "2024": 258,
                 "2023": 136,
@@ -63,9 +63,9 @@
             "name": "Thomas N",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6768917?v=4",
             "html_url": "https:\/\/github.com\/Quetzacoalt91",
-            "count": 1347,
+            "count": 1348,
             "countByYear": {
-                "2026": 89,
+                "2026": 90,
                 "2025": 228,
                 "2024": 76,
                 "2023": 2,
@@ -379,6 +379,17 @@
         },
         {
             "rank": 23,
+            "login": "boo-code",
+            "name": "Audrius",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65190196?v=4",
+            "html_url": "https:\/\/github.com\/boo-code",
+            "count": 374,
+            "countByYear": {
+                "2026": 374
+            }
+        },
+        {
+            "rank": 24,
             "login": "djfm",
             "name": "Fran\u00e7ois-Marie de Jouvencel",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1460499?v=4",
@@ -393,7 +404,7 @@
             }
         },
         {
-            "rank": 24,
+            "rank": 25,
             "login": "gRoussac",
             "name": "Gregory Roussac",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3099551?v=4",
@@ -407,7 +418,7 @@
             }
         },
         {
-            "rank": 25,
+            "rank": 26,
             "login": "nicosomb",
             "name": "Nicolas L\u0153uillet",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/121870?v=4",
@@ -420,17 +431,6 @@
                 "2023": 65,
                 "2022": 32,
                 "2017": 1
-            }
-        },
-        {
-            "rank": 26,
-            "login": "boo-code",
-            "name": "Audrius",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65190196?v=4",
-            "html_url": "https:\/\/github.com\/boo-code",
-            "count": 341,
-            "countByYear": {
-                "2026": 341
             }
         },
         {
@@ -454,9 +454,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 311,
+            "count": 312,
             "countByYear": {
-                "2026": 110,
+                "2026": 111,
                 "2025": 137,
                 "2024": 35,
                 "2023": 23,
@@ -540,9 +540,9 @@
             "name": "Blivet Thibault",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/110676325?v=4",
             "html_url": "https:\/\/github.com\/tblivet",
-            "count": 244,
+            "count": 245,
             "countByYear": {
-                "2026": 60,
+                "2026": 61,
                 "2025": 92,
                 "2024": 78,
                 "2023": 14
@@ -585,9 +585,9 @@
             "name": "Matthias Goudjil",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
             "html_url": "https:\/\/github.com\/mattgoud",
-            "count": 222,
+            "count": 223,
             "countByYear": {
-                "2026": 154,
+                "2026": 155,
                 "2025": 49,
                 "2024": 19
             }
@@ -3268,6 +3268,22 @@
         },
         {
             "rank": 230,
+            "login": "manfield",
+            "name": "Manfredi Petruso",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/397671?v=4",
+            "html_url": "https:\/\/github.com\/manfield",
+            "count": 15,
+            "countByYear": {
+                "2026": 1,
+                "2023": 1,
+                "2019": 4,
+                "2018": 4,
+                "2017": 4,
+                "2014": 1
+            }
+        },
+        {
+            "rank": 231,
             "login": "matrixino",
             "name": "Giuseppe Tripiciano",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6110527?v=4",
@@ -3281,7 +3297,7 @@
             }
         },
         {
-            "rank": 231,
+            "rank": 232,
             "login": "matthieumota",
             "name": "Matthieu Mota",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2427947?v=4",
@@ -3296,7 +3312,7 @@
             }
         },
         {
-            "rank": 232,
+            "rank": 233,
             "login": "misthero",
             "name": "Luca T.",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3662610?u=e81e18cfafe504a36612dd9b49ee556bd296831e&v=4",
@@ -3310,7 +3326,7 @@
             }
         },
         {
-            "rank": 233,
+            "rank": 234,
             "login": "soullivaneuh",
             "name": "Sullivan S.",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1698357?v=4",
@@ -3322,7 +3338,7 @@
             }
         },
         {
-            "rank": 234,
+            "rank": 235,
             "login": "Mch0",
             "name": "Arnaud",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3593331?v=4",
@@ -3337,7 +3353,7 @@
             }
         },
         {
-            "rank": 235,
+            "rank": 236,
             "login": "aomaxime",
             "name": "aomaxime",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/148320838?v=4",
@@ -3349,7 +3365,7 @@
             }
         },
         {
-            "rank": 236,
+            "rank": 237,
             "login": "codeurWeb",
             "name": "Julien Bouchez",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1266537?v=4",
@@ -3361,7 +3377,7 @@
             }
         },
         {
-            "rank": 237,
+            "rank": 238,
             "login": "gross-nvs",
             "name": "Beno\u00eet Gross",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/48470278?v=4",
@@ -3374,7 +3390,7 @@
             }
         },
         {
-            "rank": 238,
+            "rank": 239,
             "login": "intraordinaire",
             "name": "Vincent Garcia",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1721887?v=4",
@@ -3388,7 +3404,7 @@
             }
         },
         {
-            "rank": 239,
+            "rank": 240,
             "login": "jeckyl",
             "name": "Tanguy JACQUET",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/595633?v=4",
@@ -3403,21 +3419,6 @@
                 "2018": 1,
                 "2015": 2,
                 "2013": 4
-            }
-        },
-        {
-            "rank": 240,
-            "login": "manfield",
-            "name": "Manfredi Petruso",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/397671?v=4",
-            "html_url": "https:\/\/github.com\/manfield",
-            "count": 14,
-            "countByYear": {
-                "2023": 1,
-                "2019": 4,
-                "2018": 4,
-                "2017": 4,
-                "2014": 1
             }
         },
         {
@@ -15676,7 +15677,7 @@
             "rank": 1297,
             "login": "NicoVmax",
             "name": "Magicgarden",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/133760054?u=0b4cc02a0fd74b45092f2bf551d6eaa7dfb61492&v=4",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/133760054?v=4",
             "html_url": "https:\/\/github.com\/NicoVmax",
             "count": 1,
             "countByYear": {

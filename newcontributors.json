@@ -1,4 +1,12 @@
 {
+    "NicoVmax": {
+        "login": "NicoVmax",
+        "name": "Magicgarden",
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/133760054?v=4",
+        "html_url": "https:\/\/github.com\/NicoVmax",
+        "contributions": 5,
+        "firstContributionAt": "2026-09-03T18:29:20Z"
+    },
     "abdullacm": {
         "login": "abdullacm",
         "name": "Abdulla Chozhimadathil",
@@ -70,13 +78,5 @@
         "html_url": "https:\/\/github.com\/arthurzenika",
         "contributions": 1,
         "firstContributionAt": "2026-05-15T11:19:21Z"
-    },
-    "islemdev": {
-        "login": "islemdev",
-        "name": null,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/69719306?v=4",
-        "html_url": "https:\/\/github.com\/islemdev",
-        "contributions": 1,
-        "firstContributionAt": "2026-04-19T08:00:23Z"
     }
 }
