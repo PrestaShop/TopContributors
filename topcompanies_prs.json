@@ -1,15 +1,15 @@
 {
-    "updatedAt": "2026-09-04T07:30:04+00:00",
+    "updatedAt": "2026-09-05T06:32:03+00:00",
     "community": {
         "name": "Open Source Community",
         "slug": "open-source-community",
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 8556,
+        "merged_pull_requests": 8557,
         "merged_pull_requests_by_version": {
             "9.3": 16,
-            "9.2": 93,
+            "9.2": 94,
             "9.1": 117,
             "9.0": 445,
             "8.2": 27,
@@ -27,7 +27,7 @@
             "1.6.1": 273
         },
         "merged_pull_requests_by_year": {
-            "2026": 414,
+            "2026": 415,
             "2025": 437,
             "2024": 536,
             "2023": 675,
@@ -44,10 +44,10 @@
             "2012": 32
         },
         "pull_requests_percent": 29.38,
-        "contributions": 35548,
+        "contributions": 35549,
         "contributions_by_version": {
             "9.3": 26,
-            "9.2": 724,
+            "9.2": 725,
             "9.1": 1140,
             "9.0": 3078,
             "8.2": 43,
@@ -65,7 +65,7 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 2543,
+            "2026": 2544,
             "2025": 2111,
             "2024": 2673,
             "2023": 3579,
@@ -81,16 +81,16 @@
             "2013": 1031,
             "2012": 56
         },
-        "contributions_percent": 28.18,
+        "contributions_percent": 28.17,
         "avatar_url": "",
         "html_url": "https:\/\/www.prestashop-project.org",
         "github_url": null,
         "contributors": [
+            "mattgoud",
             "M0rgan01",
             "jolelievre",
             "gumgl",
             "kpodemski",
-            "mattgoud",
             "paulschwahn",
             "david-prochazka",
             "ga-devfront",
@@ -192,9 +192,9 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 17568,
+            "merged_pull_requests": 17569,
             "merged_pull_requests_by_version": {
-                "9.3": 11,
+                "9.3": 12,
                 "9.2": 157,
                 "9.1": 218,
                 "9.0": 997,
@@ -213,7 +213,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 934,
+                "2026": 935,
                 "2025": 1247,
                 "2024": 1290,
                 "2023": 1572,
@@ -229,9 +229,9 @@
                 "2013": 24
             },
             "pull_requests_percent": 60.33,
-            "contributions": 82010,
+            "contributions": 82035,
             "contributions_by_version": {
-                "9.3": 73,
+                "9.3": 98,
                 "9.2": 1070,
                 "9.1": 2171,
                 "9.0": 3981,
@@ -250,7 +250,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 3789,
+                "2026": 3814,
                 "2025": 4879,
                 "2024": 5067,
                 "2023": 6413,
@@ -265,7 +265,7 @@
                 "2014": 786,
                 "2013": 36
             },
-            "contributions_percent": 65.01,
+            "contributions_percent": 65.02,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2815696?s=200&v=4",
             "html_url": "https:\/\/www.prestashop.com",
             "github_url": null,
@@ -274,8 +274,8 @@
                 "jolelievre",
                 "nicosomb",
                 "mattgoud",
-                "Progi1984",
                 "Quetzacoalt91",
+                "Progi1984",
                 "kpodemski",
                 "tleon",
                 "cnavarro-prestashop",
@@ -1389,9 +1389,9 @@
             "rank": 7,
             "rank_contributions": 6,
             "rank_pull_requests": 7,
-            "merged_pull_requests": 194,
+            "merged_pull_requests": 195,
             "merged_pull_requests_by_version": {
-                "9.2": 6,
+                "9.2": 7,
                 "9.1": 37,
                 "9.0": 50,
                 "8.2": 32,
@@ -1399,15 +1399,15 @@
                 "8.0": 1
             },
             "merged_pull_requests_by_year": {
-                "2026": 84,
+                "2026": 85,
                 "2025": 87,
                 "2024": 16,
                 "2023": 7
             },
             "pull_requests_percent": 0.67,
-            "contributions": 319,
+            "contributions": 322,
             "contributions_by_version": {
-                "9.2": 12,
+                "9.2": 15,
                 "9.1": 71,
                 "9.0": 73,
                 "8.2": 44,
@@ -1415,12 +1415,12 @@
                 "8.0": 2
             },
             "contributions_by_year": {
-                "2026": 148,
+                "2026": 151,
                 "2025": 128,
                 "2024": 32,
                 "2023": 11
             },
-            "contributions_percent": 0.25,
+            "contributions_percent": 0.26,
             "avatar_url": "https:\/\/www.codencode.it\/codencode-github-logo.jpg",
             "html_url": "https:\/\/www.codencode.it",
             "github_url": null,

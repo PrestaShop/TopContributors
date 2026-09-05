@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11203,
+        "contributions": 11207,
         "repositories": {
-            "PrestaShop": 4648,
+            "PrestaShop": 4650,
             "PrestaShop-modules": 31,
             "PrestaShop-webservice-lib": 4,
             "dashactivity": 14,
@@ -114,7 +114,7 @@
             "php-dev-tools": 4,
             "QANightlyResults": 417,
             "LocalizationFiles": 9,
-            "presthubot": 540,
+            "presthubot": 542,
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
@@ -140,9 +140,9 @@
         },
         "categories": {
             "core": {
-                "total": 4751,
+                "total": 4753,
                 "repositories": {
-                    "PrestaShop": 4648,
+                    "PrestaShop": 4650,
                     "prestashop-ui-kit": 50,
                     "TranslationToolsBundle": 9,
                     "LocalizationFiles": 9,
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1474,
+                "total": 1476,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -280,7 +280,7 @@
                     "mjml-theme-converter": 1,
                     "nightly-board": 50,
                     "PrestaShop-webservice-lib": 4,
-                    "presthubot": 540,
+                    "presthubot": 542,
                     "prestonbot": 10,
                     "QANightlyResults": 417,
                     "TopContributors": 149,
@@ -322,9 +322,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 8005,
+        "contributions": 8006,
         "repositories": {
-            "PrestaShop": 6270,
+            "PrestaShop": 6271,
             "dashactivity": 4,
             "dashgoals": 4,
             "dashproducts": 7,
@@ -426,9 +426,9 @@
         },
         "categories": {
             "core": {
-                "total": 6366,
+                "total": 6367,
                 "repositories": {
-                    "PrestaShop": 6270,
+                    "PrestaShop": 6271,
                     "prestashop-ui-kit": 16,
                     "TranslationToolsBundle": 18,
                     "LocalizationFiles": 3,
@@ -890,9 +890,9 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5288,
+        "contributions": 5314,
         "repositories": {
-            "PrestaShop": 1718,
+            "PrestaShop": 1743,
             "PrestaShop-modules": 349,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 1,
@@ -990,13 +990,13 @@
             "ps_distributionapiclient": 4,
             "ps_apiresources": 3,
             "SeamlessUpgradeToolbox": 9,
-            "skills": 14
+            "skills": 15
         },
         "categories": {
             "core": {
-                "total": 1800,
+                "total": 1825,
                 "repositories": {
-                    "PrestaShop": 1718,
+                    "PrestaShop": 1743,
                     "prestashop-ui-kit": 6,
                     "TranslationToolsBundle": 5,
                     "eslint-config": 1,
@@ -1009,13 +1009,13 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 181,
+                "total": 182,
                 "repositories": {
                     "paymentexample": 1,
                     "docs": 158,
                     "open-source": 7,
                     "example_module_mailtheme": 1,
-                    "skills": 14
+                    "skills": 15
                 }
             },
             "themes": {
@@ -51801,5 +51801,5 @@
             }
         }
     },
-    "updatedAt": "2026-09-04 07:08:28"
+    "updatedAt": "2026-09-05 06:13:22"
 }
