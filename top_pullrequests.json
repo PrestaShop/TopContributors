@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-09-05T06:50:02+00:00",
+    "updatedAt": "2026-09-06T06:54:26+00:00",
     "items": [
         {
             "rank": 1,
@@ -276,6 +276,17 @@
         },
         {
             "rank": 16,
+            "login": "boo-code",
+            "name": "Audrius",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65190196?v=4",
+            "html_url": "https:\/\/github.com\/boo-code",
+            "count": 511,
+            "countByYear": {
+                "2026": 511
+            }
+        },
+        {
+            "rank": 17,
             "login": "atomiix",
             "name": "Thomas Baccelli",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2168836?v=4",
@@ -290,7 +301,7 @@
             }
         },
         {
-            "rank": 17,
+            "rank": 18,
             "login": "xBorderie",
             "name": "Xavier",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2833749?v=4",
@@ -305,7 +316,7 @@
             }
         },
         {
-            "rank": 18,
+            "rank": 19,
             "login": "aleeks",
             "name": "Alex Sampaio",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9074610?v=4",
@@ -317,7 +328,7 @@
             }
         },
         {
-            "rank": 19,
+            "rank": 20,
             "login": "M0rgan01",
             "name": "Morgan Pichat",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/36233446?v=4",
@@ -328,17 +339,6 @@
                 "2025": 109,
                 "2024": 165,
                 "2023": 97
-            }
-        },
-        {
-            "rank": 20,
-            "login": "boo-code",
-            "name": "Audrius",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65190196?v=4",
-            "html_url": "https:\/\/github.com\/boo-code",
-            "count": 404,
-            "countByYear": {
-                "2026": 404
             }
         },
         {
