@@ -5577,9 +5577,9 @@
                 "2025": 1
             }
         },
-        "reviews": 1392,
+        "reviews": 1394,
         "reviewsByYear": {
-            "2026": 266,
+            "2026": 268,
             "2025": 337,
             "2024": 310,
             "2023": 331,
@@ -16434,9 +16434,9 @@
             "2020": 1,
             "2019": 5
         },
-        "pullRequestsOpened": 313,
+        "pullRequestsOpened": 314,
         "pullRequestsOpenedByYear": {
-            "2026": 112,
+            "2026": 113,
             "2025": 137,
             "2024": 35,
             "2023": 23,
@@ -26543,9 +26543,9 @@
             "2024": 147,
             "2023": 62
         },
-        "issuesOpened": 71,
+        "issuesOpened": 73,
         "issuesOpenedByYear": {
-            "2026": 11,
+            "2026": 13,
             "2025": 31,
             "2024": 26,
             "2023": 2,
@@ -29402,9 +29402,9 @@
         "issuesOpenedByYear": {
             "2026": 29
         },
-        "pullRequestsOpened": 511,
+        "pullRequestsOpened": 546,
         "pullRequestsOpenedByYear": {
-            "2026": 511
+            "2026": 546
         }
     },
     "moncef-essid": {
@@ -33361,9 +33361,9 @@
                 "2023": 1
             }
         },
-        "reviews": 215,
+        "reviews": 216,
         "reviewsByYear": {
-            "2026": 20,
+            "2026": 21,
             "2025": 16,
             "2024": 33,
             "2023": 106,
@@ -33716,7 +33716,7 @@
         "company": "@clauzier-dev ",
         "blog": "https:\/\/clauzier.dev\/",
         "location": "Saint-Denis, Reunion Island",
-        "bio": "lvl 27 hacker, Deputy CTO @ https:\/\/opx.co, opensource & web3 enthusiast",
+        "bio": "lvl 28 hacker, Deputy CTO @ https:\/\/opx.co, opensource & web3 enthusiast",
         "email_domain": "clauzier.dev",
         "contributions": 81,
         "repositories": {
@@ -60989,9 +60989,9 @@
         },
         "reviews": 0,
         "reviewsByYear": [],
-        "issuesOpened": 233,
+        "issuesOpened": 234,
         "issuesOpenedByYear": {
-            "2026": 24,
+            "2026": 25,
             "2025": 23,
             "2024": 10,
             "2023": 34,
@@ -103169,5 +103169,5 @@
             "2026": 1
         }
     },
-    "updatedAt": "2026-09-06T06:33:09+00:00"
+    "updatedAt": "2026-09-07T07:12:34+00:00"
 }

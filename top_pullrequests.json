@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-09-06T06:54:26+00:00",
+    "updatedAt": "2026-09-07T07:33:12+00:00",
     "items": [
         {
             "rank": 1,
@@ -259,6 +259,17 @@
         },
         {
             "rank": 15,
+            "login": "boo-code",
+            "name": "Audrius",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65190196?v=4",
+            "html_url": "https:\/\/github.com\/boo-code",
+            "count": 546,
+            "countByYear": {
+                "2026": 546
+            }
+        },
+        {
+            "rank": 16,
             "login": "eternoendless",
             "name": "Pablo Borowicz",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1009343?v=4",
@@ -272,17 +283,6 @@
                 "2019": 115,
                 "2018": 120,
                 "2017": 34
-            }
-        },
-        {
-            "rank": 16,
-            "login": "boo-code",
-            "name": "Audrius",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65190196?v=4",
-            "html_url": "https:\/\/github.com\/boo-code",
-            "count": 511,
-            "countByYear": {
-                "2026": 511
             }
         },
         {
@@ -454,9 +454,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 313,
+            "count": 314,
             "countByYear": {
-                "2026": 112,
+                "2026": 113,
                 "2025": 137,
                 "2024": 35,
                 "2023": 23,
@@ -17921,7 +17921,7 @@
         {
             "rank": 1501,
             "login": "caglarutkuguler",
-            "name": "caglarutkuguler",
+            "name": "\u00c7a\u011flar Utku G\u00dcLER",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/35502440?u=170f1190c64d3812f540d14b757b94cde221e9d0&v=4",
             "html_url": "https:\/\/github.com\/caglarutkuguler",
             "count": 1,

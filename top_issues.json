@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-09-06T06:54:26+00:00",
+    "updatedAt": "2026-09-07T07:33:12+00:00",
     "items": [
         {
             "rank": 1,
@@ -159,9 +159,9 @@
             "name": "MaoDev",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/653230?v=4",
             "html_url": "https:\/\/github.com\/Maofree",
-            "count": 233,
+            "count": 234,
             "countByYear": {
-                "2026": 24,
+                "2026": 25,
                 "2025": 23,
                 "2024": 10,
                 "2023": 34,
@@ -502,6 +502,21 @@
         },
         {
             "rank": 33,
+            "login": "ShaiMagal",
+            "name": "Dominik Shaim Ulrich",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8518736?v=4",
+            "html_url": "https:\/\/github.com\/ShaiMagal",
+            "count": 73,
+            "countByYear": {
+                "2026": 13,
+                "2025": 31,
+                "2024": 26,
+                "2023": 2,
+                "2022": 1
+            }
+        },
+        {
+            "rank": 34,
             "login": "juraj1000",
             "name": "juraj1000",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/33311857?v=4",
@@ -515,7 +530,7 @@
             }
         },
         {
-            "rank": 34,
+            "rank": 35,
             "login": "mattgoud",
             "name": "Matthias Goudjil",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
@@ -525,21 +540,6 @@
                 "2026": 49,
                 "2025": 15,
                 "2024": 8
-            }
-        },
-        {
-            "rank": 35,
-            "login": "ShaiMagal",
-            "name": "Dominik Shaim Ulrich",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8518736?v=4",
-            "html_url": "https:\/\/github.com\/ShaiMagal",
-            "count": 71,
-            "countByYear": {
-                "2026": 11,
-                "2025": 31,
-                "2024": 26,
-                "2023": 2,
-                "2022": 1
             }
         },
         {
