@@ -10,9 +10,9 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11210,
+        "contributions": 11211,
         "repositories": {
-            "PrestaShop": 4651,
+            "PrestaShop": 4652,
             "PrestaShop-modules": 31,
             "PrestaShop-webservice-lib": 4,
             "dashactivity": 14,
@@ -140,9 +140,9 @@
         },
         "categories": {
             "core": {
-                "total": 4754,
+                "total": 4755,
                 "repositories": {
-                    "PrestaShop": 4651,
+                    "PrestaShop": 4652,
                     "prestashop-ui-kit": 50,
                     "TranslationToolsBundle": 9,
                     "LocalizationFiles": 9,
@@ -322,7 +322,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 8078,
+        "contributions": 8080,
         "repositories": {
             "PrestaShop": 6325,
             "dashactivity": 4,
@@ -402,7 +402,7 @@
             "presthubot": 2,
             "example-modules": 113,
             "ps_qualityassurance": 2,
-            ".github": 36,
+            ".github": 38,
             "DocToolsBundle": 34,
             "hummingbird": 14,
             "ps-docs-theme": 3,
@@ -558,9 +558,9 @@
                 }
             },
             "others": {
-                "total": 54,
+                "total": 56,
                 "repositories": {
-                    ".github": 36,
+                    ".github": 38,
                     "zip-archives": 1,
                     "distribution-api": 12,
                     "native-modules": 3,
@@ -1671,7 +1671,7 @@
         "company": "@PrestaShop",
         "blog": "",
         "location": "Bydgoszcz, Poland",
-        "bio": "Head of Technology & Community at @PrestaShop, working across technology, product, and the open-source ecosystem",
+        "bio": "VP Technology & Community at @PrestaShop, working across technology, product, and the open-source ecosystem",
         "email_domain": "",
         "contributions": 3868,
         "repositories": {
@@ -51812,5 +51812,5 @@
             }
         }
     },
-    "updatedAt": "2026-09-11 06:24:54"
+    "updatedAt": "2026-09-12 06:13:13"
 }

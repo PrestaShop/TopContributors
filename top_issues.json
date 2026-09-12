@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-09-11T07:04:36+00:00",
+    "updatedAt": "2026-09-12T06:53:13+00:00",
     "items": [
         {
             "rank": 1,
@@ -2490,6 +2490,20 @@
         },
         {
             "rank": 170,
+            "login": "Kaikina",
+            "name": "Tom Girou",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14168333?v=4",
+            "html_url": "https:\/\/github.com\/Kaikina",
+            "count": 13,
+            "countByYear": {
+                "2026": 7,
+                "2025": 3,
+                "2023": 2,
+                "2022": 1
+            }
+        },
+        {
+            "rank": 171,
             "login": "SiraDIOP",
             "name": "SiraDIOP",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/177132156?v=4",
@@ -2501,7 +2515,7 @@
             }
         },
         {
-            "rank": 171,
+            "rank": 172,
             "login": "alisamie97",
             "name": "Ali Samie",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/23106000?v=4",
@@ -2515,7 +2529,7 @@
             }
         },
         {
-            "rank": 172,
+            "rank": 173,
             "login": "dharmendravirasat",
             "name": "tech-guru ji",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/44469219?v=4",
@@ -2527,7 +2541,7 @@
             }
         },
         {
-            "rank": 173,
+            "rank": 174,
             "login": "guigplt",
             "name": "guigplt",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/44002621?v=4",
@@ -2541,7 +2555,7 @@
             }
         },
         {
-            "rank": 174,
+            "rank": 175,
             "login": "ioweb-gr",
             "name": "IOWEB TECHNOLOGIES",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20220341?v=4",
@@ -2555,7 +2569,7 @@
             }
         },
         {
-            "rank": 175,
+            "rank": 176,
             "login": "l-delin",
             "name": "L\u00e9a Delin",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/113511191?v=4",
@@ -2567,7 +2581,7 @@
             }
         },
         {
-            "rank": 176,
+            "rank": 177,
             "login": "rflorent",
             "name": "rflorent",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8590540?v=4",
@@ -2580,7 +2594,7 @@
             }
         },
         {
-            "rank": 177,
+            "rank": 178,
             "login": "rmilecki",
             "name": "Rafa\u0142 Mi\u0142ecki",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/452972?v=4",
@@ -2593,7 +2607,7 @@
             }
         },
         {
-            "rank": 178,
+            "rank": 179,
             "login": "Borgas",
             "name": "Borgas",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/54105234?v=4",
@@ -2610,7 +2624,7 @@
             }
         },
         {
-            "rank": 179,
+            "rank": 180,
             "login": "GTriber",
             "name": "GTriber",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/60825638?v=4",
@@ -2621,20 +2635,6 @@
                 "2023": 1,
                 "2022": 2,
                 "2020": 8
-            }
-        },
-        {
-            "rank": 180,
-            "login": "Kaikina",
-            "name": "Tom Girou",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14168333?v=4",
-            "html_url": "https:\/\/github.com\/Kaikina",
-            "count": 12,
-            "countByYear": {
-                "2026": 6,
-                "2025": 3,
-                "2023": 2,
-                "2022": 1
             }
         },
         {
