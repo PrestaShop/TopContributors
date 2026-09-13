@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11211,
+        "contributions": 11212,
         "repositories": {
             "PrestaShop": 1213,
             "PrestaShop-modules": 2,
@@ -1356,9 +1356,9 @@
                 "2024": 160
             }
         },
-        "reviews": 7309,
+        "reviews": 7310,
         "reviewsByYear": {
-            "2026": 798,
+            "2026": 799,
             "2025": 801,
             "2024": 703,
             "2023": 509,
@@ -7526,7 +7526,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "VP Technology & Community at @PrestaShop, working across technology, product, and the open-source ecosystem",
         "email_domain": "",
-        "contributions": 3868,
+        "contributions": 3870,
         "repositories": {
             "PrestaShop": 178,
             "PrestaShop-modules": 3,
@@ -8236,9 +8236,9 @@
                 "2026": 2
             }
         },
-        "reviews": 3616,
+        "reviews": 3619,
         "reviewsByYear": {
-            "2026": 449,
+            "2026": 452,
             "2025": 428,
             "2024": 421,
             "2023": 1040,
@@ -18830,7 +18830,7 @@
         "location": "La Roche sur Yon",
         "bio": null,
         "email_domain": "",
-        "contributions": 585,
+        "contributions": 587,
         "repositories": {
             "PrestaShop": 60,
             "dashactivity": 1,
@@ -18853,7 +18853,7 @@
             "ps_socialfollow": 2,
             "ps_customtext": 1,
             "ps_contactinfo": 1,
-            "ps_emailsubscription": 4,
+            "ps_emailsubscription": 5,
             "ps_banner": 1,
             "ps_imageslider": 2,
             "ps_customersignin": 1,
@@ -18862,7 +18862,7 @@
             "docker-internal-images": 1,
             "ps_wirepayment": 1,
             "ps_currencyselector": 1,
-            "ps_facetedsearch": 6,
+            "ps_facetedsearch": 7,
             "ps_customeraccountlinks": 1,
             "ps_checkpayment": 1,
             "ps_bestsellers": 1,
@@ -18962,9 +18962,9 @@
                 }
             },
             "modules": {
-                "total": 84,
+                "total": 86,
                 "byYear": {
-                    "2026": 73,
+                    "2026": 75,
                     "2025": 11
                 },
                 "repositories": {
@@ -18986,14 +18986,14 @@
                     "ps_socialfollow": 2,
                     "ps_customtext": 1,
                     "ps_contactinfo": 1,
-                    "ps_emailsubscription": 4,
+                    "ps_emailsubscription": 5,
                     "ps_banner": 1,
                     "ps_imageslider": 2,
                     "ps_customersignin": 1,
                     "ps_categorytree": 1,
                     "ps_wirepayment": 1,
                     "ps_currencyselector": 1,
-                    "ps_facetedsearch": 6,
+                    "ps_facetedsearch": 7,
                     "ps_customeraccountlinks": 1,
                     "ps_checkpayment": 1,
                     "ps_bestsellers": 1,
@@ -19066,7 +19066,7 @@
                         "2026": 1
                     },
                     "ps_emailsubscription": {
-                        "2026": 4
+                        "2026": 5
                     },
                     "ps_banner": {
                         "2026": 1
@@ -19087,7 +19087,7 @@
                         "2026": 1
                     },
                     "ps_facetedsearch": {
-                        "2026": 6
+                        "2026": 7
                     },
                     "ps_customeraccountlinks": {
                         "2026": 1
@@ -19205,9 +19205,9 @@
                 }
             }
         },
-        "mergedPullRequests": 181,
+        "mergedPullRequests": 183,
         "mergedPullRequestsByYear": {
-            "2026": 129,
+            "2026": 131,
             "2025": 40,
             "2024": 12
         },
@@ -19279,7 +19279,7 @@
                 "2026": 1
             },
             "ps_emailsubscription": {
-                "2026": 4
+                "2026": 5
             },
             "ps_banner": {
                 "2026": 1
@@ -19306,7 +19306,7 @@
                 "2026": 1
             },
             "ps_facetedsearch": {
-                "2026": 6
+                "2026": 7
             },
             "ps_customeraccountlinks": {
                 "2026": 1
@@ -61066,9 +61066,9 @@
         },
         "reviews": 0,
         "reviewsByYear": [],
-        "issuesOpened": 235,
+        "issuesOpened": 236,
         "issuesOpenedByYear": {
-            "2026": 26,
+            "2026": 27,
             "2025": 23,
             "2024": 10,
             "2023": 34,
@@ -103246,5 +103246,5 @@
             "2026": 1
         }
     },
-    "updatedAt": "2026-09-12T06:33:43+00:00"
+    "updatedAt": "2026-09-13T06:37:10+00:00"
 }

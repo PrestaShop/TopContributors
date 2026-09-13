@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-09-12T06:53:13+00:00",
+    "updatedAt": "2026-09-13T06:58:01+00:00",
     "items": [
         {
             "rank": 1,
@@ -142,6 +142,25 @@
         },
         {
             "rank": 9,
+            "login": "Maofree",
+            "name": "MaoDev",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/653230?v=4",
+            "html_url": "https:\/\/github.com\/Maofree",
+            "count": 236,
+            "countByYear": {
+                "2026": 27,
+                "2025": 23,
+                "2024": 10,
+                "2023": 34,
+                "2022": 14,
+                "2021": 21,
+                "2020": 28,
+                "2019": 50,
+                "2018": 29
+            }
+        },
+        {
+            "rank": 10,
             "login": "ibahloul-ps",
             "name": "ibahloul-ps",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/177513962?u=27ccaaa10d321cadff9136ec812595bf1f696e6e&v=4",
@@ -151,25 +170,6 @@
                 "2026": 46,
                 "2025": 138,
                 "2024": 52
-            }
-        },
-        {
-            "rank": 10,
-            "login": "Maofree",
-            "name": "MaoDev",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/653230?v=4",
-            "html_url": "https:\/\/github.com\/Maofree",
-            "count": 235,
-            "countByYear": {
-                "2026": 26,
-                "2025": 23,
-                "2024": 10,
-                "2023": 34,
-                "2022": 14,
-                "2021": 21,
-                "2020": 28,
-                "2019": 50,
-                "2018": 29
             }
         },
         {
@@ -22931,8 +22931,8 @@
         {
             "rank": 1918,
             "login": "CraZzier",
-            "name": "Jan Grzegorek",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20222345?u=654a67477a5f8205d7c4e597a2b0339ee94202b8&v=4",
+            "name": "CraZzier",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20222345?u=cfed8cdd3ba7a577352745ad55276e118e5ee074&v=4",
             "html_url": "https:\/\/github.com\/CraZzier",
             "count": 1,
             "countByYear": {

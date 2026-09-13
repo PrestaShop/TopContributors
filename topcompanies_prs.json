@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-09-12T06:33:43+00:00",
+    "updatedAt": "2026-09-13T06:37:10+00:00",
     "community": {
         "name": "Open Source Community",
         "slug": "open-source-community",
@@ -43,7 +43,7 @@
             "2013": 525,
             "2012": 32
         },
-        "pull_requests_percent": 29.39,
+        "pull_requests_percent": 29.38,
         "contributions": 35749,
         "contributions_by_version": {
             "9.3": 71,
@@ -192,7 +192,7 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 17599,
+            "merged_pull_requests": 17601,
             "merged_pull_requests_by_version": {
                 "9.3": 15,
                 "9.2": 164,
@@ -213,7 +213,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 965,
+                "2026": 967,
                 "2025": 1247,
                 "2024": 1290,
                 "2023": 1572,
@@ -229,7 +229,7 @@
                 "2013": 24
             },
             "pull_requests_percent": 60.31,
-            "contributions": 82607,
+            "contributions": 82609,
             "contributions_by_version": {
                 "9.3": 146,
                 "9.2": 1098,
@@ -250,7 +250,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 4386,
+                "2026": 4388,
                 "2025": 4879,
                 "2024": 5067,
                 "2023": 6413,
@@ -1551,7 +1551,7 @@
                 "2022": 5,
                 "2021": 16
             },
-            "pull_requests_percent": 0.31,
+            "pull_requests_percent": 0.3,
             "contributions": 234,
             "contributions_by_version": {
                 "9.3": 2,
