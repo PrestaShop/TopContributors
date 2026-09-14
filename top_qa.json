@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-09-13T07:09:39+00:00",
+    "updatedAt": "2026-09-14T07:14:45+00:00",
     "items": [
         {
             "rank": 1,
@@ -80,18 +80,18 @@
             "name": "florine2623",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16019289?v=4",
             "html_url": "https:\/\/github.com\/florine2623",
-            "count": 284,
+            "count": 282,
             "countByYear": {
                 "2025": 6,
-                "2024": 88,
+                "2024": 86,
                 "2023": 49,
                 "2022": 109,
                 "2021": 32
             },
-            "qa": 284,
+            "qa": 282,
             "qaByYear": {
                 "2025": 6,
-                "2024": 88,
+                "2024": 86,
                 "2023": 49,
                 "2022": 109,
                 "2021": 32
@@ -168,15 +168,15 @@
             "name": "Blivet Thibault",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/110676325?v=4",
             "html_url": "https:\/\/github.com\/tblivet",
-            "count": 132,
+            "count": 134,
             "countByYear": {
-                "2026": 116,
+                "2026": 118,
                 "2025": 8,
                 "2024": 8
             },
-            "qa": 131,
+            "qa": 133,
             "qaByYear": {
-                "2026": 115,
+                "2026": 117,
                 "2025": 8,
                 "2024": 8
             },
@@ -212,18 +212,18 @@
             "name": "Krystian Podemski",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2137763?v=4",
             "html_url": "https:\/\/github.com\/kpodemski",
-            "count": 89,
+            "count": 88,
             "countByYear": {
                 "2026": 78,
                 "2025": 5,
-                "2024": 3,
+                "2024": 2,
                 "2022": 3
             },
-            "qa": 51,
+            "qa": 50,
             "qaByYear": {
                 "2026": 40,
                 "2025": 5,
-                "2024": 3,
+                "2024": 2,
                 "2022": 3
             },
             "qa_community": 38,
