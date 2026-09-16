@@ -3560,9 +3560,9 @@
                 "2025": 1
             }
         },
-        "reviews": 3335,
+        "reviews": 3338,
         "reviewsByYear": {
-            "2026": 600,
+            "2026": 603,
             "2025": 326,
             "2024": 363,
             "2023": 459,
@@ -3584,9 +3584,9 @@
             "2019": 19,
             "2018": 10
         },
-        "pullRequestsOpened": 1454,
+        "pullRequestsOpened": 1456,
         "pullRequestsOpenedByYear": {
-            "2026": 257,
+            "2026": 259,
             "2025": 228,
             "2024": 258,
             "2023": 136,
@@ -4562,9 +4562,9 @@
                 "2026": 4
             }
         },
-        "reviews": 2253,
+        "reviews": 2256,
         "reviewsByYear": {
-            "2026": 302,
+            "2026": 305,
             "2025": 399,
             "2024": 263,
             "2023": 1,
@@ -4588,9 +4588,9 @@
             "2018": 11,
             "2017": 1
         },
-        "pullRequestsOpened": 1360,
+        "pullRequestsOpened": 1361,
         "pullRequestsOpenedByYear": {
-            "2026": 102,
+            "2026": 103,
             "2025": 228,
             "2024": 76,
             "2023": 2,
@@ -5587,9 +5587,9 @@
                 "2025": 1
             }
         },
-        "reviews": 1401,
+        "reviews": 1403,
         "reviewsByYear": {
-            "2026": 275,
+            "2026": 277,
             "2025": 337,
             "2024": 310,
             "2023": 331,
@@ -15023,7 +15023,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1813,
+        "contributions": 1814,
         "repositories": {
             "PrestaShop": 166,
             "dashactivity": 2,
@@ -15430,9 +15430,9 @@
                 "2026": 5
             }
         },
-        "reviews": 2316,
+        "reviews": 2318,
         "reviewsByYear": {
-            "2026": 412,
+            "2026": 414,
             "2025": 581,
             "2024": 482,
             "2023": 653,
@@ -15446,9 +15446,9 @@
             "2023": 2,
             "2022": 9
         },
-        "pullRequestsOpened": 347,
+        "pullRequestsOpened": 348,
         "pullRequestsOpenedByYear": {
-            "2026": 88,
+            "2026": 89,
             "2025": 85,
             "2024": 76,
             "2023": 65,
@@ -16452,9 +16452,9 @@
             "2020": 1,
             "2019": 5
         },
-        "pullRequestsOpened": 318,
+        "pullRequestsOpened": 319,
         "pullRequestsOpenedByYear": {
-            "2026": 117,
+            "2026": 118,
             "2025": 137,
             "2024": 35,
             "2023": 23,
@@ -19384,21 +19384,21 @@
                 "2026": 8
             }
         },
-        "reviews": 392,
+        "reviews": 396,
         "reviewsByYear": {
-            "2026": 323,
+            "2026": 327,
             "2025": 60,
             "2024": 9
         },
-        "issuesOpened": 77,
+        "issuesOpened": 78,
         "issuesOpenedByYear": {
-            "2026": 54,
+            "2026": 55,
             "2025": 15,
             "2024": 8
         },
-        "pullRequestsOpened": 234,
+        "pullRequestsOpened": 235,
         "pullRequestsOpenedByYear": {
-            "2026": 166,
+            "2026": 167,
             "2025": 49,
             "2024": 19
         }
@@ -25590,9 +25590,9 @@
                 "2025": 1
             }
         },
-        "reviews": 368,
+        "reviews": 369,
         "reviewsByYear": {
-            "2026": 191,
+            "2026": 192,
             "2025": 160,
             "2024": 17
         },
@@ -34103,9 +34103,9 @@
             "2026": 162,
             "2025": 7
         },
-        "issuesOpened": 77,
+        "issuesOpened": 78,
         "issuesOpenedByYear": {
-            "2026": 77
+            "2026": 78
         },
         "pullRequestsOpened": 33,
         "pullRequestsOpenedByYear": {
@@ -35111,7 +35111,7 @@
         "location": "France",
         "bio": null,
         "email_domain": "",
-        "contributions": 167,
+        "contributions": 116,
         "repositories": {
             "PrestaShop": 14,
             "autoupgrade": 1,
@@ -102777,7 +102777,7 @@
         "name": "Harlock",
         "company": null,
         "blog": "",
-        "location": "Ukraine",
+        "location": null,
         "bio": null,
         "email_domain": "",
         "contributions": 1,
@@ -103258,5 +103258,5 @@
             "2026": 1
         }
     },
-    "updatedAt": "2026-09-15T06:37:00+00:00"
+    "updatedAt": "2026-09-16T06:36:08+00:00"
 }
