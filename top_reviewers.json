@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-09-17T06:55:56+00:00",
+    "updatedAt": "2026-09-17T17:53:00+00:00",
     "items": [
         {
             "rank": 1,
@@ -80,9 +80,9 @@
             "name": "Jonathan Lelievre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13801017?v=4",
             "html_url": "https:\/\/github.com\/jolelievre",
-            "count": 3341,
+            "count": 3343,
             "countByYear": {
-                "2026": 606,
+                "2026": 608,
                 "2025": 326,
                 "2024": 363,
                 "2023": 459,
@@ -132,9 +132,9 @@
             "name": "Nicolas L\u0153uillet",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/121870?v=4",
             "html_url": "https:\/\/github.com\/nicosomb",
-            "count": 2318,
+            "count": 2319,
             "countByYear": {
-                "2026": 414,
+                "2026": 415,
                 "2025": 581,
                 "2024": 482,
                 "2023": 653,
@@ -147,9 +147,9 @@
             "name": "Thomas N",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6768917?v=4",
             "html_url": "https:\/\/github.com\/Quetzacoalt91",
-            "count": 2261,
+            "count": 2262,
             "countByYear": {
-                "2026": 310,
+                "2026": 311,
                 "2025": 399,
                 "2024": 263,
                 "2023": 1,
@@ -399,9 +399,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 515,
+            "count": 516,
             "countByYear": {
-                "2026": 221,
+                "2026": 222,
                 "2025": 293,
                 "2023": 1
             }
@@ -453,9 +453,9 @@
             "name": "Matthias Goudjil",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
             "html_url": "https:\/\/github.com\/mattgoud",
-            "count": 400,
+            "count": 402,
             "countByYear": {
-                "2026": 331,
+                "2026": 333,
                 "2025": 60,
                 "2024": 9
             }
@@ -625,9 +625,9 @@
             "name": "Tom Zajac",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5007456?v=4",
             "html_url": "https:\/\/github.com\/SharakPL",
-            "count": 217,
+            "count": 218,
             "countByYear": {
-                "2026": 22,
+                "2026": 23,
                 "2025": 16,
                 "2024": 33,
                 "2023": 106,
@@ -697,9 +697,9 @@
             "name": "Cyril Navarro",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/127135637?v=4",
             "html_url": "https:\/\/github.com\/cnavarro-prestashop",
-            "count": 171,
+            "count": 172,
             "countByYear": {
-                "2026": 164,
+                "2026": 165,
                 "2025": 7
             }
         },

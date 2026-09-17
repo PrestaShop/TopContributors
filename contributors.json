@@ -1673,7 +1673,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "VP Technology & Community at @PrestaShop, working across technology, product, and the open-source ecosystem",
         "email_domain": "",
-        "contributions": 3872,
+        "contributions": 3874,
         "repositories": {
             "PrestaShop": 921,
             "PrestaShop-modules": 4,
@@ -1745,7 +1745,7 @@
             "ps_crossselling": 2,
             "ps_dataprivacy": 1,
             "ps_cashondelivery": 1,
-            "traces": 7,
+            "traces": 9,
             "core-weekly-generator": 2,
             "TopContributors": 5,
             "ps_googleanalytics": 5,
@@ -1907,7 +1907,7 @@
                 }
             },
             "tools": {
-                "total": 45,
+                "total": 47,
                 "repositories": {
                     "core-weekly-generator": 2,
                     "issuebot": 1,
@@ -1917,7 +1917,7 @@
                     "presthubot": 16,
                     "ps-monitor-module-releases": 4,
                     "TopContributors": 5,
-                    "traces": 7,
+                    "traces": 9,
                     "kanbanbot": 3,
                     "ps-project-metrics": 1,
                     "phpstan-prestashop": 1
@@ -51813,5 +51813,5 @@
             }
         }
     },
-    "updatedAt": "2026-09-17 06:15:02"
+    "updatedAt": "2026-09-17 17:07:47"
 }
