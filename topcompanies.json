@@ -5,14 +5,14 @@
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 7557,
+        "merged_pull_requests": 7369,
         "merged_pull_requests_by_version": {
             "9.3": 9,
-            "9.2": 46,
-            "9.1": 51,
-            "9.0": 133,
-            "8.2": 17,
-            "8.1": 182,
+            "9.2": 27,
+            "9.1": 34,
+            "9.0": 118,
+            "8.2": 10,
+            "8.1": 181,
             "8.0": 333,
             "1.7.8": 576,
             "1.7.7": 285,
@@ -26,31 +26,31 @@
             "1.6.1": 273
         },
         "merged_pull_requests_by_year": {
-            "2026": 280,
-            "2025": 148,
-            "2024": 173,
-            "2023": 462,
-            "2022": 693,
+            "2026": 181,
+            "2025": 98,
+            "2024": 154,
+            "2023": 448,
+            "2022": 691,
             "2021": 595,
-            "2020": 790,
+            "2020": 788,
             "2019": 568,
             "2018": 618,
-            "2017": 660,
-            "2016": 919,
+            "2017": 659,
+            "2016": 918,
             "2015": 479,
             "2014": 615,
             "2013": 525,
             "2012": 32
         },
-        "pull_requests_percent": 25.89,
-        "contributions": 28847,
+        "pull_requests_percent": 25.23,
+        "contributions": 27711,
         "contributions_by_version": {
             "9.3": 14,
-            "9.2": 275,
-            "9.1": 195,
-            "9.0": 923,
-            "8.2": 27,
-            "8.1": 1147,
+            "9.2": 114,
+            "9.1": 58,
+            "9.0": 865,
+            "8.2": 17,
+            "8.1": 1125,
             "8.0": 2330,
             "1.7.8": 3941,
             "1.7.7": 1998,
@@ -64,23 +64,23 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 1224,
-            "2025": 449,
-            "2024": 494,
-            "2023": 2038,
-            "2022": 3364,
+            "2026": 522,
+            "2025": 211,
+            "2024": 395,
+            "2023": 1956,
+            "2022": 3361,
             "2021": 3754,
-            "2020": 4242,
+            "2020": 4237,
             "2019": 3076,
             "2018": 2554,
-            "2017": 1370,
-            "2016": 1570,
+            "2017": 1369,
+            "2016": 1564,
             "2015": 1004,
             "2014": 2621,
             "2013": 1031,
             "2012": 56
         },
-        "contributions_percent": 22.71,
+        "contributions_percent": 21.81,
         "avatar_url": "",
         "html_url": "https:\/\/www.prestashop-project.org",
         "github_url": null,
@@ -94,14 +94,14 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 18619,
+            "merged_pull_requests": 18817,
             "merged_pull_requests_by_version": {
-                "9.3": 27,
-                "9.2": 220,
-                "9.1": 284,
-                "9.0": 1307,
-                "8.2": 41,
-                "8.1": 544,
+                "9.3": 28,
+                "9.2": 239,
+                "9.1": 301,
+                "9.0": 1322,
+                "8.2": 48,
+                "8.1": 545,
                 "8.0": 808,
                 "1.7.8": 1067,
                 "1.7.7": 1305,
@@ -115,30 +115,30 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 1129,
-                "2025": 1535,
-                "2024": 1653,
-                "2023": 1777,
-                "2022": 1594,
+                "2026": 1238,
+                "2025": 1585,
+                "2024": 1672,
+                "2023": 1791,
+                "2022": 1596,
                 "2021": 1832,
-                "2020": 2641,
+                "2020": 2643,
                 "2019": 1458,
                 "2018": 939,
-                "2017": 794,
-                "2016": 1803,
+                "2017": 795,
+                "2016": 1804,
                 "2015": 1049,
                 "2014": 391,
                 "2013": 24
             },
-            "pull_requests_percent": 63.78,
-            "contributions": 89485,
+            "pull_requests_percent": 64.43,
+            "contributions": 90644,
             "contributions_by_version": {
-                "9.3": 225,
-                "9.2": 1557,
-                "9.1": 3116,
-                "9.0": 6125,
-                "8.2": 93,
-                "8.1": 3260,
+                "9.3": 228,
+                "9.2": 1718,
+                "9.1": 3253,
+                "9.0": 6183,
+                "8.2": 103,
+                "8.1": 3282,
                 "8.0": 5118,
                 "1.7.8": 9121,
                 "1.7.7": 6592,
@@ -152,22 +152,22 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 5937,
-                "2025": 6540,
-                "2024": 7246,
-                "2023": 7900,
-                "2022": 10211,
+                "2026": 6662,
+                "2025": 6778,
+                "2024": 7345,
+                "2023": 7982,
+                "2022": 10214,
                 "2021": 11920,
-                "2020": 14825,
+                "2020": 14830,
                 "2019": 8408,
                 "2018": 5270,
-                "2017": 2575,
-                "2016": 5624,
+                "2017": 2576,
+                "2016": 5630,
                 "2015": 2207,
                 "2014": 786,
                 "2013": 36
             },
-            "contributions_percent": 70.44,
+            "contributions_percent": 71.33,
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2815696?s=200&v=4",
             "html_url": "https:\/\/www.prestashop.com",
             "github_url": null,
@@ -184,6 +184,7 @@
                 "kpodemski",
                 "tleon",
                 "AureRita",
+                "Poulinhoo",
                 "boherm",
                 "guillaume60240",
                 "ThbPS",
@@ -194,6 +195,7 @@
                 "mehdiboissat-bron",
                 "intraordinaire",
                 "kevin-carangeot",
+                "dylanDenizonPresta",
                 "tyloo",
                 "Matt75",
                 "seiwan",
@@ -257,6 +259,7 @@
                 "sam-pires",
                 "colinegin",
                 "gericfo",
+                "jmcollin",
                 "SimonasB88",
                 "arthurzenika",
                 "MonsieurRb",
@@ -264,7 +267,8 @@
                 "Hlavtox",
                 "Alexandre-Lematre",
                 "Clap404",
-                "cdesiles"
+                "cdesiles",
+                "L3RAZ"
             ],
             "employees": [
                 {
@@ -291,6 +295,15 @@
                         {
                             "start_date": "2019-06-26",
                             "end_date": "2023-07-24"
+                        }
+                    ]
+                },
+                {
+                    "login": "Alexandre-Lematre",
+                    "time_frames": [
+                        {
+                            "start_date": "2023-02-01",
+                            "end_date": null
                         }
                     ]
                 },
@@ -367,6 +380,15 @@
                     ]
                 },
                 {
+                    "login": "cnavarro-prestashop",
+                    "time_frames": [
+                        {
+                            "start_date": "2023-03-01",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
                     "login": "coffrep",
                     "time_frames": [
                         {
@@ -394,6 +416,15 @@
                     ]
                 },
                 {
+                    "login": "dylanDenizonPresta",
+                    "time_frames": [
+                        {
+                            "start_date": "2022-12-01",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
                     "login": "eternoendless",
                     "time_frames": [
                         {
@@ -416,6 +447,15 @@
                     "time_frames": [
                         {
                             "start_date": "2019-01-03",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "fox-john",
+                    "time_frames": [
+                        {
+                            "start_date": "2021-06-01",
                             "end_date": null
                         }
                     ]
@@ -474,6 +514,15 @@
                     "time_frames": [
                         {
                             "start_date": "2021-10-04",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "jmcollin",
+                    "time_frames": [
+                        {
+                            "start_date": "2013-12-01",
                             "end_date": null
                         }
                     ]
@@ -560,6 +609,15 @@
                     ]
                 },
                 {
+                    "login": "L3RAZ",
+                    "time_frames": [
+                        {
+                            "start_date": "2025-01-01",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
                     "login": "lartist",
                     "time_frames": [
                         {
@@ -627,6 +685,15 @@
                     "time_frames": [
                         {
                             "start_date": "2018-12-03",
+                            "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "mattgoud",
+                    "time_frames": [
+                        {
+                            "start_date": "2022-02-01",
                             "end_date": null
                         }
                     ]
@@ -718,6 +785,15 @@
                         {
                             "start_date": "2018-09-24",
                             "end_date": null
+                        }
+                    ]
+                },
+                {
+                    "login": "Poulinhoo",
+                    "time_frames": [
+                        {
+                            "start_date": "2018-10-01",
+                            "end_date": "2026-07-28"
                         }
                     ]
                 },
@@ -826,6 +902,15 @@
                         {
                             "start_date": "2014-03-31",
                             "end_date": "2016-05-16"
+                        }
+                    ]
+                },
+                {
+                    "login": "ThbPS",
+                    "time_frames": [
+                        {
+                            "start_date": "2022-07-01",
+                            "end_date": null
                         }
                     ]
                 },

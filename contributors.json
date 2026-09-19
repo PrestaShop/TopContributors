@@ -322,9 +322,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 8091,
+        "contributions": 8111,
         "repositories": {
-            "PrestaShop": 6334,
+            "PrestaShop": 6335,
             "dashactivity": 4,
             "dashgoals": 4,
             "dashproducts": 7,
@@ -380,7 +380,7 @@
             "ps_dataprivacy": 1,
             "ps_cashondelivery": 4,
             "ps_viewedproduct": 4,
-            "traces": 11,
+            "traces": 12,
             "core-weekly-generator": 1,
             "TopContributors": 2,
             "TranslationFiles": 23,
@@ -408,7 +408,7 @@
             "ps-docs-theme": 3,
             "devdocs-site": 5,
             "distribution-api": 12,
-            "ga.tests.ui.pr": 76,
+            "ga.tests.ui.pr": 94,
             "classic-theme": 74,
             "ps_distributionapiclient": 19,
             "native-modules": 3,
@@ -426,9 +426,9 @@
         },
         "categories": {
             "core": {
-                "total": 6430,
+                "total": 6431,
                 "repositories": {
-                    "PrestaShop": 6334,
+                    "PrestaShop": 6335,
                     "prestashop-ui-kit": 16,
                     "TranslationToolsBundle": 18,
                     "LocalizationFiles": 3,
@@ -524,7 +524,7 @@
                 }
             },
             "tools": {
-                "total": 182,
+                "total": 183,
                 "repositories": {
                     "composer-script-handler": 1,
                     "autoload": 2,
@@ -539,16 +539,16 @@
                     "prestonbot": 14,
                     "QANightlyResults": 1,
                     "TopContributors": 2,
-                    "traces": 11,
+                    "traces": 12,
                     "kanbanbot": 3,
                     "SeamlessUpgradeToolbox": 2
                 }
             },
             "tests": {
-                "total": 120,
+                "total": 138,
                 "repositories": {
                     "ui-testing-library": 44,
-                    "ga.tests.ui.pr": 76
+                    "ga.tests.ui.pr": 94
                 }
             },
             "blog": {
@@ -890,7 +890,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5351,
+        "contributions": 5352,
         "repositories": {
             "PrestaShop": 1747,
             "PrestaShop-modules": 349,
@@ -972,7 +972,7 @@
             "ps_dataprivacy": 1,
             "ps_cashondelivery": 3,
             "ps_viewedproduct": 5,
-            "traces": 2,
+            "traces": 3,
             "TranslationFiles": 1,
             "ps_googleanalytics": 153,
             "firebaseauthenticator": 23,
@@ -1098,7 +1098,7 @@
                 }
             },
             "tools": {
-                "total": 602,
+                "total": 603,
                 "repositories": {
                     "azure-template-basic": 6,
                     "azure-template-high-performance": 10,
@@ -1111,7 +1111,7 @@
                     "prestashop-shop-creator": 1,
                     "prestonbot": 2,
                     "TopTranslators": 1,
-                    "traces": 2,
+                    "traces": 3,
                     "SeamlessUpgradeToolbox": 9
                 }
             },
@@ -4975,9 +4975,9 @@
         "location": null,
         "bio": "Web Integrator",
         "email_domain": "",
-        "contributions": 928,
+        "contributions": 931,
         "repositories": {
-            "PrestaShop": 59,
+            "PrestaShop": 62,
             "productcomments": 5,
             "autoupgrade": 177,
             "prestashop.github.io": 42,
@@ -4999,9 +4999,9 @@
         },
         "categories": {
             "core": {
-                "total": 73,
+                "total": 76,
                 "repositories": {
-                    "PrestaShop": 59,
+                    "PrestaShop": 62,
                     "prestashop-ui-kit": 14
                 }
             },
@@ -51813,5 +51813,5 @@
             }
         }
     },
-    "updatedAt": "2026-09-18 06:14:57"
+    "updatedAt": "2026-09-19 06:13:21"
 }
