@@ -2659,7 +2659,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 8111,
+        "contributions": 8113,
         "repositories": {
             "PrestaShop": 802,
             "dashactivity": 1,
@@ -2675,7 +2675,7 @@
             "productcomments": 11,
             "autoupgrade": 32,
             "gsitemap": 1,
-            "prestashop.github.io": 4,
+            "prestashop.github.io": 5,
             "docker": 24,
             "contactform": 2,
             "prestashop-ui-kit": 10,
@@ -3201,17 +3201,17 @@
                 }
             },
             "blog": {
-                "total": 4,
+                "total": 5,
                 "byYear": {
-                    "2026": 1,
+                    "2026": 2,
                     "2025": 3
                 },
                 "repositories": {
-                    "prestashop.github.io": 4
+                    "prestashop.github.io": 5
                 },
                 "repositoriesByYear": {
                     "prestashop.github.io": {
-                        "2026": 1,
+                        "2026": 2,
                         "2025": 3
                     }
                 }
@@ -3243,9 +3243,9 @@
                 }
             }
         },
-        "mergedPullRequests": 1304,
+        "mergedPullRequests": 1305,
         "mergedPullRequestsByYear": {
-            "2026": 238,
+            "2026": 239,
             "2025": 220,
             "2024": 237,
             "2023": 105,
@@ -3315,7 +3315,7 @@
                 "2026": 1
             },
             "prestashop.github.io": {
-                "2026": 1,
+                "2026": 2,
                 "2025": 3
             },
             "docker": {
@@ -7526,7 +7526,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "VP Technology & Community at @PrestaShop, working across technology, product, and the open-source ecosystem",
         "email_domain": "",
-        "contributions": 3874,
+        "contributions": 3875,
         "repositories": {
             "PrestaShop": 178,
             "PrestaShop-modules": 3,
@@ -8238,9 +8238,9 @@
                 "2026": 2
             }
         },
-        "reviews": 3621,
+        "reviews": 3622,
         "reviewsByYear": {
-            "2026": 454,
+            "2026": 455,
             "2025": 428,
             "2024": 421,
             "2023": 1040,
@@ -16139,7 +16139,7 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 444,
+        "contributions": 445,
         "repositories": {
             "PrestaShop": 150,
             "dashactivity": 1,
@@ -16153,7 +16153,7 @@
             "ps_imageslider": 2,
             "ps_mainmenu": 1,
             "docs": 4,
-            "ps_facetedsearch": 4,
+            "ps_facetedsearch": 5,
             "ps_specials": 1,
             "traces": 2,
             "psgdpr": 1,
@@ -16236,9 +16236,9 @@
                 }
             },
             "modules": {
-                "total": 41,
+                "total": 42,
                 "byYear": {
-                    "2026": 12,
+                    "2026": 13,
                     "2025": 23,
                     "2024": 4,
                     "2020": 1,
@@ -16254,7 +16254,7 @@
                     "ps_emailsubscription": 7,
                     "ps_imageslider": 2,
                     "ps_mainmenu": 1,
-                    "ps_facetedsearch": 4,
+                    "ps_facetedsearch": 5,
                     "ps_specials": 1,
                     "psgdpr": 1,
                     "ps_apiresources": 10
@@ -16294,6 +16294,7 @@
                         "2025": 1
                     },
                     "ps_facetedsearch": {
+                        "2026": 1,
                         "2025": 3,
                         "2024": 1
                     },
@@ -16350,9 +16351,9 @@
                 "repositoriesByYear": []
             }
         },
-        "mergedPullRequests": 218,
+        "mergedPullRequests": 219,
         "mergedPullRequestsByYear": {
-            "2026": 97,
+            "2026": 98,
             "2025": 93,
             "2024": 18,
             "2023": 7,
@@ -16408,6 +16409,7 @@
                 "2025": 1
             },
             "ps_facetedsearch": {
+                "2026": 1,
                 "2025": 3,
                 "2024": 1
             },
@@ -33597,9 +33599,9 @@
                 "2023": 1
             }
         },
-        "reviews": 218,
+        "reviews": 219,
         "reviewsByYear": {
-            "2026": 23,
+            "2026": 24,
             "2025": 16,
             "2024": 33,
             "2023": 106,
@@ -103268,5 +103270,5 @@
             "2026": 1
         }
     },
-    "updatedAt": "2026-09-19T06:31:41+00:00"
+    "updatedAt": "2026-09-20T06:30:40+00:00"
 }
