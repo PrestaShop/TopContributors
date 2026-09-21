@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11219,
+        "contributions": 11220,
         "repositories": {
             "PrestaShop": 1213,
             "PrestaShop-modules": 2,
@@ -1356,9 +1356,9 @@
                 "2024": 160
             }
         },
-        "reviews": 7317,
+        "reviews": 7318,
         "reviewsByYear": {
-            "2026": 806,
+            "2026": 807,
             "2025": 801,
             "2024": 703,
             "2023": 509,
@@ -8238,9 +8238,9 @@
                 "2026": 2
             }
         },
-        "reviews": 3622,
+        "reviews": 3628,
         "reviewsByYear": {
-            "2026": 455,
+            "2026": 461,
             "2025": 428,
             "2024": 421,
             "2023": 1040,
@@ -15025,7 +15025,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1817,
+        "contributions": 1819,
         "repositories": {
             "PrestaShop": 167,
             "dashactivity": 2,
@@ -15432,9 +15432,9 @@
                 "2026": 5
             }
         },
-        "reviews": 2319,
+        "reviews": 2321,
         "reviewsByYear": {
-            "2026": 415,
+            "2026": 417,
             "2025": 581,
             "2024": 482,
             "2023": 653,
@@ -16456,9 +16456,9 @@
             "2020": 1,
             "2019": 5
         },
-        "pullRequestsOpened": 323,
+        "pullRequestsOpened": 324,
         "pullRequestsOpenedByYear": {
-            "2026": 122,
+            "2026": 123,
             "2025": 137,
             "2024": 35,
             "2023": 23,
@@ -103270,5 +103270,5 @@
             "2026": 1
         }
     },
-    "updatedAt": "2026-09-20T06:30:40+00:00"
+    "updatedAt": "2026-09-21T06:39:10+00:00"
 }

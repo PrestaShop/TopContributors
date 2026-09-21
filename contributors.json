@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11219,
+        "contributions": 11220,
         "repositories": {
             "PrestaShop": 4656,
             "PrestaShop-modules": 31,
@@ -94,7 +94,7 @@
             "ps_feeder": 1,
             "traces": 234,
             "core-weekly-generator": 6,
-            "TopContributors": 150,
+            "TopContributors": 151,
             "TranslationFiles": 3,
             "ps_livetranslation": 13,
             "ps_googleanalytics": 20,
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1481,
+                "total": 1482,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -283,7 +283,7 @@
                     "presthubot": 543,
                     "prestonbot": 10,
                     "QANightlyResults": 420,
-                    "TopContributors": 150,
+                    "TopContributors": 151,
                     "TopTranslators": 1,
                     "traces": 234,
                     "ps-project-metrics": 4
@@ -3376,7 +3376,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1817,
+        "contributions": 1819,
         "repositories": {
             "PrestaShop": 933,
             "PrestaShop-webservice-lib": 1,
@@ -3429,7 +3429,7 @@
             "ps_crossselling": 4,
             "ps_dataprivacy": 1,
             "ps_cashondelivery": 2,
-            "traces": 25,
+            "traces": 26,
             "TopContributors": 7,
             "ps_googleanalytics": 4,
             "ps_themecusto": 3,
@@ -3439,7 +3439,7 @@
             "open-source": 23,
             "mjml-theme-converter": 1,
             "php-dev-tools": 4,
-            "QANightlyResults": 164,
+            "QANightlyResults": 165,
             "LocalizationFiles": 8,
             "presthubot": 105,
             "example-modules": 7,
@@ -3550,7 +3550,7 @@
                 }
             },
             "tools": {
-                "total": 339,
+                "total": 341,
                 "repositories": {
                     "bootstrap-compatibility-layer": 1,
                     "docker": 7,
@@ -3561,10 +3561,10 @@
                     "PrestaShop-webservice-lib": 1,
                     "presthubot": 105,
                     "prestonbot": 1,
-                    "QANightlyResults": 164,
+                    "QANightlyResults": 165,
                     "TopContributors": 7,
                     "TopTranslators": 1,
-                    "traces": 25,
+                    "traces": 26,
                     "kanbanbot": 22,
                     "SeamlessUpgradeToolbox": 1
                 }
@@ -51813,5 +51813,5 @@
             }
         }
     },
-    "updatedAt": "2026-09-20 06:12:55"
+    "updatedAt": "2026-09-21 06:18:59"
 }
