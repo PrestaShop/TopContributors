@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-09-22T09:12:32+00:00",
+    "updatedAt": "2026-09-23T07:02:49+00:00",
     "items": [
         {
             "rank": 1,
@@ -110,9 +110,9 @@
             "name": "Jonathan Lelievre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13801017?v=4",
             "html_url": "https:\/\/github.com\/jolelievre",
-            "count": 267,
+            "count": 268,
             "countByYear": {
-                "2026": 33,
+                "2026": 34,
                 "2025": 20,
                 "2024": 43,
                 "2023": 83,
@@ -198,9 +198,9 @@
             "name": "Jonathan Danse",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2631425?v=4",
             "html_url": "https:\/\/github.com\/PrestaEdit",
-            "count": 138,
+            "count": 142,
             "countByYear": {
-                "2026": 16,
+                "2026": 20,
                 "2025": 3,
                 "2024": 7,
                 "2023": 24,
@@ -426,9 +426,9 @@
             "name": "Cyril Navarro",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/127135637?v=4",
             "html_url": "https:\/\/github.com\/cnavarro-prestashop",
-            "count": 84,
+            "count": 86,
             "countByYear": {
-                "2026": 84
+                "2026": 86
             }
         },
         {
@@ -14897,7 +14897,7 @@
         {
             "rank": 1204,
             "login": "YUxiangLuo",
-            "name": "YUxiangLuo",
+            "name": "YutoTanaka",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/24310210?u=bb9832a69f319bd6f23d3292c6904d73cf573084&v=4",
             "html_url": "https:\/\/github.com\/YUxiangLuo",
             "count": 2,
@@ -18691,7 +18691,7 @@
             "rank": 1538,
             "login": "nisteria",
             "name": "lech",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1664247?v=4",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1664247?u=19f82f4f7d10ac01a917075168ca06dbb8836095&v=4",
             "html_url": "https:\/\/github.com\/nisteria",
             "count": 2,
             "countByYear": {
@@ -38320,7 +38320,7 @@
         {
             "rank": 3317,
             "login": "copostic",
-            "name": "CorentinP",
+            "name": "CMPDev",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/17200174?v=4",
             "html_url": "https:\/\/github.com\/copostic",
             "count": 1,
@@ -41918,7 +41918,7 @@
             "rank": 3644,
             "login": "gacalixto",
             "name": "Gabriel Calixto de Paula",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/29805452?u=26e881c41cec9750c39f804bce9f0744fb30fe93&v=4",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/29805452?u=4e72ca519008914409dc445f2826001e0b04989a&v=4",
             "html_url": "https:\/\/github.com\/gacalixto",
             "count": 1,
             "countByYear": {

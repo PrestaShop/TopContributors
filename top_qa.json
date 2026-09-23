@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-09-22T09:26:53+00:00",
+    "updatedAt": "2026-09-23T07:14:33+00:00",
     "items": [
         {
             "rank": 1,
@@ -168,15 +168,15 @@
             "name": "Blivet Thibault",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/110676325?v=4",
             "html_url": "https:\/\/github.com\/tblivet",
-            "count": 144,
+            "count": 146,
             "countByYear": {
-                "2026": 128,
+                "2026": 130,
                 "2025": 8,
                 "2024": 8
             },
-            "qa": 143,
+            "qa": 145,
             "qaByYear": {
-                "2026": 127,
+                "2026": 129,
                 "2025": 8,
                 "2024": 8
             },
@@ -212,9 +212,9 @@
             "name": "Krystian Podemski",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2137763?v=4",
             "html_url": "https:\/\/github.com\/kpodemski",
-            "count": 90,
+            "count": 89,
             "countByYear": {
-                "2026": 79,
+                "2026": 78,
                 "2025": 6,
                 "2024": 2,
                 "2022": 3
@@ -226,9 +226,9 @@
                 "2024": 2,
                 "2022": 3
             },
-            "qa_community": 37,
+            "qa_community": 36,
             "qaCommunityByYear": {
-                "2026": 37
+                "2026": 36
             }
         },
         {

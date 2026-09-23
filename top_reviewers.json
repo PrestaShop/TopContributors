@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-09-22T09:12:32+00:00",
+    "updatedAt": "2026-09-23T07:02:49+00:00",
     "items": [
         {
             "rank": 1,
@@ -40,9 +40,9 @@
             "name": "Mathieu Ferment",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3830050?v=4",
             "html_url": "https:\/\/github.com\/matks",
-            "count": 4431,
+            "count": 4433,
             "countByYear": {
-                "2026": 10,
+                "2026": 12,
                 "2025": 74,
                 "2024": 212,
                 "2023": 471,
@@ -80,9 +80,9 @@
             "name": "Jonathan Lelievre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13801017?v=4",
             "html_url": "https:\/\/github.com\/jolelievre",
-            "count": 3350,
+            "count": 3352,
             "countByYear": {
-                "2026": 615,
+                "2026": 617,
                 "2025": 326,
                 "2024": 363,
                 "2023": 459,
@@ -197,9 +197,9 @@
             "name": "Daniel Hlav\u00e1\u010dek",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6097524?v=4",
             "html_url": "https:\/\/github.com\/Hlavtox",
-            "count": 1406,
+            "count": 1407,
             "countByYear": {
-                "2026": 280,
+                "2026": 281,
                 "2025": 337,
                 "2024": 310,
                 "2023": 331,
@@ -399,9 +399,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 526,
+            "count": 529,
             "countByYear": {
-                "2026": 232,
+                "2026": 235,
                 "2025": 293,
                 "2023": 1
             }
@@ -1313,6 +1313,18 @@
         },
         {
             "rank": 95,
+            "login": "nicohery",
+            "name": "Nico H",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/881477?v=4",
+            "html_url": "https:\/\/github.com\/nicohery",
+            "count": 26,
+            "countByYear": {
+                "2026": 21,
+                "2025": 5
+            }
+        },
+        {
+            "rank": 96,
             "login": "alegout",
             "name": "Alban",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5212567?v=4",
@@ -1321,18 +1333,6 @@
             "countByYear": {
                 "2018": 24,
                 "2017": 1
-            }
-        },
-        {
-            "rank": 96,
-            "login": "nicohery",
-            "name": "Nico H",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/881477?v=4",
-            "html_url": "https:\/\/github.com\/nicohery",
-            "count": 25,
-            "countByYear": {
-                "2026": 20,
-                "2025": 5
             }
         },
         {
