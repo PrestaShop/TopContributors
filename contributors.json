@@ -322,9 +322,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 8113,
+        "contributions": 8114,
         "repositories": {
-            "PrestaShop": 6335,
+            "PrestaShop": 6336,
             "dashactivity": 4,
             "dashgoals": 4,
             "dashproducts": 7,
@@ -426,9 +426,9 @@
         },
         "categories": {
             "core": {
-                "total": 6431,
+                "total": 6432,
                 "repositories": {
-                    "PrestaShop": 6335,
+                    "PrestaShop": 6336,
                     "prestashop-ui-kit": 16,
                     "TranslationToolsBundle": 18,
                     "LocalizationFiles": 3,
@@ -890,9 +890,9 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5356,
+        "contributions": 5360,
         "repositories": {
-            "PrestaShop": 1749,
+            "PrestaShop": 1753,
             "PrestaShop-modules": 349,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 1,
@@ -994,9 +994,9 @@
         },
         "categories": {
             "core": {
-                "total": 1831,
+                "total": 1835,
                 "repositories": {
-                    "PrestaShop": 1749,
+                    "PrestaShop": 1753,
                     "prestashop-ui-kit": 6,
                     "TranslationToolsBundle": 5,
                     "eslint-config": 1,
@@ -4975,9 +4975,9 @@
         "location": null,
         "bio": "Web Integrator",
         "email_domain": "",
-        "contributions": 931,
+        "contributions": 940,
         "repositories": {
-            "PrestaShop": 62,
+            "PrestaShop": 65,
             "productcomments": 5,
             "autoupgrade": 177,
             "prestashop.github.io": 42,
@@ -4995,13 +4995,13 @@
             "ps_apiresources": 9,
             "ui-testing-library": 4,
             "Prestashop-BO-themes-package": 3,
-            "skills": 20
+            "skills": 26
         },
         "categories": {
             "core": {
-                "total": 76,
+                "total": 79,
                 "repositories": {
-                    "PrestaShop": 62,
+                    "PrestaShop": 65,
                     "prestashop-ui-kit": 14
                 }
             },
@@ -5010,13 +5010,13 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 85,
+                "total": 91,
                 "repositories": {
                     "docs": 60,
                     "open-source": 1,
                     "ps-docs-theme": 2,
                     "devdocs-site": 2,
-                    "skills": 20
+                    "skills": 26
                 }
             },
             "themes": {
@@ -6700,9 +6700,9 @@
         "location": "La Roche sur Yon",
         "bio": null,
         "email_domain": "",
-        "contributions": 588,
+        "contributions": 589,
         "repositories": {
-            "PrestaShop": 269,
+            "PrestaShop": 270,
             "dashactivity": 1,
             "dashgoals": 1,
             "dashproducts": 3,
@@ -6759,9 +6759,9 @@
         },
         "categories": {
             "core": {
-                "total": 272,
+                "total": 273,
                 "repositories": {
-                    "PrestaShop": 269,
+                    "PrestaShop": 270,
                     "prestashop-ui-kit": 3
                 }
             },
@@ -28233,6 +28233,65 @@
             }
         }
     },
+    "arthurzenika": {
+        "login": "arthurzenika",
+        "id": 445200,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/445200?v=4",
+        "html_url": "https:\/\/github.com\/arthurzenika",
+        "name": "Arthur Lutz",
+        "company": "Zenika Nantes",
+        "blog": "https:\/\/github.com\/arthurzenika",
+        "location": "France",
+        "bio": null,
+        "email_domain": "zenika.com",
+        "contributions": 5,
+        "repositories": {
+            "nightly-board": 1,
+            "devdocs-site": 4
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 4,
+                "repositories": {
+                    "devdocs-site": 4
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 1,
+                "repositories": {
+                    "nightly-board": 1
+                }
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "leagris": {
         "login": "leagris",
         "id": 1111474,
@@ -49688,62 +49747,6 @@
             }
         }
     },
-    "arthurzenika": {
-        "login": "arthurzenika",
-        "id": 445200,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/445200?v=4",
-        "html_url": "https:\/\/github.com\/arthurzenika",
-        "name": "Arthur Lutz",
-        "company": "Zenika Nantes",
-        "blog": "https:\/\/github.com\/arthurzenika",
-        "location": "France",
-        "bio": null,
-        "email_domain": "zenika.com",
-        "contributions": 1,
-        "repositories": {
-            "nightly-board": 1
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 1,
-                "repositories": {
-                    "nightly-board": 1
-                }
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
     "notklaatu": {
         "login": "notklaatu",
         "id": 2211671,
@@ -51816,5 +51819,5 @@
             }
         }
     },
-    "updatedAt": "2026-09-24 06:15:53"
+    "updatedAt": "2026-09-25 06:21:51"
 }
