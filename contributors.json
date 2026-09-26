@@ -3376,9 +3376,9 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1821,
+        "contributions": 1824,
         "repositories": {
-            "PrestaShop": 933,
+            "PrestaShop": 935,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 7,
             "dashgoals": 3,
@@ -3448,7 +3448,7 @@
             "DocToolsBundle": 1,
             "hummingbird": 39,
             "distribution-api": 5,
-            "ga.tests.ui.pr": 4,
+            "ga.tests.ui.pr": 5,
             "user-documentation-v8-en": 1,
             "classic-theme": 12,
             "ps_distributionapiclient": 3,
@@ -3464,9 +3464,9 @@
         },
         "categories": {
             "core": {
-                "total": 946,
+                "total": 948,
                 "repositories": {
-                    "PrestaShop": 933,
+                    "PrestaShop": 935,
                     "prestashop-ui-kit": 1,
                     "LocalizationFiles": 8,
                     "php-dev-tools": 4
@@ -3570,10 +3570,10 @@
                 }
             },
             "tests": {
-                "total": 11,
+                "total": 12,
                 "repositories": {
                     "ui-testing-library": 7,
-                    "ga.tests.ui.pr": 4
+                    "ga.tests.ui.pr": 5
                 }
             },
             "blog": {
@@ -13019,6 +13019,81 @@
             }
         }
     },
+    "cnavarro-prestashop": {
+        "login": "cnavarro-prestashop",
+        "id": 127135637,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/127135637?v=4",
+        "html_url": "https:\/\/github.com\/cnavarro-prestashop",
+        "name": "Cyril Navarro",
+        "company": "@PrestaShopCorp ",
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 74,
+        "repositories": {
+            "PrestaShop": 44,
+            "dashgoals": 4,
+            "prestashop.github.io": 14,
+            "ps_wirepayment": 1,
+            ".github": 8,
+            "ga.tests.ui.pr": 1,
+            "kanbanbot": 1,
+            "ps_apiresources": 1
+        },
+        "categories": {
+            "core": {
+                "total": 44,
+                "repositories": {
+                    "PrestaShop": 44
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 6,
+                "repositories": {
+                    "dashgoals": 4,
+                    "ps_wirepayment": 1,
+                    "ps_apiresources": 1
+                }
+            },
+            "tools": {
+                "total": 1,
+                "repositories": {
+                    "kanbanbot": 1
+                }
+            },
+            "tests": {
+                "total": 1,
+                "repositories": {
+                    "ga.tests.ui.pr": 1
+                }
+            },
+            "blog": {
+                "total": 14,
+                "repositories": {
+                    "prestashop.github.io": 14
+                }
+            },
+            "others": {
+                "total": 8,
+                "repositories": {
+                    ".github": 8
+                }
+            }
+        }
+    },
     "thomasnares": {
         "login": "thomasnares",
         "id": 1589947,
@@ -13080,78 +13155,6 @@
                 "total": 3,
                 "repositories": {
                     "prestashop-flashlight": 3
-                }
-            }
-        }
-    },
-    "cnavarro-prestashop": {
-        "login": "cnavarro-prestashop",
-        "id": 127135637,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/127135637?v=4",
-        "html_url": "https:\/\/github.com\/cnavarro-prestashop",
-        "name": "Cyril Navarro",
-        "company": "@PrestaShopCorp ",
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 73,
-        "repositories": {
-            "PrestaShop": 44,
-            "dashgoals": 4,
-            "prestashop.github.io": 14,
-            "ps_wirepayment": 1,
-            ".github": 8,
-            "kanbanbot": 1,
-            "ps_apiresources": 1
-        },
-        "categories": {
-            "core": {
-                "total": 44,
-                "repositories": {
-                    "PrestaShop": 44
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 6,
-                "repositories": {
-                    "dashgoals": 4,
-                    "ps_wirepayment": 1,
-                    "ps_apiresources": 1
-                }
-            },
-            "tools": {
-                "total": 1,
-                "repositories": {
-                    "kanbanbot": 1
-                }
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 14,
-                "repositories": {
-                    "prestashop.github.io": 14
-                }
-            },
-            "others": {
-                "total": 8,
-                "repositories": {
-                    ".github": 8
                 }
             }
         }
@@ -51819,5 +51822,5 @@
             }
         }
     },
-    "updatedAt": "2026-09-25 06:21:51"
+    "updatedAt": "2026-09-26 06:13:37"
 }

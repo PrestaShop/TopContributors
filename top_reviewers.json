@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-09-25T07:06:12+00:00",
+    "updatedAt": "2026-09-26T06:53:51+00:00",
     "items": [
         {
             "rank": 1,
@@ -132,9 +132,9 @@
             "name": "Nicolas L\u0153uillet",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/121870?v=4",
             "html_url": "https:\/\/github.com\/nicosomb",
-            "count": 2324,
+            "count": 2325,
             "countByYear": {
-                "2026": 420,
+                "2026": 421,
                 "2025": 581,
                 "2024": 482,
                 "2023": 653,
@@ -147,9 +147,9 @@
             "name": "Thomas N",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6768917?v=4",
             "html_url": "https:\/\/github.com\/Quetzacoalt91",
-            "count": 2271,
+            "count": 2272,
             "countByYear": {
-                "2026": 320,
+                "2026": 321,
                 "2025": 399,
                 "2024": 263,
                 "2023": 1,
@@ -197,9 +197,9 @@
             "name": "Daniel Hlav\u00e1\u010dek",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6097524?v=4",
             "html_url": "https:\/\/github.com\/Hlavtox",
-            "count": 1410,
+            "count": 1411,
             "countByYear": {
-                "2026": 284,
+                "2026": 285,
                 "2025": 337,
                 "2024": 310,
                 "2023": 331,
@@ -453,9 +453,9 @@
             "name": "Matthias Goudjil",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
             "html_url": "https:\/\/github.com\/mattgoud",
-            "count": 415,
+            "count": 420,
             "countByYear": {
-                "2026": 346,
+                "2026": 351,
                 "2025": 60,
                 "2024": 9
             }
@@ -669,6 +669,18 @@
         },
         {
             "rank": 44,
+            "login": "cnavarro-prestashop",
+            "name": "Cyril Navarro",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/127135637?v=4",
+            "html_url": "https:\/\/github.com\/cnavarro-prestashop",
+            "count": 183,
+            "countByYear": {
+                "2026": 176,
+                "2025": 7
+            }
+        },
+        {
+            "rank": 45,
             "login": "HanaRebaiQA",
             "name": "Hana REBAI",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/92912932?u=50a9fc8afb37081c74519305ee1803c5736082e8&v=4",
@@ -677,18 +689,6 @@
             "countByYear": {
                 "2023": 64,
                 "2022": 115
-            }
-        },
-        {
-            "rank": 45,
-            "login": "cnavarro-prestashop",
-            "name": "Cyril Navarro",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/127135637?v=4",
-            "html_url": "https:\/\/github.com\/cnavarro-prestashop",
-            "count": 179,
-            "countByYear": {
-                "2026": 172,
-                "2025": 7
             }
         },
         {
