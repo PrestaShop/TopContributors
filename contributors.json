@@ -21581,62 +21581,6 @@
             }
         }
     },
-    "kevin-carangeot": {
-        "login": "kevin-carangeot",
-        "id": 109509097,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109509097?v=4",
-        "html_url": "https:\/\/github.com\/kevin-carangeot",
-        "name": "K\u00e9vin",
-        "company": "@PrestaShop ",
-        "blog": "",
-        "location": "Angers",
-        "bio": "Senior Software Engineer",
-        "email_domain": "",
-        "contributions": 13,
-        "repositories": {
-            "ps_onepagecheckout": 13
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 13,
-                "repositories": {
-                    "ps_onepagecheckout": 13
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
     "samy": {
         "login": "samy",
         "id": 1282106,
@@ -51822,5 +51766,61 @@
             }
         }
     },
-    "updatedAt": "2026-09-26 06:13:37"
+    "kevin-carangeot": {
+        "login": "kevin-carangeot",
+        "id": 109509097,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109509097?v=4",
+        "html_url": "https:\/\/github.com\/kevin-carangeot",
+        "name": "K\u00e9vin",
+        "company": "@PrestaShop ",
+        "blog": "",
+        "location": "Angers",
+        "bio": "Senior Software Engineer",
+        "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "ps_onepagecheckout": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 1,
+                "repositories": {
+                    "ps_onepagecheckout": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "updatedAt": "2026-09-27 06:14:24"
 }
