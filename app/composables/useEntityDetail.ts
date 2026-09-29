@@ -30,7 +30,14 @@ function readRepos(e: Contributor | Company): {
   scalars: Record<string, number>
   byYear: Record<string, Record<string, number>>
 } {
-  if (isCompany(e)) return { scalars: {}, byYear: {} }
+  if (isCompany(e)) {
+    // Per-company repos are emitted by traces from the same PR attribution as
+    // merged_pull_requests. Older snapshots don't carry them: no repo sections.
+    return {
+      scalars: (e.repositories ?? {}) as Record<string, number>,
+      byYear: (e.repositories_by_year ?? {}) as Record<string, Record<string, number>>,
+    }
+  }
   const c = e as Contributor
   return {
     scalars: (c.repositories ?? {}) as Record<string, number>,
@@ -100,7 +107,7 @@ export function buildEntityDetail(
     },
     repoRows,
     entityType: isCompany(entity) ? 'company' : 'contributor',
-    members: isCompany(entity) ? c.contributors : undefined,
+    members: isCompany(entity) ? companyMembers(entity) : undefined,
   }
 }
 
@@ -115,81 +122,11 @@ export function useEntityDetail(
 }
 
 /**
- * Aggregates a list of contributors into a synthetic Contributor whose counters
- * are the sum of the members'. Used to render a company's detail page with the
- * same rich KPI/chart set as an individual contributor.
- *
- * The company's `merged_pull_requests(_by_year)` scalars are ignored here in
- * favour of the aggregate — traces already computes them from the same members,
- * so the two match. Reviews / issues / opened PRs are only available at member
- * level, so aggregation is the only way to surface them at company scope.
+ * Logins of a company's members: the curated `employees` list when traces has
+ * one (it is often an empty array), otherwise the PR-derived `contributors`.
  */
-export function aggregateContributors(
-  company: Company,
-  members: Contributor[],
-): Contributor {
-  const sumScalar = (key: 'mergedPullRequests' | 'pullRequestsOpened' | 'reviews' | 'issuesOpened' | 'contributions') =>
-    members.reduce((s, m) => s + (typeof m[key] === 'number' ? (m[key] as number) : 0), 0)
-
-  const sumByYear = (key: 'mergedPullRequestsByYear' | 'pullRequestsOpenedByYear' | 'reviewsByYear' | 'issuesOpenedByYear') => {
-    const result: Record<string, number> = {}
-    for (const m of members) {
-      const map = m[key]
-      if (!map) continue
-      for (const [year, n] of Object.entries(map)) {
-        result[year] = (result[year] ?? 0) + n
-      }
-    }
-    return result
-  }
-
-  const sumRepos = () => {
-    const result: Record<string, number> = {}
-    for (const m of members) {
-      for (const [repo, n] of Object.entries(m.repositories ?? {})) {
-        result[repo] = (result[repo] ?? 0) + (n as number)
-      }
-    }
-    return result
-  }
-
-  const sumReposByYear = () => {
-    const result: Record<string, Record<string, number>> = {}
-    for (const m of members) {
-      const map = m.repositoriesByYear
-      if (!map) continue
-      for (const [repo, years] of Object.entries(map)) {
-        result[repo] ??= {}
-        for (const [year, n] of Object.entries(years)) {
-          result[repo][year] = (result[repo][year] ?? 0) + n
-        }
-      }
-    }
-    return result
-  }
-
-  return {
-    login: company.slug ?? company.name,
-    id: 0,
-    name: company.name,
-    avatar_url: company.avatar_url,
-    html_url: company.html_url,
-    company: company.name,
-    blog: null,
-    location: null,
-    bio: null,
-    email_domain: null,
-    contributions: sumScalar('contributions'),
-    mergedPullRequests: sumScalar('mergedPullRequests'),
-    mergedPullRequestsByYear: sumByYear('mergedPullRequestsByYear'),
-    pullRequestsOpened: sumScalar('pullRequestsOpened'),
-    pullRequestsOpenedByYear: sumByYear('pullRequestsOpenedByYear'),
-    reviews: sumScalar('reviews'),
-    reviewsByYear: sumByYear('reviewsByYear'),
-    issuesOpened: sumScalar('issuesOpened'),
-    issuesOpenedByYear: sumByYear('issuesOpenedByYear'),
-    repositories: sumRepos(),
-    repositoriesByYear: sumReposByYear(),
-    categories: {},
-  }
+export function companyMembers(company: Company): string[] {
+  return company.employees?.length
+    ? company.employees.map(e => e.login)
+    : (company.contributors ?? [])
 }

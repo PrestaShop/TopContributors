@@ -28,6 +28,10 @@ export interface Company {
   merged_pull_requests_by_year?: Record<string, number>
   contributions?: number
   contributions_by_year?: Record<string, number>
+  // Merged PRs credited to this company, per repository (same attribution as
+  // merged_pull_requests). Absent from snapshots older than the traces change.
+  repositories?: Record<string, number>
+  repositories_by_year?: Record<string, Record<string, number>>
   [key: string]: unknown
 }
 

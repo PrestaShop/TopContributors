@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed, ref, watchEffect } from 'vue'
 import { usePeriod } from '@/composables/usePeriod'
-import { aggregateContributors, useEntityDetail } from '@/composables/useEntityDetail'
+import { companyMembers, useEntityDetail } from '@/composables/useEntityDetail'
 import type { Company, Contributor } from '@/types'
 
 const route = useRoute()
@@ -42,46 +42,19 @@ watchEffect(async () => {
   }
 })
 
-// Build a synthetic Contributor from the company's member logins so the whole
-// contributor-detail toolkit (KPIs, charts, tabs, repos table) applies to a
-// company aggregate without any per-entity forking downstream.
-const members = computed<Contributor[]>(() => {
-  const c = company.value
-  if (!c?.contributors) return []
-  return c.contributors
-    .map(login => contributorsData.value[login])
-    .filter((m): m is Contributor => m != null && typeof m === 'object' && 'login' in m)
-})
+const memberLogins = computed<string[]>(() => (company.value ? companyMembers(company.value) : []))
 
-const aggregated = computed<Contributor | null>(() =>
-  company.value && members.value.length ? aggregateContributors(company.value, members.value) : null,
+const members = computed<Contributor[]>(() =>
+  memberLogins.value
+    .map(login => contributorsData.value[login])
+    .filter((m): m is Contributor => m != null && typeof m === 'object' && 'login' in m),
 )
 
-const vm = useEntityDetail(aggregated, period, updatedYear)
-
-// Employees is the authoritative member list (declared in Traces'
-// var/data/companies.json). `contributors` is the derived set of PR authors —
-// noisier and driven by data availability. Prefer employees when present.
-const memberCount = computed(() => {
-  const c = company.value
-  if (!c) return 0
-  return c.employees?.length ?? c.contributors?.length ?? 0
-})
-
-// Preserve the company entity type + members list downstream — the
-// aggregate is a Contributor shape so useEntityDetail defaults to
-// entityType='contributor'; overwrite so the KPI row + members section render
-// their company-specific bits.
-const companyVm = computed(() => {
-  if (!vm.value || !company.value) return null
-  return {
-    ...vm.value,
-    entityType: 'company' as const,
-    members: company.value.employees?.map(e => e.login)
-      ?? company.value.contributors
-      ?? [],
-  }
-})
+// Company stats come from the company's own counters (PRs credited to it by
+// traces), never from members' lifetime stats: people contribute for several
+// companies, so summing members would credit this one with all of their work.
+const companyVm = useEntityDetail(company, period, updatedYear)
+const hasRepos = computed(() => (companyVm.value?.repoRows.length ?? 0) > 0)
 
 const yearsActive = computed(() => Object.keys(companyVm.value?.yearlySeries.mergedPullRequests ?? {}).length)
 const isLegacyData = computed(() => {
@@ -123,7 +96,7 @@ useHead(() => ({
         <DetailSidebar
           :avatar-url="company.avatar_url"
           :title="company.name"
-          :subtitle="`${memberCount} contributors`"
+          :subtitle="`${memberLogins.length} contributors`"
           :infos="[
             ...(company.github_url ? [{ icon: 'link', label: 'GitHub', value: company.github_url, href: company.github_url }] : []),
             ...(company.html_url ? [{ icon: 'desktop_mac', label: 'Website', value: company.html_url, href: company.html_url }] : []),
@@ -131,10 +104,9 @@ useHead(() => ({
           :sections="[
             { id: 'section-kpis', label: 'Overview' },
             { id: 'section-yearly', label: 'Contributions per year' },
-            { id: 'section-donut', label: 'PR breakdown' },
-            { id: 'section-top-repos', label: 'Top repositories' },
+            ...(hasRepos ? [{ id: 'section-top-repos', label: 'Top repositories' }] : []),
             { id: 'section-year-detail', label: 'Year drilldown' },
-            { id: 'section-repos-table', label: 'All repos' },
+            ...(hasRepos ? [{ id: 'section-repos-table', label: 'All repos' }] : []),
             { id: 'section-members', label: 'Contributors' },
           ]"
         />
@@ -144,20 +116,20 @@ useHead(() => ({
           :vm="companyVm"
           :years-active="yearsActive"
         />
-        <div class="wof-detail-two-col">
-          <DetailYearlyChart
-            :series="companyVm.yearlySeries"
-            :period="period"
-            :updated-year="updatedYear"
-          />
-          <DetailPrDonut
-            :merged="companyVm.prBreakdown.merged"
-            :other="companyVm.prBreakdown.opened"
-          />
-        </div>
-        <DetailTopReposChart :top-repos="companyVm.topRepos" />
+        <DetailYearlyChart
+          :series="companyVm.yearlySeries"
+          :period="period"
+          :updated-year="updatedYear"
+        />
+        <DetailTopReposChart
+          v-if="hasRepos"
+          :top-repos="companyVm.topRepos"
+        />
         <DetailYearTabs :series="companyVm.yearlySeries" />
-        <DetailReposTable :rows="companyVm.repoRows" />
+        <DetailReposTable
+          v-if="hasRepos"
+          :rows="companyVm.repoRows"
+        />
         <DetailMembersTable
           v-if="company.employees?.length"
           :employees="company.employees"
@@ -225,14 +197,6 @@ useHead(() => ({
   .wof-detail-back { justify-self: start; }
   .wof-detail-topbar__filter { justify-self: center; }
   .wof-detail-topbar__spacer { display: block; justify-self: end; }
-}
-.wof-detail-two-col {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1rem;
-}
-@media (min-width: 1024px) {
-  .wof-detail-two-col { grid-template-columns: 2fr 1fr; }
 }
 .wof-detail-error {
   padding: 4rem 1rem;

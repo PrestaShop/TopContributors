@@ -38,11 +38,19 @@ defineProps<{ vm: EntityDetailVM, yearsActive: number, qaCount?: number }>()
       <strong>{{ vm.members.length }}</strong>
       <span>Contributors</span>
     </div>
-    <div class="wof-detail-kpi">
+    <!-- Reviews / issues carry no sponsor company, so traces can't credit them
+         to a company: only shown for contributors. -->
+    <div
+      v-if="vm.entityType === 'contributor'"
+      class="wof-detail-kpi"
+    >
       <strong>{{ vm.kpis.reviews }}</strong>
       <span>Reviews</span>
     </div>
-    <div class="wof-detail-kpi">
+    <div
+      v-if="vm.entityType === 'contributor'"
+      class="wof-detail-kpi"
+    >
       <strong>{{ vm.kpis.issues }}</strong>
       <span>Issues</span>
     </div>

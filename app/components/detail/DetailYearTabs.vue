@@ -18,6 +18,9 @@ const years = computed(() => {
   return [...set].sort((a, b) => Number(b) - Number(a))
 })
 
+const hasReviews = computed(() => Object.keys(props.series.reviews).length > 0)
+const hasIssues = computed(() => Object.keys(props.series.issuesOpened).length > 0)
+
 const selectedYear = ref<string>(years.value[0] ?? '')
 
 // Reconcile selectedYear if the parent provides years asynchronously (fetch
@@ -61,11 +64,17 @@ watch(years, (ys) => {
         <strong>{{ series.mergedPullRequests[selectedYear] ?? 0 }}</strong>
         Merged PRs
       </div>
-      <div class="wof-detail-year-tabs__kpi">
+      <div
+        v-if="hasReviews"
+        class="wof-detail-year-tabs__kpi"
+      >
         <strong>{{ series.reviews[selectedYear] ?? 0 }}</strong>
         Reviews
       </div>
-      <div class="wof-detail-year-tabs__kpi">
+      <div
+        v-if="hasIssues"
+        class="wof-detail-year-tabs__kpi"
+      >
         <strong>{{ series.issuesOpened[selectedYear] ?? 0 }}</strong>
         Issues
       </div>
