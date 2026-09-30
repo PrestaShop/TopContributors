@@ -39,24 +39,22 @@ const years = computed(() => {
   return [...set].filter(y => inPeriod(Number(y))).sort()
 })
 
+// A series with no year at all (e.g. reviews on a company page) is left out
+// rather than shown as an empty legend entry.
+const series = computed(() => [
+  { label: 'Merged PRs', byYear: props.series.mergedPullRequests, backgroundColor: '#6366f1' },
+  { label: 'Reviews', byYear: props.series.reviews, backgroundColor: '#22c55e' },
+  { label: 'Issues', byYear: props.series.issuesOpened, backgroundColor: '#f59e0b' },
+].filter(s => Object.keys(s.byYear).length > 0))
+
 const data = computed(() => ({
   labels: years.value,
   datasets: [
-    {
-      label: 'Merged PRs',
-      data: years.value.map(y => props.series.mergedPullRequests[y] ?? 0),
-      backgroundColor: '#6366f1',
-    },
-    {
-      label: 'Reviews',
-      data: years.value.map(y => props.series.reviews[y] ?? 0),
-      backgroundColor: '#22c55e',
-    },
-    {
-      label: 'Issues',
-      data: years.value.map(y => props.series.issuesOpened[y] ?? 0),
-      backgroundColor: '#f59e0b',
-    },
+    ...series.value.map(s => ({
+      label: s.label,
+      data: years.value.map(y => s.byYear[y] ?? 0),
+      backgroundColor: s.backgroundColor,
+    })),
     ...(hasQa.value
       ? [{
           label: 'QA validations',
