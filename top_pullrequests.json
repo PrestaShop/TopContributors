@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-09-30T07:05:02+00:00",
+    "updatedAt": "2026-09-30T14:37:56+00:00",
     "items": [
         {
             "rank": 1,
@@ -44,9 +44,9 @@
             "name": "Jonathan Lelievre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13801017?v=4",
             "html_url": "https:\/\/github.com\/jolelievre",
-            "count": 1475,
+            "count": 1476,
             "countByYear": {
-                "2026": 278,
+                "2026": 279,
                 "2025": 228,
                 "2024": 258,
                 "2023": 136,
@@ -63,9 +63,9 @@
             "name": "Thomas N",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6768917?v=4",
             "html_url": "https:\/\/github.com\/Quetzacoalt91",
-            "count": 1366,
+            "count": 1367,
             "countByYear": {
-                "2026": 108,
+                "2026": 109,
                 "2025": 228,
                 "2024": 76,
                 "2023": 2,
@@ -104,9 +104,9 @@
             "name": "Jonathan Danse",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2631425?v=4",
             "html_url": "https:\/\/github.com\/PrestaEdit",
-            "count": 917,
+            "count": 921,
             "countByYear": {
-                "2026": 286,
+                "2026": 290,
                 "2025": 79,
                 "2024": 38,
                 "2023": 16,
@@ -1431,6 +1431,21 @@
         },
         {
             "rank": 95,
+            "login": "marsaldev",
+            "name": "Marco Salvatore",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/48283112?v=4",
+            "html_url": "https:\/\/github.com\/marsaldev",
+            "count": 48,
+            "countByYear": {
+                "2026": 5,
+                "2024": 3,
+                "2022": 37,
+                "2021": 2,
+                "2019": 1
+            }
+        },
+        {
+            "rank": 96,
             "login": "studiokiwik",
             "name": "Studio Kiwik",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4717939?u=1f0d11af9c7298f6420d6667c79e8ebba4a3e8c6&v=4",
@@ -1445,7 +1460,7 @@
             }
         },
         {
-            "rank": 96,
+            "rank": 97,
             "login": "justeen35",
             "name": "Justine",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/69111099?v=4",
@@ -1456,21 +1471,6 @@
                 "2022": 1,
                 "2021": 2,
                 "2020": 10
-            }
-        },
-        {
-            "rank": 97,
-            "login": "marsaldev",
-            "name": "Marco Salvatore",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/48283112?v=4",
-            "html_url": "https:\/\/github.com\/marsaldev",
-            "count": 47,
-            "countByYear": {
-                "2026": 4,
-                "2024": 3,
-                "2022": 37,
-                "2021": 2,
-                "2019": 1
             }
         },
         {
