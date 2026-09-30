@@ -1,4 +1,12 @@
 {
+    "rboadalabelgrup": {
+        "login": "rboadalabelgrup",
+        "name": null,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/124156176?v=4",
+        "html_url": "https:\/\/github.com\/rboadalabelgrup",
+        "contributions": 1,
+        "firstContributionAt": "2026-09-29T10:54:39Z"
+    },
     "NicoVmax": {
         "login": "NicoVmax",
         "name": "Magicgarden",
@@ -70,13 +78,5 @@
         "html_url": "https:\/\/github.com\/MatthieuCutin",
         "contributions": 1,
         "firstContributionAt": "2026-05-20T13:52:46Z"
-    },
-    "arthurzenika": {
-        "login": "arthurzenika",
-        "name": "Arthur Lutz",
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/445200?v=4",
-        "html_url": "https:\/\/github.com\/arthurzenika",
-        "contributions": 8,
-        "firstContributionAt": "2026-05-15T11:19:21Z"
     }
 }

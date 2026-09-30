@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11222,
+        "contributions": 11223,
         "repositories": {
             "PrestaShop": 4656,
             "PrestaShop-modules": 31,
@@ -92,7 +92,7 @@
             "ps_carriercomparison": 3,
             "ps_viewedproduct": 15,
             "ps_feeder": 1,
-            "traces": 234,
+            "traces": 235,
             "core-weekly-generator": 6,
             "TopContributors": 151,
             "TranslationFiles": 3,
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1484,
+                "total": 1485,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 44,
@@ -285,7 +285,7 @@
                     "QANightlyResults": 420,
                     "TopContributors": 151,
                     "TopTranslators": 1,
-                    "traces": 234,
+                    "traces": 235,
                     "ps-project-metrics": 4
                 }
             },
@@ -322,7 +322,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 8136,
+        "contributions": 8143,
         "repositories": {
             "PrestaShop": 6353,
             "dashactivity": 4,
@@ -340,7 +340,7 @@
             "statssearch": 5,
             "blockwishlist": 11,
             "productcomments": 87,
-            "autoupgrade": 64,
+            "autoupgrade": 66,
             "gsitemap": 4,
             "prestashop.github.io": 27,
             "docker": 98,
@@ -358,7 +358,7 @@
             "ps_imageslider": 6,
             "ps_customersignin": 4,
             "ps_categorytree": 4,
-            "docs": 165,
+            "docs": 169,
             "docker-ci": 1,
             "ps_wirepayment": 3,
             "ps_shoppingcart": 1,
@@ -382,7 +382,7 @@
             "ps_viewedproduct": 4,
             "traces": 12,
             "core-weekly-generator": 1,
-            "TopContributors": 2,
+            "TopContributors": 3,
             "TranslationFiles": 23,
             "ps_googleanalytics": 10,
             "prestashop-shop-creator": 4,
@@ -441,9 +441,9 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 401,
+                "total": 405,
                 "repositories": {
-                    "docs": 165,
+                    "docs": 169,
                     "ADR": 19,
                     "example-modules": 117,
                     "open-source": 7,
@@ -462,7 +462,7 @@
                 }
             },
             "modules": {
-                "total": 793,
+                "total": 795,
                 "repositories": {
                     "dashactivity": 4,
                     "dashgoals": 4,
@@ -479,7 +479,7 @@
                     "statssearch": 5,
                     "blockwishlist": 11,
                     "productcomments": 87,
-                    "autoupgrade": 64,
+                    "autoupgrade": 66,
                     "gsitemap": 4,
                     "contactform": 5,
                     "blockreassurance": 5,
@@ -524,7 +524,7 @@
                 }
             },
             "tools": {
-                "total": 183,
+                "total": 184,
                 "repositories": {
                     "composer-script-handler": 1,
                     "autoload": 2,
@@ -538,7 +538,7 @@
                     "presthubot": 2,
                     "prestonbot": 14,
                     "QANightlyResults": 1,
-                    "TopContributors": 2,
+                    "TopContributors": 3,
                     "traces": 12,
                     "kanbanbot": 3,
                     "SeamlessUpgradeToolbox": 2
@@ -890,7 +890,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5360,
+        "contributions": 5374,
         "repositories": {
             "PrestaShop": 1753,
             "PrestaShop-modules": 349,
@@ -924,7 +924,7 @@
             "productcomments": 14,
             "pscleaner": 3,
             "themeinstallator": 3,
-            "autoupgrade": 1598,
+            "autoupgrade": 1611,
             "gsitemap": 6,
             "prestafraud": 1,
             "prestashop.github.io": 17,
@@ -973,6 +973,7 @@
             "ps_cashondelivery": 3,
             "ps_viewedproduct": 5,
             "traces": 3,
+            "TopContributors": 1,
             "TranslationFiles": 1,
             "ps_googleanalytics": 153,
             "firebaseauthenticator": 23,
@@ -1026,7 +1027,7 @@
                 }
             },
             "modules": {
-                "total": 2517,
+                "total": 2530,
                 "repositories": {
                     "PrestaShop-modules": 349,
                     "dashactivity": 1,
@@ -1057,7 +1058,7 @@
                     "blockwishlist": 38,
                     "productcomments": 14,
                     "pscleaner": 3,
-                    "autoupgrade": 1598,
+                    "autoupgrade": 1611,
                     "gsitemap": 6,
                     "prestafraud": 1,
                     "contactform": 1,
@@ -1098,7 +1099,7 @@
                 }
             },
             "tools": {
-                "total": 604,
+                "total": 605,
                 "repositories": {
                     "azure-template-basic": 6,
                     "azure-template-high-performance": 10,
@@ -1110,6 +1111,7 @@
                     "PrestaShop-webservice-lib": 1,
                     "prestashop-shop-creator": 1,
                     "prestonbot": 2,
+                    "TopContributors": 1,
                     "TopTranslators": 1,
                     "traces": 3,
                     "SeamlessUpgradeToolbox": 9
@@ -5547,7 +5549,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 788,
+        "contributions": 790,
         "repositories": {
             "PrestaShop": 443,
             "PrestaShop-modules": 5,
@@ -5604,8 +5606,8 @@
             "ps_supplierlist": 2,
             "ps_crossselling": 1,
             "ps_dataprivacy": 1,
-            "traces": 54,
-            "TopContributors": 52,
+            "traces": 55,
+            "TopContributors": 53,
             "psssst": 1,
             "ps_themecusto": 1,
             "psgdpr": 4,
@@ -5715,14 +5717,14 @@
                 }
             },
             "tools": {
-                "total": 113,
+                "total": 115,
                 "repositories": {
                     "docker": 1,
                     "PrestaShop-webservice-lib": 1,
                     "presthubot": 1,
                     "ps-monitor-module-releases": 1,
-                    "TopContributors": 52,
-                    "traces": 54,
+                    "TopContributors": 53,
+                    "traces": 55,
                     "kanbanbot": 1,
                     "psssst": 1,
                     "SeamlessUpgradeToolbox": 1
@@ -7193,9 +7195,9 @@
         "location": "Toulouse \/ France",
         "bio": "e-commerce, dev, founder of Creabilis Agency",
         "email_domain": "",
-        "contributions": 475,
+        "contributions": 476,
         "repositories": {
-            "PrestaShop": 238,
+            "PrestaShop": 239,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 4,
             "dashgoals": 4,
@@ -7245,9 +7247,9 @@
         },
         "categories": {
             "core": {
-                "total": 240,
+                "total": 241,
                 "repositories": {
-                    "PrestaShop": 238,
+                    "PrestaShop": 239,
                     "php-ps-info": 2
                 }
             },
@@ -33195,12 +33197,12 @@
         "id": 57117669,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/57117669?v=4",
         "html_url": "https:\/\/github.com\/LameuleFR",
-        "name": "BenjaminB",
+        "name": "Benjamin Bendaoui",
         "company": null,
         "blog": "",
         "location": "France",
         "bio": null,
-        "email_domain": "gmail.com",
+        "email_domain": "",
         "contributions": 2,
         "repositories": {
             "dashtrends": 1,
@@ -39594,6 +39596,62 @@
                 "total": 1,
                 "repositories": {
                     "pscleaner": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "rboadalabelgrup": {
+        "login": "rboadalabelgrup",
+        "id": 124156176,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/124156176?v=4",
+        "html_url": "https:\/\/github.com\/rboadalabelgrup",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "autoupgrade": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 1,
+                "repositories": {
+                    "autoupgrade": 1
                 }
             },
             "tools": {
@@ -51822,5 +51880,5 @@
             }
         }
     },
-    "updatedAt": "2026-09-29 06:15:54"
+    "updatedAt": "2026-09-30 06:16:24"
 }
