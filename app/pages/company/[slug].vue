@@ -108,6 +108,7 @@ useHead(() => ({
             { id: 'section-year-detail', label: 'Year drilldown' },
             ...(hasRepos ? [{ id: 'section-repos-table', label: 'All repos' }] : []),
             { id: 'section-members', label: 'Contributors' },
+            ...(company.slug ? [{ id: 'section-share', label: 'Share this card' }] : []),
           ]"
         />
       </template>
@@ -138,6 +139,10 @@ useHead(() => ({
         <DetailMembersList
           v-else
           :members="members"
+        />
+        <DetailShareCard
+          v-if="company.slug"
+          :company-slug="company.slug"
         />
       </template>
     </DetailPageLayout>
