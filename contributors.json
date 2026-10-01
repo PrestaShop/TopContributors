@@ -890,9 +890,9 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5378,
+        "contributions": 5438,
         "repositories": {
-            "PrestaShop": 1753,
+            "PrestaShop": 1810,
             "PrestaShop-modules": 349,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 1,
@@ -953,7 +953,7 @@
             "azure-template-performance": 13,
             "azure-template-high-performance": 10,
             "azure-template-basic": 6,
-            "docker-internal-images": 112,
+            "docker-internal-images": 115,
             "ps_wirepayment": 9,
             "ps_shoppingcart": 4,
             "ps_currencyselector": 4,
@@ -995,9 +995,9 @@
         },
         "categories": {
             "core": {
-                "total": 1835,
+                "total": 1892,
                 "repositories": {
-                    "PrestaShop": 1753,
+                    "PrestaShop": 1810,
                     "prestashop-ui-kit": 6,
                     "TranslationToolsBundle": 5,
                     "eslint-config": 1,
@@ -1099,14 +1099,14 @@
                 }
             },
             "tools": {
-                "total": 605,
+                "total": 608,
                 "repositories": {
                     "azure-template-basic": 6,
                     "azure-template-high-performance": 10,
                     "azure-template-performance": 13,
                     "docker": 382,
                     "docker-ci": 47,
-                    "docker-internal-images": 112,
+                    "docker-internal-images": 115,
                     "docker-templates": 17,
                     "PrestaShop-webservice-lib": 1,
                     "prestashop-shop-creator": 1,
@@ -2851,7 +2851,7 @@
         "company": "SolvoLabs",
         "blog": "https:\/\/dataforeveryone.medium.com\/",
         "location": "Bordeaux, France",
-        "bio": "Data Engineer & IA Developer  \ud83d\udcca",
+        "bio": "Lead GenIA Developer",
         "email_domain": "solvolabs.com",
         "contributions": 2037,
         "repositories": {
@@ -26103,62 +26103,6 @@
                 "repositories": {
                     "hummingbird": 7
                 }
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "tony-novius": {
-        "login": "tony-novius",
-        "id": 243603340,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/243603340?v=4",
-        "html_url": "https:\/\/github.com\/tony-novius",
-        "name": null,
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 6,
-        "repositories": {
-            "PrestaShop": 6
-        },
-        "categories": {
-            "core": {
-                "total": 6,
-                "repositories": {
-                    "PrestaShop": 6
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
             },
             "modules": {
                 "total": 0,
@@ -51880,5 +51824,5 @@
             }
         }
     },
-    "updatedAt": "2026-09-30 13:45:07"
+    "updatedAt": "2026-10-01 06:16:36"
 }

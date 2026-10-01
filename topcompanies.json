@@ -80,7 +80,7 @@
             "2013": 1031,
             "2012": 56
         },
-        "contributions_percent": 21.81,
+        "contributions_percent": 21.8,
         "repositories": {
             "PrestaShop": 4884,
             "PrestaShop-modules": 257,
@@ -1022,9 +1022,9 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 18857,
+            "merged_pull_requests": 18858,
             "merged_pull_requests_by_version": {
-                "9.3": 34,
+                "9.3": 35,
                 "9.2": 247,
                 "9.1": 301,
                 "9.0": 1322,
@@ -1043,7 +1043,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 1278,
+                "2026": 1279,
                 "2025": 1585,
                 "2024": 1672,
                 "2023": 1791,
@@ -1059,9 +1059,9 @@
                 "2013": 24
             },
             "pull_requests_percent": 64.41,
-            "contributions": 90752,
+            "contributions": 90808,
             "contributions_by_version": {
-                "9.3": 256,
+                "9.3": 312,
                 "9.2": 1738,
                 "9.1": 3253,
                 "9.0": 6183,
@@ -1080,7 +1080,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 6770,
+                "2026": 6826,
                 "2025": 6778,
                 "2024": 7345,
                 "2023": 7982,
@@ -1095,10 +1095,10 @@
                 "2014": 786,
                 "2013": 36
             },
-            "contributions_percent": 71.33,
+            "contributions_percent": 71.34,
             "repositories": {
                 "PrestaShop-backward_compatibility": 1,
-                "PrestaShop": 9697,
+                "PrestaShop": 9698,
                 "PrestaShop-modules": 30,
                 "PrestaShop-webservice-lib": 8,
                 "PrestaShop-norm-validator": 1,
@@ -1275,7 +1275,7 @@
                     "2013": 1
                 },
                 "PrestaShop": {
-                    "2026": 414,
+                    "2026": 415,
                     "2025": 486,
                     "2024": 625,
                     "2023": 914,
@@ -3349,7 +3349,7 @@
                 "2020": 35,
                 "2019": 4
             },
-            "contributions_percent": 3.78,
+            "contributions_percent": 3.77,
             "repositories": {
                 "PrestaShop": 397,
                 "dashactivity": 4,
@@ -4734,9 +4734,9 @@
             "rank": 6,
             "rank_contributions": 6,
             "rank_pull_requests": 7,
-            "merged_pull_requests": 201,
+            "merged_pull_requests": 202,
             "merged_pull_requests_by_version": {
-                "9.2": 12,
+                "9.2": 13,
                 "9.1": 37,
                 "9.0": 50,
                 "8.2": 32,
@@ -4744,15 +4744,15 @@
                 "8.0": 1
             },
             "merged_pull_requests_by_year": {
-                "2026": 91,
+                "2026": 92,
                 "2025": 87,
                 "2024": 16,
                 "2023": 7
             },
             "pull_requests_percent": 0.69,
-            "contributions": 334,
+            "contributions": 335,
             "contributions_by_version": {
-                "9.2": 26,
+                "9.2": 27,
                 "9.1": 71,
                 "9.0": 73,
                 "8.2": 44,
@@ -4760,14 +4760,14 @@
                 "8.0": 2
             },
             "contributions_by_year": {
-                "2026": 163,
+                "2026": 164,
                 "2025": 128,
                 "2024": 32,
                 "2023": 11
             },
             "contributions_percent": 0.26,
             "repositories": {
-                "PrestaShop": 151,
+                "PrestaShop": 152,
                 "autoupgrade": 7,
                 "blockreassurance": 2,
                 "ps_socialfollow": 2,
@@ -4783,7 +4783,7 @@
             },
             "repositories_by_year": {
                 "PrestaShop": {
-                    "2026": 65,
+                    "2026": 66,
                     "2025": 66,
                     "2024": 13,
                     "2023": 7

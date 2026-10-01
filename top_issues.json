@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-09-30T14:37:56+00:00",
+    "updatedAt": "2026-10-01T07:04:07+00:00",
     "items": [
         {
             "rank": 1,
@@ -500,6 +500,21 @@
         },
         {
             "rank": 33,
+            "login": "ShaiMagal",
+            "name": "Dominik Shaim Ulrich",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8518736?v=4",
+            "html_url": "https:\/\/github.com\/ShaiMagal",
+            "count": 76,
+            "countByYear": {
+                "2026": 16,
+                "2025": 31,
+                "2024": 26,
+                "2023": 2,
+                "2022": 1
+            }
+        },
+        {
+            "rank": 34,
             "login": "zuk3975",
             "name": "Julius",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/31609858?v=4",
@@ -511,21 +526,6 @@
                 "2021": 12,
                 "2020": 17,
                 "2019": 20
-            }
-        },
-        {
-            "rank": 34,
-            "login": "ShaiMagal",
-            "name": "Dominik Shaim Ulrich",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8518736?v=4",
-            "html_url": "https:\/\/github.com\/ShaiMagal",
-            "count": 74,
-            "countByYear": {
-                "2026": 14,
-                "2025": 31,
-                "2024": 26,
-                "2023": 2,
-                "2022": 1
             }
         },
         {
@@ -13758,7 +13758,7 @@
             "rank": 1103,
             "login": "Litibe",
             "name": "Litibe",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/61915070?u=e17a29b16ae5509209bcbf0340d8a6bb7e18a043&v=4",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/61915070?v=4",
             "html_url": "https:\/\/github.com\/Litibe",
             "count": 2,
             "countByYear": {
