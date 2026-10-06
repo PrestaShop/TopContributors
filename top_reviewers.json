@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-10-05T07:16:29+00:00",
+    "updatedAt": "2026-10-06T07:47:44+00:00",
     "items": [
         {
             "rank": 1,
@@ -7,9 +7,9 @@
             "name": "Progi1984",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1533248?v=4",
             "html_url": "https:\/\/github.com\/Progi1984",
-            "count": 7328,
+            "count": 7331,
             "countByYear": {
-                "2026": 817,
+                "2026": 820,
                 "2025": 801,
                 "2024": 703,
                 "2023": 509,
@@ -132,9 +132,9 @@
             "name": "Nicolas L\u0153uillet",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/121870?v=4",
             "html_url": "https:\/\/github.com\/nicosomb",
-            "count": 2343,
+            "count": 2345,
             "countByYear": {
-                "2026": 439,
+                "2026": 441,
                 "2025": 581,
                 "2024": 482,
                 "2023": 653,
@@ -399,9 +399,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 546,
+            "count": 547,
             "countByYear": {
-                "2026": 252,
+                "2026": 253,
                 "2025": 293,
                 "2023": 1
             }
@@ -453,9 +453,9 @@
             "name": "Matthias Goudjil",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
             "html_url": "https:\/\/github.com\/mattgoud",
-            "count": 432,
+            "count": 434,
             "countByYear": {
-                "2026": 363,
+                "2026": 365,
                 "2025": 60,
                 "2024": 9
             }
