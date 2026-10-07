@@ -1,15 +1,15 @@
 {
-    "updatedAt": "2026-10-06T07:22:36+00:00",
+    "updatedAt": "2026-10-07T06:35:10+00:00",
     "community": {
         "name": "Open Source Community",
         "slug": "open-source-community",
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 7398,
+        "merged_pull_requests": 7399,
         "merged_pull_requests_by_version": {
             "9.3": 10,
-            "9.2": 44,
+            "9.2": 45,
             "9.1": 34,
             "9.0": 118,
             "8.2": 10,
@@ -27,7 +27,7 @@
             "1.6.1": 273
         },
         "merged_pull_requests_by_year": {
-            "2026": 210,
+            "2026": 211,
             "2025": 98,
             "2024": 154,
             "2023": 448,
@@ -44,10 +44,10 @@
             "2012": 32
         },
         "pull_requests_percent": 25.26,
-        "contributions": 27753,
+        "contributions": 27754,
         "contributions_by_version": {
             "9.3": 15,
-            "9.2": 133,
+            "9.2": 134,
             "9.1": 58,
             "9.0": 865,
             "8.2": 17,
@@ -65,7 +65,7 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 564,
+            "2026": 565,
             "2025": 211,
             "2024": 395,
             "2023": 1956,
@@ -81,9 +81,9 @@
             "2013": 1031,
             "2012": 56
         },
-        "contributions_percent": 21.78,
+        "contributions_percent": 21.77,
         "repositories": {
-            "PrestaShop": 4888,
+            "PrestaShop": 4889,
             "PrestaShop-modules": 257,
             "PrestaShop-webservice-lib": 33,
             "PrestaShop-norm-validator": 2,
@@ -221,7 +221,7 @@
         },
         "repositories_by_year": {
             "PrestaShop": {
-                "2026": 75,
+                "2026": 76,
                 "2025": 36,
                 "2024": 44,
                 "2023": 156,
@@ -1024,10 +1024,10 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 18862,
+            "merged_pull_requests": 18864,
             "merged_pull_requests_by_version": {
                 "9.3": 35,
-                "9.2": 247,
+                "9.2": 248,
                 "9.1": 301,
                 "9.0": 1322,
                 "8.2": 48,
@@ -1045,7 +1045,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 1283,
+                "2026": 1285,
                 "2025": 1585,
                 "2024": 1672,
                 "2023": 1791,
@@ -1060,11 +1060,11 @@
                 "2014": 391,
                 "2013": 24
             },
-            "pull_requests_percent": 64.4,
-            "contributions": 90957,
+            "pull_requests_percent": 64.39,
+            "contributions": 90961,
             "contributions_by_version": {
                 "9.3": 312,
-                "9.2": 1738,
+                "9.2": 1740,
                 "9.1": 3253,
                 "9.0": 6183,
                 "8.2": 103,
@@ -1082,7 +1082,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 6975,
+                "2026": 6979,
                 "2025": 6778,
                 "2024": 7345,
                 "2023": 7982,
@@ -1097,10 +1097,10 @@
                 "2014": 786,
                 "2013": 36
             },
-            "contributions_percent": 71.37,
+            "contributions_percent": 71.36,
             "repositories": {
                 "PrestaShop-backward_compatibility": 1,
-                "PrestaShop": 9698,
+                "PrestaShop": 9699,
                 "PrestaShop-modules": 30,
                 "PrestaShop-webservice-lib": 8,
                 "PrestaShop-norm-validator": 1,
@@ -1263,7 +1263,7 @@
                 "webservice-postman-examples": 6,
                 "zip-archives": 10,
                 "bootstrap-compatibility-layer": 10,
-                "prestashop-flashlight": 120,
+                "prestashop-flashlight": 121,
                 "ws-client": 5,
                 "ps_apiresources": 122,
                 "ui-testing-library": 544,
@@ -1277,7 +1277,7 @@
                     "2013": 1
                 },
                 "PrestaShop": {
-                    "2026": 415,
+                    "2026": 416,
                     "2025": 486,
                     "2024": 625,
                     "2023": 914,
@@ -2457,7 +2457,7 @@
                     "2023": 9
                 },
                 "prestashop-flashlight": {
-                    "2026": 13,
+                    "2026": 14,
                     "2025": 18,
                     "2024": 45,
                     "2023": 44
@@ -4947,9 +4947,9 @@
             "rank": 7,
             "rank_contributions": 6,
             "rank_pull_requests": 7,
-            "merged_pull_requests": 203,
+            "merged_pull_requests": 204,
             "merged_pull_requests_by_version": {
-                "9.2": 13,
+                "9.2": 14,
                 "9.1": 37,
                 "9.0": 50,
                 "8.2": 32,
@@ -4957,15 +4957,15 @@
                 "8.0": 1
             },
             "merged_pull_requests_by_year": {
-                "2026": 93,
+                "2026": 94,
                 "2025": 87,
                 "2024": 16,
                 "2023": 7
             },
-            "pull_requests_percent": 0.69,
-            "contributions": 336,
+            "pull_requests_percent": 0.7,
+            "contributions": 337,
             "contributions_by_version": {
-                "9.2": 27,
+                "9.2": 28,
                 "9.1": 71,
                 "9.0": 73,
                 "8.2": 44,
@@ -4973,14 +4973,14 @@
                 "8.0": 2
             },
             "contributions_by_year": {
-                "2026": 165,
+                "2026": 166,
                 "2025": 128,
                 "2024": 32,
                 "2023": 11
             },
             "contributions_percent": 0.26,
             "repositories": {
-                "PrestaShop": 152,
+                "PrestaShop": 153,
                 "autoupgrade": 7,
                 "blockreassurance": 2,
                 "ps_socialfollow": 2,
@@ -4996,7 +4996,7 @@
             },
             "repositories_by_year": {
                 "PrestaShop": {
-                    "2026": 66,
+                    "2026": 67,
                     "2025": 66,
                     "2024": 13,
                     "2023": 7
@@ -6451,7 +6451,7 @@
             "name": "Soci\u00e9t\u00e9 Biblique de Gen\u00e8ve",
             "slug": "societe-biblique-de-geneve",
             "rank": 19,
-            "rank_contributions": 21,
+            "rank_contributions": 22,
             "rank_pull_requests": 19,
             "merged_pull_requests": 9,
             "merged_pull_requests_by_version": {
@@ -6490,6 +6490,53 @@
             "github_url": null,
             "contributors": [
                 "lmeyer1"
+            ],
+            "employees": []
+        },
+        {
+            "name": "Agence Off",
+            "slug": "agence-off",
+            "rank": 20,
+            "rank_contributions": 20,
+            "rank_pull_requests": 20,
+            "merged_pull_requests": 7,
+            "merged_pull_requests_by_version": {
+                "9.3": 1,
+                "9.2": 2,
+                "9.1": 1,
+                "9.0": 3
+            },
+            "merged_pull_requests_by_year": {
+                "2026": 3,
+                "2025": 4
+            },
+            "pull_requests_percent": 0.02,
+            "contributions": 18,
+            "contributions_by_version": {
+                "9.3": 6,
+                "9.2": 6,
+                "9.1": 3,
+                "9.0": 3
+            },
+            "contributions_by_year": {
+                "2026": 12,
+                "2025": 6
+            },
+            "contributions_percent": 0.01,
+            "repositories": {
+                "PrestaShop": 7
+            },
+            "repositories_by_year": {
+                "PrestaShop": {
+                    "2026": 3,
+                    "2025": 4
+                }
+            },
+            "avatar_url": "",
+            "html_url": "https:\/\/www.agenceoff.fr",
+            "github_url": null,
+            "contributors": [
+                "aomaxime"
             ],
             "employees": []
         },
@@ -6538,56 +6585,11 @@
             "employees": []
         },
         {
-            "name": "Agence Off",
-            "slug": "agence-off",
-            "rank": 21,
-            "rank_contributions": 23,
-            "rank_pull_requests": 21,
-            "merged_pull_requests": 6,
-            "merged_pull_requests_by_version": {
-                "9.2": 2,
-                "9.1": 1,
-                "9.0": 3
-            },
-            "merged_pull_requests_by_year": {
-                "2026": 2,
-                "2025": 4
-            },
-            "pull_requests_percent": 0.02,
-            "contributions": 12,
-            "contributions_by_version": {
-                "9.2": 6,
-                "9.1": 3,
-                "9.0": 3
-            },
-            "contributions_by_year": {
-                "2026": 6,
-                "2025": 6
-            },
-            "contributions_percent": 0.01,
-            "repositories": {
-                "PrestaShop": 6
-            },
-            "repositories_by_year": {
-                "PrestaShop": {
-                    "2026": 2,
-                    "2025": 4
-                }
-            },
-            "avatar_url": "",
-            "html_url": "https:\/\/www.agenceoff.fr",
-            "github_url": null,
-            "contributors": [
-                "aomaxime"
-            ],
-            "employees": []
-        },
-        {
             "name": "Prestaplugins",
             "slug": "prestaplugins",
-            "rank": 22,
+            "rank": 21,
             "rank_contributions": 24,
-            "rank_pull_requests": 22,
+            "rank_pull_requests": 21,
             "merged_pull_requests": 5,
             "merged_pull_requests_by_version": {
                 "8.1": 1,
@@ -6634,9 +6636,9 @@
         {
             "name": "e-frogg",
             "slug": "e-frogg",
-            "rank": 23,
+            "rank": 22,
             "rank_contributions": 28,
-            "rank_pull_requests": 23,
+            "rank_pull_requests": 22,
             "merged_pull_requests": 4,
             "merged_pull_requests_by_version": {
                 "9.1": 2,
@@ -6674,9 +6676,9 @@
         {
             "name": "Fintecture",
             "slug": "fintecture",
-            "rank": 23,
+            "rank": 22,
             "rank_contributions": 29,
-            "rank_pull_requests": 23,
+            "rank_pull_requests": 22,
             "merged_pull_requests": 4,
             "merged_pull_requests_by_version": {
                 "9.0": 2
@@ -6720,9 +6722,9 @@
         {
             "name": "Novius",
             "slug": "novius",
-            "rank": 23,
+            "rank": 22,
             "rank_contributions": 25,
-            "rank_pull_requests": 23,
+            "rank_pull_requests": 22,
             "merged_pull_requests": 4,
             "merged_pull_requests_by_version": {
                 "9.3": 1,
@@ -6768,9 +6770,9 @@
         {
             "name": "Web Premiere",
             "slug": "web-premiere",
-            "rank": 23,
+            "rank": 22,
             "rank_contributions": 18,
-            "rank_pull_requests": 23,
+            "rank_pull_requests": 22,
             "merged_pull_requests": 4,
             "merged_pull_requests_by_version": {
                 "9.1": 2,
@@ -6813,9 +6815,9 @@
         {
             "name": "Griiv",
             "slug": "griiv",
-            "rank": 24,
-            "rank_contributions": 22,
-            "rank_pull_requests": 24,
+            "rank": 23,
+            "rank_contributions": 23,
+            "rank_pull_requests": 23,
             "merged_pull_requests": 3,
             "merged_pull_requests_by_version": {
                 "9.0": 2
@@ -6851,9 +6853,9 @@
         {
             "name": "Head Issue",
             "slug": "head-issue",
-            "rank": 24,
+            "rank": 23,
             "rank_contributions": 27,
-            "rank_pull_requests": 24,
+            "rank_pull_requests": 23,
             "merged_pull_requests": 3,
             "merged_pull_requests_by_version": {
                 "9.0": 1,
@@ -6891,9 +6893,9 @@
         {
             "name": "Hostinato",
             "slug": "hostinato",
-            "rank": 24,
+            "rank": 23,
             "rank_contributions": 30,
-            "rank_pull_requests": 24,
+            "rank_pull_requests": 23,
             "merged_pull_requests": 3,
             "merged_pull_requests_by_version": {
                 "9.0": 1,
@@ -6940,9 +6942,9 @@
         {
             "name": "Idnovate",
             "slug": "idnovate",
-            "rank": 24,
+            "rank": 23,
             "rank_contributions": 30,
-            "rank_pull_requests": 24,
+            "rank_pull_requests": 23,
             "merged_pull_requests": 3,
             "merged_pull_requests_by_version": {
                 "9.0": 1,
@@ -6985,9 +6987,9 @@
         {
             "name": "Profileo",
             "slug": "profileo",
-            "rank": 24,
+            "rank": 23,
             "rank_contributions": 30,
-            "rank_pull_requests": 24,
+            "rank_pull_requests": 23,
             "merged_pull_requests": 3,
             "merged_pull_requests_by_version": {
                 "9.0": 2,
@@ -7026,9 +7028,9 @@
         {
             "name": "Wepika",
             "slug": "wepika",
-            "rank": 24,
+            "rank": 23,
             "rank_contributions": 29,
-            "rank_pull_requests": 24,
+            "rank_pull_requests": 23,
             "merged_pull_requests": 3,
             "merged_pull_requests_by_version": {
                 "9.0": 2
@@ -7068,9 +7070,9 @@
         {
             "name": "Arkonsoft",
             "slug": "arkonsoft",
-            "rank": 25,
+            "rank": 24,
             "rank_contributions": 28,
-            "rank_pull_requests": 25,
+            "rank_pull_requests": 24,
             "merged_pull_requests": 2,
             "merged_pull_requests_by_version": {
                 "8.2": 2
@@ -7106,9 +7108,9 @@
         {
             "name": "Com'onSoft",
             "slug": "com-onsoft",
-            "rank": 25,
+            "rank": 24,
             "rank_contributions": 26,
-            "rank_pull_requests": 25,
+            "rank_pull_requests": 24,
             "merged_pull_requests": 2,
             "merged_pull_requests_by_version": {
                 "9.0": 1,
@@ -7146,9 +7148,9 @@
         {
             "name": "Code Olympus Studio",
             "slug": "code-olympus-studio",
-            "rank": 25,
+            "rank": 24,
             "rank_contributions": 28,
-            "rank_pull_requests": 25,
+            "rank_pull_requests": 24,
             "merged_pull_requests": 2,
             "merged_pull_requests_by_version": {
                 "8.2": 1,
@@ -7186,9 +7188,9 @@
         {
             "name": "Coquille Consulting",
             "slug": "coquille-consulting",
-            "rank": 25,
+            "rank": 24,
             "rank_contributions": 18,
-            "rank_pull_requests": 25,
+            "rank_pull_requests": 24,
             "merged_pull_requests": 2,
             "merged_pull_requests_by_version": {
                 "8.1": 1
@@ -7228,9 +7230,9 @@
         {
             "name": "Klemart 3D",
             "slug": "klemart-3d",
-            "rank": 25,
+            "rank": 24,
             "rank_contributions": 31,
-            "rank_pull_requests": 25,
+            "rank_pull_requests": 24,
             "merged_pull_requests": 2,
             "merged_pull_requests_by_version": [],
             "merged_pull_requests_by_year": {
@@ -7266,9 +7268,9 @@
         {
             "name": "MaoDev",
             "slug": "maodev",
-            "rank": 25,
+            "rank": 24,
             "rank_contributions": 31,
-            "rank_pull_requests": 25,
+            "rank_pull_requests": 24,
             "merged_pull_requests": 2,
             "merged_pull_requests_by_version": {
                 "9.1": 1
@@ -7308,9 +7310,9 @@
         {
             "name": "ohmyweb!",
             "slug": "ohmyweb",
-            "rank": 25,
+            "rank": 24,
             "rank_contributions": 31,
-            "rank_pull_requests": 25,
+            "rank_pull_requests": 24,
             "merged_pull_requests": 2,
             "merged_pull_requests_by_version": {
                 "9.0": 1
@@ -7352,9 +7354,9 @@
         {
             "name": "Sleed",
             "slug": "sleed",
-            "rank": 25,
+            "rank": 24,
             "rank_contributions": 31,
-            "rank_pull_requests": 25,
+            "rank_pull_requests": 24,
             "merged_pull_requests": 2,
             "merged_pull_requests_by_version": {
                 "9.0": 1
@@ -7396,9 +7398,9 @@
         {
             "name": "Softizy",
             "slug": "softizy",
-            "rank": 25,
+            "rank": 24,
             "rank_contributions": 31,
-            "rank_pull_requests": 25,
+            "rank_pull_requests": 24,
             "merged_pull_requests": 2,
             "merged_pull_requests_by_version": {
                 "8.1": 1
@@ -7438,9 +7440,9 @@
         {
             "name": "Waynet",
             "slug": "waynet",
-            "rank": 25,
+            "rank": 24,
             "rank_contributions": 30,
-            "rank_pull_requests": 25,
+            "rank_pull_requests": 24,
             "merged_pull_requests": 2,
             "merged_pull_requests_by_version": {
                 "8.1": 1
@@ -7480,9 +7482,9 @@
         {
             "name": "Web Area",
             "slug": "web-area",
-            "rank": 25,
+            "rank": 24,
             "rank_contributions": 29,
-            "rank_pull_requests": 25,
+            "rank_pull_requests": 24,
             "merged_pull_requests": 2,
             "merged_pull_requests_by_version": [],
             "merged_pull_requests_by_year": {
@@ -7517,9 +7519,9 @@
         {
             "name": "Web Cooking Factory",
             "slug": "web-cooking-factory",
-            "rank": 25,
+            "rank": 24,
             "rank_contributions": 27,
-            "rank_pull_requests": 25,
+            "rank_pull_requests": 24,
             "merged_pull_requests": 2,
             "merged_pull_requests_by_version": {
                 "9.0": 2
@@ -7555,9 +7557,9 @@
         {
             "name": "Webimpacto Consulting",
             "slug": "webimpacto-consulting",
-            "rank": 25,
+            "rank": 24,
             "rank_contributions": 30,
-            "rank_pull_requests": 25,
+            "rank_pull_requests": 24,
             "merged_pull_requests": 2,
             "merged_pull_requests_by_version": {
                 "8.1": 2
@@ -7593,9 +7595,9 @@
         {
             "name": "AD-Dev",
             "slug": "ad-dev",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "9.0": 1
@@ -7631,9 +7633,9 @@
         {
             "name": "Adilis",
             "slug": "adilis",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "9.0": 1
@@ -7669,9 +7671,9 @@
         {
             "name": "A\u00e9rographe Discount",
             "slug": "aerographe-discount",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "8.1": 1
@@ -7707,9 +7709,9 @@
         {
             "name": "AGRO-LA",
             "slug": "agro-la",
-            "rank": 26,
-            "rank_contributions": 20,
-            "rank_pull_requests": 26,
+            "rank": 25,
+            "rank_contributions": 21,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "9.0": 1
@@ -7745,9 +7747,9 @@
         {
             "name": "AlienGen",
             "slug": "aliengen",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "9.2": 1
@@ -7783,9 +7785,9 @@
         {
             "name": "Avalanche Media",
             "slug": "avalanche-media",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "9.0": 1
@@ -7821,9 +7823,9 @@
         {
             "name": "Bakhouche Akram",
             "slug": "bakhouche-akram",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 27,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": [],
             "merged_pull_requests_by_year": {
@@ -7855,9 +7857,9 @@
         {
             "name": "BM Services",
             "slug": "bm-services",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 28,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "9.0": 1
@@ -7893,9 +7895,9 @@
         {
             "name": "Borja Garc\u00eda",
             "slug": "borja-garcia",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "8.2": 1
@@ -7931,9 +7933,9 @@
         {
             "name": "Cubix Tech",
             "slug": "cubix-tech",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "9.0": 1
@@ -7969,9 +7971,9 @@
         {
             "name": "Daniel Hlav\u00e1\u010dek",
             "slug": "daniel-hlavacek",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 31,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "9.0": 1
@@ -8007,9 +8009,9 @@
         {
             "name": "ECM",
             "slug": "ecm",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "8.1": 1
@@ -8045,9 +8047,9 @@
         {
             "name": "eflyshop",
             "slug": "eflyshop",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 31,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": [],
             "merged_pull_requests_by_year": {
@@ -8079,9 +8081,9 @@
         {
             "name": "Giuseppe Tripiciano",
             "slug": "giuseppe-tripiciano",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 31,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "9.0": 1
@@ -8117,9 +8119,9 @@
         {
             "name": "Gurkcity",
             "slug": "gurkcity",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 28,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "9.1": 1
@@ -8155,9 +8157,9 @@
         {
             "name": "Habitium",
             "slug": "habitium",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 30,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "8.1": 1
@@ -8193,9 +8195,9 @@
         {
             "name": "Inform-All",
             "slug": "inform-all",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "9.0": 1
@@ -8231,9 +8233,9 @@
         {
             "name": "Jos\u00e9 Carlos",
             "slug": "jose-carlos",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "9.1": 1
@@ -8269,9 +8271,9 @@
         {
             "name": "Kijam L\u00f3pez",
             "slug": "kijam-lopez",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "9.0": 1
@@ -8307,9 +8309,9 @@
         {
             "name": "Kosmo",
             "slug": "kosmo",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "9.0": 1
@@ -8345,9 +8347,9 @@
         {
             "name": "Le Vapoteur Discount",
             "slug": "le-vapoteur-discount",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "8.2": 1
@@ -8383,9 +8385,9 @@
         {
             "name": "Lord of Web",
             "slug": "lord-of-web",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "9.0": 1
@@ -8421,9 +8423,9 @@
         {
             "name": "Make Digital",
             "slug": "make-digital",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "8.2": 1
@@ -8459,9 +8461,9 @@
         {
             "name": "MariaDB Foundation",
             "slug": "mariadb-foundation",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "9.0": 1
@@ -8497,9 +8499,9 @@
         {
             "name": "Mediacom87",
             "slug": "mediacom87",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 30,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "9.0": 1
@@ -8535,9 +8537,9 @@
         {
             "name": "New Orange",
             "slug": "new-orange",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 31,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": [],
             "merged_pull_requests_by_year": {
@@ -8569,9 +8571,9 @@
         {
             "name": "PululuK",
             "slug": "pululuk",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "8.1": 1
@@ -8607,9 +8609,9 @@
         {
             "name": "Presteamshop",
             "slug": "presteamshop",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": [],
             "merged_pull_requests_by_year": {
@@ -8641,9 +8643,9 @@
         {
             "name": "Rub\u00e9n",
             "slug": "ruben",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": [],
             "merged_pull_requests_by_year": {
@@ -8675,9 +8677,9 @@
         {
             "name": "ShopRunners",
             "slug": "shoprunners",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 27,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "8.1": 1
@@ -8713,9 +8715,9 @@
         {
             "name": "Tesla Cool Lab",
             "slug": "tesla-cool-lab",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": [],
             "merged_pull_requests_by_year": {
@@ -8747,9 +8749,9 @@
         {
             "name": "Thersane",
             "slug": "thersane",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "8.2": 1
@@ -8785,9 +8787,9 @@
         {
             "name": "Ukoo",
             "slug": "ukoo",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 31,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": [],
             "merged_pull_requests_by_year": {
@@ -8819,9 +8821,9 @@
         {
             "name": "Vaisonet",
             "slug": "vaisonet",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 31,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "9.0": 1
@@ -8857,9 +8859,9 @@
         {
             "name": "Vendi Facile Online",
             "slug": "vendi-facile-online",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 31,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "9.0": 1
@@ -8895,9 +8897,9 @@
         {
             "name": "Vilkas",
             "slug": "vilkas",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 32,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "9.0": 1
@@ -8933,9 +8935,9 @@
         {
             "name": "WAM",
             "slug": "wam",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 31,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": {
                 "8.2": 1
@@ -8971,9 +8973,9 @@
         {
             "name": "Web Helpers",
             "slug": "web-helpers",
-            "rank": 26,
+            "rank": 25,
             "rank_contributions": 28,
-            "rank_pull_requests": 26,
+            "rank_pull_requests": 25,
             "merged_pull_requests": 1,
             "merged_pull_requests_by_version": [],
             "merged_pull_requests_by_year": {
