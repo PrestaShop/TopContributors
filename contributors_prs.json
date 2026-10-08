@@ -4620,7 +4620,7 @@
         "email_domain": "",
         "contributions": 2495,
         "repositories": {
-            "PrestaShop": 405,
+            "PrestaShop": 406,
             "dashactivity": 4,
             "dashgoals": 4,
             "dashproducts": 7,
@@ -4703,9 +4703,9 @@
         },
         "categories": {
             "core": {
-                "total": 410,
+                "total": 411,
                 "byYear": {
-                    "2026": 44,
+                    "2026": 45,
                     "2025": 55,
                     "2024": 98,
                     "2023": 132,
@@ -4715,14 +4715,14 @@
                     "2019": 3
                 },
                 "repositories": {
-                    "PrestaShop": 405,
+                    "PrestaShop": 406,
                     "prestashop-ui-kit": 3,
                     "circuit-breaker": 1,
                     "LocalizationFiles": 1
                 },
                 "repositoriesByYear": {
                     "PrestaShop": {
-                        "2026": 44,
+                        "2026": 45,
                         "2025": 55,
                         "2024": 97,
                         "2023": 131,
@@ -5234,9 +5234,9 @@
                 }
             }
         },
-        "mergedPullRequests": 975,
+        "mergedPullRequests": 976,
         "mergedPullRequestsByYear": {
-            "2026": 82,
+            "2026": 83,
             "2025": 142,
             "2024": 193,
             "2023": 398,
@@ -5247,7 +5247,7 @@
         },
         "repositoriesByYear": {
             "PrestaShop": {
-                "2026": 44,
+                "2026": 45,
                 "2025": 55,
                 "2024": 97,
                 "2023": 131,
@@ -5610,9 +5610,9 @@
             "2019": 60,
             "2018": 3
         },
-        "pullRequestsOpened": 1094,
+        "pullRequestsOpened": 1095,
         "pullRequestsOpenedByYear": {
-            "2026": 90,
+            "2026": 91,
             "2025": 156,
             "2024": 206,
             "2023": 435,
@@ -8240,9 +8240,9 @@
                 "2026": 2
             }
         },
-        "reviews": 3659,
+        "reviews": 3660,
         "reviewsByYear": {
-            "2026": 492,
+            "2026": 493,
             "2025": 428,
             "2024": 421,
             "2023": 1040,
@@ -13874,8 +13874,9 @@
         "reviewsByYear": [],
         "issuesOpened": 0,
         "issuesOpenedByYear": [],
-        "pullRequestsOpened": 360,
+        "pullRequestsOpened": 361,
         "pullRequestsOpenedByYear": {
+            "2026": 1,
             "2016": 3,
             "2015": 353,
             "2014": 3,
@@ -15778,9 +15779,9 @@
                 "2026": 2
             }
         },
-        "reviews": 243,
+        "reviews": 244,
         "reviewsByYear": {
-            "2026": 105,
+            "2026": 106,
             "2025": 106,
             "2024": 27,
             "2023": 5
@@ -16456,9 +16457,9 @@
                 "2025": 9
             }
         },
-        "reviews": 553,
+        "reviews": 559,
         "reviewsByYear": {
-            "2026": 259,
+            "2026": 265,
             "2025": 293,
             "2023": 1
         },
@@ -18803,9 +18804,9 @@
                 "2025": 1
             }
         },
-        "reviews": 194,
+        "reviews": 195,
         "reviewsByYear": {
-            "2026": 142,
+            "2026": 143,
             "2025": 16,
             "2024": 11,
             "2023": 8,
@@ -19410,9 +19411,9 @@
             "2025": 60,
             "2024": 9
         },
-        "issuesOpened": 85,
+        "issuesOpened": 87,
         "issuesOpenedByYear": {
-            "2026": 62,
+            "2026": 64,
             "2025": 15,
             "2024": 8
         },
@@ -20581,9 +20582,9 @@
                 "2022": 1
             }
         },
-        "reviews": 591,
+        "reviews": 592,
         "reviewsByYear": {
-            "2026": 12,
+            "2026": 13,
             "2025": 56,
             "2024": 23,
             "2023": 53,
@@ -26084,7 +26085,7 @@
         "email_domain": "",
         "contributions": 101,
         "repositories": {
-            "PrestaShop": 33,
+            "PrestaShop": 34,
             "productcomments": 1,
             "ps_emailsubscription": 2,
             "docs": 2,
@@ -26099,16 +26100,16 @@
         },
         "categories": {
             "core": {
-                "total": 33,
+                "total": 34,
                 "byYear": {
-                    "2026": 33
+                    "2026": 34
                 },
                 "repositories": {
-                    "PrestaShop": 33
+                    "PrestaShop": 34
                 },
                 "repositoriesByYear": {
                     "PrestaShop": {
-                        "2026": 33
+                        "2026": 34
                     }
                 }
             },
@@ -26221,13 +26222,13 @@
                 "repositoriesByYear": []
             }
         },
-        "mergedPullRequests": 73,
+        "mergedPullRequests": 74,
         "mergedPullRequestsByYear": {
-            "2026": 73
+            "2026": 74
         },
         "repositoriesByYear": {
             "PrestaShop": {
-                "2026": 33
+                "2026": 34
             },
             "productcomments": {
                 "2026": 1
@@ -29046,9 +29047,9 @@
             "2022": 5,
             "2021": 1
         },
-        "issuesOpened": 123,
+        "issuesOpened": 124,
         "issuesOpenedByYear": {
-            "2026": 3,
+            "2026": 4,
             "2024": 4,
             "2023": 18,
             "2022": 53,
@@ -31431,9 +31432,9 @@
         },
         "reviews": 0,
         "reviewsByYear": [],
-        "issuesOpened": 66,
+        "issuesOpened": 67,
         "issuesOpenedByYear": {
-            "2026": 1,
+            "2026": 2,
             "2025": 2,
             "2024": 1,
             "2023": 8,
@@ -31443,9 +31444,9 @@
             "2019": 20,
             "2018": 6
         },
-        "pullRequestsOpened": 76,
+        "pullRequestsOpened": 77,
         "pullRequestsOpenedByYear": {
-            "2026": 8,
+            "2026": 9,
             "2025": 1,
             "2024": 2,
             "2023": 8,
@@ -33658,6 +33659,120 @@
             "2019": 3
         }
     },
+    "Alexandre-Lematre": {
+        "login": "Alexandre-Lematre",
+        "id": 107846409,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/107846409?v=4",
+        "html_url": "https:\/\/github.com\/Alexandre-Lematre",
+        "name": "Alexandre Lematre",
+        "company": "Prestashop",
+        "blog": "",
+        "location": "Nantes",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 38,
+        "repositories": {
+            "prestashop-flashlight": 29
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "specs": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "documentation": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "themes": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "modules": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tools": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tests": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "blog": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "others": {
+                "total": 29,
+                "byYear": {
+                    "2026": 12,
+                    "2025": 13,
+                    "2024": 4
+                },
+                "repositories": {
+                    "prestashop-flashlight": 29
+                },
+                "repositoriesByYear": {
+                    "prestashop-flashlight": {
+                        "2026": 12,
+                        "2025": 13,
+                        "2024": 4
+                    }
+                }
+            }
+        },
+        "mergedPullRequests": 29,
+        "mergedPullRequestsByYear": {
+            "2026": 12,
+            "2025": 13,
+            "2024": 4
+        },
+        "repositoriesByYear": {
+            "prestashop-flashlight": {
+                "2026": 12,
+                "2025": 13,
+                "2024": 4
+            }
+        },
+        "reviews": 8,
+        "reviewsByYear": {
+            "2026": 6,
+            "2025": 2
+        },
+        "issuesOpened": 4,
+        "issuesOpenedByYear": {
+            "2025": 1,
+            "2024": 3
+        },
+        "pullRequestsOpened": 32,
+        "pullRequestsOpenedByYear": {
+            "2026": 13,
+            "2025": 13,
+            "2024": 5,
+            "2023": 1
+        }
+    },
     "yannicka": {
         "login": "yannicka",
         "id": 22885898,
@@ -34152,120 +34267,6 @@
         "pullRequestsOpenedByYear": {
             "2023": 33,
             "2022": 8
-        }
-    },
-    "Alexandre-Lematre": {
-        "login": "Alexandre-Lematre",
-        "id": 107846409,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/107846409?v=4",
-        "html_url": "https:\/\/github.com\/Alexandre-Lematre",
-        "name": "Alexandre Lematre",
-        "company": "Prestashop",
-        "blog": "",
-        "location": "Nantes",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 37,
-        "repositories": {
-            "prestashop-flashlight": 28
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "specs": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "documentation": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "themes": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "modules": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "tools": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "tests": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "blog": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "others": {
-                "total": 28,
-                "byYear": {
-                    "2026": 11,
-                    "2025": 13,
-                    "2024": 4
-                },
-                "repositories": {
-                    "prestashop-flashlight": 28
-                },
-                "repositoriesByYear": {
-                    "prestashop-flashlight": {
-                        "2026": 11,
-                        "2025": 13,
-                        "2024": 4
-                    }
-                }
-            }
-        },
-        "mergedPullRequests": 28,
-        "mergedPullRequestsByYear": {
-            "2026": 11,
-            "2025": 13,
-            "2024": 4
-        },
-        "repositoriesByYear": {
-            "prestashop-flashlight": {
-                "2026": 11,
-                "2025": 13,
-                "2024": 4
-            }
-        },
-        "reviews": 8,
-        "reviewsByYear": {
-            "2026": 6,
-            "2025": 2
-        },
-        "issuesOpened": 4,
-        "issuesOpenedByYear": {
-            "2025": 1,
-            "2024": 3
-        },
-        "pullRequestsOpened": 32,
-        "pullRequestsOpenedByYear": {
-            "2026": 13,
-            "2025": 13,
-            "2024": 5,
-            "2023": 1
         }
     },
     "YosraAk": {
@@ -61266,9 +61267,9 @@
         "issuesOpenedByYear": {
             "2023": 2
         },
-        "pullRequestsOpened": 20,
+        "pullRequestsOpened": 29,
         "pullRequestsOpenedByYear": {
-            "2026": 16,
+            "2026": 25,
             "2023": 4
         }
     },
@@ -93197,7 +93198,7 @@
         "blog": "",
         "location": "HCMC",
         "bio": null,
-        "email_domain": "gmail.com",
+        "email_domain": "",
         "contributions": 1,
         "repositories": {
             "docs": 1
@@ -103414,5 +103415,5 @@
             "2025": 1
         }
     },
-    "updatedAt": "2026-10-07T06:35:10+00:00"
+    "updatedAt": "2026-10-08T06:35:52+00:00"
 }

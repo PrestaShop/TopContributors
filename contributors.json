@@ -16269,6 +16269,62 @@
             }
         }
     },
+    "Alexandre-Lematre": {
+        "login": "Alexandre-Lematre",
+        "id": 107846409,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/107846409?v=4",
+        "html_url": "https:\/\/github.com\/Alexandre-Lematre",
+        "name": "Alexandre Lematre",
+        "company": "Prestashop",
+        "blog": "",
+        "location": "Nantes",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 38,
+        "repositories": {
+            "prestashop-flashlight": 38
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 38,
+                "repositories": {
+                    "prestashop-flashlight": 38
+                }
+            }
+        }
+    },
     "lartist": {
         "login": "lartist",
         "id": 10706307,
@@ -16351,62 +16407,6 @@
             "others": {
                 "total": 0,
                 "repositories": []
-            }
-        }
-    },
-    "Alexandre-Lematre": {
-        "login": "Alexandre-Lematre",
-        "id": 107846409,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/107846409?v=4",
-        "html_url": "https:\/\/github.com\/Alexandre-Lematre",
-        "name": "Alexandre Lematre",
-        "company": "Prestashop",
-        "blog": "",
-        "location": "Nantes",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 37,
-        "repositories": {
-            "prestashop-flashlight": 37
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 37,
-                "repositories": {
-                    "prestashop-flashlight": 37
-                }
             }
         }
     },
@@ -43663,7 +43663,7 @@
         "blog": "",
         "location": "HCMC",
         "bio": null,
-        "email_domain": "gmail.com",
+        "email_domain": "",
         "contributions": 1,
         "repositories": {
             "docs": 1
@@ -51829,5 +51829,5 @@
             }
         }
     },
-    "updatedAt": "2026-10-07 06:15:00"
+    "updatedAt": "2026-10-08 06:16:26"
 }

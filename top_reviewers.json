@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-10-07T06:58:42+00:00",
+    "updatedAt": "2026-10-08T06:58:14+00:00",
     "items": [
         {
             "rank": 1,
@@ -59,9 +59,9 @@
             "name": "Krystian Podemski",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2137763?v=4",
             "html_url": "https:\/\/github.com\/kpodemski",
-            "count": 3659,
+            "count": 3660,
             "countByYear": {
-                "2026": 492,
+                "2026": 493,
                 "2025": 428,
                 "2024": 421,
                 "2023": 1040,
@@ -338,9 +338,9 @@
             "name": "PululuK",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16455155?v=4",
             "html_url": "https:\/\/github.com\/PululuK",
-            "count": 591,
+            "count": 592,
             "countByYear": {
-                "2026": 12,
+                "2026": 13,
                 "2025": 56,
                 "2024": 23,
                 "2023": 53,
@@ -399,9 +399,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 553,
+            "count": 559,
             "countByYear": {
-                "2026": 259,
+                "2026": 265,
                 "2025": 293,
                 "2023": 1
             }
@@ -590,9 +590,9 @@
             "name": "Blivet Thibault",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/110676325?v=4",
             "html_url": "https:\/\/github.com\/tblivet",
-            "count": 243,
+            "count": 244,
             "countByYear": {
-                "2026": 105,
+                "2026": 106,
                 "2025": 106,
                 "2024": 27,
                 "2023": 5
@@ -655,9 +655,9 @@
             "name": "Jean-Fran\u00e7ois Viguier",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16720275?v=4",
             "html_url": "https:\/\/github.com\/jf-viguier",
-            "count": 194,
+            "count": 195,
             "countByYear": {
-                "2026": 142,
+                "2026": 143,
                 "2025": 16,
                 "2024": 11,
                 "2023": 8,
@@ -1552,6 +1552,18 @@
         },
         {
             "rank": 114,
+            "login": "github-advanced-security",
+            "name": "github-advanced-security",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/in\/57789?v=4",
+            "html_url": "https:\/\/github.com\/apps\/github-advanced-security",
+            "count": 9,
+            "countByYear": {
+                "2026": 5,
+                "2025": 4
+            }
+        },
+        {
+            "rank": 115,
             "login": "julienbourdeau",
             "name": "Julien Bourdeau",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1525636?v=4",
@@ -1563,7 +1575,7 @@
             }
         },
         {
-            "rank": 115,
+            "rank": 116,
             "login": "micka-fdz",
             "name": "Micka\u00ebl Fernandez",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/50865159?v=4",
@@ -1577,7 +1589,7 @@
             }
         },
         {
-            "rank": 116,
+            "rank": 117,
             "login": "Alexandre-Lematre",
             "name": "Alexandre Lematre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/107846409?v=4",
@@ -1589,7 +1601,7 @@
             }
         },
         {
-            "rank": 117,
+            "rank": 118,
             "login": "NicolasJOUGNEAU",
             "name": "NicolasJOUGNEAU",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/100757215?u=277e00d1f34f8024c447516d05b4827b0905583a&v=4",
@@ -1601,7 +1613,7 @@
             }
         },
         {
-            "rank": 118,
+            "rank": 119,
             "login": "Seb33300",
             "name": "S\u00e9bastien Alfaiate",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/915273?v=4",
@@ -1612,18 +1624,6 @@
                 "2023": 1,
                 "2022": 3,
                 "2020": 2
-            }
-        },
-        {
-            "rank": 119,
-            "login": "github-advanced-security",
-            "name": "github-advanced-security",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/in\/57789?v=4",
-            "html_url": "https:\/\/github.com\/apps\/github-advanced-security",
-            "count": 8,
-            "countByYear": {
-                "2026": 4,
-                "2025": 4
             }
         },
         {
