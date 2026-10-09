@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-10-08T06:58:15+00:00",
+    "updatedAt": "2026-10-09T06:57:22+00:00",
     "items": [
         {
             "rank": 1,
@@ -44,9 +44,9 @@
             "name": "Jonathan Lelievre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13801017?v=4",
             "html_url": "https:\/\/github.com\/jolelievre",
-            "count": 1477,
+            "count": 1478,
             "countByYear": {
-                "2026": 280,
+                "2026": 281,
                 "2025": 228,
                 "2024": 258,
                 "2023": 136,
@@ -86,9 +86,9 @@
             "name": "Daniel Hlav\u00e1\u010dek",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6097524?v=4",
             "html_url": "https:\/\/github.com\/Hlavtox",
-            "count": 1095,
+            "count": 1096,
             "countByYear": {
-                "2026": 91,
+                "2026": 92,
                 "2025": 156,
                 "2024": 206,
                 "2023": 435,
@@ -424,9 +424,9 @@
             "name": "Nicolas L\u0153uillet",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/121870?v=4",
             "html_url": "https:\/\/github.com\/nicosomb",
-            "count": 353,
+            "count": 354,
             "countByYear": {
-                "2026": 94,
+                "2026": 95,
                 "2025": 85,
                 "2024": 76,
                 "2023": 65,
@@ -440,9 +440,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 340,
+            "count": 343,
             "countByYear": {
-                "2026": 139,
+                "2026": 142,
                 "2025": 137,
                 "2024": 35,
                 "2023": 23,
@@ -510,9 +510,9 @@
             "name": "Blivet Thibault",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/110676325?v=4",
             "html_url": "https:\/\/github.com\/tblivet",
-            "count": 262,
+            "count": 265,
             "countByYear": {
-                "2026": 78,
+                "2026": 81,
                 "2025": 92,
                 "2024": 78,
                 "2023": 14
@@ -555,9 +555,9 @@
             "name": "Matthias Goudjil",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
             "html_url": "https:\/\/github.com\/mattgoud",
-            "count": 239,
+            "count": 243,
             "countByYear": {
-                "2026": 171,
+                "2026": 175,
                 "2025": 49,
                 "2024": 19
             }
@@ -1369,6 +1369,21 @@
         },
         {
             "rank": 91,
+            "login": "marsaldev",
+            "name": "Marco Salvatore",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/48283112?v=4",
+            "html_url": "https:\/\/github.com\/marsaldev",
+            "count": 51,
+            "countByYear": {
+                "2026": 8,
+                "2024": 3,
+                "2022": 37,
+                "2021": 2,
+                "2019": 1
+            }
+        },
+        {
+            "rank": 92,
             "login": "unlocomqx",
             "name": "Tuni-Soft",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/793712?v=4",
@@ -1389,7 +1404,7 @@
             }
         },
         {
-            "rank": 92,
+            "rank": 93,
             "login": "Poulinhoo",
             "name": "Maxime Poulain",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/22856724?v=4",
@@ -1404,7 +1419,7 @@
             }
         },
         {
-            "rank": 93,
+            "rank": 94,
             "login": "erouvier29",
             "name": "Eric Rouvier",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9985812?v=4",
@@ -1416,21 +1431,6 @@
                 "2016": 14,
                 "2015": 26,
                 "2014": 1
-            }
-        },
-        {
-            "rank": 94,
-            "login": "marsaldev",
-            "name": "Marco Salvatore",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/48283112?v=4",
-            "html_url": "https:\/\/github.com\/marsaldev",
-            "count": 49,
-            "countByYear": {
-                "2026": 6,
-                "2024": 3,
-                "2022": 37,
-                "2021": 2,
-                "2019": 1
             }
         },
         {
@@ -1773,6 +1773,18 @@
         },
         {
             "rank": 119,
+            "login": "LameuleFR",
+            "name": "Benjamin Bendaoui",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/57117669?v=4",
+            "html_url": "https:\/\/github.com\/LameuleFR",
+            "count": 35,
+            "countByYear": {
+                "2026": 31,
+                "2023": 4
+            }
+        },
+        {
+            "rank": 120,
             "login": "MattKelvin",
             "name": "Matthias",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6407640?v=4",
@@ -1784,7 +1796,7 @@
             }
         },
         {
-            "rank": 120,
+            "rank": 121,
             "login": "cedricfontaine",
             "name": "C\u00e9dric Fontaine",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3180112?v=4",
@@ -1801,7 +1813,7 @@
             }
         },
         {
-            "rank": 121,
+            "rank": 122,
             "login": "paeddl",
             "name": "Patrick Weinstein",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13215203?v=4",
@@ -1815,7 +1827,7 @@
             }
         },
         {
-            "rank": 122,
+            "rank": 123,
             "login": "rdy4ever",
             "name": "Horia Rudan",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12268701?v=4",
@@ -1829,7 +1841,7 @@
             }
         },
         {
-            "rank": 123,
+            "rank": 124,
             "login": "LittleBigDev",
             "name": "Bastien Bieri",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6631597?v=4",
@@ -1841,7 +1853,7 @@
             }
         },
         {
-            "rank": 124,
+            "rank": 125,
             "login": "Oksydan",
             "name": "Igor St\u0119pie\u0144",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/25306716?v=4",
@@ -1856,7 +1868,7 @@
             }
         },
         {
-            "rank": 125,
+            "rank": 126,
             "login": "nenes25",
             "name": "Herv\u00e9 H.",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7163132?v=4",
@@ -1873,7 +1885,7 @@
             }
         },
         {
-            "rank": 126,
+            "rank": 127,
             "login": "rGaillard",
             "name": "R\u00e9mi Gaillard",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2787216?v=4",
@@ -1888,7 +1900,7 @@
             }
         },
         {
-            "rank": 127,
+            "rank": 128,
             "login": "tom-combet",
             "name": "Tom Combet",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/48719560?v=4",
@@ -1901,7 +1913,7 @@
             }
         },
         {
-            "rank": 128,
+            "rank": 129,
             "login": "yannicka",
             "name": "Yannick A.",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/22885898?v=4",
@@ -1919,7 +1931,7 @@
             }
         },
         {
-            "rank": 129,
+            "rank": 130,
             "login": "Alexandre-Lematre",
             "name": "Alexandre Lematre",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/107846409?v=4",
@@ -1933,7 +1945,7 @@
             }
         },
         {
-            "rank": 130,
+            "rank": 131,
             "login": "thoma202",
             "name": "Thoma",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2963059?v=4",
@@ -1946,7 +1958,7 @@
             }
         },
         {
-            "rank": 131,
+            "rank": 132,
             "login": "Nakahiru",
             "name": "Julien Gissinger",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16980315?v=4",
@@ -1962,7 +1974,7 @@
             }
         },
         {
-            "rank": 132,
+            "rank": 133,
             "login": "SebSept",
             "name": "S\u00e9bastien Monterisi",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2592502?v=4",
@@ -1978,7 +1990,7 @@
             }
         },
         {
-            "rank": 133,
+            "rank": 134,
             "login": "YeLnatSs",
             "name": "Marvin",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/11522622?v=4",
@@ -1989,7 +2001,7 @@
             }
         },
         {
-            "rank": 134,
+            "rank": 135,
             "login": "ansar21mallouli",
             "name": "Ansar  Mallouli",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9658570?v=4",
@@ -2001,7 +2013,7 @@
             }
         },
         {
-            "rank": 135,
+            "rank": 136,
             "login": "basma-yangui-prestashop",
             "name": "basma-yangui-prestashop",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/21578520?v=4",
@@ -2013,7 +2025,7 @@
             }
         },
         {
-            "rank": 136,
+            "rank": 137,
             "login": "fouratachour",
             "name": "Fourat achour",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12897853?v=4",
@@ -2025,7 +2037,7 @@
             }
         },
         {
-            "rank": 137,
+            "rank": 138,
             "login": "iqit-commerce",
             "name": "iqit-commerce (Marcin Sz)",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3184920?v=4",
@@ -2042,7 +2054,7 @@
             }
         },
         {
-            "rank": 138,
+            "rank": 139,
             "login": "kompilorb",
             "name": "kompilorb",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/25580978?v=4",
@@ -2053,7 +2065,7 @@
             }
         },
         {
-            "rank": 139,
+            "rank": 140,
             "login": "pablopolyte",
             "name": "pablopolyte",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/31857168?v=4",
@@ -2067,7 +2079,7 @@
             }
         },
         {
-            "rank": 140,
+            "rank": 141,
             "login": "LouisAUTHIE",
             "name": "Louis AUTHIE",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65625876?v=4",
@@ -2081,7 +2093,7 @@
             }
         },
         {
-            "rank": 141,
+            "rank": 142,
             "login": "MacRoy",
             "name": "Roy",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8533392?u=893083013b59552e62e1dabeddc4331dd957f3db&v=4",
@@ -2092,7 +2104,7 @@
             }
         },
         {
-            "rank": 142,
+            "rank": 143,
             "login": "zalexki",
             "name": "Alex",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3863527?v=4",
@@ -2104,7 +2116,7 @@
             }
         },
         {
-            "rank": 143,
+            "rank": 144,
             "login": "Amit-Kumar-Tiwari-Webkul",
             "name": "AMIT KUMAR TIWARI",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/42021740?u=be62688bdc175c373c64816d6248f563c1111149&v=4",
@@ -2118,7 +2130,7 @@
             }
         },
         {
-            "rank": 144,
+            "rank": 145,
             "login": "L3RAZ",
             "name": "Laurynas \u0160edys",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/25088641?v=4",
@@ -2128,18 +2140,6 @@
                 "2026": 26,
                 "2020": 1,
                 "2019": 2
-            }
-        },
-        {
-            "rank": 145,
-            "login": "LameuleFR",
-            "name": "Benjamin Bendaoui",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/57117669?v=4",
-            "html_url": "https:\/\/github.com\/LameuleFR",
-            "count": 29,
-            "countByYear": {
-                "2026": 25,
-                "2023": 4
             }
         },
         {
@@ -2850,6 +2850,18 @@
         },
         {
             "rank": 198,
+            "login": "ChillCode",
+            "name": "Chillcode",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9787055?v=4",
+            "html_url": "https:\/\/github.com\/ChillCode",
+            "count": 18,
+            "countByYear": {
+                "2026": 3,
+                "2025": 15
+            }
+        },
+        {
+            "rank": 199,
             "login": "Prestaplugins",
             "name": "Prestaplugins",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3033446?v=4",
@@ -2863,7 +2875,7 @@
             }
         },
         {
-            "rank": 199,
+            "rank": 200,
             "login": "camlafit",
             "name": "Km",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/209915?v=4",
@@ -2880,7 +2892,7 @@
             }
         },
         {
-            "rank": 200,
+            "rank": 201,
             "login": "ccauw",
             "name": "ccauw",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3878062?v=4",
@@ -2892,7 +2904,7 @@
             }
         },
         {
-            "rank": 201,
+            "rank": 202,
             "login": "colinegin",
             "name": "colinegin",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/35263827?v=4",
@@ -2904,7 +2916,7 @@
             }
         },
         {
-            "rank": 202,
+            "rank": 203,
             "login": "davidPrestashop",
             "name": "davidparis",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/108662283?v=4",
@@ -2917,7 +2929,7 @@
             }
         },
         {
-            "rank": 203,
+            "rank": 204,
             "login": "hiousi",
             "name": "hiousi",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/176594?u=b5b24c14f36bfaa3db0594ed0edbd7575bb8b417&v=4",
@@ -2932,7 +2944,7 @@
             }
         },
         {
-            "rank": 204,
+            "rank": 205,
             "login": "paulnoelcholot",
             "name": "Camille",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/112863083?v=4",
@@ -2943,7 +2955,7 @@
             }
         },
         {
-            "rank": 205,
+            "rank": 206,
             "login": "202-ecommerce",
             "name": "202 ecommerce",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4932192?v=4",
@@ -2953,18 +2965,6 @@
                 "2019": 13,
                 "2014": 1,
                 "2013": 3
-            }
-        },
-        {
-            "rank": 206,
-            "login": "ChillCode",
-            "name": "Chillcode",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9787055?v=4",
-            "html_url": "https:\/\/github.com\/ChillCode",
-            "count": 17,
-            "countByYear": {
-                "2026": 2,
-                "2025": 15
             }
         },
         {
@@ -3078,6 +3078,18 @@
         },
         {
             "rank": 215,
+            "login": "aomaxime",
+            "name": "aomaxime",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/148320838?v=4",
+            "html_url": "https:\/\/github.com\/aomaxime",
+            "count": 16,
+            "countByYear": {
+                "2026": 5,
+                "2025": 11
+            }
+        },
+        {
+            "rank": 216,
             "login": "dali-rajab",
             "name": "Mohamed Ali Rajab",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/39015823?v=4",
@@ -3093,7 +3105,7 @@
             }
         },
         {
-            "rank": 216,
+            "rank": 217,
             "login": "drzraf",
             "name": "Rapha\u00ebl Droz",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1169926?v=4",
@@ -3105,7 +3117,7 @@
             }
         },
         {
-            "rank": 217,
+            "rank": 218,
             "login": "ishcherbakov",
             "name": "Ivan Shcherbakov",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9960777?v=4",
@@ -3116,7 +3128,7 @@
             }
         },
         {
-            "rank": 218,
+            "rank": 219,
             "login": "jtabet",
             "name": "J\u00e9r\u00e9mie Tabet",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1900618?u=7928ffaff202b6055cf58d6e608115307f493b04&v=4",
@@ -3127,7 +3139,18 @@
             }
         },
         {
-            "rank": 219,
+            "rank": 220,
+            "login": "vdementev",
+            "name": "Vasilii Dementev",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14889996?u=3404f2e8901b291224b6d9af4df6bb321a870fe5&v=4",
+            "html_url": "https:\/\/github.com\/vdementev",
+            "count": 16,
+            "countByYear": {
+                "2026": 16
+            }
+        },
+        {
+            "rank": 221,
             "login": "CaptainYouz",
             "name": "Anas Mammeri",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2973285?v=4",
@@ -3138,7 +3161,7 @@
             }
         },
         {
-            "rank": 220,
+            "rank": 222,
             "login": "Danoosh",
             "name": "Danoosh Miralaei",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2306641?v=4",
@@ -3153,7 +3176,7 @@
             }
         },
         {
-            "rank": 221,
+            "rank": 223,
             "login": "Eolia",
             "name": "Eolia",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10416885?v=4",
@@ -3165,7 +3188,7 @@
             }
         },
         {
-            "rank": 222,
+            "rank": 224,
             "login": "Ha99y",
             "name": "H",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2355427?v=4",
@@ -3177,7 +3200,7 @@
             }
         },
         {
-            "rank": 223,
+            "rank": 225,
             "login": "Markus-Gurkcity",
             "name": "Markus-Gurkcity",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/63096826?v=4",
@@ -3192,7 +3215,7 @@
             }
         },
         {
-            "rank": 224,
+            "rank": 226,
             "login": "Sollsy",
             "name": "Solls",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/229480808?v=4",
@@ -3204,7 +3227,7 @@
             }
         },
         {
-            "rank": 225,
+            "rank": 227,
             "login": "WebHelpersPau",
             "name": "Web Helpers Pau",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/75366465?v=4",
@@ -3216,7 +3239,7 @@
             }
         },
         {
-            "rank": 226,
+            "rank": 228,
             "login": "aleksiuno",
             "name": "Darius Aleksiunas",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/17498592?v=4",
@@ -3230,7 +3253,7 @@
             }
         },
         {
-            "rank": 227,
+            "rank": 229,
             "login": "dylanDenizonPresta",
             "name": "dylanDenizonPresta",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/119846866?v=4",
@@ -3243,7 +3266,7 @@
             }
         },
         {
-            "rank": 228,
+            "rank": 230,
             "login": "e-gaulue",
             "name": "e-gaulue",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4291874?v=4",
@@ -3256,7 +3279,7 @@
             }
         },
         {
-            "rank": 229,
+            "rank": 231,
             "login": "likemusic",
             "name": "Valerij Ivashchenko",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/603401?v=4",
@@ -3267,7 +3290,7 @@
             }
         },
         {
-            "rank": 230,
+            "rank": 232,
             "login": "lozal2244",
             "name": "lozal2244",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6042224?v=4",
@@ -3280,7 +3303,7 @@
             }
         },
         {
-            "rank": 231,
+            "rank": 233,
             "login": "manfield",
             "name": "Manfredi Petruso",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/397671?v=4",
@@ -3296,7 +3319,7 @@
             }
         },
         {
-            "rank": 232,
+            "rank": 234,
             "login": "matrixino",
             "name": "Giuseppe Tripiciano",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6110527?v=4",
@@ -3310,7 +3333,7 @@
             }
         },
         {
-            "rank": 233,
+            "rank": 235,
             "login": "matthieumota",
             "name": "Matthieu Mota",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2427947?v=4",
@@ -3325,7 +3348,7 @@
             }
         },
         {
-            "rank": 234,
+            "rank": 236,
             "login": "misthero",
             "name": "Luca T.",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3662610?u=e81e18cfafe504a36612dd9b49ee556bd296831e&v=4",
@@ -3339,7 +3362,7 @@
             }
         },
         {
-            "rank": 235,
+            "rank": 237,
             "login": "soullivaneuh",
             "name": "Sullivan S.",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1698357?v=4",
@@ -3351,18 +3374,7 @@
             }
         },
         {
-            "rank": 236,
-            "login": "vdementev",
-            "name": "Vasilii Dementev",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14889996?u=3404f2e8901b291224b6d9af4df6bb321a870fe5&v=4",
-            "html_url": "https:\/\/github.com\/vdementev",
-            "count": 15,
-            "countByYear": {
-                "2026": 15
-            }
-        },
-        {
-            "rank": 237,
+            "rank": 238,
             "login": "Mch0",
             "name": "Arnaud",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3593331?v=4",
@@ -3374,18 +3386,6 @@
                 "2021": 3,
                 "2020": 1,
                 "2019": 1
-            }
-        },
-        {
-            "rank": 238,
-            "login": "aomaxime",
-            "name": "aomaxime",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/148320838?v=4",
-            "html_url": "https:\/\/github.com\/aomaxime",
-            "count": 14,
-            "countByYear": {
-                "2026": 3,
-                "2025": 11
             }
         },
         {
@@ -5322,6 +5322,20 @@
         },
         {
             "rank": 389,
+            "login": "nicohery",
+            "name": "Nico H",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/881477?v=4",
+            "html_url": "https:\/\/github.com\/nicohery",
+            "count": 7,
+            "countByYear": {
+                "2026": 3,
+                "2025": 2,
+                "2024": 1,
+                "2021": 1
+            }
+        },
+        {
+            "rank": 390,
             "login": "panariga",
             "name": "panariga",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/13601532?v=4",
@@ -5334,7 +5348,7 @@
             }
         },
         {
-            "rank": 390,
+            "rank": 391,
             "login": "prestaforum",
             "name": "prestaforum",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/69155595?v=4",
@@ -5346,7 +5360,7 @@
             }
         },
         {
-            "rank": 391,
+            "rank": 392,
             "login": "remixaz",
             "name": "Rimas",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6286813?v=4",
@@ -5357,7 +5371,7 @@
             }
         },
         {
-            "rank": 392,
+            "rank": 393,
             "login": "runningz",
             "name": "Ra\u00fal Rubio",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4552670?v=4",
@@ -5370,7 +5384,7 @@
             }
         },
         {
-            "rank": 393,
+            "rank": 394,
             "login": "sete391",
             "name": "David de la Fuente",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7504211?u=29aa2cb6ce6c8b79f218c78c410b41b46d793891&v=4",
@@ -5383,7 +5397,7 @@
             }
         },
         {
-            "rank": 394,
+            "rank": 395,
             "login": "solarissmoke",
             "name": "Samir Shah",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/160227?v=4",
@@ -5394,7 +5408,7 @@
             }
         },
         {
-            "rank": 395,
+            "rank": 396,
             "login": "stickyrst",
             "name": "stickyrst",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/21141475?v=4",
@@ -5407,7 +5421,7 @@
             }
         },
         {
-            "rank": 396,
+            "rank": 397,
             "login": "true0r",
             "name": "Olexander Galaydyuk",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8409258?u=c8c3133c9ff92a9e4ef9e1c002f85c2dbc98aa67&v=4",
@@ -5419,7 +5433,7 @@
             }
         },
         {
-            "rank": 397,
+            "rank": 398,
             "login": "tucoinfo",
             "name": "tucoinfo",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1420304?v=4",
@@ -5431,7 +5445,7 @@
             }
         },
         {
-            "rank": 398,
+            "rank": 399,
             "login": "twengahub",
             "name": "twengahub",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5047517?v=4",
@@ -5443,7 +5457,7 @@
             }
         },
         {
-            "rank": 399,
+            "rank": 400,
             "login": "wellic",
             "name": "Valerii Savchenko",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3743654?u=d3eb8c795616b660503fd4771a74ce3a1cda6e5a&v=4",
@@ -5454,7 +5468,7 @@
             }
         },
         {
-            "rank": 400,
+            "rank": 401,
             "login": "younesszed",
             "name": "Y Ziouane",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4512859?v=4",
@@ -5466,7 +5480,7 @@
             }
         },
         {
-            "rank": 401,
+            "rank": 402,
             "login": "zapalm",
             "name": "Maksim T.",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6657815?v=4",
@@ -5480,7 +5494,7 @@
             }
         },
         {
-            "rank": 402,
+            "rank": 403,
             "login": "BlackKerio",
             "name": "BlackKerio",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/45964032?v=4",
@@ -5491,7 +5505,7 @@
             }
         },
         {
-            "rank": 403,
+            "rank": 404,
             "login": "Comkwatt",
             "name": "Comkwatt",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9199808?u=1022d6ff400f8f11513e0e409f14f5d77e71846a&v=4",
@@ -5503,7 +5517,7 @@
             }
         },
         {
-            "rank": 404,
+            "rank": 405,
             "login": "JoseNOM",
             "name": "JoseNOM",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/103456499?v=4",
@@ -5515,7 +5529,7 @@
             }
         },
         {
-            "rank": 405,
+            "rank": 406,
             "login": "KminekMatej",
             "name": "Mat\u011bj Km\u00ednek",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16462921?u=6dd4a93e182d7f5cbddd11ab6e125669fc890ea9&v=4",
@@ -5528,7 +5542,7 @@
             }
         },
         {
-            "rank": 406,
+            "rank": 407,
             "login": "MDWeb-Lille",
             "name": "MDWeb",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3843844?u=028a9376f11ad0fb29b98da7a56acf74dd3d64cd&v=4",
@@ -5540,7 +5554,7 @@
             }
         },
         {
-            "rank": 407,
+            "rank": 408,
             "login": "PSebou",
             "name": "PSebou",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/98540591?v=4",
@@ -5551,7 +5565,7 @@
             }
         },
         {
-            "rank": 408,
+            "rank": 409,
             "login": "Prestapro",
             "name": "Prestapro",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/974158?u=a766ab88084b6c365c2911f8cbf83223f990baae&v=4",
@@ -5563,7 +5577,7 @@
             }
         },
         {
-            "rank": 409,
+            "rank": 410,
             "login": "SDF-of-BC",
             "name": "Steven \"SDF\" Sulley",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/919351?u=4876c702eb337293a2cf22923318ea3f7f42d898&v=4",
@@ -5577,7 +5591,7 @@
             }
         },
         {
-            "rank": 410,
+            "rank": 411,
             "login": "TemKaSD",
             "name": "TemKaSD",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6318282?v=4",
@@ -5589,7 +5603,7 @@
             }
         },
         {
-            "rank": 411,
+            "rank": 412,
             "login": "andromaque",
             "name": "Andromaque",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/44618557?v=4",
@@ -5602,7 +5616,7 @@
             }
         },
         {
-            "rank": 412,
+            "rank": 413,
             "login": "arunvishwakarama",
             "name": "Arun Vishwakarama",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/25950726?v=4",
@@ -5613,7 +5627,7 @@
             }
         },
         {
-            "rank": 413,
+            "rank": 414,
             "login": "aseques",
             "name": "aseques",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/555542?v=4",
@@ -5625,7 +5639,7 @@
             }
         },
         {
-            "rank": 414,
+            "rank": 415,
             "login": "awitkutarahil",
             "name": "Awit Kuta Rahil",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/69957964?v=4",
@@ -5636,7 +5650,7 @@
             }
         },
         {
-            "rank": 415,
+            "rank": 416,
             "login": "borjagarciab",
             "name": "Boki",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/57815173?v=4",
@@ -5649,7 +5663,7 @@
             }
         },
         {
-            "rank": 416,
+            "rank": 417,
             "login": "bpongy",
             "name": "Benjamin PONGY",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2168324?v=4",
@@ -5662,7 +5676,7 @@
             }
         },
         {
-            "rank": 417,
+            "rank": 418,
             "login": "brouillon",
             "name": "brouillon",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2931266?u=f7c1c7210a9544586564a16fcd702c80e41fd16a&v=4",
@@ -5673,7 +5687,7 @@
             }
         },
         {
-            "rank": 418,
+            "rank": 419,
             "login": "carmas123",
             "name": "Massimo Caroccia",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6574219?u=9420259a261a056adc7351ca470bd8e48b61367a&v=4",
@@ -5685,7 +5699,7 @@
             }
         },
         {
-            "rank": 419,
+            "rank": 420,
             "login": "cdoublev",
             "name": "Guillaume",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/15889080?u=e9ac07efaae7e616e6623bb8edc993177f126661&v=4",
@@ -5696,7 +5710,7 @@
             }
         },
         {
-            "rank": 420,
+            "rank": 421,
             "login": "cocoweb94",
             "name": "cocoweb94",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/17760219?u=f6d9f32f0425867d2f32d1bab781d56c9e42a340&v=4",
@@ -5707,7 +5721,7 @@
             }
         },
         {
-            "rank": 421,
+            "rank": 422,
             "login": "davideapvd",
             "name": "davideapvd",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/21243907?v=4",
@@ -5719,7 +5733,7 @@
             }
         },
         {
-            "rank": 422,
+            "rank": 423,
             "login": "dlage",
             "name": "Dinis",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/527682?v=4",
@@ -5730,7 +5744,7 @@
             }
         },
         {
-            "rank": 423,
+            "rank": 424,
             "login": "fdonnet",
             "name": "F. Donnet",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/45830712?v=4",
@@ -5742,7 +5756,7 @@
             }
         },
         {
-            "rank": 424,
+            "rank": 425,
             "login": "francoispeyret",
             "name": "fpeyret",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/15829643?u=c6b354cfdda8d4842e741c0d171b4daa9c37a463&v=4",
@@ -5755,7 +5769,7 @@
             }
         },
         {
-            "rank": 425,
+            "rank": 426,
             "login": "hadjedjvincent",
             "name": "Vincent HADJEDJ",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3198580?v=4",
@@ -5769,7 +5783,7 @@
             }
         },
         {
-            "rank": 426,
+            "rank": 427,
             "login": "helgvor-stoll",
             "name": "Helgvor STOLL",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4266572?u=2aec6b3f9d4d41ea4911a500b3589cbbac8d4af6&v=4",
@@ -5781,7 +5795,7 @@
             }
         },
         {
-            "rank": 427,
+            "rank": 428,
             "login": "hugofintecture",
             "name": "Hugo Posnic",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/89129201?v=4",
@@ -5793,7 +5807,7 @@
             }
         },
         {
-            "rank": 428,
+            "rank": 429,
             "login": "humpfreybogart",
             "name": "ifhkjghuo",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5221599?u=fc88e20b4304a32b3ed6dab24e88cc76fe7890e9&v=4",
@@ -5804,7 +5818,7 @@
             }
         },
         {
-            "rank": 429,
+            "rank": 430,
             "login": "juraj1000",
             "name": "juraj1000",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/33311857?v=4",
@@ -5816,7 +5830,7 @@
             }
         },
         {
-            "rank": 430,
+            "rank": 431,
             "login": "jusurb",
             "name": "Justinas Urbanavicius",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/171747?u=d3fc0db295846d5ba0e880d91efbbc38a1c45627&v=4",
@@ -5829,7 +5843,7 @@
             }
         },
         {
-            "rank": 431,
+            "rank": 432,
             "login": "levyn",
             "name": "Uladzimir",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1076017?v=4",
@@ -5842,7 +5856,7 @@
             }
         },
         {
-            "rank": 432,
+            "rank": 433,
             "login": "lfluvisotto",
             "name": "Leandro",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/535626?v=4",
@@ -5853,7 +5867,7 @@
             }
         },
         {
-            "rank": 433,
+            "rank": 434,
             "login": "luclanet",
             "name": "Claudio Mulas",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3264432?v=4",
@@ -5864,7 +5878,7 @@
             }
         },
         {
-            "rank": 434,
+            "rank": 435,
             "login": "madef",
             "name": "Maxence de Flotte",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1945111?u=239c95cd380092532b9f44dfa06ecb95422c15a9&v=4",
@@ -5878,7 +5892,7 @@
             }
         },
         {
-            "rank": 435,
+            "rank": 436,
             "login": "mdrbx",
             "name": "Matthieu Deroubaix",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3109820?u=4e448e3c8684d7200c1c74cc5ea727dab1836b1c&v=4",
@@ -5890,7 +5904,7 @@
             }
         },
         {
-            "rank": 436,
+            "rank": 437,
             "login": "mihailovs2000",
             "name": "mihailovs2000",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/61429162?v=4",
@@ -5901,7 +5915,7 @@
             }
         },
         {
-            "rank": 437,
+            "rank": 438,
             "login": "molka",
             "name": "Molka Djemal",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6304093?v=4",
@@ -5912,7 +5926,7 @@
             }
         },
         {
-            "rank": 438,
+            "rank": 439,
             "login": "nabahat",
             "name": "nabahat",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/17002752?v=4",
@@ -5920,20 +5934,6 @@
             "count": 6,
             "countByYear": {
                 "2016": 6
-            }
-        },
-        {
-            "rank": 439,
-            "login": "nicohery",
-            "name": "Nico H",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/881477?v=4",
-            "html_url": "https:\/\/github.com\/nicohery",
-            "count": 6,
-            "countByYear": {
-                "2026": 2,
-                "2025": 2,
-                "2024": 1,
-                "2021": 1
             }
         },
         {
