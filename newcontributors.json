@@ -1,4 +1,12 @@
 {
+    "mkaleta-waynet": {
+        "login": "mkaleta-waynet",
+        "name": "mkaleta-waynet",
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/262103612?v=4",
+        "html_url": "https:\/\/github.com\/mkaleta-waynet",
+        "contributions": 18,
+        "firstContributionAt": "2026-10-09T06:35:29Z"
+    },
     "rboadalabelgrup": {
         "login": "rboadalabelgrup",
         "name": null,
@@ -70,13 +78,5 @@
         "html_url": "https:\/\/github.com\/cdigruttola",
         "contributions": 1,
         "firstContributionAt": "2026-05-25T17:44:14Z"
-    },
-    "MatthieuCutin": {
-        "login": "MatthieuCutin",
-        "name": null,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12746178?v=4",
-        "html_url": "https:\/\/github.com\/MatthieuCutin",
-        "contributions": 1,
-        "firstContributionAt": "2026-05-20T13:52:46Z"
     }
 }

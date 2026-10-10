@@ -1677,9 +1677,9 @@
         "location": "Bydgoszcz, Poland",
         "bio": "VP Technology & Community at @PrestaShop, working across technology, product, and the open-source ecosystem",
         "email_domain": "",
-        "contributions": 3895,
+        "contributions": 3898,
         "repositories": {
-            "PrestaShop": 928,
+            "PrestaShop": 931,
             "PrestaShop-modules": 4,
             "PrestaShop-webservice-lib": 3,
             "dashactivity": 1,
@@ -1794,9 +1794,9 @@
         },
         "categories": {
             "core": {
-                "total": 961,
+                "total": 964,
                 "repositories": {
-                    "PrestaShop": 928,
+                    "PrestaShop": 931,
                     "prestashop-ui-kit": 4,
                     "LocalizationFiles": 25,
                     "stylelint-browser-compatibility": 1,
@@ -18134,17 +18134,17 @@
             }
         }
     },
-    "erouvier29": {
-        "login": "erouvier29",
-        "id": 9985812,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9985812?v=4",
-        "html_url": "https:\/\/github.com\/erouvier29",
-        "name": "Eric Rouvier",
-        "company": "KerAwen",
+    "YosraAk": {
+        "login": "YosraAk",
+        "id": 12126707,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12126707?v=4",
+        "html_url": "https:\/\/github.com\/YosraAk",
+        "name": "YosraAkrout",
+        "company": null,
         "blog": "",
-        "location": "Brest, France",
+        "location": null,
         "bio": null,
-        "email_domain": "gmail.com",
+        "email_domain": "",
         "contributions": 27,
         "repositories": {
             "PrestaShop": 27
@@ -18190,17 +18190,17 @@
             }
         }
     },
-    "YosraAk": {
-        "login": "YosraAk",
-        "id": 12126707,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12126707?v=4",
-        "html_url": "https:\/\/github.com\/YosraAk",
-        "name": "YosraAkrout",
-        "company": null,
+    "erouvier29": {
+        "login": "erouvier29",
+        "id": 9985812,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9985812?v=4",
+        "html_url": "https:\/\/github.com\/erouvier29",
+        "name": "Eric Rouvier",
+        "company": "KerAwen",
         "blog": "",
-        "location": null,
+        "location": "Brest, France",
         "bio": null,
-        "email_domain": "",
+        "email_domain": "gmail.com",
         "contributions": 27,
         "repositories": {
             "PrestaShop": 27
@@ -19814,6 +19814,62 @@
             }
         }
     },
+    "mkaleta-waynet": {
+        "login": "mkaleta-waynet",
+        "id": 262103612,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/262103612?v=4",
+        "html_url": "https:\/\/github.com\/mkaleta-waynet",
+        "name": "mkaleta-waynet",
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 18,
+        "repositories": {
+            "PrestaShop": 18
+        },
+        "categories": {
+            "core": {
+                "total": 18,
+                "repositories": {
+                    "PrestaShop": 18
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "Amoifr": {
         "login": "Amoifr",
         "id": 31698966,
@@ -20856,15 +20912,15 @@
             }
         }
     },
-    "venditdevs": {
-        "login": "venditdevs",
-        "id": 14218917,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14218917?v=4",
-        "html_url": "https:\/\/github.com\/venditdevs",
-        "name": "Vendit Webdevelopment",
-        "company": "Vendit B.V.",
-        "blog": "https:\/\/www.vendit.nl",
-        "location": "The Netherlands",
+    "iNem0o": {
+        "login": "iNem0o",
+        "id": 1144755,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1144755?v=4",
+        "html_url": "https:\/\/github.com\/iNem0o",
+        "name": "L\u00e9o",
+        "company": "e-Frogg",
+        "blog": "http:\/\/leo.cuneaz.fr",
+        "location": "France",
         "bio": null,
         "email_domain": "",
         "contributions": 14,
@@ -20912,15 +20968,15 @@
             }
         }
     },
-    "iNem0o": {
-        "login": "iNem0o",
-        "id": 1144755,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1144755?v=4",
-        "html_url": "https:\/\/github.com\/iNem0o",
-        "name": "L\u00e9o",
-        "company": "e-Frogg",
-        "blog": "http:\/\/leo.cuneaz.fr",
-        "location": "France",
+    "venditdevs": {
+        "login": "venditdevs",
+        "id": 14218917,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14218917?v=4",
+        "html_url": "https:\/\/github.com\/venditdevs",
+        "name": "Vendit Webdevelopment",
+        "company": "Vendit B.V.",
+        "blog": "https:\/\/www.vendit.nl",
+        "location": "The Netherlands",
         "bio": null,
         "email_domain": "",
         "contributions": 14,
@@ -21265,65 +21321,6 @@
             }
         }
     },
-    "Eolia": {
-        "login": "Eolia",
-        "id": 10416885,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10416885?v=4",
-        "html_url": "https:\/\/github.com\/Eolia",
-        "name": null,
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 13,
-        "repositories": {
-            "PrestaShop": 12,
-            "ps_categorytree": 1
-        },
-        "categories": {
-            "core": {
-                "total": 12,
-                "repositories": {
-                    "PrestaShop": 12
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 1,
-                "repositories": {
-                    "ps_categorytree": 1
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
     "olecorre": {
         "login": "olecorre",
         "id": 2854750,
@@ -21364,6 +21361,65 @@
             "modules": {
                 "total": 0,
                 "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "Eolia": {
+        "login": "Eolia",
+        "id": 10416885,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10416885?v=4",
+        "html_url": "https:\/\/github.com\/Eolia",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 13,
+        "repositories": {
+            "PrestaShop": 12,
+            "ps_categorytree": 1
+        },
+        "categories": {
+            "core": {
+                "total": 12,
+                "repositories": {
+                    "PrestaShop": 12
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 1,
+                "repositories": {
+                    "ps_categorytree": 1
+                }
             },
             "tools": {
                 "total": 0,
@@ -21646,17 +21702,17 @@
             }
         }
     },
-    "joseantgv": {
-        "login": "joseantgv",
-        "id": 5071263,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5071263?v=4",
-        "html_url": "https:\/\/github.com\/joseantgv",
-        "name": null,
-        "company": null,
-        "blog": "",
-        "location": null,
+    "samy": {
+        "login": "samy",
+        "id": 1282106,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1282106?v=4",
+        "html_url": "https:\/\/github.com\/samy",
+        "name": "Samy Rabih",
+        "company": "Hubicus (groupe BVA)",
+        "blog": "http:\/\/lahaut.info",
+        "location": "Lyon",
         "bio": null,
-        "email_domain": "",
+        "email_domain": "lahaut.info",
         "contributions": 12,
         "repositories": {
             "PrestaShop": 10,
@@ -21705,17 +21761,17 @@
             }
         }
     },
-    "samy": {
-        "login": "samy",
-        "id": 1282106,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1282106?v=4",
-        "html_url": "https:\/\/github.com\/samy",
-        "name": "Samy Rabih",
-        "company": "Hubicus (groupe BVA)",
-        "blog": "http:\/\/lahaut.info",
-        "location": "Lyon",
+    "joseantgv": {
+        "login": "joseantgv",
+        "id": 5071263,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5071263?v=4",
+        "html_url": "https:\/\/github.com\/joseantgv",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
         "bio": null,
-        "email_domain": "lahaut.info",
+        "email_domain": "",
         "contributions": 12,
         "repositories": {
             "PrestaShop": 10,
@@ -23451,6 +23507,62 @@
             }
         }
     },
+    "julvernois": {
+        "login": "julvernois",
+        "id": 12191627,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12191627?v=4",
+        "html_url": "https:\/\/github.com\/julvernois",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 9,
+        "repositories": {
+            "PrestaShop": 9
+        },
+        "categories": {
+            "core": {
+                "total": 9,
+                "repositories": {
+                    "PrestaShop": 9
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "BlackKerio": {
         "login": "BlackKerio",
         "id": 45964032,
@@ -23518,62 +23630,6 @@
         "location": "Moscow",
         "bio": "VK Tarantool Team",
         "email_domain": "gmail.com",
-        "contributions": 9,
-        "repositories": {
-            "PrestaShop": 9
-        },
-        "categories": {
-            "core": {
-                "total": 9,
-                "repositories": {
-                    "PrestaShop": 9
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "julvernois": {
-        "login": "julvernois",
-        "id": 12191627,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12191627?v=4",
-        "html_url": "https:\/\/github.com\/julvernois",
-        "name": null,
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
         "contributions": 9,
         "repositories": {
             "PrestaShop": 9
@@ -24569,65 +24625,6 @@
             }
         }
     },
-    "taoufiqaitali": {
-        "login": "taoufiqaitali",
-        "id": 22837086,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/22837086?v=4",
-        "html_url": "https:\/\/github.com\/taoufiqaitali",
-        "name": "Taoufiq Ait Ali",
-        "company": "bluegital Solution",
-        "blog": "http:\/\/bluegital.com",
-        "location": "Morocco",
-        "bio": "Fullstack web developer",
-        "email_domain": "gmail.com",
-        "contributions": 8,
-        "repositories": {
-            "PrestaShop": 6,
-            "classic-theme": 2
-        },
-        "categories": {
-            "core": {
-                "total": 6,
-                "repositories": {
-                    "PrestaShop": 6
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 2,
-                "repositories": {
-                    "classic-theme": 2
-                }
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
     "Dreimus": {
         "login": "Dreimus",
         "id": 2658244,
@@ -25440,15 +25437,15 @@
             }
         }
     },
-    "lfluvisotto": {
-        "login": "lfluvisotto",
-        "id": 535626,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/535626?v=4",
-        "html_url": "https:\/\/github.com\/lfluvisotto",
-        "name": "Leandro",
+    "psyray": {
+        "login": "psyray",
+        "id": 1230954,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1230954?v=4",
+        "html_url": "https:\/\/github.com\/psyray",
+        "name": "Psyray",
         "company": null,
-        "blog": "https:\/\/www.linkedin.com\/in\/lfluvisotto",
-        "location": "Brazil",
+        "blog": "",
+        "location": null,
         "bio": null,
         "email_domain": "",
         "contributions": 7,
@@ -25552,15 +25549,15 @@
             }
         }
     },
-    "psyray": {
-        "login": "psyray",
-        "id": 1230954,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1230954?v=4",
-        "html_url": "https:\/\/github.com\/psyray",
-        "name": "Psyray",
+    "lfluvisotto": {
+        "login": "lfluvisotto",
+        "id": 535626,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/535626?v=4",
+        "html_url": "https:\/\/github.com\/lfluvisotto",
+        "name": "Leandro",
         "company": null,
-        "blog": "",
-        "location": null,
+        "blog": "https:\/\/www.linkedin.com\/in\/lfluvisotto",
+        "location": "Brazil",
         "bio": null,
         "email_domain": "",
         "contributions": 7,
@@ -26413,17 +26410,17 @@
             }
         }
     },
-    "gross-nvs": {
-        "login": "gross-nvs",
-        "id": 48470278,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/48470278?v=4",
-        "html_url": "https:\/\/github.com\/gross-nvs",
-        "name": "Beno\u00eet Gross",
-        "company": "Novius",
-        "blog": "https:\/\/www.novius.com\/",
-        "location": "Lyon, France",
+    "arnolem": {
+        "login": "arnolem",
+        "id": 2263103,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2263103?v=4",
+        "html_url": "https:\/\/github.com\/arnolem",
+        "name": "Arnaud Lemercier",
+        "company": "@wixiweb @uxcode-fr",
+        "blog": "http:\/\/arnaud.lemercier.me",
+        "location": "Rouen - France",
         "bio": null,
-        "email_domain": "",
+        "email_domain": "wixiweb.fr",
         "contributions": 6,
         "repositories": {
             "PrestaShop": 6
@@ -26469,17 +26466,17 @@
             }
         }
     },
-    "arnolem": {
-        "login": "arnolem",
-        "id": 2263103,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2263103?v=4",
-        "html_url": "https:\/\/github.com\/arnolem",
-        "name": "Arnaud Lemercier",
-        "company": "@wixiweb @uxcode-fr",
-        "blog": "http:\/\/arnaud.lemercier.me",
-        "location": "Rouen - France",
+    "gross-nvs": {
+        "login": "gross-nvs",
+        "id": 48470278,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/48470278?v=4",
+        "html_url": "https:\/\/github.com\/gross-nvs",
+        "name": "Beno\u00eet Gross",
+        "company": "Novius",
+        "blog": "https:\/\/www.novius.com\/",
+        "location": "Lyon, France",
         "bio": null,
-        "email_domain": "wixiweb.fr",
+        "email_domain": "",
         "contributions": 6,
         "repositories": {
             "PrestaShop": 6
@@ -36834,6 +36831,62 @@
         "location": "Germany",
         "bio": null,
         "email_domain": "",
+        "contributions": 2,
+        "repositories": {
+            "classic-theme": 2
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 2,
+                "repositories": {
+                    "classic-theme": 2
+                }
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "taoufiqaitali": {
+        "login": "taoufiqaitali",
+        "id": 22837086,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/22837086?v=4",
+        "html_url": "https:\/\/github.com\/taoufiqaitali",
+        "name": "Taoufiq Ait Ali",
+        "company": "bluegital Solution",
+        "blog": "http:\/\/bluegital.com",
+        "location": "Morocco",
+        "bio": "Fullstack web developer",
+        "email_domain": "gmail.com",
         "contributions": 2,
         "repositories": {
             "classic-theme": 2
@@ -51831,5 +51884,5 @@
             }
         }
     },
-    "updatedAt": "2026-10-09 06:15:19"
+    "updatedAt": "2026-10-10 06:15:09"
 }
