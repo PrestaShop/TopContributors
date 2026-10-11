@@ -5589,9 +5589,9 @@
                 "2025": 1
             }
         },
-        "reviews": 1442,
+        "reviews": 1443,
         "reviewsByYear": {
-            "2026": 316,
+            "2026": 317,
             "2025": 337,
             "2024": 310,
             "2023": 331,
@@ -16457,9 +16457,9 @@
                 "2025": 9
             }
         },
-        "reviews": 568,
+        "reviews": 569,
         "reviewsByYear": {
-            "2026": 274,
+            "2026": 275,
             "2025": 293,
             "2023": 1
         },
@@ -16473,9 +16473,9 @@
             "2020": 1,
             "2019": 5
         },
-        "pullRequestsOpened": 344,
+        "pullRequestsOpened": 347,
         "pullRequestsOpenedByYear": {
-            "2026": 143,
+            "2026": 146,
             "2025": 137,
             "2024": 35,
             "2023": 23,
@@ -19388,9 +19388,9 @@
                 "2025": 1
             }
         },
-        "reviews": 196,
+        "reviews": 197,
         "reviewsByYear": {
-            "2026": 144,
+            "2026": 145,
             "2025": 16,
             "2024": 11,
             "2023": 8,
@@ -33636,9 +33636,9 @@
                 "2023": 1
             }
         },
-        "reviews": 220,
+        "reviews": 222,
         "reviewsByYear": {
-            "2026": 25,
+            "2026": 27,
             "2025": 16,
             "2024": 33,
             "2023": 106,
@@ -73086,7 +73086,7 @@
         "company": "@vocdoni",
         "blog": "https:\/\/vocdoni.io",
         "location": "Puigcerd\u00e0",
-        "bio": "full-stack (prompter) engineer",
+        "bio": "Meat proxy full-stack engineer",
         "email_domain": "",
         "contributions": 2,
         "repositories": {
@@ -103525,5 +103525,5 @@
             "2025": 1
         }
     },
-    "updatedAt": "2026-10-10T06:32:51+00:00"
+    "updatedAt": "2026-10-11T06:32:25+00:00"
 }
