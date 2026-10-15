@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-10-14T07:03:34+00:00",
+    "updatedAt": "2026-10-15T07:00:03+00:00",
     "items": [
         {
             "rank": 1,
@@ -59,9 +59,9 @@
             "name": "Krystian Podemski",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2137763?v=4",
             "html_url": "https:\/\/github.com\/kpodemski",
-            "count": 3676,
+            "count": 3677,
             "countByYear": {
-                "2026": 509,
+                "2026": 510,
                 "2025": 428,
                 "2024": 421,
                 "2023": 1040,
@@ -132,9 +132,9 @@
             "name": "Nicolas L\u0153uillet",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/121870?v=4",
             "html_url": "https:\/\/github.com\/nicosomb",
-            "count": 2346,
+            "count": 2347,
             "countByYear": {
-                "2026": 442,
+                "2026": 443,
                 "2025": 581,
                 "2024": 482,
                 "2023": 653,
@@ -310,9 +310,9 @@
             "name": "Morgan Pichat",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/36233446?v=4",
             "html_url": "https:\/\/github.com\/M0rgan01",
-            "count": 669,
+            "count": 670,
             "countByYear": {
-                "2026": 66,
+                "2026": 67,
                 "2025": 104,
                 "2024": 234,
                 "2023": 265
@@ -355,9 +355,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 571,
+            "count": 573,
             "countByYear": {
-                "2026": 277,
+                "2026": 279,
                 "2025": 293,
                 "2023": 1
             }
@@ -437,6 +437,19 @@
         },
         {
             "rank": 28,
+            "login": "mattgoud",
+            "name": "Matthias Goudjil",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
+            "html_url": "https:\/\/github.com\/mattgoud",
+            "count": 437,
+            "countByYear": {
+                "2026": 368,
+                "2025": 60,
+                "2024": 9
+            }
+        },
+        {
+            "rank": 29,
             "login": "SiraDIOP",
             "name": "SiraDIOP",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/177132156?v=4",
@@ -445,19 +458,6 @@
             "countByYear": {
                 "2026": 144,
                 "2025": 292
-            }
-        },
-        {
-            "rank": 29,
-            "login": "mattgoud",
-            "name": "Matthias Goudjil",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
-            "html_url": "https:\/\/github.com\/mattgoud",
-            "count": 436,
-            "countByYear": {
-                "2026": 367,
-                "2025": 60,
-                "2024": 9
             }
         },
         {
@@ -1788,6 +1788,18 @@
         },
         {
             "rank": 133,
+            "login": "coderabbitai",
+            "name": "coderabbitai",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/in\/347564?v=4",
+            "html_url": "https:\/\/github.com\/apps\/coderabbitai",
+            "count": 6,
+            "countByYear": {
+                "2026": 3,
+                "2025": 3
+            }
+        },
+        {
+            "rank": 134,
             "login": "elodie-bil3",
             "name": "Elodie Billiot",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/125287819?v=4",
@@ -1798,7 +1810,7 @@
             }
         },
         {
-            "rank": 134,
+            "rank": 135,
             "login": "intraordinaire",
             "name": "Vincent Garcia",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1721887?v=4",
@@ -1810,7 +1822,7 @@
             }
         },
         {
-            "rank": 135,
+            "rank": 136,
             "login": "rdy4ever",
             "name": "Horia Rudan",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12268701?v=4",
@@ -1823,7 +1835,7 @@
             }
         },
         {
-            "rank": 136,
+            "rank": 137,
             "login": "HartLarsson",
             "name": "HartLarsson",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16102074?v=4",
@@ -1835,7 +1847,7 @@
             }
         },
         {
-            "rank": 137,
+            "rank": 138,
             "login": "JMorinPS",
             "name": "Joseph Morin",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109518167?v=4",
@@ -1848,7 +1860,7 @@
             }
         },
         {
-            "rank": 138,
+            "rank": 139,
             "login": "JevgenijVisockij",
             "name": "JevgenijVisockij",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/47781757?v=4",
@@ -1860,7 +1872,7 @@
             }
         },
         {
-            "rank": 139,
+            "rank": 140,
             "login": "TheoAlloin",
             "name": "TheoAlloin",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8806496?v=4",
@@ -1872,7 +1884,7 @@
             }
         },
         {
-            "rank": 140,
+            "rank": 141,
             "login": "camilleganzin",
             "name": "Camille Ganzin",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8127019?v=4",
@@ -1883,7 +1895,7 @@
             }
         },
         {
-            "rank": 141,
+            "rank": 142,
             "login": "clotairer",
             "name": "Clotaire",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/52157233?v=4",
@@ -1893,18 +1905,6 @@
                 "2026": 1,
                 "2020": 3,
                 "2019": 1
-            }
-        },
-        {
-            "rank": 142,
-            "login": "coderabbitai",
-            "name": "coderabbitai",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/in\/347564?v=4",
-            "html_url": "https:\/\/github.com\/apps\/coderabbitai",
-            "count": 5,
-            "countByYear": {
-                "2026": 2,
-                "2025": 3
             }
         },
         {
