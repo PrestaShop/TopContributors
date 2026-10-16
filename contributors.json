@@ -322,7 +322,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 8230,
+        "contributions": 8234,
         "repositories": {
             "PrestaShop": 6389,
             "dashactivity": 4,
@@ -418,7 +418,7 @@
             "kanbanbot": 3,
             "zip-archives": 1,
             "bootstrap-compatibility-layer": 1,
-            "ps_apiresources": 301,
+            "ps_apiresources": 305,
             "CoreUpgradeBundle": 1,
             "CLIUpgrade": 1,
             "ui-testing-library": 45,
@@ -462,7 +462,7 @@
                 }
             },
             "modules": {
-                "total": 841,
+                "total": 845,
                 "repositories": {
                     "dashactivity": 4,
                     "dashgoals": 4,
@@ -518,7 +518,7 @@
                     "ps_googleanalytics": 10,
                     "ps_themecusto": 9,
                     "psgdpr": 10,
-                    "ps_apiresources": 301,
+                    "ps_apiresources": 305,
                     "ps_distributionapiclient": 19,
                     "ps_fixturescreator": 13
                 }
@@ -33043,7 +33043,7 @@
         "company": "@sezane",
         "blog": "",
         "location": "Paris, France",
-        "bio": "Retired Gladiator \/ AI Enthusiast \/ PHP & Symfony expert \/ Powered by Caffeine \/ SSE @sezane ",
+        "bio": "SSE @sezane \/ Retired Gladiator \/ AI Enthusiast",
         "email_domain": "",
         "contributions": 2,
         "repositories": {
@@ -51894,5 +51894,5 @@
             }
         }
     },
-    "updatedAt": "2026-10-15 06:14:50"
+    "updatedAt": "2026-10-16 06:27:20"
 }
