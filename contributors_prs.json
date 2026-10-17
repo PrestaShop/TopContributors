@@ -2661,7 +2661,7 @@
         "email_domain": "",
         "contributions": 8234,
         "repositories": {
-            "PrestaShop": 810,
+            "PrestaShop": 811,
             "dashactivity": 1,
             "dashgoals": 1,
             "dashproducts": 3,
@@ -2739,9 +2739,9 @@
         },
         "categories": {
             "core": {
-                "total": 847,
+                "total": 848,
                 "byYear": {
-                    "2026": 120,
+                    "2026": 121,
                     "2025": 125,
                     "2024": 132,
                     "2023": 75,
@@ -2752,7 +2752,7 @@
                     "2018": 52
                 },
                 "repositories": {
-                    "PrestaShop": 810,
+                    "PrestaShop": 811,
                     "prestashop-ui-kit": 10,
                     "TranslationToolsBundle": 4,
                     "TranslationFiles": 12,
@@ -2761,7 +2761,7 @@
                 },
                 "repositoriesByYear": {
                     "PrestaShop": {
-                        "2026": 119,
+                        "2026": 120,
                         "2025": 123,
                         "2024": 120,
                         "2023": 70,
@@ -3243,9 +3243,9 @@
                 }
             }
         },
-        "mergedPullRequests": 1324,
+        "mergedPullRequests": 1325,
         "mergedPullRequestsByYear": {
-            "2026": 258,
+            "2026": 259,
             "2025": 220,
             "2024": 237,
             "2023": 105,
@@ -3257,7 +3257,7 @@
         },
         "repositoriesByYear": {
             "PrestaShop": {
-                "2026": 119,
+                "2026": 120,
                 "2025": 123,
                 "2024": 120,
                 "2023": 70,
@@ -3560,9 +3560,9 @@
                 "2025": 1
             }
         },
-        "reviews": 3395,
+        "reviews": 3396,
         "reviewsByYear": {
-            "2026": 660,
+            "2026": 661,
             "2025": 326,
             "2024": 363,
             "2023": 459,
@@ -3572,9 +3572,9 @@
             "2019": 226,
             "2018": 73
         },
-        "issuesOpened": 268,
+        "issuesOpened": 273,
         "issuesOpenedByYear": {
-            "2026": 34,
+            "2026": 39,
             "2025": 20,
             "2024": 43,
             "2023": 83,
@@ -3584,9 +3584,9 @@
             "2019": 19,
             "2018": 10
         },
-        "pullRequestsOpened": 1485,
+        "pullRequestsOpened": 1488,
         "pullRequestsOpenedByYear": {
-            "2026": 288,
+            "2026": 291,
             "2025": 228,
             "2024": 258,
             "2023": 136,
@@ -4564,9 +4564,9 @@
                 "2026": 4
             }
         },
-        "reviews": 2298,
+        "reviews": 2299,
         "reviewsByYear": {
-            "2026": 347,
+            "2026": 348,
             "2025": 399,
             "2024": 263,
             "2023": 1,
@@ -8240,9 +8240,9 @@
                 "2026": 2
             }
         },
-        "reviews": 3677,
+        "reviews": 3680,
         "reviewsByYear": {
-            "2026": 510,
+            "2026": 513,
             "2025": 428,
             "2024": 421,
             "2023": 1040,
@@ -12848,9 +12848,9 @@
                 "2024": 16
             }
         },
-        "reviews": 671,
+        "reviews": 672,
         "reviewsByYear": {
-            "2026": 68,
+            "2026": 69,
             "2025": 104,
             "2024": 234,
             "2023": 265
@@ -15042,7 +15042,7 @@
         "email_domain": "",
         "contributions": 1847,
         "repositories": {
-            "PrestaShop": 171,
+            "PrestaShop": 172,
             "dashactivity": 2,
             "blockwishlist": 6,
             "autoupgrade": 8,
@@ -15076,9 +15076,9 @@
         },
         "categories": {
             "core": {
-                "total": 173,
+                "total": 174,
                 "byYear": {
-                    "2026": 43,
+                    "2026": 44,
                     "2025": 47,
                     "2024": 39,
                     "2023": 25,
@@ -15086,12 +15086,12 @@
                     "2017": 1
                 },
                 "repositories": {
-                    "PrestaShop": 171,
+                    "PrestaShop": 172,
                     "LocalizationFiles": 2
                 },
                 "repositoriesByYear": {
                     "PrestaShop": {
-                        "2026": 43,
+                        "2026": 44,
                         "2025": 45,
                         "2024": 39,
                         "2023": 25,
@@ -15325,9 +15325,9 @@
                 }
             }
         },
-        "mergedPullRequests": 268,
+        "mergedPullRequests": 269,
         "mergedPullRequestsByYear": {
-            "2026": 68,
+            "2026": 69,
             "2025": 67,
             "2024": 62,
             "2023": 50,
@@ -15336,7 +15336,7 @@
         },
         "repositoriesByYear": {
             "PrestaShop": {
-                "2026": 43,
+                "2026": 44,
                 "2025": 45,
                 "2024": 39,
                 "2023": 25,
@@ -15449,9 +15449,9 @@
                 "2026": 5
             }
         },
-        "reviews": 2348,
+        "reviews": 2349,
         "reviewsByYear": {
-            "2026": 444,
+            "2026": 445,
             "2025": 581,
             "2024": 482,
             "2023": 653,
@@ -15779,9 +15779,9 @@
                 "2026": 2
             }
         },
-        "reviews": 248,
+        "reviews": 249,
         "reviewsByYear": {
-            "2026": 110,
+            "2026": 111,
             "2025": 106,
             "2024": 27,
             "2023": 5
@@ -16457,9 +16457,9 @@
                 "2025": 9
             }
         },
-        "reviews": 573,
+        "reviews": 575,
         "reviewsByYear": {
-            "2026": 279,
+            "2026": 281,
             "2025": 293,
             "2023": 1
         },
@@ -18917,9 +18917,9 @@
                 "2026": 8
             }
         },
-        "reviews": 439,
+        "reviews": 440,
         "reviewsByYear": {
-            "2026": 370,
+            "2026": 371,
             "2025": 60,
             "2024": 9
         },
@@ -55273,9 +55273,9 @@
                 "2026": 1
             }
         },
-        "reviews": 33,
+        "reviews": 35,
         "reviewsByYear": {
-            "2026": 28,
+            "2026": 30,
             "2025": 5
         },
         "issuesOpened": 9,
@@ -62749,9 +62749,9 @@
                 "2025": 3
             }
         },
-        "reviews": 6,
+        "reviews": 7,
         "reviewsByYear": {
-            "2026": 3,
+            "2026": 4,
             "2025": 3
         },
         "issuesOpened": 8,
@@ -62761,9 +62761,9 @@
             "2023": 2,
             "2022": 1
         },
-        "pullRequestsOpened": 22,
+        "pullRequestsOpened": 23,
         "pullRequestsOpenedByYear": {
-            "2026": 7,
+            "2026": 8,
             "2025": 15
         }
     },
@@ -103557,5 +103557,5 @@
             "2025": 1
         }
     },
-    "updatedAt": "2026-10-16T06:46:49+00:00"
+    "updatedAt": "2026-10-17T06:28:53+00:00"
 }

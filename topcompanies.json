@@ -1024,10 +1024,10 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 18884,
+            "merged_pull_requests": 18886,
             "merged_pull_requests_by_version": {
                 "9.3": 38,
-                "9.2": 255,
+                "9.2": 257,
                 "9.1": 301,
                 "9.0": 1322,
                 "8.2": 49,
@@ -1045,7 +1045,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 1305,
+                "2026": 1307,
                 "2025": 1585,
                 "2024": 1672,
                 "2023": 1791,
@@ -1061,10 +1061,10 @@
                 "2013": 24
             },
             "pull_requests_percent": 64.35,
-            "contributions": 91133,
+            "contributions": 91156,
             "contributions_by_version": {
                 "9.3": 427,
-                "9.2": 1759,
+                "9.2": 1782,
                 "9.1": 3253,
                 "9.0": 6183,
                 "8.2": 104,
@@ -1082,7 +1082,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 7151,
+                "2026": 7174,
                 "2025": 6778,
                 "2024": 7345,
                 "2023": 7982,
@@ -1100,7 +1100,7 @@
             "contributions_percent": 71.35,
             "repositories": {
                 "PrestaShop-backward_compatibility": 1,
-                "PrestaShop": 9710,
+                "PrestaShop": 9712,
                 "PrestaShop-modules": 30,
                 "PrestaShop-webservice-lib": 8,
                 "PrestaShop-norm-validator": 1,
@@ -1277,7 +1277,7 @@
                     "2013": 1
                 },
                 "PrestaShop": {
-                    "2026": 427,
+                    "2026": 429,
                     "2025": 486,
                     "2024": 625,
                     "2023": 914,
@@ -2496,10 +2496,10 @@
             "github_url": null,
             "contributors": [
                 "gRoussac",
+                "nicosomb",
                 "mattgoud",
                 "jolelievre",
                 "tblivet",
-                "nicosomb",
                 "Quetzacoalt91",
                 "cnavarro-prestashop",
                 "M0rgan01",
