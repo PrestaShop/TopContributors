@@ -2659,9 +2659,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 8234,
+        "contributions": 8273,
         "repositories": {
-            "PrestaShop": 811,
+            "PrestaShop": 812,
             "dashactivity": 1,
             "dashgoals": 1,
             "dashproducts": 3,
@@ -2733,15 +2733,15 @@
             "keycloak_connector_demo": 8,
             "ps_fixturescreator": 3,
             "kanbanbot": 1,
-            "ps_apiresources": 67,
+            "ps_apiresources": 68,
             "ui-testing-library": 27,
             "SeamlessUpgradeToolbox": 1
         },
         "categories": {
             "core": {
-                "total": 848,
+                "total": 849,
                 "byYear": {
-                    "2026": 121,
+                    "2026": 122,
                     "2025": 125,
                     "2024": 132,
                     "2023": 75,
@@ -2752,7 +2752,7 @@
                     "2018": 52
                 },
                 "repositories": {
-                    "PrestaShop": 811,
+                    "PrestaShop": 812,
                     "prestashop-ui-kit": 10,
                     "TranslationToolsBundle": 4,
                     "TranslationFiles": 12,
@@ -2761,7 +2761,7 @@
                 },
                 "repositoriesByYear": {
                     "PrestaShop": {
-                        "2026": 120,
+                        "2026": 121,
                         "2025": 123,
                         "2024": 120,
                         "2023": 70,
@@ -2896,9 +2896,9 @@
                 }
             },
             "modules": {
-                "total": 227,
+                "total": 228,
                 "byYear": {
-                    "2026": 80,
+                    "2026": 81,
                     "2025": 31,
                     "2024": 38,
                     "2023": 15,
@@ -2952,7 +2952,7 @@
                     "ps_qualityassurance": 1,
                     "ps_distributionapiclient": 10,
                     "ps_fixturescreator": 3,
-                    "ps_apiresources": 67
+                    "ps_apiresources": 68
                 },
                 "repositoriesByYear": {
                     "dashactivity": {
@@ -3110,7 +3110,7 @@
                         "2023": 2
                     },
                     "ps_apiresources": {
-                        "2026": 31,
+                        "2026": 32,
                         "2025": 16,
                         "2024": 15,
                         "2023": 5
@@ -3243,9 +3243,9 @@
                 }
             }
         },
-        "mergedPullRequests": 1325,
+        "mergedPullRequests": 1327,
         "mergedPullRequestsByYear": {
-            "2026": 259,
+            "2026": 261,
             "2025": 220,
             "2024": 237,
             "2023": 105,
@@ -3257,7 +3257,7 @@
         },
         "repositoriesByYear": {
             "PrestaShop": {
-                "2026": 120,
+                "2026": 121,
                 "2025": 123,
                 "2024": 120,
                 "2023": 70,
@@ -3546,7 +3546,7 @@
                 "2026": 1
             },
             "ps_apiresources": {
-                "2026": 31,
+                "2026": 32,
                 "2025": 16,
                 "2024": 15,
                 "2023": 5
@@ -3608,7 +3608,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5445,
+        "contributions": 5446,
         "repositories": {
             "PrestaShop": 406,
             "PrestaShop-modules": 14,
@@ -7528,7 +7528,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "VP Technology & Community at @PrestaShop, working across technology, product, and the open-source ecosystem",
         "email_domain": "",
-        "contributions": 3908,
+        "contributions": 3909,
         "repositories": {
             "PrestaShop": 178,
             "PrestaShop-modules": 3,
@@ -15040,7 +15040,7 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1847,
+        "contributions": 1848,
         "repositories": {
             "PrestaShop": 172,
             "dashactivity": 2,
@@ -16156,7 +16156,7 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 505,
+        "contributions": 506,
         "repositories": {
             "PrestaShop": 161,
             "dashactivity": 1,
@@ -18363,7 +18363,7 @@
         "location": "La Roche sur Yon",
         "bio": null,
         "email_domain": "",
-        "contributions": 609,
+        "contributions": 610,
         "repositories": {
             "PrestaShop": 67,
             "dashactivity": 1,
@@ -45835,7 +45835,7 @@
         "company": "Septime Cr\u00e9ation",
         "blog": "",
         "location": "Rodez",
-        "bio": "Lead web developer at Septime Cr\u00e9ation since 2009. \r\nFront-end & back-end developer\r\nPHP - Laravel \/ JavaScript \/ Unity3D \/ Docker enthusiast",
+        "bio": "Lead web developer at Septime Cr\u00e9ation since 2009. \r\nFront-end & back-end developer\r\nPHP - Laravel \/ React",
         "email_domain": "",
         "contributions": 15,
         "repositories": {
@@ -50125,9 +50125,9 @@
         },
         "reviews": 0,
         "reviewsByYear": [],
-        "issuesOpened": 13,
+        "issuesOpened": 16,
         "issuesOpenedByYear": {
-            "2026": 2,
+            "2026": 5,
             "2025": 4,
             "2024": 1,
             "2023": 2,
@@ -62761,9 +62761,9 @@
             "2023": 2,
             "2022": 1
         },
-        "pullRequestsOpened": 23,
+        "pullRequestsOpened": 24,
         "pullRequestsOpenedByYear": {
-            "2026": 8,
+            "2026": 9,
             "2025": 15
         }
     },
@@ -103557,5 +103557,5 @@
             "2025": 1
         }
     },
-    "updatedAt": "2026-10-17T06:28:53+00:00"
+    "updatedAt": "2026-10-18T06:26:55+00:00"
 }

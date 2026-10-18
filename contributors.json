@@ -322,9 +322,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 8234,
+        "contributions": 8273,
         "repositories": {
-            "PrestaShop": 6389,
+            "PrestaShop": 6417,
             "dashactivity": 4,
             "dashgoals": 4,
             "dashproducts": 7,
@@ -418,7 +418,7 @@
             "kanbanbot": 3,
             "zip-archives": 1,
             "bootstrap-compatibility-layer": 1,
-            "ps_apiresources": 305,
+            "ps_apiresources": 316,
             "CoreUpgradeBundle": 1,
             "CLIUpgrade": 1,
             "ui-testing-library": 45,
@@ -426,9 +426,9 @@
         },
         "categories": {
             "core": {
-                "total": 6486,
+                "total": 6514,
                 "repositories": {
-                    "PrestaShop": 6389,
+                    "PrestaShop": 6417,
                     "prestashop-ui-kit": 17,
                     "TranslationToolsBundle": 18,
                     "LocalizationFiles": 3,
@@ -462,7 +462,7 @@
                 }
             },
             "modules": {
-                "total": 845,
+                "total": 856,
                 "repositories": {
                     "dashactivity": 4,
                     "dashgoals": 4,
@@ -518,7 +518,7 @@
                     "ps_googleanalytics": 10,
                     "ps_themecusto": 9,
                     "psgdpr": 10,
-                    "ps_apiresources": 305,
+                    "ps_apiresources": 316,
                     "ps_distributionapiclient": 19,
                     "ps_fixturescreator": 13
                 }
@@ -890,9 +890,9 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5445,
+        "contributions": 5446,
         "repositories": {
-            "PrestaShop": 1814,
+            "PrestaShop": 1815,
             "PrestaShop-modules": 349,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 1,
@@ -996,9 +996,9 @@
         },
         "categories": {
             "core": {
-                "total": 1896,
+                "total": 1897,
                 "repositories": {
-                    "PrestaShop": 1814,
+                    "PrestaShop": 1815,
                     "prestashop-ui-kit": 6,
                     "TranslationToolsBundle": 5,
                     "eslint-config": 1,
@@ -1677,9 +1677,9 @@
         "location": "Bydgoszcz, Poland",
         "bio": "VP Technology & Community at @PrestaShop, working across technology, product, and the open-source ecosystem",
         "email_domain": "",
-        "contributions": 3908,
+        "contributions": 3909,
         "repositories": {
-            "PrestaShop": 935,
+            "PrestaShop": 936,
             "PrestaShop-modules": 4,
             "PrestaShop-webservice-lib": 3,
             "dashactivity": 1,
@@ -1794,9 +1794,9 @@
         },
         "categories": {
             "core": {
-                "total": 968,
+                "total": 969,
                 "repositories": {
-                    "PrestaShop": 935,
+                    "PrestaShop": 936,
                     "prestashop-ui-kit": 4,
                     "LocalizationFiles": 25,
                     "stylelint-browser-compatibility": 1,
@@ -3175,9 +3175,9 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1847,
+        "contributions": 1848,
         "repositories": {
-            "PrestaShop": 947,
+            "PrestaShop": 948,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 7,
             "dashgoals": 3,
@@ -3263,9 +3263,9 @@
         },
         "categories": {
             "core": {
-                "total": 960,
+                "total": 961,
                 "repositories": {
-                    "PrestaShop": 947,
+                    "PrestaShop": 948,
                     "prestashop-ui-kit": 1,
                     "LocalizationFiles": 8,
                     "php-dev-tools": 4
@@ -6554,9 +6554,9 @@
         "location": "La Roche sur Yon",
         "bio": null,
         "email_domain": "",
-        "contributions": 609,
+        "contributions": 610,
         "repositories": {
-            "PrestaShop": 283,
+            "PrestaShop": 284,
             "dashactivity": 1,
             "dashgoals": 1,
             "dashproducts": 3,
@@ -6613,9 +6613,9 @@
         },
         "categories": {
             "core": {
-                "total": 286,
+                "total": 287,
                 "repositories": {
-                    "PrestaShop": 283,
+                    "PrestaShop": 284,
                     "prestashop-ui-kit": 3
                 }
             },
@@ -6966,9 +6966,9 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 505,
+        "contributions": 506,
         "repositories": {
-            "PrestaShop": 335,
+            "PrestaShop": 336,
             "dashactivity": 2,
             "statsforecast": 1,
             "statsstock": 1,
@@ -6993,9 +6993,9 @@
         },
         "categories": {
             "core": {
-                "total": 337,
+                "total": 338,
                 "repositories": {
-                    "PrestaShop": 335,
+                    "PrestaShop": 336,
                     "LocalizationFiles": 2
                 }
             },
@@ -20810,7 +20810,7 @@
         "company": "Septime Cr\u00e9ation",
         "blog": "",
         "location": "Rodez",
-        "bio": "Lead web developer at Septime Cr\u00e9ation since 2009. \r\nFront-end & back-end developer\r\nPHP - Laravel \/ JavaScript \/ Unity3D \/ Docker enthusiast",
+        "bio": "Lead web developer at Septime Cr\u00e9ation since 2009. \r\nFront-end & back-end developer\r\nPHP - Laravel \/ React",
         "email_domain": "",
         "contributions": 15,
         "repositories": {
@@ -51894,5 +51894,5 @@
             }
         }
     },
-    "updatedAt": "2026-10-17 06:12:32"
+    "updatedAt": "2026-10-18 06:12:52"
 }

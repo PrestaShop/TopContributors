@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-10-17T06:28:53+00:00",
+    "updatedAt": "2026-10-18T06:26:55+00:00",
     "community": {
         "name": "Open Source Community",
         "slug": "open-source-community",
@@ -81,7 +81,7 @@
             "2013": 1031,
             "2012": 56
         },
-        "contributions_percent": 21.76,
+        "contributions_percent": 21.75,
         "repositories": {
             "PrestaShop": 4902,
             "PrestaShop-modules": 257,
@@ -1025,9 +1025,9 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 18886,
+            "merged_pull_requests": 18888,
             "merged_pull_requests_by_version": {
-                "9.3": 38,
+                "9.3": 39,
                 "9.2": 257,
                 "9.1": 301,
                 "9.0": 1322,
@@ -1046,7 +1046,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 1307,
+                "2026": 1309,
                 "2025": 1585,
                 "2024": 1672,
                 "2023": 1791,
@@ -1062,9 +1062,9 @@
                 "2013": 24
             },
             "pull_requests_percent": 64.35,
-            "contributions": 91156,
+            "contributions": 91198,
             "contributions_by_version": {
-                "9.3": 427,
+                "9.3": 459,
                 "9.2": 1782,
                 "9.1": 3253,
                 "9.0": 6183,
@@ -1083,7 +1083,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 7174,
+                "2026": 7216,
                 "2025": 6778,
                 "2024": 7345,
                 "2023": 7982,
@@ -1098,10 +1098,10 @@
                 "2014": 786,
                 "2013": 36
             },
-            "contributions_percent": 71.35,
+            "contributions_percent": 71.36,
             "repositories": {
                 "PrestaShop-backward_compatibility": 1,
-                "PrestaShop": 9712,
+                "PrestaShop": 9713,
                 "PrestaShop-modules": 30,
                 "PrestaShop-webservice-lib": 8,
                 "PrestaShop-norm-validator": 1,
@@ -1266,7 +1266,7 @@
                 "bootstrap-compatibility-layer": 10,
                 "prestashop-flashlight": 122,
                 "ws-client": 5,
-                "ps_apiresources": 126,
+                "ps_apiresources": 127,
                 "ui-testing-library": 544,
                 "SeamlessUpgradeToolbox": 28,
                 "Prestashop-BO-themes-package": 3,
@@ -1278,7 +1278,7 @@
                     "2013": 1
                 },
                 "PrestaShop": {
-                    "2026": 429,
+                    "2026": 430,
                     "2025": 486,
                     "2024": 625,
                     "2023": 914,
@@ -2468,7 +2468,7 @@
                     "2023": 2
                 },
                 "ps_apiresources": {
-                    "2026": 59,
+                    "2026": 60,
                     "2025": 30,
                     "2024": 31,
                     "2023": 6
@@ -2497,9 +2497,9 @@
             "github_url": null,
             "contributors": [
                 "gRoussac",
+                "jolelievre",
                 "nicosomb",
                 "mattgoud",
-                "jolelievre",
                 "tblivet",
                 "Quetzacoalt91",
                 "cnavarro-prestashop",
