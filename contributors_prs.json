@@ -1356,9 +1356,9 @@
                 "2024": 160
             }
         },
-        "reviews": 7335,
+        "reviews": 7336,
         "reviewsByYear": {
-            "2026": 824,
+            "2026": 825,
             "2025": 801,
             "2024": 703,
             "2023": 509,
@@ -5589,9 +5589,9 @@
                 "2025": 1
             }
         },
-        "reviews": 1444,
+        "reviews": 1445,
         "reviewsByYear": {
-            "2026": 318,
+            "2026": 319,
             "2025": 337,
             "2024": 310,
             "2023": 331,
@@ -16457,9 +16457,9 @@
                 "2025": 9
             }
         },
-        "reviews": 575,
+        "reviews": 577,
         "reviewsByYear": {
-            "2026": 281,
+            "2026": 283,
             "2025": 293,
             "2023": 1
         },
@@ -56441,6 +56441,120 @@
             "2013": 4
         }
     },
+    "gross-nvs": {
+        "login": "gross-nvs",
+        "id": 48470278,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/48470278?v=4",
+        "html_url": "https:\/\/github.com\/gross-nvs",
+        "name": "Beno\u00eet Gross",
+        "company": "Novius",
+        "blog": "https:\/\/www.novius.com\/",
+        "location": "Lyon, France",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 6,
+        "repositories": {
+            "PrestaShop": 5
+        },
+        "categories": {
+            "core": {
+                "total": 5,
+                "byYear": {
+                    "2026": 3,
+                    "2024": 1,
+                    "2023": 1
+                },
+                "repositories": {
+                    "PrestaShop": 5
+                },
+                "repositoriesByYear": {
+                    "PrestaShop": {
+                        "2026": 3,
+                        "2024": 1,
+                        "2023": 1
+                    }
+                }
+            },
+            "specs": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "documentation": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "themes": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "modules": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tools": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tests": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "blog": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "others": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            }
+        },
+        "mergedPullRequests": 5,
+        "mergedPullRequestsByYear": {
+            "2026": 3,
+            "2024": 1,
+            "2023": 1
+        },
+        "repositoriesByYear": {
+            "PrestaShop": {
+                "2026": 3,
+                "2024": 1,
+                "2023": 1
+            }
+        },
+        "reviews": 3,
+        "reviewsByYear": {
+            "2026": 3
+        },
+        "issuesOpened": 7,
+        "issuesOpenedByYear": {
+            "2026": 4,
+            "2024": 1,
+            "2023": 1,
+            "2022": 1
+        },
+        "pullRequestsOpened": 15,
+        "pullRequestsOpenedByYear": {
+            "2026": 11,
+            "2023": 3,
+            "2022": 1
+        }
+    },
     "dpatou": {
         "login": "dpatou",
         "id": 1031185,
@@ -59823,120 +59937,6 @@
             "2022": 4
         }
     },
-    "gross-nvs": {
-        "login": "gross-nvs",
-        "id": 48470278,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/48470278?v=4",
-        "html_url": "https:\/\/github.com\/gross-nvs",
-        "name": "Beno\u00eet Gross",
-        "company": "Novius",
-        "blog": "https:\/\/www.novius.com\/",
-        "location": "Lyon, France",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 6,
-        "repositories": {
-            "PrestaShop": 4
-        },
-        "categories": {
-            "core": {
-                "total": 4,
-                "byYear": {
-                    "2026": 2,
-                    "2024": 1,
-                    "2023": 1
-                },
-                "repositories": {
-                    "PrestaShop": 4
-                },
-                "repositoriesByYear": {
-                    "PrestaShop": {
-                        "2026": 2,
-                        "2024": 1,
-                        "2023": 1
-                    }
-                }
-            },
-            "specs": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "documentation": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "themes": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "modules": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "tools": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "tests": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "blog": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "others": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            }
-        },
-        "mergedPullRequests": 4,
-        "mergedPullRequestsByYear": {
-            "2026": 2,
-            "2024": 1,
-            "2023": 1
-        },
-        "repositoriesByYear": {
-            "PrestaShop": {
-                "2026": 2,
-                "2024": 1,
-                "2023": 1
-            }
-        },
-        "reviews": 3,
-        "reviewsByYear": {
-            "2026": 3
-        },
-        "issuesOpened": 7,
-        "issuesOpenedByYear": {
-            "2026": 4,
-            "2024": 1,
-            "2023": 1,
-            "2022": 1
-        },
-        "pullRequestsOpened": 15,
-        "pullRequestsOpenedByYear": {
-            "2026": 11,
-            "2023": 3,
-            "2022": 1
-        }
-    },
     "eshraw": {
         "login": "eshraw",
         "id": 10872477,
@@ -61223,7 +61223,7 @@
         "html_url": "https:\/\/github.com\/clementdaubeuf",
         "name": "Cl\u00e9ment",
         "company": null,
-        "blog": "https:\/\/clementdaubeuf.github.io",
+        "blog": "",
         "location": "France",
         "bio": "Web Dev from Rouen, France.\r\n\r\nI mainly use PHP \/ Symfony \/ Laravel & Vue atm for my projects",
         "email_domain": "",
@@ -103557,5 +103557,5 @@
             "2025": 1
         }
     },
-    "updatedAt": "2026-10-18T06:26:55+00:00"
+    "updatedAt": "2026-10-19T08:12:09+00:00"
 }

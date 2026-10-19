@@ -34640,7 +34640,7 @@
         "html_url": "https:\/\/github.com\/clementdaubeuf",
         "name": "Cl\u00e9ment",
         "company": null,
-        "blog": "https:\/\/clementdaubeuf.github.io",
+        "blog": "",
         "location": "France",
         "bio": "Web Dev from Rouen, France.\r\n\r\nI mainly use PHP \/ Symfony \/ Laravel & Vue atm for my projects",
         "email_domain": "",
@@ -51894,5 +51894,5 @@
             }
         }
     },
-    "updatedAt": "2026-10-18 06:12:52"
+    "updatedAt": "2026-10-19 07:51:34"
 }
