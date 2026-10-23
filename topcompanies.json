@@ -5,7 +5,7 @@
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 7420,
+        "merged_pull_requests": 7422,
         "merged_pull_requests_by_version": {
             "9.3": 18,
             "9.2": 52,
@@ -26,7 +26,7 @@
             "1.6.1": 273
         },
         "merged_pull_requests_by_year": {
-            "2026": 232,
+            "2026": 234,
             "2025": 98,
             "2024": 154,
             "2023": 448,
@@ -43,7 +43,7 @@
             "2012": 32
         },
         "pull_requests_percent": 25.27,
-        "contributions": 27797,
+        "contributions": 27803,
         "contributions_by_version": {
             "9.3": 41,
             "9.2": 145,
@@ -64,7 +64,7 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 608,
+            "2026": 614,
             "2025": 211,
             "2024": 395,
             "2023": 1956,
@@ -148,7 +148,7 @@
             "ps_shoppingcart": 22,
             "ps_currencyselector": 4,
             "ps_languageselector": 6,
-            "ps_facetedsearch": 52,
+            "ps_facetedsearch": 53,
             "ps_customeraccountlinks": 5,
             "ps_searchbar": 5,
             "ps_checkpayment": 13,
@@ -173,7 +173,7 @@
             "ps_viewedproduct": 3,
             "ps_feeder": 1,
             "ps_reminder": 4,
-            "traces": 7,
+            "traces": 8,
             "TopContributors": 5,
             "TranslationFiles": 1,
             "ps_livetranslation": 1,
@@ -671,7 +671,7 @@
                 "2016": 3
             },
             "ps_facetedsearch": {
-                "2026": 12,
+                "2026": 13,
                 "2024": 1,
                 "2023": 7,
                 "2022": 6,
@@ -802,7 +802,7 @@
                 "2017": 1
             },
             "traces": {
-                "2026": 2,
+                "2026": 3,
                 "2025": 3,
                 "2022": 1,
                 "2017": 1
@@ -1024,7 +1024,7 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 18892,
+            "merged_pull_requests": 18897,
             "merged_pull_requests_by_version": {
                 "9.3": 39,
                 "9.2": 257,
@@ -1045,7 +1045,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 1313,
+                "2026": 1318,
                 "2025": 1585,
                 "2024": 1672,
                 "2023": 1791,
@@ -1061,7 +1061,7 @@
                 "2013": 24
             },
             "pull_requests_percent": 64.34,
-            "contributions": 91203,
+            "contributions": 91210,
             "contributions_by_version": {
                 "9.3": 459,
                 "9.2": 1782,
@@ -1082,7 +1082,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 7221,
+                "2026": 7228,
                 "2025": 6778,
                 "2024": 7345,
                 "2023": 7982,
@@ -1138,7 +1138,7 @@
                 "prestafraud": 3,
                 "pssupport": 2,
                 "prestashop.github.io": 1140,
-                "docker": 212,
+                "docker": 214,
                 "StarterTheme": 110,
                 "contactform": 42,
                 "paymentexample": 3,
@@ -1249,7 +1249,7 @@
                 "ps-docs-theme": 66,
                 "contextual-help-api": 9,
                 "devdocs-site": 35,
-                "distribution-api": 75,
+                "distribution-api": 76,
                 "ga.tests.ui.pr": 91,
                 "ps-project-metrics": 29,
                 "classic-theme": 67,
@@ -1259,11 +1259,11 @@
                 "autoload": 5,
                 "keycloak_connector_demo": 13,
                 "ps_fixturescreator": 17,
-                "kanbanbot": 62,
+                "kanbanbot": 63,
                 "webservice-postman-examples": 6,
                 "zip-archives": 10,
                 "bootstrap-compatibility-layer": 10,
-                "prestashop-flashlight": 123,
+                "prestashop-flashlight": 124,
                 "ws-client": 5,
                 "ps_apiresources": 127,
                 "ui-testing-library": 544,
@@ -1596,7 +1596,7 @@
                     "2015": 78
                 },
                 "docker": {
-                    "2026": 4,
+                    "2026": 6,
                     "2025": 21,
                     "2024": 29,
                     "2023": 16,
@@ -2384,7 +2384,7 @@
                     "2021": 5
                 },
                 "distribution-api": {
-                    "2026": 23,
+                    "2026": 24,
                     "2025": 27,
                     "2024": 1,
                     "2023": 15,
@@ -2439,7 +2439,7 @@
                     "2023": 3
                 },
                 "kanbanbot": {
-                    "2026": 4,
+                    "2026": 5,
                     "2025": 8,
                     "2024": 30,
                     "2023": 20
@@ -2457,7 +2457,7 @@
                     "2023": 9
                 },
                 "prestashop-flashlight": {
-                    "2026": 16,
+                    "2026": 17,
                     "2025": 18,
                     "2024": 45,
                     "2023": 44
