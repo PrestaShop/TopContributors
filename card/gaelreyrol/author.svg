@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Gaël Reyrol">
+  <title>PrestaShop Top Contributor — Gaël Reyrol</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAGAAYAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APEqKBS0DCnAUAU8LQAgWnhamgt2mYBcckDmrrQW8DIH29ssz5GfcDpQBmbKQrW3HDp93MirNGmeCFVutU7+wazkA3rJGwyrr0NAGaRSVKVqMigBhpKcaQ0AApQKQU9RQA5VqVVpEFSqKALM8ZtLK3lMjgTKWQKOjBv8APzrpfC3gO98QD7VPKlvAeS+3czH6dBWBZWd1qt5aWkCFyjEqufX/wDUK9T8E61o+nQy2N1qECT78bQ+Qfx6UAQTfBiRJhNaagPKPVWTp+Rrk9Y0W/0C/j0XUo45Euv9RIBxngZB7Hj9fevb7rxVpGk7Ib+78nzQDGShIYY9hXD/ABLZZl0jVbTE8KyGMOh5DHGP60AeNXEBguJIm6oxU/garMKu3LGW4lkOcu5bn3NVHFAEJFNNPNMNACipEHNMWpUHNAEqipBTFqQUAd14GCXCXMQUhvsksW9V+6xIIJP0zj6GtDxLoWi6N4asBFte9uWUguwYhRySDjp2/GuH0XUJbG8ZEdglwjRMB6spUH8C1dTNpMeuWdlfC6CC3K2lxbzgt5JHQ8dAfcUgPWtQs9C1GztX1AQSLborZO1xGPU9cD3puv6fpdpoiO0cS6dZN9qZFHBCg4C++SKj0vToZ9JjtbG7t0QLtlVLdduO4A/+v+FcF8StVjstNsvDtq7YQB3yc/IMhRn3OfypgeY3DmWaSQ9XYsfxqo4qw1QuKAK7CozUrVEaAHL1qdKgWploAlWng0xV4BY7QehPepxEVDkrnYMtnpQBd0aya91S2TcscQmjDyN91csBW9F4jvNK16e9tER/MciSJl4kXPGff3rjg10rbfN2o20kdFB7HH9a9L8H+GbbWoZRNuS9iwxU9R6H3B7EcUAdtoes6xrtuyQaV/ZtvIP3k8hG4eu0Adfc1558UrR7XxLC20iBrZVibrnaTn8ef1r2HSxJb2flSgBoxhm6fjXmPxF1OO/kjtNisrOCmR8wUA8+2ST+VAHmBNRtVy5tI4/uS8k8Kf8AGqksMkQO9SADjPbNAFd6iNStURoActSq20htobB6HvUK0r8gAfWgC/bKtyW3nPbk9B2NaEh3aWzcAlDu+orKtz8iyLgMCVb3zV5p8W/lMjYdiM56E8/1oAsTW4D4G05UZVhnPFbnhXxcPDl8i3sZKJxBOBkopOSp9R7VknLSBv72agk8uZTGyhgRQB7J4g8c2R0J7iykjkDgcI4JkcnAQd/c+1eS3FzNd6gJ7iQyTNud27dMAD86ytPBi83Azh8DnpXQaVoF7qqyXEflRxLhN0r4BJP/ANagDIMIaWPPBLj8AOavQ28Yt3MuCJGyQx456VLqmiahpYWWaBfJB2+YrAjJ6dORwD1rOiZpyScFVOADQBkXkP2e4eMHcvVW9RVU1p6w++dOOi7c+tZhoABUiqzMNg+YciohXTeGlAiZsgB2eNx0JUxNwT3GcfjQBhpsDqxUiOThh/dNSShoZYlLEjOc+vFdd41KzR2jyoVuJprlzGwwUi3hYxjtwpI+tcfcEm2Rif3kbbSfWgC9Fcn5N0q4H0qaeYIhZRwBnJ6VQgl82PCgFgOQe1JdSE27Bjubp7CgCa2LJaRncATliPWuw0i7juNJaJf9IW2QOsLtwHLHe20j0xjr3xyTXFmWJbaMI/zHkCtLRtQsLW3miufOinkIK3ULfMgH8OO4PP6UAavia7eHR7SGPzYoJpBI8G75AwBGR6fe+n6Vz8DbI9obax5JzW9Z6db+JNVtLS0e5nt7Ys1xeTLgmPjC4ycd8c559q9a0izsLSH7NZWSWypg7YlBZv8AeY/1NID5+vyHiRlPCsV/z+VZ5r0z4h6Jp1tYS3dnbxQSi4DSAMx4YYAXHygZBOOT15wK8zNMD//Z" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">gaelreyrol</text>
+  <text x="90" y="62" class="sub">Gaël Reyrol</text>
+  <text x="90" y="78" class="sub">1 repo</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">AUTHOR</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#1657</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">PRs merged</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">1</text>
+  <text x="24" y="140" class="row-l">PRs opened</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">1</text>
+  <text x="24" y="162" class="row-l">Reviews</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">1</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">0</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="512" height="6" fill="#bbbbbb"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#bbbbbb">■</tspan> others</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/gaelreyrol</text>
+</svg>

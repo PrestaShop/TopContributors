@@ -1,4 +1,12 @@
 {
+    "gaelreyrol": {
+        "login": "gaelreyrol",
+        "name": "Ga\u00ebl Reyrol",
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/498465?v=4",
+        "html_url": "https:\/\/github.com\/gaelreyrol",
+        "contributions": 1,
+        "firstContributionAt": "2026-10-23T08:46:55Z"
+    },
     "mkaleta-waynet": {
         "login": "mkaleta-waynet",
         "name": "mkaleta-waynet",
@@ -70,13 +78,5 @@
         "html_url": "https:\/\/github.com\/gusdleon",
         "contributions": 2,
         "firstContributionAt": "2026-06-08T07:14:31Z"
-    },
-    "cdigruttola": {
-        "login": "cdigruttola",
-        "name": "Carmine Di Gruttola",
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9153905?v=4",
-        "html_url": "https:\/\/github.com\/cdigruttola",
-        "contributions": 1,
-        "firstContributionAt": "2026-05-25T17:44:14Z"
     }
 }
