@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-10-24T06:50:22+00:00",
+    "updatedAt": "2026-10-25T06:50:32+00:00",
     "items": [
         {
             "rank": 1,
@@ -440,9 +440,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 350,
+            "count": 351,
             "countByYear": {
-                "2026": 149,
+                "2026": 150,
                 "2025": 137,
                 "2024": 35,
                 "2023": 23,
@@ -1330,9 +1330,9 @@
             "name": "Benjamin Bendaoui",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/57117669?v=4",
             "html_url": "https:\/\/github.com\/LameuleFR",
-            "count": 56,
+            "count": 57,
             "countByYear": {
-                "2026": 52,
+                "2026": 53,
                 "2023": 4
             }
         },

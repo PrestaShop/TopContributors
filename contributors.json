@@ -2304,7 +2304,7 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 2507,
+        "contributions": 2509,
         "repositories": {
             "PrestaShop": 1132,
             "PrestaShop-webservice-lib": 1,
@@ -2358,7 +2358,7 @@
             "ps_shoppingcart": 12,
             "ps_currencyselector": 5,
             "ps_languageselector": 5,
-            "ps_facetedsearch": 152,
+            "ps_facetedsearch": 153,
             "ps_customeraccountlinks": 2,
             "ps_checkpayment": 6,
             "ps_emailalerts": 29,
@@ -2374,7 +2374,7 @@
             "ps_cashondelivery": 5,
             "ps_viewedproduct": 14,
             "traces": 4,
-            "ps_googleanalytics": 99,
+            "ps_googleanalytics": 100,
             "ps_themecusto": 8,
             "psgdpr": 10,
             "ps_buybuttonlite": 2,
@@ -2420,7 +2420,7 @@
                 }
             },
             "modules": {
-                "total": 1072,
+                "total": 1074,
                 "repositories": {
                     "dashactivity": 13,
                     "dashgoals": 3,
@@ -2468,7 +2468,7 @@
                     "ps_shoppingcart": 12,
                     "ps_currencyselector": 5,
                     "ps_languageselector": 5,
-                    "ps_facetedsearch": 152,
+                    "ps_facetedsearch": 153,
                     "ps_customeraccountlinks": 2,
                     "ps_checkpayment": 6,
                     "ps_emailalerts": 29,
@@ -2484,7 +2484,7 @@
                     "ps_viewedproduct": 14,
                     "ps_buybuttonlite": 2,
                     "ps_faviconnotificationbo": 8,
-                    "ps_googleanalytics": 99,
+                    "ps_googleanalytics": 100,
                     "ps_themecusto": 8,
                     "psgdpr": 10
                 }
@@ -12023,7 +12023,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 115,
+        "contributions": 116,
         "repositories": {
             "PrestaShop": 46,
             "productcomments": 1,
@@ -12033,6 +12033,7 @@
             "ps_wirepayment": 1,
             "ps_facetedsearch": 9,
             "ps_newproducts": 1,
+            "ps_googleanalytics": 1,
             "hummingbird": 41,
             "classic-theme": 1,
             "ui-testing-library": 2,
@@ -12064,13 +12065,14 @@
                 }
             },
             "modules": {
-                "total": 22,
+                "total": 23,
                 "repositories": {
                     "productcomments": 1,
                     "ps_emailsubscription": 2,
                     "ps_wirepayment": 1,
                     "ps_facetedsearch": 9,
                     "ps_newproducts": 1,
+                    "ps_googleanalytics": 1,
                     "ps_onepagecheckout": 8
                 }
             },
@@ -20630,6 +20632,67 @@
             }
         }
     },
+    "LameuleFR": {
+        "login": "LameuleFR",
+        "id": 57117669,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/57117669?v=4",
+        "html_url": "https:\/\/github.com\/LameuleFR",
+        "name": "Benjamin Bendaoui",
+        "company": null,
+        "blog": "",
+        "location": "France",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 16,
+        "repositories": {
+            "PrestaShop": 8,
+            "dashtrends": 1,
+            "ps_facetedsearch": 7
+        },
+        "categories": {
+            "core": {
+                "total": 8,
+                "repositories": {
+                    "PrestaShop": 8
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 8,
+                "repositories": {
+                    "dashtrends": 1,
+                    "ps_facetedsearch": 7
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "quadrateam": {
         "login": "quadrateam",
         "id": 4517192,
@@ -23077,67 +23140,6 @@
                 "total": 1,
                 "repositories": {
                     "ps_googleanalytics": 1
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "LameuleFR": {
-        "login": "LameuleFR",
-        "id": 57117669,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/57117669?v=4",
-        "html_url": "https:\/\/github.com\/LameuleFR",
-        "name": "Benjamin Bendaoui",
-        "company": null,
-        "blog": "",
-        "location": "France",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 10,
-        "repositories": {
-            "PrestaShop": 8,
-            "dashtrends": 1,
-            "ps_facetedsearch": 1
-        },
-        "categories": {
-            "core": {
-                "total": 8,
-                "repositories": {
-                    "PrestaShop": 8
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 2,
-                "repositories": {
-                    "dashtrends": 1,
-                    "ps_facetedsearch": 1
                 }
             },
             "tools": {
@@ -33951,7 +33953,7 @@
         "html_url": "https:\/\/github.com\/tibs245",
         "name": "Thibault Barske (Tibs)",
         "company": "Thibault Barske EI",
-        "blog": "https:\/\/mstdn.business\/@thibault_barske",
+        "blog": "https:\/\/tibs245.github.io\/tibs245\/",
         "location": "Normandie",
         "bio": "Freelance FullStack Developer React \/ Rust \/ Kotlin",
         "email_domain": "kolombo.xyz",
@@ -40700,7 +40702,7 @@
         "company": null,
         "blog": "https:\/\/c100k.eu",
         "location": null,
-        "bio": "RebootX + libmodulor + SelfSync (c100k.eu libmodulor.c100k.eu trekstories.c100k.eu) - Amateur Runner (10k: 34:59, 21k: 1h17, 42k: 2h46, UTMB idx: 720)",
+        "bio": "RebootX c100k.eu selfsync.c100k.eu libmodulor.c100k.eu trekstories.c100k.eu - Amateur Runner (10k: 34:59, 21k: 1h17, 42k: 2h46, UTMB idx: 720)",
         "email_domain": "gmail.com",
         "contributions": 1,
         "repositories": {
@@ -47803,15 +47805,15 @@
             }
         }
     },
-    "yenshirak": {
-        "login": "yenshirak",
-        "id": 4824537,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4824537?v=4",
-        "html_url": "https:\/\/github.com\/yenshirak",
-        "name": "Robert Keresnyei",
-        "company": "CTO @swiftvee",
-        "blog": "https:\/\/nemron.com",
-        "location": "P\u00e9cs, Hungary",
+    "alex4102": {
+        "login": "alex4102",
+        "id": 10240758,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10240758?v=4",
+        "html_url": "https:\/\/github.com\/alex4102",
+        "name": null,
+        "company": null,
+        "blog": "",
+        "location": null,
         "bio": null,
         "email_domain": "",
         "contributions": 1,
@@ -47859,11 +47861,11 @@
             }
         }
     },
-    "Stomp9": {
-        "login": "Stomp9",
-        "id": 3840427,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3840427?v=4",
-        "html_url": "https:\/\/github.com\/Stomp9",
+    "Zebx": {
+        "login": "Zebx",
+        "id": 6885181,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6885181?v=4",
+        "html_url": "https:\/\/github.com\/Zebx",
         "name": null,
         "company": null,
         "blog": "",
@@ -47971,11 +47973,11 @@
             }
         }
     },
-    "Zebx": {
-        "login": "Zebx",
-        "id": 6885181,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6885181?v=4",
-        "html_url": "https:\/\/github.com\/Zebx",
+    "Stomp9": {
+        "login": "Stomp9",
+        "id": 3840427,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3840427?v=4",
+        "html_url": "https:\/\/github.com\/Stomp9",
         "name": null,
         "company": null,
         "blog": "",
@@ -48027,12 +48029,68 @@
             }
         }
     },
-    "alex4102": {
-        "login": "alex4102",
-        "id": 10240758,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10240758?v=4",
-        "html_url": "https:\/\/github.com\/alex4102",
-        "name": null,
+    "yenshirak": {
+        "login": "yenshirak",
+        "id": 4824537,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4824537?v=4",
+        "html_url": "https:\/\/github.com\/yenshirak",
+        "name": "Robert Keresnyei",
+        "company": "CTO @swiftvee",
+        "blog": "https:\/\/nemron.com",
+        "location": "P\u00e9cs, Hungary",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "ps_facetedsearch": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 1,
+                "repositories": {
+                    "ps_facetedsearch": 1
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "abdullacm": {
+        "login": "abdullacm",
+        "id": 5052597,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5052597?v=4",
+        "html_url": "https:\/\/github.com\/abdullacm",
+        "name": "Abdulla Chozhimadathil",
         "company": null,
         "blog": "",
         "location": null,
@@ -48089,62 +48147,6 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/44570209?v=4",
         "html_url": "https:\/\/github.com\/bogdan202",
         "name": null,
-        "company": null,
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 1,
-        "repositories": {
-            "ps_facetedsearch": 1
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 1,
-                "repositories": {
-                    "ps_facetedsearch": 1
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "abdullacm": {
-        "login": "abdullacm",
-        "id": 5052597,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5052597?v=4",
-        "html_url": "https:\/\/github.com\/abdullacm",
-        "name": "Abdulla Chozhimadathil",
         "company": null,
         "blog": "",
         "location": null,
@@ -49035,11 +49037,11 @@
             }
         }
     },
-    "mathieuesteban": {
-        "login": "mathieuesteban",
-        "id": 5794426,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5794426?v=4",
-        "html_url": "https:\/\/github.com\/mathieuesteban",
+    "Lasseku": {
+        "login": "Lasseku",
+        "id": 10146348,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10146348?v=4",
+        "html_url": "https:\/\/github.com\/Lasseku",
         "name": null,
         "company": null,
         "blog": "",
@@ -49147,11 +49149,11 @@
             }
         }
     },
-    "Lasseku": {
-        "login": "Lasseku",
-        "id": 10146348,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10146348?v=4",
-        "html_url": "https:\/\/github.com\/Lasseku",
+    "mathieuesteban": {
+        "login": "mathieuesteban",
+        "id": 5794426,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5794426?v=4",
+        "html_url": "https:\/\/github.com\/mathieuesteban",
         "name": null,
         "company": null,
         "blog": "",
@@ -51891,5 +51893,5 @@
             }
         }
     },
-    "updatedAt": "2026-10-24 06:13:20"
+    "updatedAt": "2026-10-25 06:13:03"
 }

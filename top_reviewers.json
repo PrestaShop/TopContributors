@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-10-24T06:50:22+00:00",
+    "updatedAt": "2026-10-25T06:50:32+00:00",
     "items": [
         {
             "rank": 1,
@@ -355,9 +355,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 588,
+            "count": 589,
             "countByYear": {
-                "2026": 294,
+                "2026": 295,
                 "2025": 293,
                 "2023": 1
             }
@@ -466,9 +466,9 @@
             "name": "Thomas Roux",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/156076965?v=4",
             "html_url": "https:\/\/github.com\/Touxten",
-            "count": 388,
+            "count": 389,
             "countByYear": {
-                "2026": 211,
+                "2026": 212,
                 "2025": 160,
                 "2024": 17
             }
@@ -1187,6 +1187,17 @@
         },
         {
             "rank": 85,
+            "login": "LameuleFR",
+            "name": "Benjamin Bendaoui",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/57117669?v=4",
+            "html_url": "https:\/\/github.com\/LameuleFR",
+            "count": 38,
+            "countByYear": {
+                "2026": 38
+            }
+        },
+        {
+            "rank": 86,
             "login": "Poulinhoo",
             "name": "Maxime Poulain",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/22856724?v=4",
@@ -1195,17 +1206,6 @@
             "countByYear": {
                 "2026": 21,
                 "2025": 17
-            }
-        },
-        {
-            "rank": 86,
-            "login": "LameuleFR",
-            "name": "Benjamin Bendaoui",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/57117669?v=4",
-            "html_url": "https:\/\/github.com\/LameuleFR",
-            "count": 37,
-            "countByYear": {
-                "2026": 37
             }
         },
         {
