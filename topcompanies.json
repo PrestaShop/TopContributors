@@ -4738,7 +4738,7 @@
             "rank": 6,
             "rank_contributions": 6,
             "rank_pull_requests": 7,
-            "merged_pull_requests": 214,
+            "merged_pull_requests": 215,
             "merged_pull_requests_by_version": {
                 "9.2": 23,
                 "9.1": 37,
@@ -4748,13 +4748,13 @@
                 "8.0": 1
             },
             "merged_pull_requests_by_year": {
-                "2026": 104,
+                "2026": 105,
                 "2025": 87,
                 "2024": 16,
                 "2023": 7
             },
             "pull_requests_percent": 0.73,
-            "contributions": 351,
+            "contributions": 352,
             "contributions_by_version": {
                 "9.2": 41,
                 "9.1": 71,
@@ -4764,12 +4764,12 @@
                 "8.0": 2
             },
             "contributions_by_year": {
-                "2026": 180,
+                "2026": 181,
                 "2025": 128,
                 "2024": 32,
                 "2023": 11
             },
-            "contributions_percent": 0.27,
+            "contributions_percent": 0.28,
             "repositories": {
                 "PrestaShop": 162,
                 "autoupgrade": 7,
@@ -4782,7 +4782,7 @@
                 "traces": 1,
                 "psgdpr": 1,
                 "hummingbird": 14,
-                "classic-theme": 3,
+                "classic-theme": 4,
                 "ps_apiresources": 10
             },
             "repositories_by_year": {
@@ -4828,7 +4828,7 @@
                     "2025": 1
                 },
                 "classic-theme": {
-                    "2026": 1,
+                    "2026": 2,
                     "2025": 1,
                     "2024": 1
                 },

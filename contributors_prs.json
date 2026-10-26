@@ -5589,9 +5589,9 @@
                 "2025": 1
             }
         },
-        "reviews": 1454,
+        "reviews": 1455,
         "reviewsByYear": {
-            "2026": 328,
+            "2026": 329,
             "2025": 337,
             "2024": 310,
             "2023": 331,
@@ -16159,7 +16159,7 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 512,
+        "contributions": 514,
         "repositories": {
             "PrestaShop": 164,
             "dashactivity": 1,
@@ -16179,7 +16179,7 @@
             "psgdpr": 1,
             "LocalizationFiles": 2,
             "hummingbird": 15,
-            "classic-theme": 4,
+            "classic-theme": 5,
             "ps_apiresources": 10
         },
         "categories": {
@@ -16233,15 +16233,15 @@
                 }
             },
             "themes": {
-                "total": 19,
+                "total": 20,
                 "byYear": {
-                    "2026": 16,
+                    "2026": 17,
                     "2025": 2,
                     "2024": 1
                 },
                 "repositories": {
                     "hummingbird": 15,
-                    "classic-theme": 4
+                    "classic-theme": 5
                 },
                 "repositoriesByYear": {
                     "hummingbird": {
@@ -16249,7 +16249,7 @@
                         "2025": 1
                     },
                     "classic-theme": {
-                        "2026": 2,
+                        "2026": 3,
                         "2025": 1,
                         "2024": 1
                     }
@@ -16371,9 +16371,9 @@
                 "repositoriesByYear": []
             }
         },
-        "mergedPullRequests": 235,
+        "mergedPullRequests": 236,
         "mergedPullRequestsByYear": {
-            "2026": 114,
+            "2026": 115,
             "2025": 93,
             "2024": 18,
             "2023": 7,
@@ -16451,7 +16451,7 @@
                 "2025": 1
             },
             "classic-theme": {
-                "2026": 2,
+                "2026": 3,
                 "2025": 1,
                 "2024": 1
             },
@@ -16460,9 +16460,9 @@
                 "2025": 9
             }
         },
-        "reviews": 589,
+        "reviews": 590,
         "reviewsByYear": {
-            "2026": 295,
+            "2026": 296,
             "2025": 293,
             "2023": 1
         },
@@ -26663,9 +26663,9 @@
             "2024": 147,
             "2023": 62
         },
-        "issuesOpened": 77,
+        "issuesOpened": 78,
         "issuesOpenedByYear": {
-            "2026": 17,
+            "2026": 18,
             "2025": 31,
             "2024": 26,
             "2023": 2,
@@ -32142,9 +32142,9 @@
             "2025": 1,
             "2024": 3
         },
-        "pullRequestsOpened": 35,
+        "pullRequestsOpened": 36,
         "pullRequestsOpenedByYear": {
-            "2026": 16,
+            "2026": 17,
             "2025": 13,
             "2024": 5,
             "2023": 1
@@ -103570,5 +103570,5 @@
             "2025": 1
         }
     },
-    "updatedAt": "2026-10-25T06:28:58+00:00"
+    "updatedAt": "2026-10-26T07:24:29+00:00"
 }

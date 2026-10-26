@@ -6907,7 +6907,7 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 512,
+        "contributions": 514,
         "repositories": {
             "PrestaShop": 342,
             "dashactivity": 2,
@@ -6929,7 +6929,7 @@
             "psgdpr": 4,
             "LocalizationFiles": 2,
             "hummingbird": 47,
-            "classic-theme": 8,
+            "classic-theme": 10,
             "ps_apiresources": 29
         },
         "categories": {
@@ -6951,9 +6951,9 @@
                 }
             },
             "themes": {
-                "total": 55,
+                "total": 57,
                 "repositories": {
-                    "classic-theme": 8,
+                    "classic-theme": 10,
                     "hummingbird": 47
                 }
             },
@@ -51893,5 +51893,5 @@
             }
         }
     },
-    "updatedAt": "2026-10-25 06:13:03"
+    "updatedAt": "2026-10-26 07:04:18"
 }
