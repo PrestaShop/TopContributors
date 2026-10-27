@@ -890,9 +890,9 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5452,
+        "contributions": 5453,
         "repositories": {
-            "PrestaShop": 1816,
+            "PrestaShop": 1817,
             "PrestaShop-modules": 349,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 1,
@@ -996,9 +996,9 @@
         },
         "categories": {
             "core": {
-                "total": 1898,
+                "total": 1899,
                 "repositories": {
-                    "PrestaShop": 1816,
+                    "PrestaShop": 1817,
                     "prestashop-ui-kit": 6,
                     "TranslationToolsBundle": 5,
                     "eslint-config": 1,
@@ -1677,9 +1677,9 @@
         "location": "Bydgoszcz, Poland",
         "bio": "VP Technology & Community at @PrestaShop, working across technology, product, and the open-source ecosystem",
         "email_domain": "",
-        "contributions": 3915,
+        "contributions": 3920,
         "repositories": {
-            "PrestaShop": 938,
+            "PrestaShop": 939,
             "PrestaShop-modules": 4,
             "PrestaShop-webservice-lib": 3,
             "dashactivity": 1,
@@ -1735,7 +1735,7 @@
             "ps_shoppingcart": 4,
             "ps_currencyselector": 7,
             "ps_languageselector": 4,
-            "ps_facetedsearch": 168,
+            "ps_facetedsearch": 172,
             "ps_customeraccountlinks": 1,
             "ps_searchbar": 2,
             "ps_checkpayment": 4,
@@ -1794,9 +1794,9 @@
         },
         "categories": {
             "core": {
-                "total": 971,
+                "total": 972,
                 "repositories": {
-                    "PrestaShop": 938,
+                    "PrestaShop": 939,
                     "prestashop-ui-kit": 4,
                     "LocalizationFiles": 25,
                     "stylelint-browser-compatibility": 1,
@@ -1835,7 +1835,7 @@
                 }
             },
             "modules": {
-                "total": 699,
+                "total": 703,
                 "repositories": {
                     "PrestaShop-modules": 4,
                     "dashactivity": 1,
@@ -1885,7 +1885,7 @@
                     "ps_shoppingcart": 4,
                     "ps_currencyselector": 7,
                     "ps_languageselector": 4,
-                    "ps_facetedsearch": 168,
+                    "ps_facetedsearch": 172,
                     "ps_customeraccountlinks": 1,
                     "ps_searchbar": 2,
                     "ps_checkpayment": 4,
@@ -2304,9 +2304,9 @@
         "location": "Pardubice, Czech Republic",
         "bio": null,
         "email_domain": "",
-        "contributions": 2509,
+        "contributions": 2513,
         "repositories": {
-            "PrestaShop": 1132,
+            "PrestaShop": 1136,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 13,
             "dashgoals": 3,
@@ -2392,9 +2392,9 @@
         },
         "categories": {
             "core": {
-                "total": 1139,
+                "total": 1143,
                 "repositories": {
-                    "PrestaShop": 1132,
+                    "PrestaShop": 1136,
                     "prestashop-ui-kit": 3,
                     "LocalizationFiles": 2,
                     "circuit-breaker": 2
@@ -6907,9 +6907,9 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 514,
+        "contributions": 516,
         "repositories": {
-            "PrestaShop": 342,
+            "PrestaShop": 344,
             "dashactivity": 2,
             "statsforecast": 1,
             "statsstock": 1,
@@ -6934,9 +6934,9 @@
         },
         "categories": {
             "core": {
-                "total": 344,
+                "total": 346,
                 "repositories": {
-                    "PrestaShop": 342,
+                    "PrestaShop": 344,
                     "LocalizationFiles": 2
                 }
             },
@@ -15514,6 +15514,62 @@
             }
         }
     },
+    "Alexandre-Lematre": {
+        "login": "Alexandre-Lematre",
+        "id": 107846409,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/107846409?v=4",
+        "html_url": "https:\/\/github.com\/Alexandre-Lematre",
+        "name": "Alexandre Lematre",
+        "company": "Prestashop",
+        "blog": "",
+        "location": "Nantes",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 43,
+        "repositories": {
+            "prestashop-flashlight": 43
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 43,
+                "repositories": {
+                    "prestashop-flashlight": 43
+                }
+            }
+        }
+    },
     "AureRita": {
         "login": "AureRita",
         "id": 100699445,
@@ -15638,62 +15694,6 @@
             "others": {
                 "total": 0,
                 "repositories": []
-            }
-        }
-    },
-    "Alexandre-Lematre": {
-        "login": "Alexandre-Lematre",
-        "id": 107846409,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/107846409?v=4",
-        "html_url": "https:\/\/github.com\/Alexandre-Lematre",
-        "name": "Alexandre Lematre",
-        "company": "Prestashop",
-        "blog": "",
-        "location": "Nantes",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 41,
-        "repositories": {
-            "prestashop-flashlight": 41
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 41,
-                "repositories": {
-                    "prestashop-flashlight": 41
-                }
             }
         }
     },
@@ -51893,5 +51893,5 @@
             }
         }
     },
-    "updatedAt": "2026-10-26 07:04:18"
+    "updatedAt": "2026-10-27 06:15:24"
 }

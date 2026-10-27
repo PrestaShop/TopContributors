@@ -17,7 +17,7 @@
   <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
 
   <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
-  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABm0lEQVR4nOyZUW7DIAyGIaNXaQ6w3v8E28Me24ftIOnG1EquLBQopg5t4t+8WGhZwp//ww4dnPGAABAAAkAA0wIEShQjUrJAeErgACUHQADrAnht7j+OR0qv432/p1Qcn6cTpddxGEf1ZwcCQKAdgZvtY7yl3Yb3XmUd6ATRCco6wexuX2lV0Sihxe9/GMfYigMQsI5AjV3inO14g1Nrc25pfk1uvhT8WR5ploAAEBAgwK16yVMb0xyf57k0+P3ufSe0IqB2IJIuHAisBIFBy5ImBDDvAAhgXYA17vKqApj/HD6fJxf/ovPD4EII4spR46CW5qebAF/fP5Q+dNq7CQRKb2pNERquKUb6jfDqoqlvgjWca8TvNFH6HAF6LTQXb7sdpc8RYCshfY1x7khqqYpQW/akZwBwAHMABLAuQNBmtbQf5P6Oz8MBnR2AMigsg7MlseYXG41Iyp3KOoAAEGhHQIRGige3c26+x/OiEUIjpNAI3bFpFomG/wUHaDvAvACLWwwIAIHXRsC8AA4OMO4ACAABIIBtAf4HAFoRdBdlJ8/aAAAAAElFTkSuQmCC" preserveAspectRatio="xMidYMid slice"/>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABs0lEQVR4nOyaTXaDMAyEgZKrhAM09z9Bu+gyWbQHIa37uoAn/DBYthSRjr5VQohRJiNb/ukacFwA6wCscQGsA7AGXoBeoc2g0OZEK90gvANcAOsArJHKqTnv367XxQev53Nxo++32+L9ZRjoW5HY4R0AL0CNjWbbh6A58q3TtovQi38HvAPgBeBWgsnePkVkVd7DNlKLPv8yDPRG1gPhHQAvQI5dVm1PC5xcm1NL0++krm+RSkFusQTvAHgBWClArfr3OrbxdI1e1xoF4nnCBDcFxBZE4h/+LMCnAEsAi5pfG3eAdQDWuACcm5+xl98D3gGsOuB+H5vwE5q265q+z/sqt84vKX5qYAnw8fk1v65Z7T0SxSnwX2oC8b3BeI4Qf3Y0xDvBR40U3+Mo0k6xANZD4svpJNIO/DDI/Rt3l8ckyR32avYM4R3gAlgHYI1IHUBzdas/SN2nUeLmAu8AeAFEzgdQcjdNS4iGO4qfDygFXgCNgj455Yv29Hevr+AnRaWBF0DjsHRs05pVEPU5N7wD4AV4xLKOp8CRcQGsA3CMgXeAC2AdgDUugHUA1vwGAAD//1oRdBer+C7RAAAAAElFTkSuQmCC" preserveAspectRatio="xMidYMid slice"/>
   <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
 
   <text x="90" y="44" class="name">beuss</text>
@@ -27,7 +27,7 @@
   <g transform="translate(428, 22)">
     <rect width="108" height="56" rx="6" fill="#decde7"/>
     <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">AUTHOR</text>
-    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#1502</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#1503</text>
   </g>
 
   <text x="24" y="118" class="row-l row-l--hi">PRs merged</text>
