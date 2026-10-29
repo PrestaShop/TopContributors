@@ -1,12 +1,12 @@
 {
-    "updatedAt": "2026-10-28T06:33:48+00:00",
+    "updatedAt": "2026-10-29T06:33:55+00:00",
     "community": {
         "name": "Open Source Community",
         "slug": "open-source-community",
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 7429,
+        "merged_pull_requests": 7430,
         "merged_pull_requests_by_version": {
             "9.3": 19,
             "9.2": 55,
@@ -27,7 +27,7 @@
             "1.6.1": 273
         },
         "merged_pull_requests_by_year": {
-            "2026": 241,
+            "2026": 242,
             "2025": 98,
             "2024": 154,
             "2023": 448,
@@ -43,8 +43,8 @@
             "2013": 525,
             "2012": 32
         },
-        "pull_requests_percent": 25.28,
-        "contributions": 27816,
+        "pull_requests_percent": 25.27,
+        "contributions": 27817,
         "contributions_by_version": {
             "9.3": 42,
             "9.2": 149,
@@ -65,7 +65,7 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 627,
+            "2026": 628,
             "2025": 211,
             "2024": 395,
             "2023": 1956,
@@ -81,7 +81,7 @@
             "2013": 1031,
             "2012": 56
         },
-        "contributions_percent": 21.75,
+        "contributions_percent": 21.74,
         "repositories": {
             "PrestaShop": 4908,
             "PrestaShop-modules": 257,
@@ -193,7 +193,7 @@
             "prestashop-specs": 67,
             "ADR": 1,
             "nightly-board": 4,
-            "open-source": 21,
+            "open-source": 22,
             "mjml-theme-converter": 7,
             "php-dev-tools": 10,
             "QANightlyResults": 6,
@@ -897,7 +897,7 @@
                 "2023": 3
             },
             "open-source": {
-                "2026": 1,
+                "2026": 2,
                 "2025": 1,
                 "2023": 9,
                 "2022": 5,
@@ -1026,10 +1026,10 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 18906,
+            "merged_pull_requests": 18911,
             "merged_pull_requests_by_version": {
                 "9.3": 40,
-                "9.2": 258,
+                "9.2": 259,
                 "9.1": 301,
                 "9.0": 1322,
                 "8.2": 49,
@@ -1047,7 +1047,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 1327,
+                "2026": 1332,
                 "2025": 1585,
                 "2024": 1672,
                 "2023": 1791,
@@ -1062,11 +1062,11 @@
                 "2014": 391,
                 "2013": 24
             },
-            "pull_requests_percent": 64.32,
-            "contributions": 91252,
+            "pull_requests_percent": 64.33,
+            "contributions": 91273,
             "contributions_by_version": {
                 "9.3": 475,
-                "9.2": 1788,
+                "9.2": 1789,
                 "9.1": 3253,
                 "9.0": 6183,
                 "8.2": 104,
@@ -1084,7 +1084,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 7270,
+                "2026": 7291,
                 "2025": 6778,
                 "2024": 7345,
                 "2023": 7982,
@@ -1099,10 +1099,10 @@
                 "2014": 786,
                 "2013": 36
             },
-            "contributions_percent": 71.34,
+            "contributions_percent": 71.35,
             "repositories": {
                 "PrestaShop-backward_compatibility": 1,
-                "PrestaShop": 9715,
+                "PrestaShop": 9716,
                 "PrestaShop-modules": 30,
                 "PrestaShop-webservice-lib": 8,
                 "PrestaShop-norm-validator": 1,
@@ -1135,7 +1135,7 @@
                 "productcomments": 88,
                 "pscleaner": 13,
                 "themeinstallator": 1,
-                "autoupgrade": 922,
+                "autoupgrade": 924,
                 "gsitemap": 36,
                 "prestafraud": 3,
                 "pssupport": 2,
@@ -1220,7 +1220,7 @@
                 "circuit-breaker": 41,
                 "composer-script-handler": 6,
                 "example_module_mailtheme": 3,
-                "ADR": 21,
+                "ADR": 22,
                 "eslint-config": 10,
                 "nightly-board": 66,
                 "open-source": 176,
@@ -1261,7 +1261,7 @@
                 "autoload": 5,
                 "keycloak_connector_demo": 13,
                 "ps_fixturescreator": 17,
-                "kanbanbot": 64,
+                "kanbanbot": 65,
                 "webservice-postman-examples": 6,
                 "zip-archives": 10,
                 "bootstrap-compatibility-layer": 10,
@@ -1279,7 +1279,7 @@
                     "2013": 1
                 },
                 "PrestaShop": {
-                    "2026": 432,
+                    "2026": 433,
                     "2025": 486,
                     "2024": 625,
                     "2023": 914,
@@ -1550,7 +1550,7 @@
                     "2014": 1
                 },
                 "autoupgrade": {
-                    "2026": 127,
+                    "2026": 129,
                     "2025": 236,
                     "2024": 255,
                     "2023": 40,
@@ -2209,6 +2209,7 @@
                     "2019": 3
                 },
                 "ADR": {
+                    "2026": 1,
                     "2025": 2,
                     "2024": 4,
                     "2023": 3,
@@ -2441,7 +2442,7 @@
                     "2023": 3
                 },
                 "kanbanbot": {
-                    "2026": 6,
+                    "2026": 7,
                     "2025": 8,
                     "2024": 30,
                     "2023": 20

@@ -322,7 +322,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 8294,
+        "contributions": 8298,
         "repositories": {
             "PrestaShop": 6424,
             "dashactivity": 4,
@@ -393,7 +393,7 @@
             "circuit-breaker": 36,
             "composer-script-handler": 1,
             "example_module_mailtheme": 29,
-            "ADR": 19,
+            "ADR": 23,
             "nightly-board": 1,
             "open-source": 7,
             "mjml-theme-converter": 38,
@@ -441,10 +441,10 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 405,
+                "total": 409,
                 "repositories": {
                     "docs": 169,
-                    "ADR": 19,
+                    "ADR": 23,
                     "example-modules": 117,
                     "open-source": 7,
                     "example_module_mailtheme": 29,
@@ -890,7 +890,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5453,
+        "contributions": 5466,
         "repositories": {
             "PrestaShop": 1817,
             "PrestaShop-modules": 349,
@@ -924,7 +924,7 @@
             "productcomments": 14,
             "pscleaner": 3,
             "themeinstallator": 3,
-            "autoupgrade": 1612,
+            "autoupgrade": 1624,
             "gsitemap": 6,
             "prestafraud": 1,
             "prestashop.github.io": 17,
@@ -982,6 +982,7 @@
             "ps_themecusto": 14,
             "psgdpr": 8,
             "example_module_mailtheme": 1,
+            "ADR": 1,
             "eslint-config": 1,
             "open-source": 7,
             "php-dev-tools": 69,
@@ -1011,10 +1012,11 @@
                 "repositories": []
             },
             "documentation": {
-                "total": 183,
+                "total": 184,
                 "repositories": {
                     "paymentexample": 1,
                     "docs": 159,
+                    "ADR": 1,
                     "open-source": 7,
                     "example_module_mailtheme": 1,
                     "skills": 15
@@ -1029,7 +1031,7 @@
                 }
             },
             "modules": {
-                "total": 2531,
+                "total": 2543,
                 "repositories": {
                     "PrestaShop-modules": 349,
                     "dashactivity": 1,
@@ -1060,7 +1062,7 @@
                     "blockwishlist": 38,
                     "productcomments": 14,
                     "pscleaner": 3,
-                    "autoupgrade": 1612,
+                    "autoupgrade": 1624,
                     "gsitemap": 6,
                     "prestafraud": 1,
                     "contactform": 1,
@@ -1677,7 +1679,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "VP Technology & Community at @PrestaShop, working across technology, product, and the open-source ecosystem",
         "email_domain": "",
-        "contributions": 3920,
+        "contributions": 3921,
         "repositories": {
             "PrestaShop": 939,
             "PrestaShop-modules": 4,
@@ -1761,7 +1763,7 @@
             "circuit-breaker": 1,
             "ADR": 7,
             "nightly-board": 1,
-            "open-source": 146,
+            "open-source": 147,
             "mjml-theme-converter": 1,
             "php-dev-tools": 2,
             "LocalizationFiles": 25,
@@ -1811,14 +1813,14 @@
                 }
             },
             "documentation": {
-                "total": 1065,
+                "total": 1066,
                 "repositories": {
                     "paymentexample": 7,
                     "docs": 671,
                     "user-documentation-en": 1,
                     "ADR": 7,
                     "example-modules": 125,
-                    "open-source": 146,
+                    "open-source": 147,
                     "ps-docs-theme": 65,
                     "devdocs-site": 36,
                     "contextual-help-api": 1,
@@ -6053,7 +6055,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 685,
+        "contributions": 686,
         "repositories": {
             "PrestaShop": 312,
             "dashactivity": 4,
@@ -6107,7 +6109,7 @@
             "ps_faviconnotificationbo": 5,
             "prestashop-specs": 7,
             "nightly-board": 4,
-            "open-source": 14,
+            "open-source": 15,
             "mjml-theme-converter": 3,
             "php-dev-tools": 1,
             "example-modules": 1,
@@ -6138,12 +6140,12 @@
                 }
             },
             "documentation": {
-                "total": 61,
+                "total": 62,
                 "repositories": {
                     "docs": 43,
                     "user-documentation-en": 2,
                     "example-modules": 1,
-                    "open-source": 14,
+                    "open-source": 15,
                     "devdocs-site": 1
                 }
             },
@@ -13061,7 +13063,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 77,
+        "contributions": 78,
         "repositories": {
             "PrestaShop": 44,
             "dashgoals": 4,
@@ -13069,7 +13071,7 @@
             "ps_wirepayment": 1,
             ".github": 8,
             "ga.tests.ui.pr": 2,
-            "kanbanbot": 3,
+            "kanbanbot": 4,
             "ps_apiresources": 1
         },
         "categories": {
@@ -13100,9 +13102,9 @@
                 }
             },
             "tools": {
-                "total": 3,
+                "total": 4,
                 "repositories": {
-                    "kanbanbot": 3
+                    "kanbanbot": 4
                 }
             },
             "tests": {
@@ -36782,7 +36784,7 @@
         "company": null,
         "blog": "",
         "location": "Germany",
-        "bio": null,
+        "bio": "POCTF:31XJZZHE",
         "email_domain": "",
         "contributions": 2,
         "repositories": {
@@ -51893,5 +51895,5 @@
             }
         }
     },
-    "updatedAt": "2026-10-28 06:11:49"
+    "updatedAt": "2026-10-29 06:11:59"
 }
