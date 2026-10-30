@@ -17,7 +17,7 @@
   <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
 
   <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
-  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAIAAABt+uBvAAAB5UlEQVR4nOzbvUojURjG8c3kzE7Y3bBhw2KsYiPYqGBnk5QWSrwDLcQ7EARBC628BrGId6DoBcQLEOwiNkmVCZIwMsQP8iUWL4RBR85EJzj5P2nep0ngR144HGbUjjX7g7wfQwaAAAIIIIAAAgigMQNSrUJOZm9UtWZd30qLbJ7npzvZSWneqPvtdZm9+XVaGgegx6XFh9W8NFZMc8UAAggggAACCKDIAsW25lZk9sZwXFVvStNIO5tx9jalhZTU/pFZtaVppDPxr5dKSvNG/bypyvxp6Ses9syUtJDST1gy6uX1T1BvsmIBVwwggAACCCCAvi+QkiG8xO2G4bjSNNJLJbuZtLToAv0pnv8+u5SmkVYh53NBzIqNZsUAAggggAACCCCAAAIIIIAAAggggAACCKABoJjP+2KBrzjNcuX/xoG0kHJ3vBvsgYC/h0WfK2BWjBUbbsUAAggggAACCCCAAAIIIIAAAggggAAaL6ARPOXqri0/5RekaSRRukqeXEiLLlA3kw52eWx+wattrNiwK8ZBkYMiB0UOihwUOShG86BoOK5ZrkjTiKrUZHwjcbsR7GvjdkNG7R/1+fi/vOb38AIrxop9vGIAAQQQQAABBBBAAAEEEEAAAQQQQAABBNAA0MsAvPNY58kPK6EAAAAASUVORK5CYII=" preserveAspectRatio="xMidYMid slice"/>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAIAAABt+uBvAAACBUlEQVR4nOzbv4oTQQCAcW+zaw41GDzEWJ2NYKOCnc1daaGcb6CF+AaCIGihlc8gFucbKPoA5wMIdic2SXUrEllZzj9cEsXemY9M3Kxw368dZjJ87EAYdvMH3YtHFJa1vYH/nYGAgYCBgIGAgYCBgIFAvr+1ERwb7XXff1zuflrw8/L5yfrZ0Gj+9f7t0NixlzuHIdD3a1e/3dwMjXrEgIGAgYCBgIGAgYCBgIHAyr1LN0JjWVXnn74kLHqwPqge3V1sY3PrP35WjMqEiZMzp2b9Xmg0P/phtNjG/uLXavfgwrl/viz+aNrEPw9B+DnwiAEDAQMBAwEDAQMBA4F8+T/ZKcdZVSdMnPV708FaAzuKaSHQie3Xx1+9TZi4v7URuSBuiEcMGAgYCBgIGAgYCBgIGAgYCBgIGAgYCBgIGAgYCBgIGAgYCKxEvhdLvuIsdoen7zxZbGNz+/z8YdoLASefbkeugH2CgIGAgYCBgIGAgYCBgIGAgYCBgIGAgYCBgIGAgYCBgIGAgUALb7nWt67/2LySMHF1513vxZsGdhTTQqDpYC3t8rho4NM25BEDBgIGAgYCBgIGAgYCsf9BWVUXu8OURYd7kdFOOU5btlOOk380Iv7xWuzlBXnEmIGAgYCBgIGAgYCBgIGAgYCBgIGAgYCBgIGAgYCBgIGAgcDvAAAA//+881jn2hkhPQAAAABJRU5ErkJggg==" preserveAspectRatio="xMidYMid slice"/>
   <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
 
   <text x="90" y="44" class="name">PedroRendeiro</text>
@@ -27,7 +27,7 @@
   <g transform="translate(428, 22)">
     <rect width="108" height="56" rx="6" fill="#decde7"/>
     <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">RANK</text>
-    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#549</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#550</text>
   </g>
 
   <text x="24" y="118" class="row-l">PRs merged</text>
