@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-10-30T07:12:15+00:00",
+    "updatedAt": "2026-10-31T07:04:12+00:00",
     "items": [
         {
             "rank": 1,
@@ -7,9 +7,9 @@
             "name": "AureRita",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/100699445?v=4",
             "html_url": "https:\/\/github.com\/AureRita",
-            "count": 343,
+            "count": 345,
             "countByYear": {
-                "2026": 54,
+                "2026": 56,
                 "2025": 97,
                 "2024": 142,
                 "2023": 29,
@@ -17,9 +17,9 @@
             },
             "qa": 0,
             "qaByYear": [],
-            "qa_community": 343,
+            "qa_community": 345,
             "qaCommunityByYear": {
-                "2026": 54,
+                "2026": 56,
                 "2025": 97,
                 "2024": 142,
                 "2023": 29,
@@ -53,19 +53,19 @@
             "name": "Progi1984",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1533248?v=4",
             "html_url": "https:\/\/github.com\/Progi1984",
-            "count": 308,
+            "count": 300,
             "countByYear": {
-                "2026": 45,
-                "2025": 105,
-                "2024": 150,
+                "2026": 43,
+                "2025": 103,
+                "2024": 146,
                 "2023": 2,
                 "2022": 6
             },
-            "qa": 303,
+            "qa": 295,
             "qaByYear": {
-                "2026": 40,
-                "2025": 105,
-                "2024": 150,
+                "2026": 38,
+                "2025": 103,
+                "2024": 146,
                 "2023": 2,
                 "2022": 6
             },
@@ -80,18 +80,18 @@
             "name": "florine2623",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16019289?v=4",
             "html_url": "https:\/\/github.com\/florine2623",
-            "count": 260,
+            "count": 259,
             "countByYear": {
                 "2025": 10,
-                "2024": 60,
+                "2024": 59,
                 "2023": 49,
                 "2022": 109,
                 "2021": 32
             },
-            "qa": 260,
+            "qa": 259,
             "qaByYear": {
                 "2025": 10,
-                "2024": 60,
+                "2024": 59,
                 "2023": 49,
                 "2022": 109,
                 "2021": 32
@@ -105,17 +105,17 @@
             "name": "SiraDIOP",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/177132156?v=4",
             "html_url": "https:\/\/github.com\/SiraDIOP",
-            "count": 222,
+            "count": 224,
             "countByYear": {
-                "2026": 78,
-                "2025": 144
+                "2026": 79,
+                "2025": 145
             },
             "qa": 0,
             "qaByYear": [],
-            "qa_community": 222,
+            "qa_community": 224,
             "qaCommunityByYear": {
-                "2026": 78,
-                "2025": 144
+                "2026": 79,
+                "2025": 145
             }
         },
         {
@@ -124,20 +124,20 @@
             "name": "Camille",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/112863083?v=4",
             "html_url": "https:\/\/github.com\/paulnoelcholot",
-            "count": 215,
+            "count": 217,
             "countByYear": {
-                "2026": 37,
-                "2025": 102,
+                "2026": 33,
+                "2025": 108,
                 "2024": 22,
                 "2023": 44,
                 "2022": 10
             },
             "qa": 0,
             "qaByYear": [],
-            "qa_community": 215,
+            "qa_community": 217,
             "qaCommunityByYear": {
-                "2026": 37,
-                "2025": 102,
+                "2026": 33,
+                "2025": 108,
                 "2024": 22,
                 "2023": 44,
                 "2022": 10
@@ -149,16 +149,16 @@
             "name": "ingridusta",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/109083351?v=4",
             "html_url": "https:\/\/github.com\/ingridusta",
-            "count": 169,
+            "count": 172,
             "countByYear": {
-                "2026": 121,
+                "2026": 124,
                 "2025": 48
             },
             "qa": 0,
             "qaByYear": [],
-            "qa_community": 169,
+            "qa_community": 172,
             "qaCommunityByYear": {
-                "2026": 121,
+                "2026": 124,
                 "2025": 48
             }
         },
@@ -185,31 +185,6 @@
         },
         {
             "rank": 9,
-            "login": "kpodemski",
-            "name": "Krystian Podemski",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2137763?v=4",
-            "html_url": "https:\/\/github.com\/kpodemski",
-            "count": 91,
-            "countByYear": {
-                "2026": 81,
-                "2025": 5,
-                "2024": 2,
-                "2022": 3
-            },
-            "qa": 57,
-            "qaByYear": {
-                "2026": 47,
-                "2025": 5,
-                "2024": 2,
-                "2022": 3
-            },
-            "qa_community": 34,
-            "qaCommunityByYear": {
-                "2026": 34
-            }
-        },
-        {
-            "rank": 10,
             "login": "tblivet",
             "name": "Blivet Thibault",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/110676325?v=4",
@@ -229,6 +204,31 @@
             "qa_community": 1,
             "qaCommunityByYear": {
                 "2026": 1
+            }
+        },
+        {
+            "rank": 10,
+            "login": "kpodemski",
+            "name": "Krystian Podemski",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2137763?v=4",
+            "html_url": "https:\/\/github.com\/kpodemski",
+            "count": 88,
+            "countByYear": {
+                "2026": 78,
+                "2025": 5,
+                "2024": 2,
+                "2022": 3
+            },
+            "qa": 54,
+            "qaByYear": {
+                "2026": 44,
+                "2025": 5,
+                "2024": 2,
+                "2022": 3
+            },
+            "qa_community": 34,
+            "qaCommunityByYear": {
+                "2026": 34
             }
         },
         {
@@ -304,17 +304,17 @@
             "name": "Nicolas Lœuillet",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/121870?v=4",
             "html_url": "https:\/\/github.com\/nicosomb",
-            "count": 53,
+            "count": 54,
             "countByYear": {
                 "2026": 19,
-                "2025": 20,
+                "2025": 21,
                 "2024": 8,
                 "2023": 6
             },
-            "qa": 53,
+            "qa": 54,
             "qaByYear": {
                 "2026": 19,
-                "2025": 20,
+                "2025": 21,
                 "2024": 8,
                 "2023": 6
             },
@@ -537,56 +537,73 @@
         },
         {
             "rank": 25,
+            "login": "alicjacichocka-bitbag",
+            "name": "alicjacichocka-bitbag",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/229692836?v=4",
+            "html_url": "https:\/\/github.com\/alicjacichocka-bitbag",
+            "count": 27,
+            "countByYear": {
+                "2026": 27
+            },
+            "qa": 0,
+            "qaByYear": [],
+            "qa_community": 27,
+            "qaCommunityByYear": {
+                "2026": 27
+            }
+        },
+        {
+            "rank": 26,
             "login": "boherm",
             "name": "Boris Hermans",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/18699562?v=4",
             "html_url": "https:\/\/github.com\/boherm",
-            "count": 24,
+            "count": 25,
             "countByYear": {
                 "2026": 4,
-                "2025": 13,
+                "2025": 14,
                 "2024": 4,
                 "2023": 3
             },
-            "qa": 24,
+            "qa": 25,
             "qaByYear": {
                 "2026": 4,
-                "2025": 13,
+                "2025": 14,
                 "2024": 4,
                 "2023": 3
-            },
-            "qa_community": 0,
-            "qaCommunityByYear": []
-        },
-        {
-            "rank": 26,
-            "login": "matks",
-            "name": "Mathieu Ferment",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3830050?v=4",
-            "html_url": "https:\/\/github.com\/matks",
-            "count": 24,
-            "countByYear": {
-                "2025": 3,
-                "2024": 1,
-                "2022": 12,
-                "2021": 3,
-                "2020": 3,
-                "2019": 2
-            },
-            "qa": 24,
-            "qaByYear": {
-                "2025": 3,
-                "2024": 1,
-                "2022": 12,
-                "2021": 3,
-                "2020": 3,
-                "2019": 2
             },
             "qa_community": 0,
             "qaCommunityByYear": []
         },
         {
             "rank": 27,
+            "login": "matks",
+            "name": "Mathieu Ferment",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3830050?v=4",
+            "html_url": "https:\/\/github.com\/matks",
+            "count": 23,
+            "countByYear": {
+                "2025": 2,
+                "2024": 1,
+                "2022": 12,
+                "2021": 3,
+                "2020": 3,
+                "2019": 2
+            },
+            "qa": 23,
+            "qaByYear": {
+                "2025": 2,
+                "2024": 1,
+                "2022": 12,
+                "2021": 3,
+                "2020": 3,
+                "2019": 2
+            },
+            "qa_community": 0,
+            "qaCommunityByYear": []
+        },
+        {
+            "rank": 28,
             "login": "Hlavtox",
             "name": "Daniel Hlaváček",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6097524?v=4",
@@ -608,23 +625,6 @@
                 "2024": 1,
                 "2023": 13,
                 "2022": 1
-            }
-        },
-        {
-            "rank": 28,
-            "login": "alicjacichocka-bitbag",
-            "name": "alicjacichocka-bitbag",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/229692836?v=4",
-            "html_url": "https:\/\/github.com\/alicjacichocka-bitbag",
-            "count": 22,
-            "countByYear": {
-                "2026": 22
-            },
-            "qa": 0,
-            "qaByYear": [],
-            "qa_community": 22,
-            "qaCommunityByYear": {
-                "2026": 22
             }
         },
         {
@@ -694,16 +694,16 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 16,
+            "count": 15,
             "countByYear": {
-                "2026": 15,
+                "2026": 14,
                 "2025": 1
             },
             "qa": 0,
             "qaByYear": [],
-            "qa_community": 16,
+            "qa_community": 15,
             "qaCommunityByYear": {
-                "2026": 15,
+                "2026": 14,
                 "2025": 1
             }
         },
@@ -779,25 +779,6 @@
         },
         {
             "rank": 37,
-            "login": "ShaiMagal",
-            "name": "Dominik Shaim Ulrich",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8518736?v=4",
-            "html_url": "https:\/\/github.com\/ShaiMagal",
-            "count": 9,
-            "countByYear": {
-                "2026": 4,
-                "2025": 5
-            },
-            "qa": 0,
-            "qaByYear": [],
-            "qa_community": 9,
-            "qaCommunityByYear": {
-                "2026": 4,
-                "2025": 5
-            }
-        },
-        {
-            "rank": 38,
             "login": "NeOMakinG",
             "name": "NeOMakinG",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14963751?v=4",
@@ -820,7 +801,7 @@
             "qaCommunityByYear": []
         },
         {
-            "rank": 39,
+            "rank": 38,
             "login": "PierreRambaud",
             "name": "GoT",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1462701?v=4",
@@ -841,7 +822,7 @@
             "qaCommunityByYear": []
         },
         {
-            "rank": 40,
+            "rank": 39,
             "login": "boubkerbribri",
             "name": "Boubker BRIBRI",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/48441421?v=4",
@@ -862,6 +843,25 @@
             },
             "qa_community": 0,
             "qaCommunityByYear": []
+        },
+        {
+            "rank": 40,
+            "login": "ShaiMagal",
+            "name": "Dominik Shaim Ulrich",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8518736?v=4",
+            "html_url": "https:\/\/github.com\/ShaiMagal",
+            "count": 7,
+            "countByYear": {
+                "2026": 2,
+                "2025": 5
+            },
+            "qa": 0,
+            "qaByYear": [],
+            "qa_community": 7,
+            "qaCommunityByYear": {
+                "2026": 2,
+                "2025": 5
+            }
         },
         {
             "rank": 41,
