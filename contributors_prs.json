@@ -5591,9 +5591,9 @@
                 "2025": 1
             }
         },
-        "reviews": 1464,
+        "reviews": 1472,
         "reviewsByYear": {
-            "2026": 338,
+            "2026": 346,
             "2025": 337,
             "2024": 310,
             "2023": 331,
@@ -5612,9 +5612,9 @@
             "2019": 60,
             "2018": 3
         },
-        "pullRequestsOpened": 1101,
+        "pullRequestsOpened": 1102,
         "pullRequestsOpenedByYear": {
-            "2026": 97,
+            "2026": 98,
             "2025": 156,
             "2024": 206,
             "2023": 435,
@@ -7530,7 +7530,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "VP Technology & Community at @PrestaShop, working across technology, product, and the open-source ecosystem",
         "email_domain": "",
-        "contributions": 3921,
+        "contributions": 3923,
         "repositories": {
             "PrestaShop": 178,
             "PrestaShop-modules": 3,
@@ -8250,9 +8250,9 @@
                 "2026": 2
             }
         },
-        "reviews": 3687,
+        "reviews": 3688,
         "reviewsByYear": {
-            "2026": 520,
+            "2026": 521,
             "2025": 428,
             "2024": 421,
             "2023": 1040,
@@ -16171,7 +16171,7 @@
         "email_domain": "codencode.it",
         "contributions": 524,
         "repositories": {
-            "PrestaShop": 167,
+            "PrestaShop": 168,
             "dashactivity": 1,
             "autoupgrade": 7,
             "prestashop.github.io": 1,
@@ -16194,21 +16194,21 @@
         },
         "categories": {
             "core": {
-                "total": 169,
+                "total": 170,
                 "byYear": {
-                    "2026": 81,
+                    "2026": 82,
                     "2025": 67,
                     "2024": 13,
                     "2023": 7,
                     "2019": 1
                 },
                 "repositories": {
-                    "PrestaShop": 167,
+                    "PrestaShop": 168,
                     "LocalizationFiles": 2
                 },
                 "repositoriesByYear": {
                     "PrestaShop": {
-                        "2026": 80,
+                        "2026": 81,
                         "2025": 66,
                         "2024": 13,
                         "2023": 7,
@@ -16381,9 +16381,9 @@
                 "repositoriesByYear": []
             }
         },
-        "mergedPullRequests": 239,
+        "mergedPullRequests": 240,
         "mergedPullRequestsByYear": {
-            "2026": 118,
+            "2026": 119,
             "2025": 93,
             "2024": 18,
             "2023": 7,
@@ -16392,7 +16392,7 @@
         },
         "repositoriesByYear": {
             "PrestaShop": {
-                "2026": 80,
+                "2026": 81,
                 "2025": 66,
                 "2024": 13,
                 "2023": 7,
@@ -16470,9 +16470,9 @@
                 "2025": 9
             }
         },
-        "reviews": 600,
+        "reviews": 602,
         "reviewsByYear": {
-            "2026": 306,
+            "2026": 308,
             "2025": 293,
             "2023": 1
         },
@@ -25632,9 +25632,9 @@
                 "2026": 1
             }
         },
-        "reviews": 400,
+        "reviews": 403,
         "reviewsByYear": {
-            "2026": 223,
+            "2026": 226,
             "2025": 160,
             "2024": 17
         },
@@ -25867,9 +25867,9 @@
         "issuesOpenedByYear": {
             "2026": 29
         },
-        "pullRequestsOpened": 700,
+        "pullRequestsOpened": 703,
         "pullRequestsOpenedByYear": {
-            "2026": 700
+            "2026": 703
         }
     },
     "davidglezz": {
@@ -26666,9 +26666,9 @@
                 "2025": 1
             }
         },
-        "reviews": 338,
+        "reviews": 339,
         "reviewsByYear": {
-            "2026": 50,
+            "2026": 51,
             "2025": 79,
             "2024": 147,
             "2023": 62
@@ -43583,18 +43583,18 @@
                 "2023": 1
             }
         },
-        "reviews": 75,
+        "reviews": 83,
         "reviewsByYear": {
-            "2026": 75
+            "2026": 83
         },
         "issuesOpened": 4,
         "issuesOpenedByYear": {
             "2026": 2,
             "2023": 2
         },
-        "pullRequestsOpened": 75,
+        "pullRequestsOpened": 84,
         "pullRequestsOpenedByYear": {
-            "2026": 71,
+            "2026": 80,
             "2023": 4
         }
     },
@@ -73342,16 +73342,16 @@
             "2018": 2
         }
     },
-    "jak78": {
-        "login": "jak78",
-        "id": 351773,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/351773?v=4",
-        "html_url": "https:\/\/github.com\/jak78",
-        "name": "Julien Jakubowski",
-        "company": "Decathlon",
+    "MaximeMichaud": {
+        "login": "MaximeMichaud",
+        "id": 14856114,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14856114?v=4",
+        "html_url": "https:\/\/github.com\/MaximeMichaud",
+        "name": "Maxime Michaud",
+        "company": null,
         "blog": "",
-        "location": "Lille, France",
-        "bio": "Staff Software Engineer @Decathlon",
+        "location": "Qu\u00e9bec, Canada",
+        "bio": "DevOps but SysAdmin in \u2764\ufe0f  \r\n                      \r\n\r\n",
         "email_domain": "",
         "contributions": 2,
         "repositories": {
@@ -73432,23 +73432,20 @@
         },
         "reviews": 0,
         "reviewsByYear": [],
-        "issuesOpened": 4,
-        "issuesOpenedByYear": {
-            "2024": 1,
-            "2021": 3
-        },
-        "pullRequestsOpened": 5,
+        "issuesOpened": 0,
+        "issuesOpenedByYear": [],
+        "pullRequestsOpened": 2,
         "pullRequestsOpenedByYear": {
-            "2021": 5
+            "2021": 2
         }
     },
-    "Lynxu": {
-        "login": "Lynxu",
-        "id": 20416128,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20416128?v=4",
-        "html_url": "https:\/\/github.com\/Lynxu",
-        "name": null,
-        "company": null,
+    "maxiR8": {
+        "login": "maxiR8",
+        "id": 2578810,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2578810?v=4",
+        "html_url": "https:\/\/github.com\/maxiR8",
+        "name": "Max Dmytrenko",
+        "company": "DropAdverts",
         "blog": "",
         "location": null,
         "bio": null,
@@ -73645,13 +73642,113 @@
             "2020": 2
         }
     },
-    "maxiR8": {
-        "login": "maxiR8",
-        "id": 2578810,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2578810?v=4",
-        "html_url": "https:\/\/github.com\/maxiR8",
-        "name": "Max Dmytrenko",
-        "company": "DropAdverts",
+    "jak78": {
+        "login": "jak78",
+        "id": 351773,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/351773?v=4",
+        "html_url": "https:\/\/github.com\/jak78",
+        "name": "Julien Jakubowski",
+        "company": "Decathlon",
+        "blog": "",
+        "location": "Lille, France",
+        "bio": "Staff Software Engineer @Decathlon",
+        "email_domain": "",
+        "contributions": 2,
+        "repositories": {
+            "docs": 2
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "specs": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "documentation": {
+                "total": 2,
+                "byYear": {
+                    "2021": 2
+                },
+                "repositories": {
+                    "docs": 2
+                },
+                "repositoriesByYear": {
+                    "docs": {
+                        "2021": 2
+                    }
+                }
+            },
+            "themes": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "modules": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tools": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tests": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "blog": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "others": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            }
+        },
+        "mergedPullRequests": 2,
+        "mergedPullRequestsByYear": {
+            "2021": 2
+        },
+        "repositoriesByYear": {
+            "docs": {
+                "2021": 2
+            }
+        },
+        "reviews": 0,
+        "reviewsByYear": [],
+        "issuesOpened": 4,
+        "issuesOpenedByYear": {
+            "2024": 1,
+            "2021": 3
+        },
+        "pullRequestsOpened": 5,
+        "pullRequestsOpenedByYear": {
+            "2021": 5
+        }
+    },
+    "Lynxu": {
+        "login": "Lynxu",
+        "id": 20416128,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20416128?v=4",
+        "html_url": "https:\/\/github.com\/Lynxu",
+        "name": null,
+        "company": null,
         "blog": "",
         "location": null,
         "bio": null,
@@ -73740,103 +73837,6 @@
         "pullRequestsOpened": 2,
         "pullRequestsOpenedByYear": {
             "2018": 2
-        }
-    },
-    "MaximeMichaud": {
-        "login": "MaximeMichaud",
-        "id": 14856114,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14856114?v=4",
-        "html_url": "https:\/\/github.com\/MaximeMichaud",
-        "name": "Maxime Michaud",
-        "company": null,
-        "blog": "",
-        "location": "Qu\u00e9bec, Canada",
-        "bio": "DevOps but SysAdmin in \u2764\ufe0f  \r\n                      \r\n\r\n",
-        "email_domain": "",
-        "contributions": 2,
-        "repositories": {
-            "docs": 2
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "specs": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "documentation": {
-                "total": 2,
-                "byYear": {
-                    "2021": 2
-                },
-                "repositories": {
-                    "docs": 2
-                },
-                "repositoriesByYear": {
-                    "docs": {
-                        "2021": 2
-                    }
-                }
-            },
-            "themes": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "modules": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "tools": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "tests": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "blog": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "others": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            }
-        },
-        "mergedPullRequests": 2,
-        "mergedPullRequestsByYear": {
-            "2021": 2
-        },
-        "repositoriesByYear": {
-            "docs": {
-                "2021": 2
-            }
-        },
-        "reviews": 0,
-        "reviewsByYear": [],
-        "issuesOpened": 0,
-        "issuesOpenedByYear": [],
-        "pullRequestsOpened": 2,
-        "pullRequestsOpenedByYear": {
-            "2021": 2
         }
     },
     "devantoine": {
@@ -76143,105 +76143,6 @@
             "2024": 2
         }
     },
-    "Wrenbjor": {
-        "login": "Wrenbjor",
-        "id": 202783,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/202783?v=4",
-        "html_url": "https:\/\/github.com\/Wrenbjor",
-        "name": "Wayne",
-        "company": "WCR Studios",
-        "blog": "https:\/\/about.me\/wrenbjor",
-        "location": "NJ",
-        "bio": null,
-        "email_domain": "gmail.com",
-        "contributions": 1,
-        "repositories": {
-            "docs": 2
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "specs": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "documentation": {
-                "total": 2,
-                "byYear": {
-                    "2021": 2
-                },
-                "repositories": {
-                    "docs": 2
-                },
-                "repositoriesByYear": {
-                    "docs": {
-                        "2021": 2
-                    }
-                }
-            },
-            "themes": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "modules": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "tools": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "tests": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "blog": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "others": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            }
-        },
-        "mergedPullRequests": 2,
-        "mergedPullRequestsByYear": {
-            "2021": 2
-        },
-        "repositoriesByYear": {
-            "docs": {
-                "2021": 2
-            }
-        },
-        "reviews": 0,
-        "reviewsByYear": [],
-        "issuesOpened": 2,
-        "issuesOpenedByYear": {
-            "2021": 2
-        },
-        "pullRequestsOpened": 3,
-        "pullRequestsOpenedByYear": {
-            "2021": 3
-        }
-    },
     "stylesamazing": {
         "login": "stylesamazing",
         "id": 54269072,
@@ -76756,6 +76657,105 @@
         "pullRequestsOpened": 2,
         "pullRequestsOpenedByYear": {
             "2026": 2
+        }
+    },
+    "Wrenbjor": {
+        "login": "Wrenbjor",
+        "id": 202783,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/202783?v=4",
+        "html_url": "https:\/\/github.com\/Wrenbjor",
+        "name": "Wayne",
+        "company": "WCR Studios",
+        "blog": "https:\/\/about.me\/wrenbjor",
+        "location": "NJ",
+        "bio": null,
+        "email_domain": "gmail.com",
+        "contributions": 1,
+        "repositories": {
+            "docs": 2
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "specs": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "documentation": {
+                "total": 2,
+                "byYear": {
+                    "2021": 2
+                },
+                "repositories": {
+                    "docs": 2
+                },
+                "repositoriesByYear": {
+                    "docs": {
+                        "2021": 2
+                    }
+                }
+            },
+            "themes": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "modules": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tools": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tests": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "blog": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "others": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            }
+        },
+        "mergedPullRequests": 2,
+        "mergedPullRequestsByYear": {
+            "2021": 2
+        },
+        "repositoriesByYear": {
+            "docs": {
+                "2021": 2
+            }
+        },
+        "reviews": 0,
+        "reviewsByYear": [],
+        "issuesOpened": 2,
+        "issuesOpenedByYear": {
+            "2021": 2
+        },
+        "pullRequestsOpened": 3,
+        "pullRequestsOpenedByYear": {
+            "2021": 3
         }
     },
     "FlorentinGarnier": {
@@ -92193,6 +92193,103 @@
             "2021": 1
         }
     },
+    "yildizib": {
+        "login": "yildizib",
+        "id": 93131,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/93131?v=4",
+        "html_url": "https:\/\/github.com\/yildizib",
+        "name": "\u0130brahim YILDIZ",
+        "company": null,
+        "blog": "https:\/\/yildizib.github.io",
+        "location": "UAE, T\u00fcrkiye",
+        "bio": "Principal Architect & Consultant. I like solving hard problems and learning things properly. 20+ yrs Java\/Spring\/Microservices.",
+        "email_domain": "gmail.com",
+        "contributions": 1,
+        "repositories": {
+            "docs": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "specs": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "documentation": {
+                "total": 1,
+                "byYear": {
+                    "2021": 1
+                },
+                "repositories": {
+                    "docs": 1
+                },
+                "repositoriesByYear": {
+                    "docs": {
+                        "2021": 1
+                    }
+                }
+            },
+            "themes": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "modules": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tools": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tests": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "blog": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "others": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            }
+        },
+        "mergedPullRequests": 1,
+        "mergedPullRequestsByYear": {
+            "2021": 1
+        },
+        "repositoriesByYear": {
+            "docs": {
+                "2021": 1
+            }
+        },
+        "reviews": 0,
+        "reviewsByYear": [],
+        "issuesOpened": 0,
+        "issuesOpenedByYear": [],
+        "pullRequestsOpened": 1,
+        "pullRequestsOpenedByYear": {
+            "2021": 1
+        }
+    },
     "zou-simon": {
         "login": "zou-simon",
         "id": 62673351,
@@ -92968,103 +93065,6 @@
         "issuesOpenedByYear": {
             "2021": 1
         },
-        "pullRequestsOpened": 1,
-        "pullRequestsOpenedByYear": {
-            "2021": 1
-        }
-    },
-    "yildizib": {
-        "login": "yildizib",
-        "id": 93131,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/93131?v=4",
-        "html_url": "https:\/\/github.com\/yildizib",
-        "name": "\u0130brahim YILDIZ",
-        "company": null,
-        "blog": "https:\/\/yildizib.github.io",
-        "location": "UAE, T\u00fcrkiye",
-        "bio": "Principal Architect & Consultant. I like solving hard problems and learning things properly. 20+ yrs Java\/Spring\/Microservices.",
-        "email_domain": "gmail.com",
-        "contributions": 1,
-        "repositories": {
-            "docs": 1
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "specs": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "documentation": {
-                "total": 1,
-                "byYear": {
-                    "2021": 1
-                },
-                "repositories": {
-                    "docs": 1
-                },
-                "repositoriesByYear": {
-                    "docs": {
-                        "2021": 1
-                    }
-                }
-            },
-            "themes": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "modules": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "tools": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "tests": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "blog": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "others": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            }
-        },
-        "mergedPullRequests": 1,
-        "mergedPullRequestsByYear": {
-            "2021": 1
-        },
-        "repositoriesByYear": {
-            "docs": {
-                "2021": 1
-            }
-        },
-        "reviews": 0,
-        "reviewsByYear": [],
-        "issuesOpened": 0,
-        "issuesOpenedByYear": [],
         "pullRequestsOpened": 1,
         "pullRequestsOpenedByYear": {
             "2021": 1
@@ -95816,6 +95816,103 @@
             "2020": 1
         }
     },
+    "ArturKhayrullin": {
+        "login": "ArturKhayrullin",
+        "id": 25804485,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/25804485?v=4",
+        "html_url": "https:\/\/github.com\/ArturKhayrullin",
+        "name": "Artur Khayrullin",
+        "company": null,
+        "blog": "",
+        "location": "Russia",
+        "bio": "Developer, musician, English-speaking enthusiast",
+        "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "docs": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "specs": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "documentation": {
+                "total": 1,
+                "byYear": {
+                    "2026": 1
+                },
+                "repositories": {
+                    "docs": 1
+                },
+                "repositoriesByYear": {
+                    "docs": {
+                        "2026": 1
+                    }
+                }
+            },
+            "themes": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "modules": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tools": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tests": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "blog": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "others": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            }
+        },
+        "mergedPullRequests": 1,
+        "mergedPullRequestsByYear": {
+            "2026": 1
+        },
+        "repositoriesByYear": {
+            "docs": {
+                "2026": 1
+            }
+        },
+        "reviews": 0,
+        "reviewsByYear": [],
+        "issuesOpened": 0,
+        "issuesOpenedByYear": [],
+        "pullRequestsOpened": 1,
+        "pullRequestsOpenedByYear": {
+            "2026": 1
+        }
+    },
     "arischmod": {
         "login": "arischmod",
         "id": 5484856,
@@ -97766,6 +97863,103 @@
         "pullRequestsOpened": 1,
         "pullRequestsOpenedByYear": {
             "2024": 1
+        }
+    },
+    "KevinSpek": {
+        "login": "KevinSpek",
+        "id": 36989197,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/36989197?v=4",
+        "html_url": "https:\/\/github.com\/KevinSpek",
+        "name": "Kevin",
+        "company": "Coddy",
+        "blog": "https:\/\/coddy.tech\/",
+        "location": null,
+        "bio": "Co founder & CTO @ Coddy",
+        "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "docs": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "specs": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "documentation": {
+                "total": 1,
+                "byYear": {
+                    "2026": 1
+                },
+                "repositories": {
+                    "docs": 1
+                },
+                "repositoriesByYear": {
+                    "docs": {
+                        "2026": 1
+                    }
+                }
+            },
+            "themes": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "modules": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tools": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tests": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "blog": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "others": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            }
+        },
+        "mergedPullRequests": 1,
+        "mergedPullRequestsByYear": {
+            "2026": 1
+        },
+        "repositoriesByYear": {
+            "docs": {
+                "2026": 1
+            }
+        },
+        "reviews": 0,
+        "reviewsByYear": [],
+        "issuesOpened": 0,
+        "issuesOpenedByYear": [],
+        "pullRequestsOpened": 1,
+        "pullRequestsOpenedByYear": {
+            "2026": 1
         }
     },
     "beinoriusju": {
@@ -103689,5 +103883,5 @@
             "2025": 1
         }
     },
-    "updatedAt": "2026-10-31T06:29:50+00:00"
+    "updatedAt": "2026-11-01T07:23:37+00:00"
 }

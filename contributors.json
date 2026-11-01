@@ -1679,7 +1679,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "VP Technology & Community at @PrestaShop, working across technology, product, and the open-source ecosystem",
         "email_domain": "",
-        "contributions": 3921,
+        "contributions": 3923,
         "repositories": {
             "PrestaShop": 939,
             "PrestaShop-modules": 4,
@@ -1732,7 +1732,7 @@
             "ps_mainmenu": 2,
             "ps_customersignin": 4,
             "ps_categorytree": 5,
-            "docs": 671,
+            "docs": 673,
             "ps_wirepayment": 3,
             "ps_shoppingcart": 4,
             "ps_currencyselector": 7,
@@ -1813,10 +1813,10 @@
                 }
             },
             "documentation": {
-                "total": 1066,
+                "total": 1068,
                 "repositories": {
                     "paymentexample": 7,
-                    "docs": 671,
+                    "docs": 673,
                     "user-documentation-en": 1,
                     "ADR": 7,
                     "example-modules": 125,
@@ -35417,16 +35417,72 @@
             }
         }
     },
-    "jak78": {
-        "login": "jak78",
-        "id": 351773,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/351773?v=4",
-        "html_url": "https:\/\/github.com\/jak78",
-        "name": "Julien Jakubowski",
-        "company": "Decathlon",
+    "Rho-bur": {
+        "login": "Rho-bur",
+        "id": 3008909,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3008909?v=4",
+        "html_url": "https:\/\/github.com\/Rho-bur",
+        "name": "Robertino Vasilescu",
+        "company": "Freelance Developer",
+        "blog": "https:\/\/www.upwork.com\/fl\/robertinovasilescu",
+        "location": "Romania",
+        "bio": "PrestaShop Developer Partner\r\nPrestaShop Ambassador for Romania\r\nPHP\/Symfony\r\nNode\/Vue",
+        "email_domain": "gmail.com",
+        "contributions": 2,
+        "repositories": {
+            "docs": 2
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 2,
+                "repositories": {
+                    "docs": 2
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "MaximeMichaud": {
+        "login": "MaximeMichaud",
+        "id": 14856114,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14856114?v=4",
+        "html_url": "https:\/\/github.com\/MaximeMichaud",
+        "name": "Maxime Michaud",
+        "company": null,
         "blog": "",
-        "location": "Lille, France",
-        "bio": "Staff Software Engineer @Decathlon",
+        "location": "Qu\u00e9bec, Canada",
+        "bio": "DevOps but SysAdmin in \u2764\ufe0f  \r\n                      \r\n\r\n",
         "email_domain": "",
         "contributions": 2,
         "repositories": {
@@ -35473,13 +35529,13 @@
             }
         }
     },
-    "Lynxu": {
-        "login": "Lynxu",
-        "id": 20416128,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20416128?v=4",
-        "html_url": "https:\/\/github.com\/Lynxu",
-        "name": null,
-        "company": null,
+    "maxiR8": {
+        "login": "maxiR8",
+        "id": 2578810,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2578810?v=4",
+        "html_url": "https:\/\/github.com\/maxiR8",
+        "name": "Max Dmytrenko",
+        "company": "DropAdverts",
         "blog": "",
         "location": null,
         "bio": null,
@@ -35585,129 +35641,73 @@
             }
         }
     },
-    "maxiR8": {
-        "login": "maxiR8",
-        "id": 2578810,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2578810?v=4",
-        "html_url": "https:\/\/github.com\/maxiR8",
-        "name": "Max Dmytrenko",
-        "company": "DropAdverts",
+    "jak78": {
+        "login": "jak78",
+        "id": 351773,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/351773?v=4",
+        "html_url": "https:\/\/github.com\/jak78",
+        "name": "Julien Jakubowski",
+        "company": "Decathlon",
+        "blog": "",
+        "location": "Lille, France",
+        "bio": "Staff Software Engineer @Decathlon",
+        "email_domain": "",
+        "contributions": 2,
+        "repositories": {
+            "docs": 2
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 2,
+                "repositories": {
+                    "docs": 2
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "Lynxu": {
+        "login": "Lynxu",
+        "id": 20416128,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20416128?v=4",
+        "html_url": "https:\/\/github.com\/Lynxu",
+        "name": null,
+        "company": null,
         "blog": "",
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 2,
-        "repositories": {
-            "docs": 2
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 2,
-                "repositories": {
-                    "docs": 2
-                }
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "MaximeMichaud": {
-        "login": "MaximeMichaud",
-        "id": 14856114,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14856114?v=4",
-        "html_url": "https:\/\/github.com\/MaximeMichaud",
-        "name": "Maxime Michaud",
-        "company": null,
-        "blog": "",
-        "location": "Qu\u00e9bec, Canada",
-        "bio": "DevOps but SysAdmin in \u2764\ufe0f  \r\n                      \r\n\r\n",
-        "email_domain": "",
-        "contributions": 2,
-        "repositories": {
-            "docs": 2
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 2,
-                "repositories": {
-                    "docs": 2
-                }
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "Rho-bur": {
-        "login": "Rho-bur",
-        "id": 3008909,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3008909?v=4",
-        "html_url": "https:\/\/github.com\/Rho-bur",
-        "name": "Robertino Vasilescu",
-        "company": "Freelance Developer",
-        "blog": "https:\/\/www.upwork.com\/fl\/robertinovasilescu",
-        "location": "Romania",
-        "bio": "PrestaShop Developer Partner\r\nPrestaShop Ambassador for Romania\r\nPHP\/Symfony\r\nNode\/Vue",
-        "email_domain": "gmail.com",
         "contributions": 2,
         "repositories": {
             "docs": 2
@@ -42817,16 +42817,16 @@
             }
         }
     },
-    "Wrenbjor": {
-        "login": "Wrenbjor",
-        "id": 202783,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/202783?v=4",
-        "html_url": "https:\/\/github.com\/Wrenbjor",
-        "name": "Wayne",
-        "company": "WCR Studios",
-        "blog": "https:\/\/about.me\/wrenbjor",
-        "location": "NJ",
-        "bio": null,
+    "yildizib": {
+        "login": "yildizib",
+        "id": 93131,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/93131?v=4",
+        "html_url": "https:\/\/github.com\/yildizib",
+        "name": "\u0130brahim YILDIZ",
+        "company": null,
+        "blog": "https:\/\/yildizib.github.io",
+        "location": "UAE, T\u00fcrkiye",
+        "bio": "Principal Architect & Consultant. I like solving hard problems and learning things properly. 20+ yrs Java\/Spring\/Microservices.",
         "email_domain": "gmail.com",
         "contributions": 1,
         "repositories": {
@@ -43377,17 +43377,17 @@
             }
         }
     },
-    "yildizib": {
-        "login": "yildizib",
-        "id": 93131,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/93131?v=4",
-        "html_url": "https:\/\/github.com\/yildizib",
-        "name": "\u0130brahim YILDIZ",
-        "company": null,
-        "blog": "https:\/\/yildizib.github.io",
-        "location": "UAE, T\u00fcrkiye",
-        "bio": "Principal Architect & Consultant. I like solving hard problems and learning things properly. 20+ yrs Java\/Spring\/Microservices.",
-        "email_domain": "gmail.com",
+    "gfilippakis": {
+        "login": "gfilippakis",
+        "id": 28734506,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/28734506?v=4",
+        "html_url": "https:\/\/github.com\/gfilippakis",
+        "name": "George Filippakis",
+        "company": "Sleed",
+        "blog": "http:\/\/www.sleed.gr\/",
+        "location": "Athens, Greece",
+        "bio": "Developing e-commerce solutions at Sleed",
+        "email_domain": "",
         "contributions": 1,
         "repositories": {
             "docs": 1
@@ -44777,17 +44777,17 @@
             }
         }
     },
-    "gfilippakis": {
-        "login": "gfilippakis",
-        "id": 28734506,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/28734506?v=4",
-        "html_url": "https:\/\/github.com\/gfilippakis",
-        "name": "George Filippakis",
-        "company": "Sleed",
-        "blog": "http:\/\/www.sleed.gr\/",
-        "location": "Athens, Greece",
-        "bio": "Developing e-commerce solutions at Sleed",
-        "email_domain": "",
+    "Wrenbjor": {
+        "login": "Wrenbjor",
+        "id": 202783,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/202783?v=4",
+        "html_url": "https:\/\/github.com\/Wrenbjor",
+        "name": "Wayne",
+        "company": "WCR Studios",
+        "blog": "https:\/\/about.me\/wrenbjor",
+        "location": "NJ",
+        "bio": null,
+        "email_domain": "gmail.com",
         "contributions": 1,
         "repositories": {
             "docs": 1
@@ -45627,6 +45627,62 @@
         "blog": "https:\/\/moulincreatif.com",
         "location": "France",
         "bio": null,
+        "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "docs": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 1,
+                "repositories": {
+                    "docs": 1
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "ArturKhayrullin": {
+        "login": "ArturKhayrullin",
+        "id": 25804485,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/25804485?v=4",
+        "html_url": "https:\/\/github.com\/ArturKhayrullin",
+        "name": "Artur Khayrullin",
+        "company": null,
+        "blog": "",
+        "location": "Russia",
+        "bio": "Developer, musician, English-speaking enthusiast",
         "email_domain": "",
         "contributions": 1,
         "repositories": {
@@ -46859,6 +46915,62 @@
         "blog": "",
         "location": "Berlin",
         "bio": "learning programmer",
+        "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "docs": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 1,
+                "repositories": {
+                    "docs": 1
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "KevinSpek": {
+        "login": "KevinSpek",
+        "id": 36989197,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/36989197?v=4",
+        "html_url": "https:\/\/github.com\/KevinSpek",
+        "name": "Kevin",
+        "company": "Coddy",
+        "blog": "https:\/\/coddy.tech\/",
+        "location": null,
+        "bio": "Co founder & CTO @ Coddy",
         "email_domain": "",
         "contributions": 1,
         "repositories": {
@@ -51945,5 +52057,5 @@
             }
         }
     },
-    "updatedAt": "2026-10-31 06:10:11"
+    "updatedAt": "2026-11-01 07:03:32"
 }
