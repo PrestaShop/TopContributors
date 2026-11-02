@@ -5591,9 +5591,9 @@
                 "2025": 1
             }
         },
-        "reviews": 1472,
+        "reviews": 1473,
         "reviewsByYear": {
-            "2026": 346,
+            "2026": 347,
             "2025": 337,
             "2024": 310,
             "2023": 331,
@@ -12872,9 +12872,9 @@
             "2024": 7,
             "2023": 8
         },
-        "pullRequestsOpened": 407,
+        "pullRequestsOpened": 412,
         "pullRequestsOpenedByYear": {
-            "2026": 36,
+            "2026": 41,
             "2025": 109,
             "2024": 165,
             "2023": 97
@@ -15114,9 +15114,9 @@
                 "2026": 5
             }
         },
-        "reviews": 2377,
+        "reviews": 2378,
         "reviewsByYear": {
-            "2026": 473,
+            "2026": 474,
             "2025": 581,
             "2024": 482,
             "2023": 653,
@@ -15130,9 +15130,9 @@
             "2023": 2,
             "2022": 9
         },
-        "pullRequestsOpened": 366,
+        "pullRequestsOpened": 367,
         "pullRequestsOpenedByYear": {
-            "2026": 107,
+            "2026": 108,
             "2025": 85,
             "2024": 76,
             "2023": 65,
@@ -16470,9 +16470,9 @@
                 "2025": 9
             }
         },
-        "reviews": 602,
+        "reviews": 605,
         "reviewsByYear": {
-            "2026": 308,
+            "2026": 311,
             "2025": 293,
             "2023": 1
         },
@@ -16486,9 +16486,9 @@
             "2020": 1,
             "2019": 5
         },
-        "pullRequestsOpened": 357,
+        "pullRequestsOpened": 358,
         "pullRequestsOpenedByYear": {
-            "2026": 156,
+            "2026": 157,
             "2025": 137,
             "2024": 35,
             "2023": 23,
@@ -18389,15 +18389,15 @@
             "2025": 60,
             "2024": 9
         },
-        "issuesOpened": 117,
+        "issuesOpened": 119,
         "issuesOpenedByYear": {
-            "2026": 94,
+            "2026": 96,
             "2025": 15,
             "2024": 8
         },
-        "pullRequestsOpened": 258,
+        "pullRequestsOpened": 262,
         "pullRequestsOpenedByYear": {
-            "2026": 190,
+            "2026": 194,
             "2025": 49,
             "2024": 19
         }
@@ -25632,9 +25632,9 @@
                 "2026": 1
             }
         },
-        "reviews": 403,
+        "reviews": 404,
         "reviewsByYear": {
-            "2026": 226,
+            "2026": 227,
             "2025": 160,
             "2024": 17
         },
@@ -25867,9 +25867,9 @@
         "issuesOpenedByYear": {
             "2026": 29
         },
-        "pullRequestsOpened": 703,
+        "pullRequestsOpened": 732,
         "pullRequestsOpenedByYear": {
-            "2026": 703
+            "2026": 732
         }
     },
     "davidglezz": {
@@ -31491,9 +31491,9 @@
                 "2026": 1
             }
         },
-        "reviews": 200,
+        "reviews": 201,
         "reviewsByYear": {
-            "2026": 193,
+            "2026": 194,
             "2025": 7
         },
         "issuesOpened": 86,
@@ -43583,18 +43583,18 @@
                 "2023": 1
             }
         },
-        "reviews": 83,
+        "reviews": 240,
         "reviewsByYear": {
-            "2026": 83
+            "2026": 240
         },
         "issuesOpened": 4,
         "issuesOpenedByYear": {
             "2026": 2,
             "2023": 2
         },
-        "pullRequestsOpened": 84,
+        "pullRequestsOpened": 87,
         "pullRequestsOpenedByYear": {
-            "2026": 80,
+            "2026": 83,
             "2023": 4
         }
     },
@@ -49641,16 +49641,16 @@
             "2019": 8
         }
     },
-    "PrestaSafe": {
-        "login": "PrestaSafe",
+    "PercolatingStudio": {
+        "login": "PercolatingStudio",
         "id": 4788787,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4788787?v=4",
-        "html_url": "https:\/\/github.com\/PrestaSafe",
-        "name": "Guillaume Batier",
-        "company": "www.prestasafe.com",
-        "blog": "https:\/\/www.prestasafe.com",
+        "html_url": "https:\/\/github.com\/PercolatingStudio",
+        "name": "Percolating Studio",
+        "company": "Percolating Studio",
+        "blog": "https:\/\/percolating-studio.com\/",
         "location": "France",
-        "bio": "French web developper expert in PrestaShop. \r\nLoving PHP \/ Vue \/ JS Laravel and more. ",
+        "bio": "Baguette, code and IA. ",
         "email_domain": "gmail.com",
         "contributions": 8,
         "repositories": {
@@ -52394,9 +52394,9 @@
                 "2026": 2
             }
         },
-        "reviews": 41,
+        "reviews": 43,
         "reviewsByYear": {
-            "2026": 36,
+            "2026": 38,
             "2025": 5
         },
         "issuesOpened": 9,
@@ -103883,5 +103883,5 @@
             "2025": 1
         }
     },
-    "updatedAt": "2026-11-01T07:23:37+00:00"
+    "updatedAt": "2026-11-02T13:11:27+00:00"
 }

@@ -25039,16 +25039,16 @@
             }
         }
     },
-    "PrestaSafe": {
-        "login": "PrestaSafe",
+    "PercolatingStudio": {
+        "login": "PercolatingStudio",
         "id": 4788787,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4788787?v=4",
-        "html_url": "https:\/\/github.com\/PrestaSafe",
-        "name": "Guillaume Batier",
-        "company": "www.prestasafe.com",
-        "blog": "https:\/\/www.prestasafe.com",
+        "html_url": "https:\/\/github.com\/PercolatingStudio",
+        "name": "Percolating Studio",
+        "company": "Percolating Studio",
+        "blog": "https:\/\/percolating-studio.com\/",
         "location": "France",
-        "bio": "French web developper expert in PrestaShop. \r\nLoving PHP \/ Vue \/ JS Laravel and more. ",
+        "bio": "Baguette, code and IA. ",
         "email_domain": "gmail.com",
         "contributions": 8,
         "repositories": {
@@ -52057,5 +52057,5 @@
             }
         }
     },
-    "updatedAt": "2026-11-01 07:03:32"
+    "updatedAt": "2026-11-02 12:48:39"
 }

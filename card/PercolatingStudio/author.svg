@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Contributor: Percolating Studio">
+  <title>PrestaShop Top Contributor — Percolating Studio</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/png;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">PercolatingStudio</text>
+  <text x="90" y="62" class="sub">Percolating Studio</text>
+  <text x="90" y="78" class="sub">5 repos</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">AUTHOR</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#216</text>
+  </g>
+
+  <text x="24" y="118" class="row-l row-l--hi">PRs merged</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v row-v--hi" text-anchor="end">8</text>
+  <text x="24" y="140" class="row-l">PRs opened</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">16</text>
+  <text x="24" y="162" class="row-l">Reviews</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">0</text>
+  <text x="24" y="184" class="row-l">Issues opened</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">12</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="320" height="6" fill="#5c92aa"/><rect x="344" y="208" width="192" height="6" fill="#7b4fac"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#5c92aa">■</tspan> documentation  <tspan fill="#7b4fac">■</tspan> core</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/PercolatingStudio</text>
+</svg>
