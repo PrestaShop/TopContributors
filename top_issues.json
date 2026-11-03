@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-11-02T13:36:30+00:00",
+    "updatedAt": "2026-11-03T06:55:03+00:00",
     "items": [
         {
             "rank": 1,
@@ -2560,6 +2560,20 @@
         },
         {
             "rank": 175,
+            "login": "alkorotkovas",
+            "name": "Aleksandras",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/103935370?u=36830d0190e39b9ac6db70c50d4b0d40db07106e&v=4",
+            "html_url": "https:\/\/github.com\/alkorotkovas",
+            "count": 13,
+            "countByYear": {
+                "2026": 1,
+                "2025": 3,
+                "2024": 3,
+                "2023": 6
+            }
+        },
+        {
+            "rank": 176,
             "login": "dharmendravirasat",
             "name": "tech-guru ji",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/44469219?v=4",
@@ -2571,7 +2585,7 @@
             }
         },
         {
-            "rank": 176,
+            "rank": 177,
             "login": "guigplt",
             "name": "guigplt",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/44002621?v=4",
@@ -2585,7 +2599,7 @@
             }
         },
         {
-            "rank": 177,
+            "rank": 178,
             "login": "ioweb-gr",
             "name": "IOWEB TECHNOLOGIES",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20220341?v=4",
@@ -2599,7 +2613,7 @@
             }
         },
         {
-            "rank": 178,
+            "rank": 179,
             "login": "l-delin",
             "name": "L\u00e9a Delin",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/113511191?v=4",
@@ -2611,7 +2625,7 @@
             }
         },
         {
-            "rank": 179,
+            "rank": 180,
             "login": "rflorent",
             "name": "rflorent",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8590540?v=4",
@@ -2624,7 +2638,7 @@
             }
         },
         {
-            "rank": 180,
+            "rank": 181,
             "login": "rmilecki",
             "name": "Rafa\u0142 Mi\u0142ecki",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/452972?v=4",
@@ -2637,7 +2651,7 @@
             }
         },
         {
-            "rank": 181,
+            "rank": 182,
             "login": "Borgas",
             "name": "Borgas",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/54105234?v=4",
@@ -2654,7 +2668,7 @@
             }
         },
         {
-            "rank": 182,
+            "rank": 183,
             "login": "GTriber",
             "name": "GTriber",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/60825638?v=4",
@@ -2668,7 +2682,7 @@
             }
         },
         {
-            "rank": 183,
+            "rank": 184,
             "login": "PeeyushAgrawal",
             "name": "Peeyush Agrawal",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/39614089?v=4",
@@ -2682,7 +2696,7 @@
             }
         },
         {
-            "rank": 184,
+            "rank": 185,
             "login": "PercolatingStudio",
             "name": "Percolating Studio",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4788787?v=4",
@@ -2698,7 +2712,7 @@
             }
         },
         {
-            "rank": 185,
+            "rank": 186,
             "login": "Webgaict",
             "name": "Webgaict",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/56969939?v=4",
@@ -2707,19 +2721,6 @@
             "countByYear": {
                 "2020": 6,
                 "2019": 6
-            }
-        },
-        {
-            "rank": 186,
-            "login": "alkorotkovas",
-            "name": "Aleksandras",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/103935370?u=36830d0190e39b9ac6db70c50d4b0d40db07106e&v=4",
-            "html_url": "https:\/\/github.com\/alkorotkovas",
-            "count": 12,
-            "countByYear": {
-                "2025": 3,
-                "2024": 3,
-                "2023": 6
             }
         },
         {
@@ -37742,7 +37743,7 @@
             "rank": 3263,
             "login": "cdbrkfxrpt",
             "name": "Florian Eich",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2730767?u=e3fba43da436d28aba2fec7e2f6fd3d0de648168&v=4",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2730767?u=620bea74aab5bbdb4e6363db546eaf74db869493&v=4",
             "html_url": "https:\/\/github.com\/cdbrkfxrpt",
             "count": 1,
             "countByYear": {
