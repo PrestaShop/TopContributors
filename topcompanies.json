@@ -5,10 +5,10 @@
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 7439,
+        "merged_pull_requests": 7442,
         "merged_pull_requests_by_version": {
             "9.3": 21,
-            "9.2": 59,
+            "9.2": 62,
             "9.1": 34,
             "9.0": 118,
             "8.2": 10,
@@ -26,7 +26,7 @@
             "1.6.1": 273
         },
         "merged_pull_requests_by_year": {
-            "2026": 251,
+            "2026": 254,
             "2025": 98,
             "2024": 154,
             "2023": 448,
@@ -43,10 +43,10 @@
             "2012": 32
         },
         "pull_requests_percent": 25.28,
-        "contributions": 27828,
+        "contributions": 27831,
         "contributions_by_version": {
             "9.3": 44,
-            "9.2": 155,
+            "9.2": 158,
             "9.1": 58,
             "9.0": 865,
             "8.2": 17,
@@ -64,7 +64,7 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 639,
+            "2026": 642,
             "2025": 211,
             "2024": 395,
             "2023": 1956,
@@ -82,7 +82,7 @@
         },
         "contributions_percent": 21.73,
         "repositories": {
-            "PrestaShop": 4914,
+            "PrestaShop": 4917,
             "PrestaShop-modules": 257,
             "PrestaShop-webservice-lib": 33,
             "PrestaShop-norm-validator": 2,
@@ -220,7 +220,7 @@
         },
         "repositories_by_year": {
             "PrestaShop": {
-                "2026": 101,
+                "2026": 104,
                 "2025": 36,
                 "2024": 44,
                 "2023": 156,
@@ -1025,13 +1025,13 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 18927,
+            "merged_pull_requests": 18931,
             "merged_pull_requests_by_version": {
                 "9.3": 41,
-                "9.2": 267,
+                "9.2": 269,
                 "9.1": 301,
                 "9.0": 1322,
-                "8.2": 49,
+                "8.2": 50,
                 "8.1": 545,
                 "8.0": 808,
                 "1.7.8": 1067,
@@ -1046,7 +1046,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 1348,
+                "2026": 1352,
                 "2025": 1585,
                 "2024": 1672,
                 "2023": 1791,
@@ -1062,13 +1062,13 @@
                 "2013": 24
             },
             "pull_requests_percent": 64.31,
-            "contributions": 91362,
+            "contributions": 91367,
             "contributions_by_version": {
                 "9.3": 514,
-                "9.2": 1801,
+                "9.2": 1804,
                 "9.1": 3253,
                 "9.0": 6183,
-                "8.2": 104,
+                "8.2": 105,
                 "8.1": 3282,
                 "8.0": 5118,
                 "1.7.8": 9121,
@@ -1083,7 +1083,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 7380,
+                "2026": 7385,
                 "2025": 6778,
                 "2024": 7345,
                 "2023": 7982,
@@ -1101,7 +1101,7 @@
             "contributions_percent": 71.35,
             "repositories": {
                 "PrestaShop-backward_compatibility": 1,
-                "PrestaShop": 9725,
+                "PrestaShop": 9728,
                 "PrestaShop-modules": 30,
                 "PrestaShop-webservice-lib": 8,
                 "PrestaShop-norm-validator": 1,
@@ -1267,7 +1267,7 @@
                 "prestashop-flashlight": 127,
                 "ws-client": 5,
                 "ps_apiresources": 128,
-                "ui-testing-library": 545,
+                "ui-testing-library": 546,
                 "SeamlessUpgradeToolbox": 28,
                 "Prestashop-BO-themes-package": 3,
                 "ps_onepagecheckout": 52,
@@ -1278,7 +1278,7 @@
                     "2013": 1
                 },
                 "PrestaShop": {
-                    "2026": 442,
+                    "2026": 445,
                     "2025": 486,
                     "2024": 625,
                     "2023": 914,
@@ -2475,7 +2475,7 @@
                     "2023": 6
                 },
                 "ui-testing-library": {
-                    "2026": 100,
+                    "2026": 101,
                     "2025": 217,
                     "2024": 228
                 },
@@ -2498,8 +2498,8 @@
             "github_url": null,
             "contributors": [
                 "gRoussac",
-                "Quetzacoalt91",
                 "nicosomb",
+                "Quetzacoalt91",
                 "mattgoud",
                 "jolelievre",
                 "tblivet",
@@ -6900,6 +6900,53 @@
             "employees": []
         },
         {
+            "name": "Head Issue",
+            "slug": "head-issue",
+            "rank": 27,
+            "rank_contributions": 27,
+            "rank_pull_requests": 24,
+            "merged_pull_requests": 4,
+            "merged_pull_requests_by_version": {
+                "9.0": 1,
+                "8.1": 2
+            },
+            "merged_pull_requests_by_year": {
+                "2026": 1,
+                "2023": 3
+            },
+            "pull_requests_percent": 0.01,
+            "contributions": 7,
+            "contributions_by_version": {
+                "9.0": 4,
+                "8.1": 2
+            },
+            "contributions_by_year": {
+                "2026": 1,
+                "2023": 6
+            },
+            "contributions_percent": 0.01,
+            "repositories": {
+                "PrestaShop": 3,
+                "ui-testing-library": 1
+            },
+            "repositories_by_year": {
+                "PrestaShop": {
+                    "2023": 3
+                },
+                "ui-testing-library": {
+                    "2026": 1
+                }
+            },
+            "avatar_url": "",
+            "html_url": "https:\/\/www.headissue.com\/",
+            "github_url": null,
+            "contributors": [
+                "cruftex",
+                "oleksandrmaslov"
+            ],
+            "employees": []
+        },
+        {
             "name": "Bakhouche Akram",
             "slug": "bakhouche-akram",
             "rank": 28,
@@ -6930,46 +6977,6 @@
             "github_url": null,
             "contributors": [
                 "akrambak"
-            ],
-            "employees": []
-        },
-        {
-            "name": "Head Issue",
-            "slug": "head-issue",
-            "rank": 28,
-            "rank_contributions": 28,
-            "rank_pull_requests": 25,
-            "merged_pull_requests": 3,
-            "merged_pull_requests_by_version": {
-                "9.0": 1,
-                "8.1": 2
-            },
-            "merged_pull_requests_by_year": {
-                "2023": 3
-            },
-            "pull_requests_percent": 0.01,
-            "contributions": 6,
-            "contributions_by_version": {
-                "9.0": 4,
-                "8.1": 2
-            },
-            "contributions_by_year": {
-                "2023": 6
-            },
-            "contributions_percent": 0,
-            "repositories": {
-                "PrestaShop": 3
-            },
-            "repositories_by_year": {
-                "PrestaShop": {
-                    "2023": 3
-                }
-            },
-            "avatar_url": "",
-            "html_url": "https:\/\/www.headissue.com\/",
-            "github_url": null,
-            "contributors": [
-                "cruftex"
             ],
             "employees": []
         },

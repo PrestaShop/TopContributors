@@ -1,4 +1,12 @@
 {
+    "oleksandrmaslov": {
+        "login": "oleksandrmaslov",
+        "name": "Oleksandr Maslov",
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/174027963?v=4",
+        "html_url": "https:\/\/github.com\/oleksandrmaslov",
+        "contributions": 1,
+        "firstContributionAt": "2026-11-03T13:32:31Z"
+    },
     "KevinSpek": {
         "login": "KevinSpek",
         "name": "Kevin",
@@ -70,13 +78,5 @@
         "html_url": "https:\/\/github.com\/nsirjent",
         "contributions": 1,
         "firstContributionAt": "2026-07-11T16:55:49Z"
-    },
-    "silvi133": {
-        "login": "silvi133",
-        "name": "Silvi",
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/68276725?v=4",
-        "html_url": "https:\/\/github.com\/silvi133",
-        "contributions": 1,
-        "firstContributionAt": "2026-07-08T11:01:59Z"
     }
 }
