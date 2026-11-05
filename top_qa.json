@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-11-04T07:10:33+00:00",
+    "updatedAt": "2026-11-05T07:11:06+00:00",
     "items": [
         {
             "rank": 1,
@@ -992,6 +992,25 @@
         },
         {
             "rank": 48,
+            "login": "SharakPL",
+            "name": "Tom Zajac",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5007456?v=4",
+            "html_url": "https:\/\/github.com\/SharakPL",
+            "count": 2,
+            "countByYear": {
+                "2026": 1,
+                "2023": 1
+            },
+            "qa": 0,
+            "qaByYear": [],
+            "qa_community": 2,
+            "qaCommunityByYear": {
+                "2026": 1,
+                "2023": 1
+            }
+        },
+        {
+            "rank": 49,
             "login": "jf-viguier",
             "name": "Jean-François Viguier",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16720275?v=4",
@@ -1008,7 +1027,7 @@
             }
         },
         {
-            "rank": 49,
+            "rank": 50,
             "login": "ntiepresta",
             "name": "ntiepresta",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/36889855?v=4",
@@ -1025,7 +1044,7 @@
             }
         },
         {
-            "rank": 50,
+            "rank": 51,
             "login": "SimonGrn",
             "name": "Simon G.",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/49909275?v=4",
@@ -1042,7 +1061,7 @@
             "qaCommunityByYear": []
         },
         {
-            "rank": 51,
+            "rank": 52,
             "login": "mflasquin",
             "name": "Maxime Flasquin",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6594752?v=4",
@@ -1059,7 +1078,7 @@
             "qaCommunityByYear": []
         },
         {
-            "rank": 52,
+            "rank": 53,
             "login": "tleon",
             "name": "Thomas",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4093454?v=4",
@@ -1076,7 +1095,7 @@
             "qaCommunityByYear": []
         },
         {
-            "rank": 53,
+            "rank": 54,
             "login": "Roomsmaniia",
             "name": "Roomsmaniia",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/73104293?v=4",
@@ -1093,7 +1112,7 @@
             }
         },
         {
-            "rank": 54,
+            "rank": 55,
             "login": "Saimis777",
             "name": "Saimis777",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/75423142?v=4",
@@ -1107,23 +1126,6 @@
             "qa_community": 1,
             "qaCommunityByYear": {
                 "2022": 1
-            }
-        },
-        {
-            "rank": 55,
-            "login": "SharakPL",
-            "name": "Tom Zajac",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5007456?v=4",
-            "html_url": "https:\/\/github.com\/SharakPL",
-            "count": 1,
-            "countByYear": {
-                "2023": 1
-            },
-            "qa": 0,
-            "qaByYear": [],
-            "qa_community": 1,
-            "qaCommunityByYear": {
-                "2023": 1
             }
         },
         {

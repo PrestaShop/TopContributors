@@ -581,9 +581,9 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5492,
+        "contributions": 5493,
         "repositories": {
-            "PrestaShop": 1829,
+            "PrestaShop": 1830,
             "PrestaShop-modules": 349,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 1,
@@ -688,9 +688,9 @@
         },
         "categories": {
             "core": {
-                "total": 1911,
+                "total": 1912,
                 "repositories": {
-                    "PrestaShop": 1829,
+                    "PrestaShop": 1830,
                     "prestashop-ui-kit": 6,
                     "TranslationToolsBundle": 5,
                     "eslint-config": 1,
@@ -1679,7 +1679,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "VP Technology & Community at @PrestaShop, working across technology, product, and the open-source ecosystem",
         "email_domain": "",
-        "contributions": 3923,
+        "contributions": 3924,
         "repositories": {
             "PrestaShop": 939,
             "PrestaShop-modules": 4,
@@ -1713,7 +1713,7 @@
             "productcomments": 24,
             "autoupgrade": 46,
             "gsitemap": 8,
-            "prestashop.github.io": 986,
+            "prestashop.github.io": 987,
             "StarterTheme": 3,
             "contactform": 10,
             "paymentexample": 7,
@@ -1937,9 +1937,9 @@
                 }
             },
             "blog": {
-                "total": 986,
+                "total": 987,
                 "repositories": {
-                    "prestashop.github.io": 986
+                    "prestashop.github.io": 987
                 }
             },
             "others": {
@@ -2983,9 +2983,9 @@
         "location": null,
         "bio": "Founder of @wallabag. ",
         "email_domain": "",
-        "contributions": 1869,
+        "contributions": 1870,
         "repositories": {
-            "PrestaShop": 960,
+            "PrestaShop": 961,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 7,
             "dashgoals": 3,
@@ -3071,9 +3071,9 @@
         },
         "categories": {
             "core": {
-                "total": 973,
+                "total": 974,
                 "repositories": {
-                    "PrestaShop": 960,
+                    "PrestaShop": 961,
                     "prestashop-ui-kit": 1,
                     "LocalizationFiles": 8,
                     "php-dev-tools": 4
@@ -6817,7 +6817,7 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 527,
+        "contributions": 528,
         "repositories": {
             "PrestaShop": 355,
             "dashactivity": 2,
@@ -6829,7 +6829,7 @@
             "blockreassurance": 4,
             "ps_socialfollow": 4,
             "ps_linklist": 2,
-            "ps_emailsubscription": 29,
+            "ps_emailsubscription": 30,
             "ps_imageslider": 2,
             "ps_mainmenu": 1,
             "docs": 8,
@@ -6868,7 +6868,7 @@
                 }
             },
             "modules": {
-                "total": 102,
+                "total": 103,
                 "repositories": {
                     "dashactivity": 2,
                     "statsforecast": 1,
@@ -6878,7 +6878,7 @@
                     "blockreassurance": 4,
                     "ps_socialfollow": 4,
                     "ps_linklist": 2,
-                    "ps_emailsubscription": 29,
+                    "ps_emailsubscription": 30,
                     "ps_imageslider": 2,
                     "ps_mainmenu": 1,
                     "ps_facetedsearch": 9,
@@ -14721,6 +14721,79 @@
             }
         }
     },
+    "marsaldev": {
+        "login": "marsaldev",
+        "id": 48283112,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/48283112?v=4",
+        "html_url": "https:\/\/github.com\/marsaldev",
+        "name": "Marco Salvatore",
+        "company": "@PrestaShop ",
+        "blog": "https:\/\/www.linkedin.com\/in\/marsaldev\/",
+        "location": "Salerno\/Paris",
+        "bio": "Full stack developer - Alumni @ PrestaShop Open Source Project",
+        "email_domain": "",
+        "contributions": 48,
+        "repositories": {
+            "PrestaShop": 23,
+            "prestashop.github.io": 16,
+            "ps_socialfollow": 2,
+            "docs": 4,
+            "ps_emailalerts": 1,
+            "presthubot": 1,
+            "hummingbird": 1
+        },
+        "categories": {
+            "core": {
+                "total": 23,
+                "repositories": {
+                    "PrestaShop": 23
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 4,
+                "repositories": {
+                    "docs": 4
+                }
+            },
+            "themes": {
+                "total": 1,
+                "repositories": {
+                    "hummingbird": 1
+                }
+            },
+            "modules": {
+                "total": 3,
+                "repositories": {
+                    "ps_socialfollow": 2,
+                    "ps_emailalerts": 1
+                }
+            },
+            "tools": {
+                "total": 1,
+                "repositories": {
+                    "presthubot": 1
+                }
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 16,
+                "repositories": {
+                    "prestashop.github.io": 16
+                }
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "gadnis": {
         "login": "gadnis",
         "id": 10948341,
@@ -14969,79 +15042,6 @@
             "blog": {
                 "total": 0,
                 "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "marsaldev": {
-        "login": "marsaldev",
-        "id": 48283112,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/48283112?v=4",
-        "html_url": "https:\/\/github.com\/marsaldev",
-        "name": "Marco Salvatore",
-        "company": "@PrestaShop ",
-        "blog": "https:\/\/www.linkedin.com\/in\/marsaldev\/",
-        "location": "Salerno\/Paris",
-        "bio": "Full stack developer - Alumni @ PrestaShop Open Source Project",
-        "email_domain": "",
-        "contributions": 46,
-        "repositories": {
-            "PrestaShop": 23,
-            "prestashop.github.io": 14,
-            "ps_socialfollow": 2,
-            "docs": 4,
-            "ps_emailalerts": 1,
-            "presthubot": 1,
-            "hummingbird": 1
-        },
-        "categories": {
-            "core": {
-                "total": 23,
-                "repositories": {
-                    "PrestaShop": 23
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 4,
-                "repositories": {
-                    "docs": 4
-                }
-            },
-            "themes": {
-                "total": 1,
-                "repositories": {
-                    "hummingbird": 1
-                }
-            },
-            "modules": {
-                "total": 3,
-                "repositories": {
-                    "ps_socialfollow": 2,
-                    "ps_emailalerts": 1
-                }
-            },
-            "tools": {
-                "total": 1,
-                "repositories": {
-                    "presthubot": 1
-                }
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 14,
-                "repositories": {
-                    "prestashop.github.io": 14
-                }
             },
             "others": {
                 "total": 0,
@@ -15637,6 +15637,88 @@
             }
         }
     },
+    "SharakPL": {
+        "login": "SharakPL",
+        "id": 5007456,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5007456?v=4",
+        "html_url": "https:\/\/github.com\/SharakPL",
+        "name": "Tom Zajac",
+        "company": null,
+        "blog": "",
+        "location": "Poland",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 41,
+        "repositories": {
+            "PrestaShop": 13,
+            "blockwishlist": 3,
+            "productcomments": 1,
+            "docker": 1,
+            "blockreassurance": 1,
+            "ps_linklist": 4,
+            "ps_emailsubscription": 1,
+            "ps_imageslider": 1,
+            "docs": 2,
+            "ps_searchbar": 2,
+            "hummingbird": 10,
+            "classic-theme": 2
+        },
+        "categories": {
+            "core": {
+                "total": 13,
+                "repositories": {
+                    "PrestaShop": 13
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 2,
+                "repositories": {
+                    "docs": 2
+                }
+            },
+            "themes": {
+                "total": 12,
+                "repositories": {
+                    "classic-theme": 2,
+                    "hummingbird": 10
+                }
+            },
+            "modules": {
+                "total": 13,
+                "repositories": {
+                    "blockwishlist": 3,
+                    "productcomments": 1,
+                    "blockreassurance": 1,
+                    "ps_linklist": 4,
+                    "ps_emailsubscription": 1,
+                    "ps_imageslider": 1,
+                    "ps_searchbar": 2
+                }
+            },
+            "tools": {
+                "total": 1,
+                "repositories": {
+                    "docker": 1
+                }
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "Kaikina": {
         "login": "Kaikina",
         "id": 14168333,
@@ -15688,86 +15770,6 @@
             "tools": {
                 "total": 0,
                 "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "SharakPL": {
-        "login": "SharakPL",
-        "id": 5007456,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5007456?v=4",
-        "html_url": "https:\/\/github.com\/SharakPL",
-        "name": "Tom Zajac",
-        "company": null,
-        "blog": "",
-        "location": "Poland",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 40,
-        "repositories": {
-            "PrestaShop": 13,
-            "blockwishlist": 3,
-            "productcomments": 1,
-            "docker": 1,
-            "blockreassurance": 1,
-            "ps_linklist": 4,
-            "ps_imageslider": 1,
-            "docs": 2,
-            "ps_searchbar": 2,
-            "hummingbird": 10,
-            "classic-theme": 2
-        },
-        "categories": {
-            "core": {
-                "total": 13,
-                "repositories": {
-                    "PrestaShop": 13
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 2,
-                "repositories": {
-                    "docs": 2
-                }
-            },
-            "themes": {
-                "total": 12,
-                "repositories": {
-                    "classic-theme": 2,
-                    "hummingbird": 10
-                }
-            },
-            "modules": {
-                "total": 12,
-                "repositories": {
-                    "blockwishlist": 3,
-                    "productcomments": 1,
-                    "blockreassurance": 1,
-                    "ps_linklist": 4,
-                    "ps_imageslider": 1,
-                    "ps_searchbar": 2
-                }
-            },
-            "tools": {
-                "total": 1,
-                "repositories": {
-                    "docker": 1
-                }
             },
             "tests": {
                 "total": 0,
@@ -36440,7 +36442,7 @@
         "html_url": "https:\/\/github.com\/tfsomrat",
         "name": "Somrat",
         "company": "Themefisher",
-        "blog": "https:\/\/somrat.netlify.app",
+        "blog": "https:\/\/somrat.pro.bd",
         "location": "Dhaka, Bangladesh",
         "bio": "I am @somratpro",
         "email_domain": "",
@@ -47190,7 +47192,7 @@
         "id": 24778034,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/24778034?v=4",
         "html_url": "https:\/\/github.com\/didpoule",
-        "name": "Jordan Brito",
+        "name": "Didpoule",
         "company": null,
         "blog": "",
         "location": null,
@@ -52169,5 +52171,5 @@
             }
         }
     },
-    "updatedAt": "2026-11-04 06:10:28"
+    "updatedAt": "2026-11-05 06:10:47"
 }
