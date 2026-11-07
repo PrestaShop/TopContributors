@@ -11895,9 +11895,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 117,
+        "contributions": 118,
         "repositories": {
-            "PrestaShop": 47,
+            "PrestaShop": 48,
             "productcomments": 1,
             "prestashop-ui-kit": 1,
             "ps_emailsubscription": 2,
@@ -11913,9 +11913,9 @@
         },
         "categories": {
             "core": {
-                "total": 48,
+                "total": 49,
                 "repositories": {
-                    "PrestaShop": 47,
+                    "PrestaShop": 48,
                     "prestashop-ui-kit": 1
                 }
             },
@@ -14662,6 +14662,79 @@
             }
         }
     },
+    "marsaldev": {
+        "login": "marsaldev",
+        "id": 48283112,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/48283112?v=4",
+        "html_url": "https:\/\/github.com\/marsaldev",
+        "name": "Marco Salvatore",
+        "company": "@PrestaShop ",
+        "blog": "https:\/\/www.linkedin.com\/in\/marsaldev\/",
+        "location": "Salerno\/Paris",
+        "bio": "Full stack developer - Alumni @ PrestaShop Open Source Project",
+        "email_domain": "",
+        "contributions": 49,
+        "repositories": {
+            "PrestaShop": 24,
+            "prestashop.github.io": 16,
+            "ps_socialfollow": 2,
+            "docs": 4,
+            "ps_emailalerts": 1,
+            "presthubot": 1,
+            "hummingbird": 1
+        },
+        "categories": {
+            "core": {
+                "total": 24,
+                "repositories": {
+                    "PrestaShop": 24
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 4,
+                "repositories": {
+                    "docs": 4
+                }
+            },
+            "themes": {
+                "total": 1,
+                "repositories": {
+                    "hummingbird": 1
+                }
+            },
+            "modules": {
+                "total": 3,
+                "repositories": {
+                    "ps_socialfollow": 2,
+                    "ps_emailalerts": 1
+                }
+            },
+            "tools": {
+                "total": 1,
+                "repositories": {
+                    "presthubot": 1
+                }
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 16,
+                "repositories": {
+                    "prestashop.github.io": 16
+                }
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "fabienvallon": {
         "login": "fabienvallon",
         "id": 93661074,
@@ -14713,79 +14786,6 @@
                 "total": 37,
                 "repositories": {
                     "prestashop.github.io": 37
-                }
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "marsaldev": {
-        "login": "marsaldev",
-        "id": 48283112,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/48283112?v=4",
-        "html_url": "https:\/\/github.com\/marsaldev",
-        "name": "Marco Salvatore",
-        "company": "@PrestaShop ",
-        "blog": "https:\/\/www.linkedin.com\/in\/marsaldev\/",
-        "location": "Salerno\/Paris",
-        "bio": "Full stack developer - Alumni @ PrestaShop Open Source Project",
-        "email_domain": "",
-        "contributions": 48,
-        "repositories": {
-            "PrestaShop": 23,
-            "prestashop.github.io": 16,
-            "ps_socialfollow": 2,
-            "docs": 4,
-            "ps_emailalerts": 1,
-            "presthubot": 1,
-            "hummingbird": 1
-        },
-        "categories": {
-            "core": {
-                "total": 23,
-                "repositories": {
-                    "PrestaShop": 23
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 4,
-                "repositories": {
-                    "docs": 4
-                }
-            },
-            "themes": {
-                "total": 1,
-                "repositories": {
-                    "hummingbird": 1
-                }
-            },
-            "modules": {
-                "total": 3,
-                "repositories": {
-                    "ps_socialfollow": 2,
-                    "ps_emailalerts": 1
-                }
-            },
-            "tools": {
-                "total": 1,
-                "repositories": {
-                    "presthubot": 1
-                }
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 16,
-                "repositories": {
-                    "prestashop.github.io": 16
                 }
             },
             "others": {
@@ -36892,7 +36892,7 @@
         "company": null,
         "blog": "",
         "location": "Germany",
-        "bio": "POCTF:31XJZZHE",
+        "bio": null,
         "email_domain": "",
         "contributions": 2,
         "repositories": {
@@ -52171,5 +52171,5 @@
             }
         }
     },
-    "updatedAt": "2026-11-06 06:11:02"
+    "updatedAt": "2026-11-07 06:09:26"
 }
