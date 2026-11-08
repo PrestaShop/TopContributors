@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-11-07T07:05:13+00:00",
+    "updatedAt": "2026-11-08T07:05:36+00:00",
     "items": [
         {
             "rank": 1,
@@ -53,18 +53,18 @@
             "name": "Progi1984",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1533248?v=4",
             "html_url": "https:\/\/github.com\/Progi1984",
-            "count": 287,
+            "count": 284,
             "countByYear": {
-                "2026": 46,
-                "2025": 95,
+                "2026": 45,
+                "2025": 93,
                 "2024": 138,
                 "2023": 2,
                 "2022": 6
             },
-            "qa": 282,
+            "qa": 279,
             "qaByYear": {
-                "2026": 41,
-                "2025": 95,
+                "2026": 40,
+                "2025": 93,
                 "2024": 138,
                 "2023": 2,
                 "2022": 6
@@ -80,17 +80,17 @@
             "name": "florine2623",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16019289?v=4",
             "html_url": "https:\/\/github.com\/florine2623",
-            "count": 255,
+            "count": 254,
             "countByYear": {
-                "2025": 7,
+                "2025": 6,
                 "2024": 58,
                 "2023": 49,
                 "2022": 109,
                 "2021": 32
             },
-            "qa": 255,
+            "qa": 254,
             "qaByYear": {
-                "2025": 7,
+                "2025": 6,
                 "2024": 58,
                 "2023": 49,
                 "2022": 109,
@@ -105,20 +105,20 @@
             "name": "Camille",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/112863083?v=4",
             "html_url": "https:\/\/github.com\/paulnoelcholot",
-            "count": 227,
+            "count": 229,
             "countByYear": {
                 "2026": 35,
-                "2025": 121,
+                "2025": 123,
                 "2024": 17,
                 "2023": 44,
                 "2022": 10
             },
             "qa": 0,
             "qaByYear": [],
-            "qa_community": 227,
+            "qa_community": 229,
             "qaCommunityByYear": {
                 "2026": 35,
-                "2025": 121,
+                "2025": 123,
                 "2024": 17,
                 "2023": 44,
                 "2022": 10
@@ -130,16 +130,16 @@
             "name": "SiraDIOP",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/177132156?v=4",
             "html_url": "https:\/\/github.com\/SiraDIOP",
-            "count": 211,
+            "count": 210,
             "countByYear": {
-                "2026": 69,
+                "2026": 68,
                 "2025": 142
             },
             "qa": 0,
             "qaByYear": [],
-            "qa_community": 211,
+            "qa_community": 210,
             "qaCommunityByYear": {
-                "2026": 69,
+                "2026": 68,
                 "2025": 142
             }
         },
@@ -212,17 +212,17 @@
             "name": "Krystian Podemski",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2137763?v=4",
             "html_url": "https:\/\/github.com\/kpodemski",
-            "count": 86,
+            "count": 85,
             "countByYear": {
                 "2026": 76,
-                "2025": 5,
+                "2025": 4,
                 "2024": 2,
                 "2022": 3
             },
-            "qa": 52,
+            "qa": 51,
             "qaByYear": {
                 "2026": 42,
-                "2025": 5,
+                "2025": 4,
                 "2024": 2,
                 "2022": 3
             },
@@ -396,15 +396,15 @@
             "name": "alicjacichocka-bitbag",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/229692836?v=4",
             "html_url": "https:\/\/github.com\/alicjacichocka-bitbag",
-            "count": 41,
+            "count": 42,
             "countByYear": {
-                "2026": 41
+                "2026": 42
             },
             "qa": 0,
             "qaByYear": [],
-            "qa_community": 41,
+            "qa_community": 42,
             "qaCommunityByYear": {
-                "2026": 41
+                "2026": 42
             }
         },
         {

@@ -18609,6 +18609,67 @@
             }
         }
     },
+    "LameuleFR": {
+        "login": "LameuleFR",
+        "id": 57117669,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/57117669?v=4",
+        "html_url": "https:\/\/github.com\/LameuleFR",
+        "name": "Benjamin Bendaoui",
+        "company": null,
+        "blog": "",
+        "location": "France",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 24,
+        "repositories": {
+            "PrestaShop": 16,
+            "dashtrends": 1,
+            "ps_facetedsearch": 7
+        },
+        "categories": {
+            "core": {
+                "total": 16,
+                "repositories": {
+                    "PrestaShop": 16
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 8,
+                "repositories": {
+                    "dashtrends": 1,
+                    "ps_facetedsearch": 7
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "weaverryan": {
         "login": "weaverryan",
         "id": 121003,
@@ -18946,67 +19007,6 @@
                 "total": 3,
                 "repositories": {
                     "autoupgrade": 3
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "LameuleFR": {
-        "login": "LameuleFR",
-        "id": 57117669,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/57117669?v=4",
-        "html_url": "https:\/\/github.com\/LameuleFR",
-        "name": "Benjamin Bendaoui",
-        "company": null,
-        "blog": "",
-        "location": "France",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 22,
-        "repositories": {
-            "PrestaShop": 14,
-            "dashtrends": 1,
-            "ps_facetedsearch": 7
-        },
-        "categories": {
-            "core": {
-                "total": 14,
-                "repositories": {
-                    "PrestaShop": 14
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 8,
-                "repositories": {
-                    "dashtrends": 1,
-                    "ps_facetedsearch": 7
                 }
             },
             "tools": {
@@ -19716,12 +19716,12 @@
             }
         }
     },
-    "MarkALeonard": {
-        "login": "MarkALeonard",
-        "id": 33283565,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/33283565?v=4",
-        "html_url": "https:\/\/github.com\/MarkALeonard",
-        "name": "Mark Leonard",
+    "ccauw": {
+        "login": "ccauw",
+        "id": 3878062,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3878062?v=4",
+        "html_url": "https:\/\/github.com\/ccauw",
+        "name": "ccauw",
         "company": null,
         "blog": "",
         "location": null,
@@ -19828,12 +19828,12 @@
             }
         }
     },
-    "ccauw": {
-        "login": "ccauw",
-        "id": 3878062,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3878062?v=4",
-        "html_url": "https:\/\/github.com\/ccauw",
-        "name": "ccauw",
+    "MarkALeonard": {
+        "login": "MarkALeonard",
+        "id": 33283565,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/33283565?v=4",
+        "html_url": "https:\/\/github.com\/MarkALeonard",
+        "name": "Mark Leonard",
         "company": null,
         "blog": "",
         "location": null,
@@ -52171,5 +52171,5 @@
             }
         }
     },
-    "updatedAt": "2026-11-07 06:09:26"
+    "updatedAt": "2026-11-08 06:09:51"
 }

@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-11-07T06:52:47+00:00",
+    "updatedAt": "2026-11-08T06:52:50+00:00",
     "items": [
         {
             "rank": 1,
@@ -980,6 +980,18 @@
         },
         {
             "rank": 66,
+            "login": "LameuleFR",
+            "name": "Benjamin Bendaoui",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/57117669?v=4",
+            "html_url": "https:\/\/github.com\/LameuleFR",
+            "count": 90,
+            "countByYear": {
+                "2026": 86,
+                "2023": 4
+            }
+        },
+        {
+            "rank": 67,
             "login": "axometeam",
             "name": "Axome",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4557926?v=4",
@@ -994,18 +1006,6 @@
                 "2015": 16,
                 "2014": 22,
                 "2013": 25
-            }
-        },
-        {
-            "rank": 67,
-            "login": "LameuleFR",
-            "name": "Benjamin Bendaoui",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/57117669?v=4",
-            "html_url": "https:\/\/github.com\/LameuleFR",
-            "count": 87,
-            "countByYear": {
-                "2026": 83,
-                "2023": 4
             }
         },
         {
