@@ -145,7 +145,10 @@ useHead(() => ({
         </div>
         <DetailTopReposChart :top-repos="vm.topRepos" />
         <DetailYearTabs :series="vm.yearlySeries" />
-        <DetailReposTable :rows="vm.repoRows" />
+        <DetailReposTable
+          :rows="vm.repoRows"
+          :author-login="contributor.login"
+        />
         <DetailShareCard :login="contributor.login" />
       </template>
     </DetailPageLayout>
