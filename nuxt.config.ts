@@ -85,7 +85,9 @@ export default defineNuxtConfig({
         try {
           const data = JSON.parse(readFileSync(compPath, 'utf-8'))
           for (const c of data.companies ?? []) {
-            if (c.slug) routes.push(`/company/${c.slug}`)
+            if (!c.slug) continue
+            routes.push(`/company/${c.slug}`)
+            routes.push(`/company-card/${c.slug}.svg`)
           }
         }
         catch (err) {

@@ -11,7 +11,7 @@ export const parseVariant = (raw: unknown): RankingVariant => {
   return (RANKING_VARIANTS as readonly string[]).includes(v) ? (v as RankingVariant) : 'overall'
 }
 
-const escapeXml = (s: string) =>
+export const escapeXml = (s: string) =>
   s.replace(/&/g, '&amp;')
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;')
@@ -102,13 +102,15 @@ const CAT_COLORS: Record<string, string> = {
 const OTHER_COLOR = '#5e5e5e'
 
 const avatarCache = new Map<string, Promise<string | null>>()
-const fetchAvatar = (url: string): Promise<string | null> => {
+export const fetchAvatar = (url: string): Promise<string | null> => {
   const cached = avatarCache.get(url)
   if (cached) return cached
   const p = (async () => {
     try {
       const sized = url.includes('?') ? `${url}&s=96` : `${url}?s=96`
-      const res = await fetch(sized)
+      // Company logos may live on arbitrary hosts: don't let a slow one stall
+      // the prerender, the card falls back to the initial.
+      const res = await fetch(sized, { signal: AbortSignal.timeout(5000) })
       if (!res.ok) return null
       const buf = Buffer.from(await res.arrayBuffer())
       const type = res.headers.get('content-type') ?? 'image/jpeg'
@@ -122,35 +124,35 @@ const fetchAvatar = (url: string): Promise<string | null> => {
   return p
 }
 
-const medalColour = (rank?: number) => {
+export const medalColour = (rank?: number) => {
   if (rank === 1) return '#ffd999'
   if (rank === 2) return '#eeeeee'
   if (rank === 3) return '#e7bd94'
   return '#decde7'
 }
 
-const buildStatRow = (label: string, value: number | string, y: number, W: number, highlight = false) => `  <text x="24" y="${y}" class="${highlight ? 'row-l row-l--hi' : 'row-l'}">${escapeXml(label)}</text>
+export const buildStatRow = (label: string, value: number | string, y: number, W: number, highlight = false) => `  <text x="24" y="${y}" class="${highlight ? 'row-l row-l--hi' : 'row-l'}">${escapeXml(label)}</text>
   <line x1="140" y1="${y - 4}" x2="${W - 40}" y2="${y - 4}" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
   <text x="${W - 24}" y="${y}" class="${highlight ? 'row-v row-v--hi' : 'row-v'}" text-anchor="end">${value}</text>`
 
-const buildBreakdownBar = (
-  categories: Contributor['categories'] | undefined,
+export type BarSegment = { label: string, value: number, colour: string }
+
+// Proportional bar of the (at most 4) largest segments, with a colour legend.
+export const buildBar = (
+  segments: BarSegment[],
   x: number, y: number, w: number, h: number,
 ) => {
-  const entries = Object.entries(categories ?? {})
-    .map(([k, v]) => [k, typeof v === 'object' && v ? v.total : 0] as const)
-    .filter(([, n]) => n > 0)
-  const total = entries.reduce((s, [, n]) => s + n, 0)
+  const entries = segments.filter(s => s.value > 0)
+  const total = entries.reduce((sum, s) => sum + s.value, 0)
   if (!total) return `  <rect x="${x}" y="${y}" width="${w}" height="${h}" rx="${h / 2}" fill="#3f3f3d"/>`
-  entries.sort((a, b) => b[1] - a[1])
+  entries.sort((a, b) => b.value - a.value)
   let offset = 0
   const segs: string[] = []
   const legend: string[] = []
-  for (const [k, n] of entries.slice(0, 4)) {
-    const sw = Math.max(2, Math.round((n / total) * w))
-    const colour = CAT_COLORS[k.toLowerCase()] ?? OTHER_COLOR
+  for (const { label, value, colour } of entries.slice(0, 4)) {
+    const sw = Math.max(2, Math.round((value / total) * w))
     segs.push(`<rect x="${x + offset}" y="${y}" width="${sw}" height="${h}" fill="${colour}"/>`)
-    legend.push(`<tspan fill="${colour}">■</tspan> ${escapeXml(k)}`)
+    legend.push(`<tspan fill="${colour}">■</tspan> ${escapeXml(label)}`)
     offset += sw
   }
   return `  <g>
@@ -158,6 +160,79 @@ const buildBreakdownBar = (
     <g clip-path="url(#clip-bar)">${segs.join('')}</g>
     <text x="${x}" y="${y + h + 14}" class="legend">${legend.join('  ')}</text>
   </g>`
+}
+
+const categorySegments = (categories: Contributor['categories'] | undefined): BarSegment[] =>
+  Object.entries(categories ?? {}).map(([k, v]) => ({
+    label: k,
+    value: typeof v === 'object' && v ? v.total : 0,
+    colour: CAT_COLORS[k.toLowerCase()] ?? OTHER_COLOR,
+  }))
+
+export interface CardContent {
+  // Pre-escaped: callers pass XML-safe strings.
+  heading: string
+  subLines: string[]
+  // Accessible label / <title>: "<kind>: <name>" and "<kind> — <name>".
+  kind: string
+  name: string
+  initial: string
+  avatarDataUri: string | null
+  rank: number | undefined
+  rankLabel: string
+  rows: { label: string, value: number | string, highlight?: boolean }[]
+  bar: BarSegment[]
+  footer: string
+}
+
+const W = 560
+const H = 260
+
+// Shared layout of the contributor and company cards.
+export const renderCard = (c: CardContent): string => {
+  const rankTxt = c.rank ? `#${c.rank}` : '—'
+  const medal = medalColour(c.rank)
+
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="${c.kind}: ${c.name}">
+  <title>${c.kind} — ${c.name}</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="${W}" height="${H}" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="${W}" height="3" fill="#7b4fac"/>
+
+  ${c.avatarDataUri
+    ? `<defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="${c.avatarDataUri}" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>`
+    : `<rect x="20" y="22" width="56" height="56" rx="28" fill="#3f3f3d" stroke="#5e5e5e"/>
+  <text x="48" y="58" class="mono" fill="#decde7" font-size="26" font-weight="700" text-anchor="middle">${c.initial}</text>`}
+
+  <text x="90" y="44" class="name">${c.heading}</text>
+${c.subLines.map((line, i) => `  <text x="90" y="${62 + i * 16}" class="sub">${line}</text>`).join('\n')}
+
+  <g transform="translate(${W - 24 - 108}, 22)">
+    <rect width="108" height="56" rx="6" fill="${medal}"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">${escapeXml(c.rankLabel)}</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">${rankTxt}</text>
+  </g>
+
+${c.rows.map((row, i) => buildStatRow(row.label, row.value, 118 + i * 22, W, row.highlight)).join('\n')}
+
+${buildBar(c.bar, 24, 208, W - 48, 6)}
+
+  <text x="${W / 2}" y="${H - 10}" class="foot" text-anchor="middle">$ ${c.footer}</text>
+</svg>`
 }
 
 export const renderCardSvg = async (rawLogin: string, variant: RankingVariant): Promise<string> => {
@@ -176,8 +251,6 @@ export const renderCardSvg = async (rawLogin: string, variant: RankingVariant): 
     throw createError({ statusCode: 404, statusMessage: `Contributor "${login}" not found` })
   }
 
-  const W = 560
-  const H = 260
   const name = escapeXml(c.name || c.login)
   const login2 = escapeXml(c.login)
   const lk = c.login.toLowerCase()
@@ -205,51 +278,18 @@ export const renderCardSvg = async (rawLogin: string, variant: RankingVariant): 
     issues: { rank: issuesRankByLogin.get(lk), label: 'ISSUES', rows: ['issues', 'merged', 'opened', 'reviews'] },
   }
   const { rank, label: rankLabel, rows } = variantConf[variant]
-  const rankTxt = rank ? `#${rank}` : '—'
-  const medal = medalColour(rank)
 
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="PrestaShop Top Contributor: ${name}">
-  <title>PrestaShop Top Contributor — ${name}</title>
-  <style>
-    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
-    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
-    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
-    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
-    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
-    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
-    .row-l--hi { fill: #decde7; }
-    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
-    .row-v--hi { fill: #decde7; }
-    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
-    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
-  </style>
-  <rect width="${W}" height="${H}" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
-  <rect x="0" y="0" width="${W}" height="3" fill="#7b4fac"/>
-
-  ${avatarDataUri
-    ? `<defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
-  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="${avatarDataUri}" preserveAspectRatio="xMidYMid slice"/>
-  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>`
-    : `<rect x="20" y="22" width="56" height="56" rx="28" fill="#3f3f3d" stroke="#5e5e5e"/>
-  <text x="48" y="58" class="mono" fill="#decde7" font-size="26" font-weight="700" text-anchor="middle">${login2.charAt(0).toUpperCase()}</text>`}
-
-  <text x="90" y="44" class="name">${login2}</text>
-  <text x="90" y="62" class="sub">${name}</text>
-  <text x="90" y="78" class="sub">${repoCount} repo${repoCount === 1 ? '' : 's'}</text>
-
-  <g transform="translate(${W - 24 - 108}, 22)">
-    <rect width="108" height="56" rx="6" fill="${medal}"/>
-    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">${escapeXml(rankLabel)}</text>
-    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">${rankTxt}</text>
-  </g>
-
-${rows.map((key, i) => {
-  const def = ROW_DEFS[key]
-  return buildStatRow(def.label, def.value, 118 + i * 22, W, i === 0 && variant !== 'overall')
-}).join('\n')}
-
-${buildBreakdownBar(c.categories, 24, 208, W - 48, 6)}
-
-  <text x="${W / 2}" y="${H - 10}" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/contributor/${login2}</text>
-</svg>`
+  return renderCard({
+    heading: login2,
+    subLines: [name, `${repoCount} repo${repoCount === 1 ? '' : 's'}`],
+    kind: 'PrestaShop Top Contributor',
+    name,
+    initial: login2.charAt(0).toUpperCase(),
+    avatarDataUri,
+    rank,
+    rankLabel,
+    rows: rows.map((key, i) => ({ ...ROW_DEFS[key], highlight: i === 0 && variant !== 'overall' })),
+    bar: categorySegments(c.categories),
+    footer: `contributors.prestashop-project.org/contributor/${login2}`,
+  })
 }
