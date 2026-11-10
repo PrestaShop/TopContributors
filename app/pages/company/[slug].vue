@@ -2,6 +2,7 @@
 import { computed, ref, watchEffect } from 'vue'
 import { usePeriod } from '@/composables/usePeriod'
 import { companyMembers, useEntityDetail } from '@/composables/useEntityDetail'
+import { githubHandle } from '@/composables/useGithubHandle'
 import type { Company, Contributor } from '@/types'
 
 const route = useRoute()
@@ -98,7 +99,7 @@ useHead(() => ({
           :title="company.name"
           :subtitle="`${memberLogins.length} contributors`"
           :infos="[
-            ...(company.github_url ? [{ icon: 'link', label: 'GitHub', value: company.github_url, href: company.github_url }] : []),
+            ...(company.github_url ? [{ icon: 'link', label: 'GitHub', value: githubHandle(company.github_url), href: company.github_url }] : []),
             ...(company.html_url ? [{ icon: 'desktop_mac', label: 'Website', value: company.html_url, href: company.html_url }] : []),
           ]"
           :sections="[
