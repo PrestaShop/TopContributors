@@ -581,7 +581,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5493,
+        "contributions": 5495,
         "repositories": {
             "PrestaShop": 1830,
             "PrestaShop-modules": 349,
@@ -679,7 +679,7 @@
             "php-dev-tools": 69,
             ".github": 7,
             "hummingbird": 2,
-            "distribution-api": 49,
+            "distribution-api": 51,
             "classic-theme": 61,
             "ps_distributionapiclient": 4,
             "ps_apiresources": 3,
@@ -825,12 +825,12 @@
                 }
             },
             "others": {
-                "total": 82,
+                "total": 84,
                 "repositories": {
                     ".github": 7,
                     "InstallUnpacker": 3,
                     "firebaseauthenticator": 23,
-                    "distribution-api": 49
+                    "distribution-api": 51
                 }
             }
         }
@@ -1679,7 +1679,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "VP Technology & Community at @PrestaShop, working across technology, product, and the open-source ecosystem",
         "email_domain": "",
-        "contributions": 3924,
+        "contributions": 3926,
         "repositories": {
             "PrestaShop": 939,
             "PrestaShop-modules": 4,
@@ -1713,7 +1713,7 @@
             "productcomments": 24,
             "autoupgrade": 46,
             "gsitemap": 8,
-            "prestashop.github.io": 987,
+            "prestashop.github.io": 989,
             "StarterTheme": 3,
             "contactform": 10,
             "paymentexample": 7,
@@ -1937,9 +1937,9 @@
                 }
             },
             "blog": {
-                "total": 987,
+                "total": 989,
                 "repositories": {
-                    "prestashop.github.io": 987
+                    "prestashop.github.io": 989
                 }
             },
             "others": {
@@ -6497,7 +6497,7 @@
         "location": "La Roche sur Yon",
         "bio": null,
         "email_domain": "prestashop.com",
-        "contributions": 614,
+        "contributions": 616,
         "repositories": {
             "PrestaShop": 285,
             "dashactivity": 1,
@@ -6547,7 +6547,7 @@
             "example-modules": 4,
             ".github": 9,
             "hummingbird": 52,
-            "distribution-api": 2,
+            "distribution-api": 4,
             "classic-theme": 9,
             "ps-monitor-module-releases": 2,
             "zip-archives": 2,
@@ -6645,11 +6645,11 @@
                 "repositories": []
             },
             "others": {
-                "total": 13,
+                "total": 15,
                 "repositories": {
                     ".github": 9,
                     "zip-archives": 2,
-                    "distribution-api": 2
+                    "distribution-api": 4
                 }
             }
         }
@@ -14185,6 +14185,79 @@
             }
         }
     },
+    "marsaldev": {
+        "login": "marsaldev",
+        "id": 48283112,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/48283112?v=4",
+        "html_url": "https:\/\/github.com\/marsaldev",
+        "name": "Marco Salvatore",
+        "company": "@PrestaShop ",
+        "blog": "https:\/\/www.linkedin.com\/in\/marsaldev\/",
+        "location": "Salerno\/Paris",
+        "bio": "Full stack developer - Alumni @ PrestaShop Open Source Project",
+        "email_domain": "",
+        "contributions": 55,
+        "repositories": {
+            "PrestaShop": 24,
+            "prestashop.github.io": 22,
+            "ps_socialfollow": 2,
+            "docs": 4,
+            "ps_emailalerts": 1,
+            "presthubot": 1,
+            "hummingbird": 1
+        },
+        "categories": {
+            "core": {
+                "total": 24,
+                "repositories": {
+                    "PrestaShop": 24
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 4,
+                "repositories": {
+                    "docs": 4
+                }
+            },
+            "themes": {
+                "total": 1,
+                "repositories": {
+                    "hummingbird": 1
+                }
+            },
+            "modules": {
+                "total": 3,
+                "repositories": {
+                    "ps_socialfollow": 2,
+                    "ps_emailalerts": 1
+                }
+            },
+            "tools": {
+                "total": 1,
+                "repositories": {
+                    "presthubot": 1
+                }
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 22,
+                "repositories": {
+                    "prestashop.github.io": 22
+                }
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "paulnoelcholot": {
         "login": "paulnoelcholot",
         "id": 112863083,
@@ -14655,79 +14728,6 @@
             "blog": {
                 "total": 0,
                 "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "marsaldev": {
-        "login": "marsaldev",
-        "id": 48283112,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/48283112?v=4",
-        "html_url": "https:\/\/github.com\/marsaldev",
-        "name": "Marco Salvatore",
-        "company": "@PrestaShop ",
-        "blog": "https:\/\/www.linkedin.com\/in\/marsaldev\/",
-        "location": "Salerno\/Paris",
-        "bio": "Full stack developer - Alumni @ PrestaShop Open Source Project",
-        "email_domain": "",
-        "contributions": 49,
-        "repositories": {
-            "PrestaShop": 24,
-            "prestashop.github.io": 16,
-            "ps_socialfollow": 2,
-            "docs": 4,
-            "ps_emailalerts": 1,
-            "presthubot": 1,
-            "hummingbird": 1
-        },
-        "categories": {
-            "core": {
-                "total": 24,
-                "repositories": {
-                    "PrestaShop": 24
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 4,
-                "repositories": {
-                    "docs": 4
-                }
-            },
-            "themes": {
-                "total": 1,
-                "repositories": {
-                    "hummingbird": 1
-                }
-            },
-            "modules": {
-                "total": 3,
-                "repositories": {
-                    "ps_socialfollow": 2,
-                    "ps_emailalerts": 1
-                }
-            },
-            "tools": {
-                "total": 1,
-                "repositories": {
-                    "presthubot": 1
-                }
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 16,
-                "repositories": {
-                    "prestashop.github.io": 16
-                }
             },
             "others": {
                 "total": 0,
@@ -15465,9 +15465,9 @@
         "location": "Nantes",
         "bio": null,
         "email_domain": "",
-        "contributions": 43,
+        "contributions": 44,
         "repositories": {
-            "prestashop-flashlight": 43
+            "prestashop-flashlight": 44
         },
         "categories": {
             "core": {
@@ -15503,9 +15503,9 @@
                 "repositories": []
             },
             "others": {
-                "total": 43,
+                "total": 44,
                 "repositories": {
-                    "prestashop-flashlight": 43
+                    "prestashop-flashlight": 44
                 }
             }
         }
@@ -52171,5 +52171,5 @@
             }
         }
     },
-    "updatedAt": "2026-11-09 06:12:50"
+    "updatedAt": "2026-11-10 06:09:56"
 }
