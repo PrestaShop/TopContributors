@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-11-10T06:54:24+00:00",
+    "updatedAt": "2026-11-11T06:57:06+00:00",
     "items": [
         {
             "rank": 1,
@@ -207,6 +207,23 @@
         },
         {
             "rank": 13,
+            "login": "D4mianWayne",
+            "name": "D4mianWayne",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/43758020?v=4",
+            "html_url": "https:\/\/github.com\/D4mianWayne",
+            "count": 1,
+            "countByYear": {
+                "2026": 1
+            },
+            "research": 1,
+            "researchByYear": {
+                "2026": 1
+            },
+            "remediation": 0,
+            "remediationByYear": []
+        },
+        {
+            "rank": 14,
             "login": "PierreRambaud",
             "name": "GoT",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1462701?v=4",
@@ -223,7 +240,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 14,
+            "rank": 15,
             "login": "aelmokhtar",
             "name": "aelmokhtar",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/66908023?v=4",
@@ -240,7 +257,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 15,
+            "rank": 16,
             "login": "antoniospataro",
             "name": "antoniospataro",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/44066875?v=4",
@@ -257,7 +274,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 16,
+            "rank": 17,
             "login": "clotairer",
             "name": "Clotaire",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/52157233?v=4",
@@ -274,7 +291,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 17,
+            "rank": 18,
             "login": "creagenic",
             "name": "creagenic",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/55196959?v=4",
@@ -291,7 +308,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 18,
+            "rank": 19,
             "login": "dawitngoliath",
             "name": "dawitngoliath",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/87381656?v=4",
@@ -308,7 +325,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 19,
+            "rank": 20,
             "login": "geo-chen",
             "name": "geo-chen",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2404584?v=4",
@@ -325,7 +342,24 @@
             "remediationByYear": []
         },
         {
-            "rank": 20,
+            "rank": 21,
+            "login": "ghostbyt3",
+            "name": "ghostbyt3",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/46240165?v=4",
+            "html_url": "https:\/\/github.com\/ghostbyt3",
+            "count": 1,
+            "countByYear": {
+                "2026": 1
+            },
+            "research": 1,
+            "researchByYear": {
+                "2026": 1
+            },
+            "remediation": 0,
+            "remediationByYear": []
+        },
+        {
+            "rank": 22,
             "login": "hachh",
             "name": "hachh",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14847611?v=4",
@@ -342,7 +376,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 21,
+            "rank": 23,
             "login": "haidv35",
             "name": "haidv35",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20736458?v=4",
@@ -359,7 +393,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 22,
+            "rank": 24,
             "login": "hugo-fasone",
             "name": "hugo-fasone",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/28593328?v=4",
@@ -376,7 +410,7 @@
             }
         },
         {
-            "rank": 23,
+            "rank": 25,
             "login": "isanghyeon",
             "name": "isanghyeon",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/61901762?v=4",
@@ -393,7 +427,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 24,
+            "rank": 26,
             "login": "komradz86",
             "name": "komradz86",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/25012489?v=4",
@@ -410,7 +444,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 25,
+            "rank": 27,
             "login": "my3ker",
             "name": "my3ker",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/43940126?v=4",
@@ -427,7 +461,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 26,
+            "rank": 28,
             "login": "nicosomb",
             "name": "Nicolas L\u0153uillet",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/121870?v=4",
@@ -444,7 +478,7 @@
             }
         },
         {
-            "rank": 27,
+            "rank": 29,
             "login": "nvth",
             "name": "nvth",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/63294758?v=4",
@@ -461,7 +495,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 28,
+            "rank": 30,
             "login": "r00tpgp",
             "name": "r00tpgp",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/29351179?v=4",
@@ -478,7 +512,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 29,
+            "rank": 31,
             "login": "timactive",
             "name": "timactive",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3832141?v=4",
