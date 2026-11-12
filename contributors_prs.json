@@ -4566,9 +4566,9 @@
                 "2026": 4
             }
         },
-        "reviews": 2339,
+        "reviews": 2341,
         "reviewsByYear": {
-            "2026": 388,
+            "2026": 390,
             "2025": 399,
             "2024": 263,
             "2023": 1,
@@ -5591,9 +5591,9 @@
                 "2025": 1
             }
         },
-        "reviews": 1488,
+        "reviews": 1490,
         "reviewsByYear": {
-            "2026": 362,
+            "2026": 364,
             "2025": 337,
             "2024": 310,
             "2023": 331,
@@ -16181,7 +16181,7 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 544,
+        "contributions": 545,
         "repositories": {
             "PrestaShop": 173,
             "dashactivity": 1,
@@ -30346,9 +30346,9 @@
             "2022": 5,
             "2020": 2
         },
-        "pullRequestsOpened": 55,
+        "pullRequestsOpened": 56,
         "pullRequestsOpenedByYear": {
-            "2026": 12,
+            "2026": 13,
             "2024": 3,
             "2022": 37,
             "2021": 2,
@@ -59002,6 +59002,116 @@
             "2013": 3
         }
     },
+    "ChillCode": {
+        "login": "ChillCode",
+        "id": 9787055,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9787055?v=4",
+        "html_url": "https:\/\/github.com\/ChillCode",
+        "name": "Chillcode",
+        "company": "Chillcode",
+        "blog": "https:\/\/github.com\/ChillCode",
+        "location": null,
+        "bio": "chillcode@protonmail.ch",
+        "email_domain": "",
+        "contributions": 16,
+        "repositories": {
+            "PrestaShop": 4
+        },
+        "categories": {
+            "core": {
+                "total": 4,
+                "byYear": {
+                    "2026": 1,
+                    "2025": 3
+                },
+                "repositories": {
+                    "PrestaShop": 4
+                },
+                "repositoriesByYear": {
+                    "PrestaShop": {
+                        "2026": 1,
+                        "2025": 3
+                    }
+                }
+            },
+            "specs": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "documentation": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "themes": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "modules": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tools": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tests": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "blog": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "others": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            }
+        },
+        "mergedPullRequests": 4,
+        "mergedPullRequestsByYear": {
+            "2026": 1,
+            "2025": 3
+        },
+        "repositoriesByYear": {
+            "PrestaShop": {
+                "2026": 1,
+                "2025": 3
+            }
+        },
+        "reviews": 8,
+        "reviewsByYear": {
+            "2026": 5,
+            "2025": 3
+        },
+        "issuesOpened": 8,
+        "issuesOpenedByYear": {
+            "2026": 1,
+            "2025": 4,
+            "2023": 2,
+            "2022": 1
+        },
+        "pullRequestsOpened": 25,
+        "pullRequestsOpenedByYear": {
+            "2026": 10,
+            "2025": 15
+        }
+    },
     "Mch0": {
         "login": "Mch0",
         "id": 3593331,
@@ -62620,112 +62730,6 @@
         "pullRequestsOpened": 5,
         "pullRequestsOpenedByYear": {
             "2013": 5
-        }
-    },
-    "ChillCode": {
-        "login": "ChillCode",
-        "id": 9787055,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9787055?v=4",
-        "html_url": "https:\/\/github.com\/ChillCode",
-        "name": "Chillcode",
-        "company": "Chillcode",
-        "blog": "https:\/\/github.com\/ChillCode",
-        "location": null,
-        "bio": "chillcode@protonmail.ch",
-        "email_domain": "",
-        "contributions": 15,
-        "repositories": {
-            "PrestaShop": 3
-        },
-        "categories": {
-            "core": {
-                "total": 3,
-                "byYear": {
-                    "2025": 3
-                },
-                "repositories": {
-                    "PrestaShop": 3
-                },
-                "repositoriesByYear": {
-                    "PrestaShop": {
-                        "2025": 3
-                    }
-                }
-            },
-            "specs": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "documentation": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "themes": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "modules": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "tools": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "tests": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "blog": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "others": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            }
-        },
-        "mergedPullRequests": 3,
-        "mergedPullRequestsByYear": {
-            "2025": 3
-        },
-        "repositoriesByYear": {
-            "PrestaShop": {
-                "2025": 3
-            }
-        },
-        "reviews": 7,
-        "reviewsByYear": {
-            "2026": 4,
-            "2025": 3
-        },
-        "issuesOpened": 8,
-        "issuesOpenedByYear": {
-            "2026": 1,
-            "2025": 4,
-            "2023": 2,
-            "2022": 1
-        },
-        "pullRequestsOpened": 25,
-        "pullRequestsOpenedByYear": {
-            "2026": 10,
-            "2025": 15
         }
     },
     "venditdevs": {
@@ -104021,5 +104025,5 @@
             "2025": 1
         }
     },
-    "updatedAt": "2026-11-11T06:31:47+00:00"
+    "updatedAt": "2026-11-12T06:33:26+00:00"
 }

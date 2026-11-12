@@ -6820,9 +6820,9 @@
         "location": "Via Giuseppe Saragat, 19 86170 Isernia - ITALIA",
         "bio": "Codencode \u00e8 un'agenzia di Branding, Comunicazione e Marketing.\r\nRealizziamo progetti di comunicazione visiva brand-oriented, web design e web marketing.",
         "email_domain": "codencode.it",
-        "contributions": 544,
+        "contributions": 545,
         "repositories": {
-            "PrestaShop": 371,
+            "PrestaShop": 372,
             "dashactivity": 2,
             "statsforecast": 1,
             "statsstock": 1,
@@ -6847,9 +6847,9 @@
         },
         "categories": {
             "core": {
-                "total": 373,
+                "total": 374,
                 "repositories": {
-                    "PrestaShop": 371,
+                    "PrestaShop": 372,
                     "LocalizationFiles": 2
                 }
             },
@@ -20456,6 +20456,62 @@
             }
         }
     },
+    "ChillCode": {
+        "login": "ChillCode",
+        "id": 9787055,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9787055?v=4",
+        "html_url": "https:\/\/github.com\/ChillCode",
+        "name": "Chillcode",
+        "company": "Chillcode",
+        "blog": "https:\/\/github.com\/ChillCode",
+        "location": null,
+        "bio": "chillcode@protonmail.ch",
+        "email_domain": "",
+        "contributions": 16,
+        "repositories": {
+            "PrestaShop": 16
+        },
+        "categories": {
+            "core": {
+                "total": 16,
+                "repositories": {
+                    "PrestaShop": 16
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "doekia": {
         "login": "doekia",
         "id": 1429488,
@@ -20678,62 +20734,6 @@
                 "repositories": {
                     "PrestaShop-modules": 16
                 }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "ChillCode": {
-        "login": "ChillCode",
-        "id": 9787055,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9787055?v=4",
-        "html_url": "https:\/\/github.com\/ChillCode",
-        "name": "Chillcode",
-        "company": "Chillcode",
-        "blog": "https:\/\/github.com\/ChillCode",
-        "location": null,
-        "bio": "chillcode@protonmail.ch",
-        "email_domain": "",
-        "contributions": 15,
-        "repositories": {
-            "PrestaShop": 15
-        },
-        "categories": {
-            "core": {
-                "total": 15,
-                "repositories": {
-                    "PrestaShop": 15
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
             },
             "tools": {
                 "total": 0,
@@ -52174,5 +52174,5 @@
             }
         }
     },
-    "updatedAt": "2026-11-11 06:10:36"
+    "updatedAt": "2026-11-12 06:11:07"
 }
