@@ -1,12 +1,12 @@
 {
-    "updatedAt": "2026-11-13T06:32:47+00:00",
+    "updatedAt": "2026-11-15T06:31:58+00:00",
     "community": {
         "name": "Open Source Community",
         "slug": "open-source-community",
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 7460,
+        "merged_pull_requests": 7461,
         "merged_pull_requests_by_version": {
             "9.3": 25,
             "9.2": 70,
@@ -27,7 +27,7 @@
             "1.6.1": 273
         },
         "merged_pull_requests_by_year": {
-            "2026": 272,
+            "2026": 273,
             "2025": 98,
             "2024": 154,
             "2023": 448,
@@ -44,7 +44,7 @@
             "2012": 32
         },
         "pull_requests_percent": 25.3,
-        "contributions": 27867,
+        "contributions": 27868,
         "contributions_by_version": {
             "9.3": 51,
             "9.2": 175,
@@ -65,7 +65,7 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 678,
+            "2026": 679,
             "2025": 211,
             "2024": 395,
             "2023": 1956,
@@ -112,7 +112,7 @@
             "statssales": 2,
             "statssearch": 4,
             "statsstock": 4,
-            "blockwishlist": 33,
+            "blockwishlist": 34,
             "productcomments": 51,
             "pscleaner": 19,
             "autoupgrade": 85,
@@ -392,6 +392,7 @@
                 "2015": 1
             },
             "blockwishlist": {
+                "2026": 1,
                 "2024": 2,
                 "2023": 11,
                 "2022": 7,
@@ -1026,10 +1027,10 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 18955,
+            "merged_pull_requests": 18958,
             "merged_pull_requests_by_version": {
                 "9.3": 43,
-                "9.2": 283,
+                "9.2": 284,
                 "9.1": 301,
                 "9.0": 1322,
                 "8.2": 50,
@@ -1047,7 +1048,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 1376,
+                "2026": 1379,
                 "2025": 1585,
                 "2024": 1672,
                 "2023": 1791,
@@ -1063,10 +1064,10 @@
                 "2013": 24
             },
             "pull_requests_percent": 64.29,
-            "contributions": 91528,
+            "contributions": 91532,
             "contributions_by_version": {
                 "9.3": 569,
-                "9.2": 1889,
+                "9.2": 1890,
                 "9.1": 3253,
                 "9.0": 6183,
                 "8.2": 105,
@@ -1084,7 +1085,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 7546,
+                "2026": 7550,
                 "2025": 6778,
                 "2024": 7345,
                 "2023": 7982,
@@ -1102,7 +1103,7 @@
             "contributions_percent": 71.36,
             "repositories": {
                 "PrestaShop-backward_compatibility": 1,
-                "PrestaShop": 9744,
+                "PrestaShop": 9745,
                 "PrestaShop-modules": 30,
                 "PrestaShop-webservice-lib": 8,
                 "PrestaShop-norm-validator": 1,
@@ -1267,7 +1268,7 @@
                 "bootstrap-compatibility-layer": 10,
                 "prestashop-flashlight": 128,
                 "ws-client": 5,
-                "ps_apiresources": 128,
+                "ps_apiresources": 130,
                 "ui-testing-library": 547,
                 "SeamlessUpgradeToolbox": 28,
                 "Prestashop-BO-themes-package": 3,
@@ -1279,7 +1280,7 @@
                     "2013": 1
                 },
                 "PrestaShop": {
-                    "2026": 461,
+                    "2026": 462,
                     "2025": 486,
                     "2024": 625,
                     "2023": 914,
@@ -2470,7 +2471,7 @@
                     "2023": 2
                 },
                 "ps_apiresources": {
-                    "2026": 61,
+                    "2026": 63,
                     "2025": 30,
                     "2024": 31,
                     "2023": 6

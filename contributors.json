@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11458,
+        "contributions": 11462,
         "repositories": {
             "PrestaShop": 4728,
             "PrestaShop-modules": 31,
@@ -40,7 +40,7 @@
             "statssales": 17,
             "statssearch": 10,
             "statsstock": 9,
-            "blockwishlist": 274,
+            "blockwishlist": 276,
             "productcomments": 58,
             "pscleaner": 13,
             "autoupgrade": 116,
@@ -136,7 +136,7 @@
             "ps_fixturescreator": 11,
             "ws-client": 25,
             "ps_apiresources": 17,
-            "ui-testing-library": 1346
+            "ui-testing-library": 1348
         },
         "categories": {
             "core": {
@@ -186,7 +186,7 @@
                 }
             },
             "modules": {
-                "total": 2033,
+                "total": 2035,
                 "repositories": {
                     "PrestaShop-modules": 31,
                     "dashactivity": 20,
@@ -214,7 +214,7 @@
                     "statssales": 17,
                     "statssearch": 10,
                     "statsstock": 9,
-                    "blockwishlist": 274,
+                    "blockwishlist": 276,
                     "productcomments": 58,
                     "pscleaner": 13,
                     "autoupgrade": 116,
@@ -290,9 +290,9 @@
                 }
             },
             "tests": {
-                "total": 1454,
+                "total": 1456,
                 "repositories": {
-                    "ui-testing-library": 1346,
+                    "ui-testing-library": 1348,
                     "ga.tests.ui.pr": 108
                 }
             },
@@ -581,7 +581,7 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5498,
+        "contributions": 5500,
         "repositories": {
             "PrestaShop": 1831,
             "PrestaShop-modules": 349,
@@ -682,7 +682,7 @@
             "distribution-api": 51,
             "classic-theme": 61,
             "ps_distributionapiclient": 4,
-            "ps_apiresources": 4,
+            "ps_apiresources": 6,
             "SeamlessUpgradeToolbox": 9,
             "skills": 15
         },
@@ -722,7 +722,7 @@
                 }
             },
             "modules": {
-                "total": 2556,
+                "total": 2558,
                 "repositories": {
                     "PrestaShop-modules": 349,
                     "dashactivity": 1,
@@ -788,7 +788,7 @@
                     "ps_googleanalytics": 153,
                     "ps_themecusto": 14,
                     "psgdpr": 8,
-                    "ps_apiresources": 4,
+                    "ps_apiresources": 6,
                     "ps_distributionapiclient": 4,
                     "themeinstallator": 3
                 }
@@ -6386,7 +6386,7 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 627,
+        "contributions": 630,
         "repositories": {
             "PrestaShop": 243,
             "blockwishlist": 1,
@@ -6412,7 +6412,7 @@
             "distribution-api": 19,
             "classic-theme": 4,
             "prestashop-flashlight": 2,
-            "ps_apiresources": 2,
+            "ps_apiresources": 5,
             "ui-testing-library": 2,
             "SeamlessUpgradeToolbox": 41
         },
@@ -6447,7 +6447,7 @@
                 }
             },
             "modules": {
-                "total": 257,
+                "total": 260,
                 "repositories": {
                     "blockwishlist": 1,
                     "productcomments": 4,
@@ -6458,7 +6458,7 @@
                     "ps_facetedsearch": 1,
                     "ps_emailalerts": 5,
                     "psgdpr": 3,
-                    "ps_apiresources": 2
+                    "ps_apiresources": 5
                 }
             },
             "tools": {
@@ -52174,5 +52174,5 @@
             }
         }
     },
-    "updatedAt": "2026-11-13 06:09:52"
+    "updatedAt": "2026-11-15 06:10:11"
 }
