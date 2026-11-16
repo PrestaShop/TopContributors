@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11462,
+        "contributions": 11469,
         "repositories": {
             "PrestaShop": 4728,
             "PrestaShop-modules": 31,
@@ -92,7 +92,7 @@
             "ps_carriercomparison": 3,
             "ps_viewedproduct": 15,
             "ps_feeder": 1,
-            "traces": 241,
+            "traces": 247,
             "core-weekly-generator": 6,
             "TopContributors": 152,
             "TranslationFiles": 3,
@@ -136,7 +136,7 @@
             "ps_fixturescreator": 11,
             "ws-client": 25,
             "ps_apiresources": 17,
-            "ui-testing-library": 1348
+            "ui-testing-library": 1349
         },
         "categories": {
             "core": {
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1497,
+                "total": 1503,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 46,
@@ -285,14 +285,14 @@
                     "QANightlyResults": 421,
                     "TopContributors": 152,
                     "TopTranslators": 1,
-                    "traces": 241,
+                    "traces": 247,
                     "ps-project-metrics": 4
                 }
             },
             "tests": {
-                "total": 1456,
+                "total": 1457,
                 "repositories": {
-                    "ui-testing-library": 1348,
+                    "ui-testing-library": 1349,
                     "ga.tests.ui.pr": 108
                 }
             },
@@ -52174,5 +52174,5 @@
             }
         }
     },
-    "updatedAt": "2026-11-16 06:26:48"
+    "updatedAt": "2026-11-16 09:58:17"
 }

@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11462,
+        "contributions": 11469,
         "repositories": {
             "PrestaShop": 1213,
             "PrestaShop-modules": 2,
@@ -86,7 +86,7 @@
             "ps_dataprivacy": 6,
             "ps_cashondelivery": 21,
             "ps_viewedproduct": 3,
-            "traces": 48,
+            "traces": 49,
             "core-weekly-generator": 1,
             "TopContributors": 58,
             "TranslationFiles": 3,
@@ -688,9 +688,9 @@
                 }
             },
             "tools": {
-                "total": 237,
+                "total": 238,
                 "byYear": {
-                    "2026": 27,
+                    "2026": 28,
                     "2025": 77,
                     "2024": 58,
                     "2023": 24,
@@ -705,7 +705,7 @@
                     "docker-internal-images": 1,
                     "prestonbot": 1,
                     "TopTranslators": 1,
-                    "traces": 48,
+                    "traces": 49,
                     "core-weekly-generator": 1,
                     "TopContributors": 58,
                     "issuebot": 2,
@@ -739,7 +739,7 @@
                         "2023": 1
                     },
                     "traces": {
-                        "2026": 7,
+                        "2026": 8,
                         "2025": 33,
                         "2022": 1,
                         "2021": 2,
@@ -850,9 +850,9 @@
                 }
             }
         },
-        "mergedPullRequests": 2509,
+        "mergedPullRequests": 2510,
         "mergedPullRequestsByYear": {
-            "2026": 320,
+            "2026": 321,
             "2025": 445,
             "2024": 479,
             "2023": 348,
@@ -1207,7 +1207,7 @@
                 "2022": 1
             },
             "traces": {
-                "2026": 7,
+                "2026": 8,
                 "2025": 33,
                 "2022": 1,
                 "2021": 2,
@@ -1356,9 +1356,9 @@
                 "2024": 160
             }
         },
-        "reviews": 7362,
+        "reviews": 7366,
         "reviewsByYear": {
-            "2026": 851,
+            "2026": 855,
             "2025": 801,
             "2024": 703,
             "2023": 509,
@@ -1378,9 +1378,9 @@
             "2020": 24,
             "2019": 4
         },
-        "pullRequestsOpened": 2605,
+        "pullRequestsOpened": 2606,
         "pullRequestsOpenedByYear": {
-            "2026": 329,
+            "2026": 330,
             "2025": 465,
             "2024": 492,
             "2023": 342,
@@ -4566,9 +4566,9 @@
                 "2026": 4
             }
         },
-        "reviews": 2346,
+        "reviews": 2347,
         "reviewsByYear": {
-            "2026": 395,
+            "2026": 396,
             "2025": 399,
             "2024": 263,
             "2023": 1,
@@ -12010,9 +12010,9 @@
                 "2024": 16
             }
         },
-        "reviews": 693,
+        "reviews": 694,
         "reviewsByYear": {
-            "2026": 90,
+            "2026": 91,
             "2025": 104,
             "2024": 234,
             "2023": 265
@@ -15144,9 +15144,9 @@
             "2023": 2,
             "2022": 9
         },
-        "pullRequestsOpened": 372,
+        "pullRequestsOpened": 373,
         "pullRequestsOpenedByYear": {
-            "2026": 113,
+            "2026": 114,
             "2025": 85,
             "2024": 76,
             "2023": 65,
@@ -16484,9 +16484,9 @@
                 "2025": 9
             }
         },
-        "reviews": 619,
+        "reviews": 621,
         "reviewsByYear": {
-            "2026": 325,
+            "2026": 327,
             "2025": 293,
             "2023": 1
         },
@@ -19417,9 +19417,9 @@
                 "2025": 1
             }
         },
-        "reviews": 210,
+        "reviews": 211,
         "reviewsByYear": {
-            "2026": 158,
+            "2026": 159,
             "2025": 16,
             "2024": 11,
             "2023": 8,
@@ -25869,9 +25869,9 @@
                 "2026": 1
             }
         },
-        "reviews": 412,
+        "reviews": 415,
         "reviewsByYear": {
-            "2026": 235,
+            "2026": 238,
             "2025": 160,
             "2024": 17
         },
@@ -104028,5 +104028,5 @@
             "2025": 1
         }
     },
-    "updatedAt": "2026-11-16T06:50:17+00:00"
+    "updatedAt": "2026-11-16T10:23:42+00:00"
 }
