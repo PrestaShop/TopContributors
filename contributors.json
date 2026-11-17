@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11483,
+        "contributions": 11492,
         "repositories": {
             "PrestaShop": 4729,
             "PrestaShop-modules": 31,
@@ -94,7 +94,7 @@
             "ps_feeder": 1,
             "traces": 247,
             "core-weekly-generator": 6,
-            "TopContributors": 156,
+            "TopContributors": 164,
             "TranslationFiles": 3,
             "ps_livetranslation": 13,
             "ps_googleanalytics": 20,
@@ -136,7 +136,7 @@
             "ps_fixturescreator": 11,
             "ws-client": 25,
             "ps_apiresources": 17,
-            "ui-testing-library": 1355
+            "ui-testing-library": 1356
         },
         "categories": {
             "core": {
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1508,
+                "total": 1516,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 46,
@@ -283,16 +283,16 @@
                     "presthubot": 548,
                     "prestonbot": 10,
                     "QANightlyResults": 421,
-                    "TopContributors": 156,
+                    "TopContributors": 164,
                     "TopTranslators": 1,
                     "traces": 247,
                     "ps-project-metrics": 4
                 }
             },
             "tests": {
-                "total": 1463,
+                "total": 1464,
                 "repositories": {
-                    "ui-testing-library": 1355,
+                    "ui-testing-library": 1356,
                     "ga.tests.ui.pr": 108
                 }
             },
@@ -1679,7 +1679,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "VP Technology & Community at @PrestaShop, working across technology, product, and the open-source ecosystem",
         "email_domain": "",
-        "contributions": 3934,
+        "contributions": 3936,
         "repositories": {
             "PrestaShop": 942,
             "PrestaShop-modules": 4,
@@ -1732,7 +1732,7 @@
             "ps_mainmenu": 2,
             "ps_customersignin": 4,
             "ps_categorytree": 5,
-            "docs": 674,
+            "docs": 676,
             "ps_wirepayment": 3,
             "ps_shoppingcart": 4,
             "ps_currencyselector": 7,
@@ -1813,10 +1813,10 @@
                 }
             },
             "documentation": {
-                "total": 1070,
+                "total": 1072,
                 "repositories": {
                     "paymentexample": 7,
-                    "docs": 674,
+                    "docs": 676,
                     "user-documentation-en": 1,
                     "ADR": 7,
                     "example-modules": 125,
@@ -5494,7 +5494,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 816,
+        "contributions": 819,
         "repositories": {
             "PrestaShop": 443,
             "PrestaShop-modules": 5,
@@ -5552,7 +5552,7 @@
             "ps_crossselling": 1,
             "ps_dataprivacy": 1,
             "traces": 56,
-            "TopContributors": 53,
+            "TopContributors": 56,
             "psssst": 1,
             "ps_themecusto": 1,
             "psgdpr": 4,
@@ -5662,13 +5662,13 @@
                 }
             },
             "tools": {
-                "total": 116,
+                "total": 119,
                 "repositories": {
                     "docker": 1,
                     "PrestaShop-webservice-lib": 1,
                     "presthubot": 1,
                     "ps-monitor-module-releases": 1,
-                    "TopContributors": 53,
+                    "TopContributors": 56,
                     "traces": 56,
                     "kanbanbot": 1,
                     "psssst": 1,
@@ -6487,62 +6487,6 @@
             }
         }
     },
-    "vchabot": {
-        "login": "vchabot",
-        "id": 715331,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/715331?v=4",
-        "html_url": "https:\/\/github.com\/vchabot",
-        "name": "Chabot Vincent",
-        "company": "Axione",
-        "blog": "http:\/\/www.vincent-chabot.com",
-        "location": "Paris",
-        "bio": "Freelance Python Lead Developer",
-        "email_domain": "gmail.com",
-        "contributions": 642,
-        "repositories": {
-            "PrestaShop": 642
-        },
-        "categories": {
-            "core": {
-                "total": 642,
-                "repositories": {
-                    "PrestaShop": 642
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
     "M0rgan01": {
         "login": "M0rgan01",
         "id": 36233446,
@@ -6554,9 +6498,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 641,
+        "contributions": 644,
         "repositories": {
-            "PrestaShop": 249,
+            "PrestaShop": 252,
             "blockwishlist": 1,
             "productcomments": 4,
             "autoupgrade": 236,
@@ -6586,9 +6530,9 @@
         },
         "categories": {
             "core": {
-                "total": 252,
+                "total": 255,
                 "repositories": {
-                    "PrestaShop": 249,
+                    "PrestaShop": 252,
                     "php-dev-tools": 3
                 }
             },
@@ -6654,6 +6598,62 @@
                     "distribution-api": 19,
                     "prestashop-flashlight": 2
                 }
+            }
+        }
+    },
+    "vchabot": {
+        "login": "vchabot",
+        "id": 715331,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/715331?v=4",
+        "html_url": "https:\/\/github.com\/vchabot",
+        "name": "Chabot Vincent",
+        "company": "Axione",
+        "blog": "http:\/\/www.vincent-chabot.com",
+        "location": "Paris",
+        "bio": "Freelance Python Lead Developer",
+        "email_domain": "gmail.com",
+        "contributions": 642,
+        "repositories": {
+            "PrestaShop": 642
+        },
+        "categories": {
+            "core": {
+                "total": 642,
+                "repositories": {
+                    "PrestaShop": 642
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
             }
         }
     },
@@ -42318,6 +42318,62 @@
             }
         }
     },
+    "zou-simon": {
+        "login": "zou-simon",
+        "id": 62673351,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/62673351?v=4",
+        "html_url": "https:\/\/github.com\/zou-simon",
+        "name": "Simon",
+        "company": null,
+        "blog": "https:\/\/zousimon.fr",
+        "location": "France",
+        "bio": null,
+        "email_domain": "hotmail.fr",
+        "contributions": 1,
+        "repositories": {
+            "docs": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 1,
+                "repositories": {
+                    "docs": 1
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "stijnstroeve": {
         "login": "stijnstroeve",
         "id": 8537829,
@@ -42878,118 +42934,6 @@
             }
         }
     },
-    "yildizib": {
-        "login": "yildizib",
-        "id": 93131,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/93131?v=4",
-        "html_url": "https:\/\/github.com\/yildizib",
-        "name": "\u0130brahim YILDIZ",
-        "company": null,
-        "blog": "https:\/\/yildizib.github.io",
-        "location": "UAE, T\u00fcrkiye",
-        "bio": "Principal Architect & Consultant. I like solving hard problems and learning things properly. 20+ yrs Java\/Spring\/Microservices.",
-        "email_domain": "gmail.com",
-        "contributions": 1,
-        "repositories": {
-            "docs": 1
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 1,
-                "repositories": {
-                    "docs": 1
-                }
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "zou-simon": {
-        "login": "zou-simon",
-        "id": 62673351,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/62673351?v=4",
-        "html_url": "https:\/\/github.com\/zou-simon",
-        "name": "Simon",
-        "company": null,
-        "blog": "https:\/\/zousimon.fr",
-        "location": "France",
-        "bio": null,
-        "email_domain": "hotmail.fr",
-        "contributions": 1,
-        "repositories": {
-            "docs": 1
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "repositories": []
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 1,
-                "repositories": {
-                    "docs": 1
-                }
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 0,
-                "repositories": []
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
     "smoucka": {
         "login": "smoucka",
         "id": 4282644,
@@ -43326,6 +43270,62 @@
             }
         }
     },
+    "pumamood": {
+        "login": "pumamood",
+        "id": 14088232,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14088232?v=4",
+        "html_url": "https:\/\/github.com\/pumamood",
+        "name": "Puma",
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "docs": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 1,
+                "repositories": {
+                    "docs": 1
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "PiotrBracha": {
         "login": "PiotrBracha",
         "id": 52270680,
@@ -43438,17 +43438,73 @@
             }
         }
     },
-    "Paddimir": {
-        "login": "Paddimir",
-        "id": 9449749,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9449749?v=4",
-        "html_url": "https:\/\/github.com\/Paddimir",
-        "name": "Patrik Kopeck\u00fd",
-        "company": null,
-        "blog": "",
-        "location": "Czech Republic",
-        "bio": "I read docs and write code. Sometimes, I even enjoy it.",
+    "ebewe": {
+        "login": "ebewe",
+        "id": 1167309,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1167309?v=4",
+        "html_url": "https:\/\/github.com\/ebewe",
+        "name": "Paul MORA",
+        "company": "\u00e9bew\u00e8",
+        "blog": "https:\/\/www.ebewe.net",
+        "location": "France",
+        "bio": null,
         "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "docs": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 1,
+                "repositories": {
+                    "docs": 1
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "yildizib": {
+        "login": "yildizib",
+        "id": 93131,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/93131?v=4",
+        "html_url": "https:\/\/github.com\/yildizib",
+        "name": "\u0130brahim YILDIZ",
+        "company": null,
+        "blog": "https:\/\/yildizib.github.io",
+        "location": "UAE, T\u00fcrkiye",
+        "bio": "Principal Architect & Consultant. I like solving hard problems and learning things properly. 20+ yrs Java\/Spring\/Microservices.",
+        "email_domain": "gmail.com",
         "contributions": 1,
         "repositories": {
             "docs": 1
@@ -44849,6 +44905,62 @@
         "location": "NJ",
         "bio": null,
         "email_domain": "gmail.com",
+        "contributions": 1,
+        "repositories": {
+            "docs": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "repositories": []
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 1,
+                "repositories": {
+                    "docs": 1
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 0,
+                "repositories": []
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
+    "Paddimir": {
+        "login": "Paddimir",
+        "id": 9449749,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9449749?v=4",
+        "html_url": "https:\/\/github.com\/Paddimir",
+        "name": "Patrik Kopeck\u00fd",
+        "company": null,
+        "blog": "",
+        "location": "Czech Republic",
+        "bio": "I read docs and write code. Sometimes, I even enjoy it.",
+        "email_domain": "",
         "contributions": 1,
         "repositories": {
             "docs": 1
@@ -52174,5 +52286,5 @@
             }
         }
     },
-    "updatedAt": "2026-11-17 06:10:42"
+    "updatedAt": "2026-11-17 14:09:16"
 }

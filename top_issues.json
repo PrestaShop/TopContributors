@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-11-17T06:58:32+00:00",
+    "updatedAt": "2026-11-17T15:00:23+00:00",
     "items": [
         {
             "rank": 1,
@@ -218,9 +218,9 @@
             "name": "Matthias Goudjil",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
             "html_url": "https:\/\/github.com\/mattgoud",
-            "count": 130,
+            "count": 133,
             "countByYear": {
-                "2026": 107,
+                "2026": 110,
                 "2025": 15,
                 "2024": 8
             }
@@ -379,9 +379,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 99,
+            "count": 100,
             "countByYear": {
-                "2026": 44,
+                "2026": 45,
                 "2025": 28,
                 "2024": 10,
                 "2023": 9,
@@ -9646,6 +9646,18 @@
         },
         {
             "rank": 747,
+            "login": "RiotGWT",
+            "name": "RiotG",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/15131328?v=4",
+            "html_url": "https:\/\/github.com\/RiotGWT",
+            "count": 3,
+            "countByYear": {
+                "2019": 1,
+                "2018": 2
+            }
+        },
+        {
+            "rank": 748,
             "login": "RomsC",
             "name": "Romain Couderc",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/39298654?v=4",
@@ -9658,7 +9670,7 @@
             }
         },
         {
-            "rank": 748,
+            "rank": 749,
             "login": "Rus-Design",
             "name": "Andrey Ushakov",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/63929772?u=d9a78e09a7d0235387617407a73c0515908fd93b&v=4",
@@ -9671,7 +9683,7 @@
             }
         },
         {
-            "rank": 749,
+            "rank": 750,
             "login": "Rventura1989",
             "name": "Rventura1989",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/95083228?v=4",
@@ -9683,7 +9695,7 @@
             }
         },
         {
-            "rank": 750,
+            "rank": 751,
             "login": "Shark34",
             "name": "Shark34",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/47904704?u=f6b76991ffb5b36dc5ac98191d125f2f0731a91f&v=4",
@@ -9695,7 +9707,7 @@
             }
         },
         {
-            "rank": 751,
+            "rank": 752,
             "login": "Simchev38",
             "name": "Simchev38",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/102355874?v=4",
@@ -9706,7 +9718,7 @@
             }
         },
         {
-            "rank": 752,
+            "rank": 753,
             "login": "Sollsy",
             "name": "Solls",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/229480808?v=4",
@@ -9718,7 +9730,7 @@
             }
         },
         {
-            "rank": 753,
+            "rank": 754,
             "login": "Spir",
             "name": "Spir",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/213191?v=4",
@@ -9729,7 +9741,7 @@
             }
         },
         {
-            "rank": 754,
+            "rank": 755,
             "login": "Sybrenb",
             "name": "Sybrenb",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/21313464?v=4",
@@ -9742,7 +9754,7 @@
             }
         },
         {
-            "rank": 755,
+            "rank": 756,
             "login": "TamasFelix",
             "name": "Tamas Felix",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/50567469?v=4",
@@ -9754,7 +9766,7 @@
             }
         },
         {
-            "rank": 756,
+            "rank": 757,
             "login": "TheEnglishGartner",
             "name": "TheEnglishGartner",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/92990704?v=4",
@@ -9766,7 +9778,7 @@
             }
         },
         {
-            "rank": 757,
+            "rank": 758,
             "login": "TheoAlloin",
             "name": "TheoAlloin",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8806496?v=4",
@@ -9779,7 +9791,7 @@
             }
         },
         {
-            "rank": 758,
+            "rank": 759,
             "login": "TobW5",
             "name": "TobW5",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/175839003?v=4",
@@ -9791,7 +9803,7 @@
             }
         },
         {
-            "rank": 759,
+            "rank": 760,
             "login": "Traineau",
             "name": "Raineau Thomas",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20043825?u=57c67129d46c0cddbf81a17d8bae8188818fbf1f&v=4",
@@ -9799,18 +9811,6 @@
             "count": 3,
             "countByYear": {
                 "2019": 3
-            }
-        },
-        {
-            "rank": 760,
-            "login": "Trylam",
-            "name": "RiotG",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/15131328?v=4",
-            "html_url": "https:\/\/github.com\/Trylam",
-            "count": 3,
-            "countByYear": {
-                "2019": 1,
-                "2018": 2
             }
         },
         {
@@ -25922,7 +25922,7 @@
             "rank": 2188,
             "login": "IntoTheBlueAt",
             "name": "Barbara Leth",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10073297?u=c0c192818b2dbbdb7155c0fe813c0c71ff5a9d58&v=4",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10073297?v=4",
             "html_url": "https:\/\/github.com\/IntoTheBlueAt",
             "count": 1,
             "countByYear": {
@@ -53257,7 +53257,7 @@
             "rank": 4673,
             "login": "pumamood",
             "name": "Puma",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14088232?u=f17cb90a3aba3d70a7c7cc090cb175e7c8926fde&v=4",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14088232?v=4",
             "html_url": "https:\/\/github.com\/pumamood",
             "count": 1,
             "countByYear": {

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-label="PrestaShop Top Company: 202 ecommerce">
+  <title>PrestaShop Top Company — 202 ecommerce</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font: 700 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .sub { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .tag { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .val { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #decde7; }
+    .row-l { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #dddddd; }
+    .row-l--hi { fill: #decde7; }
+    .row-v { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+    .row-v--hi { fill: #decde7; }
+    .legend { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #bbbbbb; }
+    .foot { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5e5e5e; }
+  </style>
+  <rect width="560" height="260" rx="10" fill="#1d1d1b" stroke="#3f3f3d"/>
+  <rect x="0" y="0" width="560" height="3" fill="#7b4fac"/>
+
+  <defs><clipPath id="clip-avatar"><rect x="20" y="22" width="56" height="56" rx="28"/></clipPath></defs>
+  <image x="20" y="22" width="56" height="56" clip-path="url(#clip-avatar)" href="data:image/png;base64,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" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="20" y="22" width="56" height="56" rx="28" fill="none" stroke="#3f3f3d"/>
+
+  <text x="90" y="44" class="name">202 ecommerce</text>
+  <text x="90" y="62" class="sub">8 contributors · 10 repos</text>
+  <text x="90" y="78" class="sub">www.202-ecommerce.com</text>
+
+  <g transform="translate(428, 22)">
+    <rect width="108" height="56" rx="6" fill="#decde7"/>
+    <text x="14" y="24" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.6">RANK</text>
+    <text x="98" y="44" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" text-anchor="end">#11</text>
+  </g>
+
+  <text x="24" y="118" class="row-l">PRs merged</text>
+  <line x1="140" y1="114" x2="520" y2="114" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="118" class="row-v" text-anchor="end">65</text>
+  <text x="24" y="140" class="row-l">Commits</text>
+  <line x1="140" y1="136" x2="520" y2="136" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="140" class="row-v" text-anchor="end">161</text>
+  <text x="24" y="162" class="row-l">Share of all PRs</text>
+  <line x1="140" y1="158" x2="520" y2="158" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="162" class="row-v" text-anchor="end">0.22%</text>
+  <text x="24" y="184" class="row-l">Years active</text>
+  <line x1="140" y1="180" x2="520" y2="180" stroke="#3f3f3d" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="536" y="184" class="row-v" text-anchor="end">9</text>
+
+  <g>
+    <clipPath id="clip-bar"><rect x="24" y="208" width="512" height="6" rx="3"/></clipPath>
+    <g clip-path="url(#clip-bar)"><rect x="24" y="208" width="311" height="6" fill="#7b4fac"/><rect x="335" y="208" width="101" height="6" fill="#59af70"/><rect x="436" y="208" width="55" height="6" fill="#ffb000"/><rect x="491" y="208" width="46" height="6" fill="#5c92aa"/></g>
+    <text x="24" y="228" class="legend"><tspan fill="#7b4fac">■</tspan> PrestaShop  <tspan fill="#59af70">■</tspan> docs  <tspan fill="#ffb000">■</tspan> php-dev-tools  <tspan fill="#5c92aa">■</tspan> blockwishlist</text>
+  </g>
+
+  <text x="280" y="250" class="foot" text-anchor="middle">$ contributors.prestashop-project.org/company/202-ecommerce</text>
+</svg>

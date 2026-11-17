@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11483,
+        "contributions": 11492,
         "repositories": {
             "PrestaShop": 1213,
             "PrestaShop-modules": 2,
@@ -88,7 +88,7 @@
             "ps_viewedproduct": 3,
             "traces": 49,
             "core-weekly-generator": 1,
-            "TopContributors": 58,
+            "TopContributors": 59,
             "TranslationFiles": 3,
             "ps_livetranslation": 4,
             "ps_googleanalytics": 8,
@@ -688,9 +688,9 @@
                 }
             },
             "tools": {
-                "total": 238,
+                "total": 239,
                 "byYear": {
-                    "2026": 28,
+                    "2026": 29,
                     "2025": 77,
                     "2024": 58,
                     "2023": 24,
@@ -707,7 +707,7 @@
                     "TopTranslators": 1,
                     "traces": 49,
                     "core-weekly-generator": 1,
-                    "TopContributors": 58,
+                    "TopContributors": 59,
                     "issuebot": 2,
                     "nightly-board": 12,
                     "QANightlyResults": 52,
@@ -749,7 +749,7 @@
                         "2021": 1
                     },
                     "TopContributors": {
-                        "2026": 17,
+                        "2026": 18,
                         "2025": 25,
                         "2023": 2,
                         "2022": 7,
@@ -850,9 +850,9 @@
                 }
             }
         },
-        "mergedPullRequests": 2510,
+        "mergedPullRequests": 2511,
         "mergedPullRequestsByYear": {
-            "2026": 321,
+            "2026": 322,
             "2025": 445,
             "2024": 479,
             "2023": 348,
@@ -1217,7 +1217,7 @@
                 "2021": 1
             },
             "TopContributors": {
-                "2026": 17,
+                "2026": 18,
                 "2025": 25,
                 "2023": 2,
                 "2022": 7,
@@ -1356,9 +1356,9 @@
                 "2024": 160
             }
         },
-        "reviews": 7378,
+        "reviews": 7387,
         "reviewsByYear": {
-            "2026": 867,
+            "2026": 876,
             "2025": 801,
             "2024": 703,
             "2023": 509,
@@ -1378,9 +1378,9 @@
             "2020": 24,
             "2019": 4
         },
-        "pullRequestsOpened": 2606,
+        "pullRequestsOpened": 2607,
         "pullRequestsOpenedByYear": {
-            "2026": 330,
+            "2026": 331,
             "2025": 465,
             "2024": 492,
             "2023": 342,
@@ -4566,9 +4566,9 @@
                 "2026": 4
             }
         },
-        "reviews": 2349,
+        "reviews": 2351,
         "reviewsByYear": {
-            "2026": 398,
+            "2026": 400,
             "2025": 399,
             "2024": 263,
             "2023": 1,
@@ -5591,9 +5591,9 @@
                 "2025": 1
             }
         },
-        "reviews": 1495,
+        "reviews": 1496,
         "reviewsByYear": {
-            "2026": 369,
+            "2026": 370,
             "2025": 337,
             "2024": 310,
             "2023": 331,
@@ -7530,7 +7530,7 @@
         "location": "Bydgoszcz, Poland",
         "bio": "VP Technology & Community at @PrestaShop, working across technology, product, and the open-source ecosystem",
         "email_domain": "",
-        "contributions": 3934,
+        "contributions": 3936,
         "repositories": {
             "PrestaShop": 178,
             "PrestaShop-modules": 3,
@@ -8250,9 +8250,9 @@
                 "2026": 2
             }
         },
-        "reviews": 3695,
+        "reviews": 3697,
         "reviewsByYear": {
-            "2026": 528,
+            "2026": 530,
             "2025": 428,
             "2024": 421,
             "2023": 1040,
@@ -9647,7 +9647,7 @@
         "location": "Belgium",
         "bio": "D\u00e9veloppeur #PrestaShop",
         "email_domain": "prestaedit.com",
-        "contributions": 816,
+        "contributions": 819,
         "repositories": {
             "PrestaShop": 235,
             "PrestaShop-modules": 4,
@@ -9703,7 +9703,7 @@
             "ps_crossselling": 1,
             "ps_dataprivacy": 1,
             "traces": 28,
-            "TopContributors": 28,
+            "TopContributors": 31,
             "psssst": 1,
             "ps_themecusto": 1,
             "psgdpr": 2,
@@ -10088,9 +10088,9 @@
                 }
             },
             "tools": {
-                "total": 63,
+                "total": 66,
                 "byYear": {
-                    "2026": 38,
+                    "2026": 41,
                     "2025": 16,
                     "2024": 1,
                     "2022": 8
@@ -10099,7 +10099,7 @@
                     "PrestaShop-webservice-lib": 1,
                     "docker": 1,
                     "traces": 28,
-                    "TopContributors": 28,
+                    "TopContributors": 31,
                     "psssst": 1,
                     "presthubot": 1,
                     "ps-monitor-module-releases": 1,
@@ -10119,7 +10119,7 @@
                         "2022": 4
                     },
                     "TopContributors": {
-                        "2026": 23,
+                        "2026": 26,
                         "2025": 4,
                         "2022": 1
                     },
@@ -10193,9 +10193,9 @@
                 }
             }
         },
-        "mergedPullRequests": 499,
+        "mergedPullRequests": 502,
         "mergedPullRequestsByYear": {
-            "2026": 69,
+            "2026": 72,
             "2025": 56,
             "2024": 28,
             "2023": 17,
@@ -10418,7 +10418,7 @@
                 "2022": 4
             },
             "TopContributors": {
-                "2026": 23,
+                "2026": 26,
                 "2025": 4,
                 "2022": 1
             },
@@ -11653,9 +11653,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 641,
+        "contributions": 644,
         "repositories": {
-            "PrestaShop": 125,
+            "PrestaShop": 126,
             "blockwishlist": 1,
             "productcomments": 5,
             "autoupgrade": 140,
@@ -11685,20 +11685,20 @@
         },
         "categories": {
             "core": {
-                "total": 126,
+                "total": 127,
                 "byYear": {
-                    "2026": 23,
+                    "2026": 24,
                     "2025": 16,
                     "2024": 30,
                     "2023": 57
                 },
                 "repositories": {
-                    "PrestaShop": 125,
+                    "PrestaShop": 126,
                     "TranslationToolsBundle": 1
                 },
                 "repositoriesByYear": {
                     "PrestaShop": {
-                        "2026": 23,
+                        "2026": 24,
                         "2025": 16,
                         "2024": 29,
                         "2023": 57
@@ -11904,16 +11904,16 @@
                 }
             }
         },
-        "mergedPullRequests": 378,
+        "mergedPullRequests": 379,
         "mergedPullRequestsByYear": {
-            "2026": 39,
+            "2026": 40,
             "2025": 103,
             "2024": 152,
             "2023": 84
         },
         "repositoriesByYear": {
             "PrestaShop": {
-                "2026": 23,
+                "2026": 24,
                 "2025": 16,
                 "2024": 29,
                 "2023": 57
@@ -15128,9 +15128,9 @@
                 "2026": 6
             }
         },
-        "reviews": 2397,
+        "reviews": 2401,
         "reviewsByYear": {
-            "2026": 493,
+            "2026": 497,
             "2025": 581,
             "2024": 482,
             "2023": 653,
@@ -16490,9 +16490,9 @@
             "2025": 293,
             "2023": 1
         },
-        "issuesOpened": 99,
+        "issuesOpened": 100,
         "issuesOpenedByYear": {
-            "2026": 44,
+            "2026": 45,
             "2025": 28,
             "2024": 10,
             "2023": 9,
@@ -16500,9 +16500,9 @@
             "2020": 1,
             "2019": 5
         },
-        "pullRequestsOpened": 367,
+        "pullRequestsOpened": 370,
         "pullRequestsOpenedByYear": {
-            "2026": 166,
+            "2026": 169,
             "2025": 137,
             "2024": 35,
             "2023": 23,
@@ -17430,15 +17430,15 @@
                 "2026": 10
             }
         },
-        "reviews": 485,
+        "reviews": 490,
         "reviewsByYear": {
-            "2026": 416,
+            "2026": 421,
             "2025": 60,
             "2024": 9
         },
-        "issuesOpened": 130,
+        "issuesOpened": 133,
         "issuesOpenedByYear": {
-            "2026": 107,
+            "2026": 110,
             "2025": 15,
             "2024": 8
         },
@@ -25091,7 +25091,7 @@
         "email_domain": "",
         "contributions": 131,
         "repositories": {
-            "PrestaShop": 46,
+            "PrestaShop": 47,
             "productcomments": 1,
             "prestashop-ui-kit": 1,
             "ps_emailsubscription": 2,
@@ -25108,17 +25108,17 @@
         },
         "categories": {
             "core": {
-                "total": 47,
+                "total": 48,
                 "byYear": {
-                    "2026": 47
+                    "2026": 48
                 },
                 "repositories": {
-                    "PrestaShop": 46,
+                    "PrestaShop": 47,
                     "prestashop-ui-kit": 1
                 },
                 "repositoriesByYear": {
                     "PrestaShop": {
-                        "2026": 46
+                        "2026": 47
                     },
                     "prestashop-ui-kit": {
                         "2026": 1
@@ -25238,13 +25238,13 @@
                 "repositoriesByYear": []
             }
         },
-        "mergedPullRequests": 88,
+        "mergedPullRequests": 89,
         "mergedPullRequestsByYear": {
-            "2026": 88
+            "2026": 89
         },
         "repositoriesByYear": {
             "PrestaShop": {
-                "2026": 46
+                "2026": 47
             },
             "productcomments": {
                 "2026": 1
@@ -25869,9 +25869,9 @@
                 "2026": 1
             }
         },
-        "reviews": 415,
+        "reviews": 417,
         "reviewsByYear": {
-            "2026": 238,
+            "2026": 240,
             "2025": 160,
             "2024": 17
         },
@@ -30229,9 +30229,9 @@
                 "2022": 1
             }
         },
-        "reviews": 76,
+        "reviews": 80,
         "reviewsByYear": {
-            "2026": 12,
+            "2026": 16,
             "2025": 1,
             "2024": 8,
             "2023": 1,
@@ -31529,9 +31529,9 @@
                 "2026": 1
             }
         },
-        "reviews": 220,
+        "reviews": 223,
         "reviewsByYear": {
-            "2026": 213,
+            "2026": 216,
             "2025": 7
         },
         "issuesOpened": 86,
@@ -41274,9 +41274,9 @@
                 "2023": 1
             }
         },
-        "reviews": 261,
+        "reviews": 262,
         "reviewsByYear": {
-            "2026": 261
+            "2026": 262
         },
         "issuesOpened": 5,
         "issuesOpenedByYear": {
@@ -76189,6 +76189,221 @@
             "2024": 2
         }
     },
+    "pumamood": {
+        "login": "pumamood",
+        "id": 14088232,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14088232?v=4",
+        "html_url": "https:\/\/github.com\/pumamood",
+        "name": "Puma",
+        "company": null,
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "PrestaShop": 1,
+            "docs": 1
+        },
+        "categories": {
+            "core": {
+                "total": 1,
+                "byYear": {
+                    "2019": 1
+                },
+                "repositories": {
+                    "PrestaShop": 1
+                },
+                "repositoriesByYear": {
+                    "PrestaShop": {
+                        "2019": 1
+                    }
+                }
+            },
+            "specs": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "documentation": {
+                "total": 1,
+                "byYear": {
+                    "2026": 1
+                },
+                "repositories": {
+                    "docs": 1
+                },
+                "repositoriesByYear": {
+                    "docs": {
+                        "2026": 1
+                    }
+                }
+            },
+            "themes": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "modules": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tools": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tests": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "blog": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "others": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            }
+        },
+        "mergedPullRequests": 2,
+        "mergedPullRequestsByYear": {
+            "2026": 1,
+            "2019": 1
+        },
+        "repositoriesByYear": {
+            "PrestaShop": {
+                "2019": 1
+            },
+            "docs": {
+                "2026": 1
+            }
+        },
+        "reviews": 0,
+        "reviewsByYear": [],
+        "issuesOpened": 1,
+        "issuesOpenedByYear": {
+            "2019": 1
+        },
+        "pullRequestsOpened": 2,
+        "pullRequestsOpenedByYear": {
+            "2026": 1,
+            "2019": 1
+        }
+    },
+    "ebewe": {
+        "login": "ebewe",
+        "id": 1167309,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1167309?v=4",
+        "html_url": "https:\/\/github.com\/ebewe",
+        "name": "Paul MORA",
+        "company": "\u00e9bew\u00e8",
+        "blog": "https:\/\/www.ebewe.net",
+        "location": "France",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "docs": 2
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "specs": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "documentation": {
+                "total": 2,
+                "byYear": {
+                    "2026": 1,
+                    "2024": 1
+                },
+                "repositories": {
+                    "docs": 2
+                },
+                "repositoriesByYear": {
+                    "docs": {
+                        "2026": 1,
+                        "2024": 1
+                    }
+                }
+            },
+            "themes": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "modules": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tools": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tests": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "blog": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "others": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            }
+        },
+        "mergedPullRequests": 2,
+        "mergedPullRequestsByYear": {
+            "2026": 1,
+            "2024": 1
+        },
+        "repositoriesByYear": {
+            "docs": {
+                "2026": 1,
+                "2024": 1
+            }
+        },
+        "reviews": 0,
+        "reviewsByYear": [],
+        "issuesOpened": 0,
+        "issuesOpenedByYear": [],
+        "pullRequestsOpened": 2,
+        "pullRequestsOpenedByYear": {
+            "2026": 1,
+            "2024": 1
+        }
+    },
     "stylesamazing": {
         "login": "stylesamazing",
         "id": 54269072,
@@ -91752,6 +91967,103 @@
             "2017": 1
         }
     },
+    "zou-simon": {
+        "login": "zou-simon",
+        "id": 62673351,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/62673351?v=4",
+        "html_url": "https:\/\/github.com\/zou-simon",
+        "name": "Simon",
+        "company": null,
+        "blog": "https:\/\/zousimon.fr",
+        "location": "France",
+        "bio": null,
+        "email_domain": "hotmail.fr",
+        "contributions": 1,
+        "repositories": {
+            "docs": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "specs": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "documentation": {
+                "total": 1,
+                "byYear": {
+                    "2021": 1
+                },
+                "repositories": {
+                    "docs": 1
+                },
+                "repositoriesByYear": {
+                    "docs": {
+                        "2021": 1
+                    }
+                }
+            },
+            "themes": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "modules": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tools": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tests": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "blog": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "others": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            }
+        },
+        "mergedPullRequests": 1,
+        "mergedPullRequestsByYear": {
+            "2021": 1
+        },
+        "repositoriesByYear": {
+            "docs": {
+                "2021": 1
+            }
+        },
+        "reviews": 0,
+        "reviewsByYear": [],
+        "issuesOpened": 0,
+        "issuesOpenedByYear": [],
+        "pullRequestsOpened": 1,
+        "pullRequestsOpenedByYear": {
+            "2021": 1
+        }
+    },
     "StephaneBullier": {
         "login": "StephaneBullier",
         "id": 11349294,
@@ -92153,200 +92465,6 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 1,
-        "repositories": {
-            "docs": 1
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "specs": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "documentation": {
-                "total": 1,
-                "byYear": {
-                    "2021": 1
-                },
-                "repositories": {
-                    "docs": 1
-                },
-                "repositoriesByYear": {
-                    "docs": {
-                        "2021": 1
-                    }
-                }
-            },
-            "themes": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "modules": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "tools": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "tests": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "blog": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "others": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            }
-        },
-        "mergedPullRequests": 1,
-        "mergedPullRequestsByYear": {
-            "2021": 1
-        },
-        "repositoriesByYear": {
-            "docs": {
-                "2021": 1
-            }
-        },
-        "reviews": 0,
-        "reviewsByYear": [],
-        "issuesOpened": 0,
-        "issuesOpenedByYear": [],
-        "pullRequestsOpened": 1,
-        "pullRequestsOpenedByYear": {
-            "2021": 1
-        }
-    },
-    "yildizib": {
-        "login": "yildizib",
-        "id": 93131,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/93131?v=4",
-        "html_url": "https:\/\/github.com\/yildizib",
-        "name": "\u0130brahim YILDIZ",
-        "company": null,
-        "blog": "https:\/\/yildizib.github.io",
-        "location": "UAE, T\u00fcrkiye",
-        "bio": "Principal Architect & Consultant. I like solving hard problems and learning things properly. 20+ yrs Java\/Spring\/Microservices.",
-        "email_domain": "gmail.com",
-        "contributions": 1,
-        "repositories": {
-            "docs": 1
-        },
-        "categories": {
-            "core": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "specs": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "documentation": {
-                "total": 1,
-                "byYear": {
-                    "2021": 1
-                },
-                "repositories": {
-                    "docs": 1
-                },
-                "repositoriesByYear": {
-                    "docs": {
-                        "2021": 1
-                    }
-                }
-            },
-            "themes": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "modules": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "tools": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "tests": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "blog": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            },
-            "others": {
-                "total": 0,
-                "byYear": [],
-                "repositories": [],
-                "repositoriesByYear": []
-            }
-        },
-        "mergedPullRequests": 1,
-        "mergedPullRequestsByYear": {
-            "2021": 1
-        },
-        "repositoriesByYear": {
-            "docs": {
-                "2021": 1
-            }
-        },
-        "reviews": 0,
-        "reviewsByYear": [],
-        "issuesOpened": 0,
-        "issuesOpenedByYear": [],
-        "pullRequestsOpened": 1,
-        "pullRequestsOpenedByYear": {
-            "2021": 1
-        }
-    },
-    "zou-simon": {
-        "login": "zou-simon",
-        "id": 62673351,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/62673351?v=4",
-        "html_url": "https:\/\/github.com\/zou-simon",
-        "name": "Simon",
-        "company": null,
-        "blog": "https:\/\/zousimon.fr",
-        "location": "France",
-        "bio": null,
-        "email_domain": "hotmail.fr",
         "contributions": 1,
         "repositories": {
             "docs": 1
@@ -93116,17 +93234,17 @@
             "2021": 1
         }
     },
-    "Paddimir": {
-        "login": "Paddimir",
-        "id": 9449749,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9449749?v=4",
-        "html_url": "https:\/\/github.com\/Paddimir",
-        "name": "Patrik Kopeck\u00fd",
+    "yildizib": {
+        "login": "yildizib",
+        "id": 93131,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/93131?v=4",
+        "html_url": "https:\/\/github.com\/yildizib",
+        "name": "\u0130brahim YILDIZ",
         "company": null,
-        "blog": "",
-        "location": "Czech Republic",
-        "bio": "I read docs and write code. Sometimes, I even enjoy it.",
-        "email_domain": "",
+        "blog": "https:\/\/yildizib.github.io",
+        "location": "UAE, T\u00fcrkiye",
+        "bio": "Principal Architect & Consultant. I like solving hard problems and learning things properly. 20+ yrs Java\/Spring\/Microservices.",
+        "email_domain": "gmail.com",
         "contributions": 1,
         "repositories": {
             "docs": 1
@@ -94970,6 +95088,103 @@
         "pullRequestsOpened": 1,
         "pullRequestsOpenedByYear": {
             "2019": 1
+        }
+    },
+    "Paddimir": {
+        "login": "Paddimir",
+        "id": 9449749,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9449749?v=4",
+        "html_url": "https:\/\/github.com\/Paddimir",
+        "name": "Patrik Kopeck\u00fd",
+        "company": null,
+        "blog": "",
+        "location": "Czech Republic",
+        "bio": "I read docs and write code. Sometimes, I even enjoy it.",
+        "email_domain": "",
+        "contributions": 1,
+        "repositories": {
+            "docs": 1
+        },
+        "categories": {
+            "core": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "specs": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "documentation": {
+                "total": 1,
+                "byYear": {
+                    "2021": 1
+                },
+                "repositories": {
+                    "docs": 1
+                },
+                "repositoriesByYear": {
+                    "docs": {
+                        "2021": 1
+                    }
+                }
+            },
+            "themes": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "modules": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tools": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "tests": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "blog": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            },
+            "others": {
+                "total": 0,
+                "byYear": [],
+                "repositories": [],
+                "repositoriesByYear": []
+            }
+        },
+        "mergedPullRequests": 1,
+        "mergedPullRequestsByYear": {
+            "2021": 1
+        },
+        "repositoriesByYear": {
+            "docs": {
+                "2021": 1
+            }
+        },
+        "reviews": 0,
+        "reviewsByYear": [],
+        "issuesOpened": 0,
+        "issuesOpenedByYear": [],
+        "pullRequestsOpened": 1,
+        "pullRequestsOpenedByYear": {
+            "2021": 1
         }
     },
     "willywongi": {
@@ -104028,5 +104243,5 @@
             "2025": 1
         }
     },
-    "updatedAt": "2026-11-17T06:33:29+00:00"
+    "updatedAt": "2026-11-17T14:33:06+00:00"
 }

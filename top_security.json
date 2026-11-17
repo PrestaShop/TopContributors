@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-11-17T06:59:19+00:00",
+    "updatedAt": "2026-11-17T15:01:31+00:00",
     "items": [
         {
             "rank": 1,
@@ -275,6 +275,23 @@
         },
         {
             "rank": 17,
+            "login": "arkmarta",
+            "name": "arkmarta",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/248169372?v=4",
+            "html_url": "https:\/\/github.com\/arkmarta",
+            "count": 1,
+            "countByYear": {
+                "2026": 1
+            },
+            "research": 1,
+            "researchByYear": {
+                "2026": 1
+            },
+            "remediation": 0,
+            "remediationByYear": []
+        },
+        {
+            "rank": 18,
             "login": "clotairer",
             "name": "Clotaire",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/52157233?v=4",
@@ -291,7 +308,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 18,
+            "rank": 19,
             "login": "creagenic",
             "name": "creagenic",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/55196959?v=4",
@@ -308,7 +325,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 19,
+            "rank": 20,
             "login": "dawitngoliath",
             "name": "dawitngoliath",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/87381656?v=4",
@@ -325,7 +342,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 20,
+            "rank": 21,
             "login": "dv00x1",
             "name": "dv00x1",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/127017550?v=4",
@@ -342,7 +359,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 21,
+            "rank": 22,
             "login": "fy0lai",
             "name": "fy0lai",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/117107986?v=4",
@@ -359,7 +376,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 22,
+            "rank": 23,
             "login": "geo-chen",
             "name": "geo-chen",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2404584?v=4",
@@ -376,7 +393,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 23,
+            "rank": 24,
             "login": "ghostbyt3",
             "name": "ghostbyt3",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/46240165?v=4",
@@ -393,7 +410,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 24,
+            "rank": 25,
             "login": "hachh",
             "name": "hachh",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14847611?v=4",
@@ -410,7 +427,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 25,
+            "rank": 26,
             "login": "haidv35",
             "name": "haidv35",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20736458?v=4",
@@ -427,7 +444,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 26,
+            "rank": 27,
             "login": "hugo-fasone",
             "name": "hugo-fasone",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/28593328?v=4",
@@ -444,7 +461,7 @@
             }
         },
         {
-            "rank": 27,
+            "rank": 28,
             "login": "isanghyeon",
             "name": "isanghyeon",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/61901762?v=4",
@@ -461,7 +478,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 28,
+            "rank": 29,
             "login": "kernelzada",
             "name": "kernelzada",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/210435552?v=4",
@@ -478,7 +495,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 29,
+            "rank": 30,
             "login": "komradz86",
             "name": "komradz86",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/25012489?v=4",
@@ -495,7 +512,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 30,
+            "rank": 31,
             "login": "my3ker",
             "name": "my3ker",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/43940126?v=4",
@@ -512,7 +529,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 31,
+            "rank": 32,
             "login": "nicosomb",
             "name": "Nicolas L\u0153uillet",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/121870?v=4",
@@ -529,7 +546,7 @@
             }
         },
         {
-            "rank": 32,
+            "rank": 33,
             "login": "nvth",
             "name": "nvth",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/63294758?v=4",
@@ -546,7 +563,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 33,
+            "rank": 34,
             "login": "r00tpgp",
             "name": "r00tpgp",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/29351179?v=4",
@@ -563,7 +580,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 34,
+            "rank": 35,
             "login": "repo4Chu",
             "name": "repo4Chu",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/26952480?v=4",
@@ -580,7 +597,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 35,
+            "rank": 36,
             "login": "timactive",
             "name": "timactive",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3832141?v=4",
@@ -597,7 +614,7 @@
             "remediationByYear": []
         },
         {
-            "rank": 36,
+            "rank": 37,
             "login": "yetingli",
             "name": "yetingli",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20918057?v=4",
