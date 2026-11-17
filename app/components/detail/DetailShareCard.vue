@@ -1,7 +1,10 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue'
 
-const props = defineProps<{ login: string }>()
+// Contributor card (with ranking variants) by default; pass `companySlug`
+// instead for the single-variant company card.
+const props = defineProps<{ login?: string, companySlug?: string }>()
+const isCompany = computed(() => !!props.companySlug)
 
 type RankingVariant = 'overall' | 'author' | 'reviewer' | 'qa' | 'issues'
 const VARIANTS: { value: RankingVariant, label: string }[] = [
@@ -24,12 +27,17 @@ const origin = computed(() =>
 // overall card. The nested /card/${login}/${variant}.svg is prerendered
 // separately in nuxt.config so each variant gets its own file. The flat
 // overall URL is kept for backwards compatibility with existing embeds.
-const cardUrl = computed(() =>
-  variant.value === 'overall'
+const cardUrl = computed(() => {
+  if (props.companySlug) return `${origin.value}/company-card/${props.companySlug}.svg`
+  return variant.value === 'overall'
     ? `${origin.value}/card/${props.login}.svg`
-    : `${origin.value}/card/${props.login}/${variant.value}.svg`,
+    : `${origin.value}/card/${props.login}/${variant.value}.svg`
+})
+const markdown = computed(() =>
+  props.companySlug
+    ? `[![PrestaShop Top Company](${cardUrl.value})](${origin.value}/company/${props.companySlug})`
+    : `[![PrestaShop Top Contributor](${cardUrl.value})](${origin.value}/contributor/${props.login})`,
 )
-const markdown = computed(() => `[![PrestaShop Top Contributor](${cardUrl.value})](${origin.value}/contributor/${props.login})`)
 
 const copied = ref<'url' | 'md' | null>(null)
 const copy = async (kind: 'url' | 'md', text: string) => {
@@ -51,13 +59,16 @@ const copy = async (kind: 'url' | 'md', text: string) => {
     data-detail-section
   >
     <h2 class="wof-detail-share__title">
-      Share your card
+      {{ isCompany ? 'Share this card' : 'Share your card' }}
     </h2>
     <p class="wof-detail-share__lede">
-      Embed this card in your GitHub profile README or anywhere else.
+      {{ isCompany
+        ? 'Embed this card in your company website, README or anywhere else.'
+        : 'Embed this card in your GitHub profile README or anywhere else.' }}
     </p>
 
     <div
+      v-if="!isCompany"
       class="wof-detail-share__variants"
       role="tablist"
       aria-label="Ranking variant"
@@ -78,7 +89,7 @@ const copy = async (kind: 'url' | 'md', text: string) => {
     <div class="wof-detail-share__preview">
       <img
         :src="cardUrl"
-        :alt="`PrestaShop Top Contributor card for ${login}`"
+        :alt="isCompany ? `PrestaShop Top Company card for ${companySlug}` : `PrestaShop Top Contributor card for ${login}`"
         loading="lazy"
       >
     </div>
