@@ -7,7 +7,13 @@ type RepoRow = { name: string, total: number, byYear: Record<string, number> }
 const props = defineProps<{
   rows: RepoRow[]
   latestYears?: string[]
+  // When set, each repository links to this author's merged PRs on GitHub.
+  // Company pages leave it unset: no GitHub query matches company attribution.
+  authorLogin?: string
 }>()
+
+const mergedPrsUrl = (repository: string, login: string) =>
+  `https://github.com/PrestaShop/${repository}/pulls?q=is%3Apr+is%3Amerged+author%3A${encodeURIComponent(login)}`
 
 const headers: PuikTableHeader[] = [
   {
@@ -93,6 +99,16 @@ const handleSort = (payload: sortOption) => {
       @search-submit="handleSearchSubmit"
       @sort-column="handleSort"
     >
+      <template #item-name="{ item }">
+        <a
+          v-if="authorLogin"
+          class="wof-detail-repos-table__link"
+          :href="mergedPrsUrl(item.name, authorLogin)"
+          target="_blank"
+          rel="noopener"
+        >{{ item.name }}</a>
+        <span v-else>{{ item.name }}</span>
+      </template>
       <template #item-total="{ item }">
         <span class="puik-body-default-bold">{{ item.total }}</span>
       </template>
@@ -105,5 +121,12 @@ const handleSort = (payload: sortOption) => {
   background: #fff;
   border-radius: 0.5rem;
   padding: 1rem;
+}
+.wof-detail-repos-table__link {
+  color: #6366f1;
+  text-decoration: none;
+}
+.wof-detail-repos-table__link:hover {
+  text-decoration: underline;
 }
 </style>

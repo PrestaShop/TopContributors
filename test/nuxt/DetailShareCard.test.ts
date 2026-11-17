@@ -62,3 +62,18 @@ describe('DetailShareCard — ranking variants', () => {
     expect(url).not.toContain('ranking=')
   })
 })
+
+describe('DetailShareCard — company card', () => {
+  it('uses the company card URL, links the markdown to the company page and hides ranking variants', async () => {
+    const component = await mountSuspended(DetailShareCard, { props: { companySlug: 'wepika' } })
+
+    const inputs = component.findAll('input[readonly]').map(w => (w.element as HTMLInputElement).value)
+    const url = inputs.find(v => !v.startsWith('['))!
+    const md = inputs.find(v => v.startsWith('['))!
+    expect(url).toMatch(/\/company-card\/wepika\.svg$/)
+    expect(md).toMatch(/^\[!\[PrestaShop Top Company\]\(.*\/company-card\/wepika\.svg\)\]\(.*\/company\/wepika\)$/)
+    expect(component.find('img').attributes('src')).toBe(url)
+    expect(component.findAll('[role="tab"]')).toHaveLength(0)
+    expect(component.text()).toContain('Share this card')
+  })
+})

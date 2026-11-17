@@ -1,5 +1,5 @@
 import { existsSync, readFileSync } from 'node:fs'
-import { resolve } from 'node:path'
+import { fileURLToPath } from 'node:url'
 import tailwindcss from '@tailwindcss/vite'
 import Components from 'unplugin-vue-components/vite'
 import AutoImport from 'unplugin-auto-import/vite'
@@ -53,7 +53,7 @@ export default defineNuxtConfig({
   },
   hooks: {
     'nitro:config'(nitroConfig) {
-      const publicDir = resolve(__dirname, 'public')
+      const publicDir = fileURLToPath(new URL('./public', import.meta.url))
       const contribPath = `${publicDir}/contributors_prs.json`
       const compPath = `${publicDir}/topcompanies_prs.json`
       const routes: string[] = []
@@ -85,7 +85,9 @@ export default defineNuxtConfig({
         try {
           const data = JSON.parse(readFileSync(compPath, 'utf-8'))
           for (const c of data.companies ?? []) {
-            if (c.slug) routes.push(`/company/${c.slug}`)
+            if (!c.slug) continue
+            routes.push(`/company/${c.slug}`)
+            routes.push(`/company-card/${c.slug}.svg`)
           }
         }
         catch (err) {

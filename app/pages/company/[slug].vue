@@ -2,6 +2,7 @@
 import { computed, ref, watchEffect } from 'vue'
 import { usePeriod } from '@/composables/usePeriod'
 import { companyMembers, useEntityDetail } from '@/composables/useEntityDetail'
+import { githubHandle } from '@/composables/useGithubHandle'
 import type { Company, Contributor } from '@/types'
 
 const route = useRoute()
@@ -98,7 +99,7 @@ useHead(() => ({
           :title="company.name"
           :subtitle="`${memberLogins.length} contributors`"
           :infos="[
-            ...(company.github_url ? [{ icon: 'link', label: 'GitHub', value: company.github_url, href: company.github_url }] : []),
+            ...(company.github_url ? [{ icon: 'link', label: 'GitHub', value: githubHandle(company.github_url), href: company.github_url }] : []),
             ...(company.html_url ? [{ icon: 'desktop_mac', label: 'Website', value: company.html_url, href: company.html_url }] : []),
           ]"
           :sections="[
@@ -108,6 +109,7 @@ useHead(() => ({
             { id: 'section-year-detail', label: 'Year drilldown' },
             ...(hasRepos ? [{ id: 'section-repos-table', label: 'All repos' }] : []),
             { id: 'section-members', label: 'Contributors' },
+            ...(company.slug ? [{ id: 'section-share', label: 'Share this card' }] : []),
           ]"
         />
       </template>
@@ -138,6 +140,10 @@ useHead(() => ({
         <DetailMembersList
           v-else
           :members="members"
+        />
+        <DetailShareCard
+          v-if="company.slug"
+          :company-slug="company.slug"
         />
       </template>
     </DetailPageLayout>
