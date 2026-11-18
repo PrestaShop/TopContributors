@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-11-17T15:00:23+00:00",
+    "updatedAt": "2026-11-18T06:55:30+00:00",
     "items": [
         {
             "rank": 1,
@@ -63,9 +63,9 @@
             "name": "Thomas N",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6768917?v=4",
             "html_url": "https:\/\/github.com\/Quetzacoalt91",
-            "count": 1389,
+            "count": 1391,
             "countByYear": {
-                "2026": 131,
+                "2026": 133,
                 "2025": 228,
                 "2024": 76,
                 "2023": 2,
@@ -410,9 +410,9 @@
             "name": "Paolo Cunti @codencode",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2463965?v=4",
             "html_url": "https:\/\/github.com\/Codencode",
-            "count": 370,
+            "count": 372,
             "countByYear": {
-                "2026": 169,
+                "2026": 171,
                 "2025": 137,
                 "2024": 35,
                 "2023": 23,
@@ -497,9 +497,9 @@
             "name": "Matthias Goudjil",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/99822883?v=4",
             "html_url": "https:\/\/github.com\/mattgoud",
-            "count": 274,
+            "count": 275,
             "countByYear": {
-                "2026": 206,
+                "2026": 207,
                 "2025": 49,
                 "2024": 19
             }
@@ -13697,7 +13697,7 @@
             "rank": 1116,
             "login": "webdif",
             "name": "Maxime Vasse",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1285888?u=d2bc8d53a79082077890874f1dc2a5d7bc5563c2&v=4",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1285888?u=b164812e4b4fd9c7fcde967100e5d64a44bf11c9&v=4",
             "html_url": "https:\/\/github.com\/webdif",
             "count": 2,
             "countByYear": {

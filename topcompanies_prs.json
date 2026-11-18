@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-11-17T14:33:06+00:00",
+    "updatedAt": "2026-11-18T06:32:53+00:00",
     "community": {
         "name": "Open Source Community",
         "slug": "open-source-community",
@@ -1026,9 +1026,9 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 18962,
+            "merged_pull_requests": 18963,
             "merged_pull_requests_by_version": {
-                "9.3": 45,
+                "9.3": 46,
                 "9.2": 284,
                 "9.1": 301,
                 "9.0": 1322,
@@ -1047,7 +1047,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 1383,
+                "2026": 1384,
                 "2025": 1585,
                 "2024": 1672,
                 "2023": 1791,
@@ -1063,9 +1063,9 @@
                 "2013": 24
             },
             "pull_requests_percent": 64.28,
-            "contributions": 91645,
+            "contributions": 91649,
             "contributions_by_version": {
-                "9.3": 671,
+                "9.3": 675,
                 "9.2": 1890,
                 "9.1": 3253,
                 "9.0": 6183,
@@ -1084,7 +1084,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 7663,
+                "2026": 7667,
                 "2025": 6778,
                 "2024": 7345,
                 "2023": 7982,
@@ -1102,7 +1102,7 @@
             "contributions_percent": 71.37,
             "repositories": {
                 "PrestaShop-backward_compatibility": 1,
-                "PrestaShop": 9747,
+                "PrestaShop": 9748,
                 "PrestaShop-modules": 30,
                 "PrestaShop-webservice-lib": 8,
                 "PrestaShop-norm-validator": 1,
@@ -1279,7 +1279,7 @@
                     "2013": 1
                 },
                 "PrestaShop": {
-                    "2026": 464,
+                    "2026": 465,
                     "2025": 486,
                     "2024": 625,
                     "2023": 914,
@@ -2499,8 +2499,8 @@
             "github_url": null,
             "contributors": [
                 "gRoussac",
-                "nicosomb",
                 "M0rgan01",
+                "nicosomb",
                 "mattgoud",
                 "Quetzacoalt91",
                 "jolelievre",
