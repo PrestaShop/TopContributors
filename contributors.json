@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11496,
+        "contributions": 11506,
         "repositories": {
             "PrestaShop": 4729,
             "PrestaShop-modules": 31,
@@ -40,7 +40,7 @@
             "statssales": 17,
             "statssearch": 10,
             "statsstock": 9,
-            "blockwishlist": 279,
+            "blockwishlist": 280,
             "productcomments": 58,
             "pscleaner": 13,
             "autoupgrade": 116,
@@ -114,19 +114,19 @@
             "php-dev-tools": 4,
             "QANightlyResults": 421,
             "LocalizationFiles": 9,
-            "presthubot": 550,
+            "presthubot": 551,
             "stylelint-config": 7,
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1118,
+            "test-scenarios": 1121,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
             "hummingbird": 7,
             "ps-docs-theme": 3,
             "contextual-help-api": 1,
-            "ga.tests.ui.pr": 108,
+            "ga.tests.ui.pr": 110,
             "ps-project-metrics": 4,
             "user-documentation-v8-en": 1,
             "classic-theme": 175,
@@ -136,7 +136,7 @@
             "ps_fixturescreator": 11,
             "ws-client": 25,
             "ps_apiresources": 17,
-            "ui-testing-library": 1357
+            "ui-testing-library": 1360
         },
         "categories": {
             "core": {
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1342,
+                "total": 1345,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1118,
+                    "test-scenarios": 1121,
                     "example-modules": 6,
                     "open-source": 38,
                     "example_module_mailtheme": 4,
@@ -186,7 +186,7 @@
                 }
             },
             "modules": {
-                "total": 2038,
+                "total": 2039,
                 "repositories": {
                     "PrestaShop-modules": 31,
                     "dashactivity": 20,
@@ -214,7 +214,7 @@
                     "statssales": 17,
                     "statssearch": 10,
                     "statsstock": 9,
-                    "blockwishlist": 279,
+                    "blockwishlist": 280,
                     "productcomments": 58,
                     "pscleaner": 13,
                     "autoupgrade": 116,
@@ -270,7 +270,7 @@
                 }
             },
             "tools": {
-                "total": 1518,
+                "total": 1519,
                 "repositories": {
                     "core-weekly-generator": 6,
                     "docker": 46,
@@ -280,7 +280,7 @@
                     "mjml-theme-converter": 1,
                     "nightly-board": 50,
                     "PrestaShop-webservice-lib": 4,
-                    "presthubot": 550,
+                    "presthubot": 551,
                     "prestonbot": 10,
                     "QANightlyResults": 421,
                     "TopContributors": 164,
@@ -290,10 +290,10 @@
                 }
             },
             "tests": {
-                "total": 1465,
+                "total": 1470,
                 "repositories": {
-                    "ui-testing-library": 1357,
-                    "ga.tests.ui.pr": 108
+                    "ui-testing-library": 1360,
+                    "ga.tests.ui.pr": 110
                 }
             },
             "blog": {
@@ -581,9 +581,9 @@
         "location": "London",
         "bio": null,
         "email_domain": "",
-        "contributions": 5523,
+        "contributions": 5525,
         "repositories": {
-            "PrestaShop": 1852,
+            "PrestaShop": 1853,
             "PrestaShop-modules": 349,
             "PrestaShop-webservice-lib": 1,
             "dashactivity": 1,
@@ -682,15 +682,15 @@
             "distribution-api": 51,
             "classic-theme": 61,
             "ps_distributionapiclient": 4,
-            "ps_apiresources": 7,
+            "ps_apiresources": 8,
             "SeamlessUpgradeToolbox": 9,
             "skills": 15
         },
         "categories": {
             "core": {
-                "total": 1934,
+                "total": 1935,
                 "repositories": {
-                    "PrestaShop": 1852,
+                    "PrestaShop": 1853,
                     "prestashop-ui-kit": 6,
                     "TranslationToolsBundle": 5,
                     "eslint-config": 1,
@@ -722,7 +722,7 @@
                 }
             },
             "modules": {
-                "total": 2560,
+                "total": 2561,
                 "repositories": {
                     "PrestaShop-modules": 349,
                     "dashactivity": 1,
@@ -788,7 +788,7 @@
                     "ps_googleanalytics": 153,
                     "ps_themecusto": 14,
                     "psgdpr": 8,
-                    "ps_apiresources": 7,
+                    "ps_apiresources": 8,
                     "ps_distributionapiclient": 4,
                     "themeinstallator": 3
                 }
@@ -6498,9 +6498,9 @@
         "location": null,
         "bio": null,
         "email_domain": "",
-        "contributions": 648,
+        "contributions": 652,
         "repositories": {
-            "PrestaShop": 256,
+            "PrestaShop": 259,
             "blockwishlist": 1,
             "productcomments": 4,
             "autoupgrade": 236,
@@ -6524,15 +6524,15 @@
             "distribution-api": 19,
             "classic-theme": 4,
             "prestashop-flashlight": 2,
-            "ps_apiresources": 10,
+            "ps_apiresources": 11,
             "ui-testing-library": 2,
             "SeamlessUpgradeToolbox": 41
         },
         "categories": {
             "core": {
-                "total": 259,
+                "total": 262,
                 "repositories": {
-                    "PrestaShop": 256,
+                    "PrestaShop": 259,
                     "php-dev-tools": 3
                 }
             },
@@ -6559,7 +6559,7 @@
                 }
             },
             "modules": {
-                "total": 265,
+                "total": 266,
                 "repositories": {
                     "blockwishlist": 1,
                     "productcomments": 4,
@@ -6570,7 +6570,7 @@
                     "ps_facetedsearch": 1,
                     "ps_emailalerts": 5,
                     "psgdpr": 3,
-                    "ps_apiresources": 10
+                    "ps_apiresources": 11
                 }
             },
             "tools": {
@@ -12666,6 +12666,86 @@
             }
         }
     },
+    "cnavarro-prestashop": {
+        "login": "cnavarro-prestashop",
+        "id": 127135637,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/127135637?v=4",
+        "html_url": "https:\/\/github.com\/cnavarro-prestashop",
+        "name": "Cyril Navarro",
+        "company": "@PrestaShopCorp ",
+        "blog": "",
+        "location": null,
+        "bio": null,
+        "email_domain": "",
+        "contributions": 83,
+        "repositories": {
+            "PrestaShop": 46,
+            "dashgoals": 4,
+            "prestashop.github.io": 14,
+            "ps_mainmenu": 1,
+            "docs": 1,
+            "ps_wirepayment": 1,
+            ".github": 8,
+            "ga.tests.ui.pr": 2,
+            "kanbanbot": 5,
+            "ps_apiresources": 1
+        },
+        "categories": {
+            "core": {
+                "total": 46,
+                "repositories": {
+                    "PrestaShop": 46
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 1,
+                "repositories": {
+                    "docs": 1
+                }
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 7,
+                "repositories": {
+                    "dashgoals": 4,
+                    "ps_mainmenu": 1,
+                    "ps_wirepayment": 1,
+                    "ps_apiresources": 1
+                }
+            },
+            "tools": {
+                "total": 5,
+                "repositories": {
+                    "kanbanbot": 5
+                }
+            },
+            "tests": {
+                "total": 2,
+                "repositories": {
+                    "ga.tests.ui.pr": 2
+                }
+            },
+            "blog": {
+                "total": 14,
+                "repositories": {
+                    "prestashop.github.io": 14
+                }
+            },
+            "others": {
+                "total": 8,
+                "repositories": {
+                    ".github": 8
+                }
+            }
+        }
+    },
     "L3RAZ": {
         "login": "L3RAZ",
         "id": 25088641,
@@ -12785,84 +12865,6 @@
             "others": {
                 "total": 0,
                 "repositories": []
-            }
-        }
-    },
-    "cnavarro-prestashop": {
-        "login": "cnavarro-prestashop",
-        "id": 127135637,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/127135637?v=4",
-        "html_url": "https:\/\/github.com\/cnavarro-prestashop",
-        "name": "Cyril Navarro",
-        "company": "@PrestaShopCorp ",
-        "blog": "",
-        "location": null,
-        "bio": null,
-        "email_domain": "",
-        "contributions": 82,
-        "repositories": {
-            "PrestaShop": 46,
-            "dashgoals": 4,
-            "prestashop.github.io": 14,
-            "docs": 1,
-            "ps_wirepayment": 1,
-            ".github": 8,
-            "ga.tests.ui.pr": 2,
-            "kanbanbot": 5,
-            "ps_apiresources": 1
-        },
-        "categories": {
-            "core": {
-                "total": 46,
-                "repositories": {
-                    "PrestaShop": 46
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 1,
-                "repositories": {
-                    "docs": 1
-                }
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 6,
-                "repositories": {
-                    "dashgoals": 4,
-                    "ps_wirepayment": 1,
-                    "ps_apiresources": 1
-                }
-            },
-            "tools": {
-                "total": 5,
-                "repositories": {
-                    "kanbanbot": 5
-                }
-            },
-            "tests": {
-                "total": 2,
-                "repositories": {
-                    "ga.tests.ui.pr": 2
-                }
-            },
-            "blog": {
-                "total": 14,
-                "repositories": {
-                    "prestashop.github.io": 14
-                }
-            },
-            "others": {
-                "total": 8,
-                "repositories": {
-                    ".github": 8
-                }
             }
         }
     },
@@ -14444,7 +14446,7 @@
         "id": 10741347,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10741347?v=4",
         "html_url": "https:\/\/github.com\/rodriciru",
-        "name": null,
+        "name": "Rodrigo Mart\u00ednez",
         "company": null,
         "blog": "",
         "location": null,
@@ -16807,6 +16809,69 @@
             }
         }
     },
+    "LameuleFR": {
+        "login": "LameuleFR",
+        "id": 57117669,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/57117669?v=4",
+        "html_url": "https:\/\/github.com\/LameuleFR",
+        "name": "Benjamin Bendaoui",
+        "company": null,
+        "blog": "",
+        "location": "France",
+        "bio": null,
+        "email_domain": "",
+        "contributions": 34,
+        "repositories": {
+            "PrestaShop": 23,
+            "dashtrends": 1,
+            "ps_mainmenu": 3,
+            "ps_facetedsearch": 7
+        },
+        "categories": {
+            "core": {
+                "total": 23,
+                "repositories": {
+                    "PrestaShop": 23
+                }
+            },
+            "specs": {
+                "total": 0,
+                "repositories": []
+            },
+            "documentation": {
+                "total": 0,
+                "repositories": []
+            },
+            "themes": {
+                "total": 0,
+                "repositories": []
+            },
+            "modules": {
+                "total": 11,
+                "repositories": {
+                    "dashtrends": 1,
+                    "ps_mainmenu": 3,
+                    "ps_facetedsearch": 7
+                }
+            },
+            "tools": {
+                "total": 0,
+                "repositories": []
+            },
+            "tests": {
+                "total": 0,
+                "repositories": []
+            },
+            "blog": {
+                "total": 0,
+                "repositories": []
+            },
+            "others": {
+                "total": 0,
+                "repositories": []
+            }
+        }
+    },
     "clotairer": {
         "login": "clotairer",
         "id": 52157233,
@@ -17336,67 +17401,6 @@
                 "repositories": {
                     "pscleaner": 1,
                     "ps_searchbarjqauto": 1
-                }
-            },
-            "tools": {
-                "total": 0,
-                "repositories": []
-            },
-            "tests": {
-                "total": 0,
-                "repositories": []
-            },
-            "blog": {
-                "total": 0,
-                "repositories": []
-            },
-            "others": {
-                "total": 0,
-                "repositories": []
-            }
-        }
-    },
-    "LameuleFR": {
-        "login": "LameuleFR",
-        "id": 57117669,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/57117669?v=4",
-        "html_url": "https:\/\/github.com\/LameuleFR",
-        "name": "Benjamin Bendaoui",
-        "company": null,
-        "blog": "",
-        "location": "France",
-        "bio": null,
-        "email_domain": "",
-        "contributions": 31,
-        "repositories": {
-            "PrestaShop": 23,
-            "dashtrends": 1,
-            "ps_facetedsearch": 7
-        },
-        "categories": {
-            "core": {
-                "total": 23,
-                "repositories": {
-                    "PrestaShop": 23
-                }
-            },
-            "specs": {
-                "total": 0,
-                "repositories": []
-            },
-            "documentation": {
-                "total": 0,
-                "repositories": []
-            },
-            "themes": {
-                "total": 0,
-                "repositories": []
-            },
-            "modules": {
-                "total": 8,
-                "repositories": {
-                    "dashtrends": 1,
-                    "ps_facetedsearch": 7
                 }
             },
             "tools": {
@@ -31113,13 +31117,13 @@
             }
         }
     },
-    "soniiix": {
-        "login": "soniiix",
+    "cznquentin": {
+        "login": "cznquentin",
         "id": 124884897,
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/124884897?v=4",
-        "html_url": "https:\/\/github.com\/soniiix",
-        "name": null,
-        "company": null,
+        "html_url": "https:\/\/github.com\/cznquentin",
+        "name": "Quentin Couzinet",
+        "company": "@Qoro-Digital ",
         "blog": "https:\/\/cznquentin.vercel.app\/",
         "location": "France",
         "bio": "Web Developer",
@@ -52006,15 +52010,15 @@
             }
         }
     },
-    "MatthieuCutin": {
-        "login": "MatthieuCutin",
-        "id": 12746178,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12746178?v=4",
-        "html_url": "https:\/\/github.com\/MatthieuCutin",
-        "name": null,
+    "alexll": {
+        "login": "alexll",
+        "id": 1861615,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1861615?v=4",
+        "html_url": "https:\/\/github.com\/alexll",
+        "name": "Alex",
         "company": null,
         "blog": "",
-        "location": null,
+        "location": "Catalunya",
         "bio": null,
         "email_domain": "",
         "contributions": 1,
@@ -52118,15 +52122,15 @@
             }
         }
     },
-    "alexll": {
-        "login": "alexll",
-        "id": 1861615,
-        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1861615?v=4",
-        "html_url": "https:\/\/github.com\/alexll",
-        "name": "Alex",
+    "MatthieuCutin": {
+        "login": "MatthieuCutin",
+        "id": 12746178,
+        "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12746178?v=4",
+        "html_url": "https:\/\/github.com\/MatthieuCutin",
+        "name": null,
         "company": null,
         "blog": "",
-        "location": "Catalunya",
+        "location": null,
         "bio": null,
         "email_domain": "",
         "contributions": 1,
@@ -52286,5 +52290,5 @@
             }
         }
     },
-    "updatedAt": "2026-11-18 06:10:21"
+    "updatedAt": "2026-11-19 06:10:25"
 }

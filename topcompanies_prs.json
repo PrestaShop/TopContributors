@@ -1,12 +1,12 @@
 {
-    "updatedAt": "2026-11-18T06:32:53+00:00",
+    "updatedAt": "2026-11-19T06:31:53+00:00",
     "community": {
         "name": "Open Source Community",
         "slug": "open-source-community",
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 7437,
+        "merged_pull_requests": 7438,
         "merged_pull_requests_by_version": {
             "9.3": 21,
             "9.2": 62,
@@ -27,7 +27,7 @@
             "1.6.1": 273
         },
         "merged_pull_requests_by_year": {
-            "2026": 251,
+            "2026": 252,
             "2025": 97,
             "2024": 154,
             "2023": 447,
@@ -44,7 +44,7 @@
             "2012": 32
         },
         "pull_requests_percent": 25.21,
-        "contributions": 27814,
+        "contributions": 27815,
         "contributions_by_version": {
             "9.3": 30,
             "9.2": 165,
@@ -65,7 +65,7 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 627,
+            "2026": 628,
             "2025": 210,
             "2024": 395,
             "2023": 1955,
@@ -136,7 +136,7 @@
             "ps_banner": 7,
             "ps_featuredproducts": 8,
             "ps_imageslider": 27,
-            "ps_mainmenu": 15,
+            "ps_mainmenu": 16,
             "ps_customersignin": 7,
             "ps_categorytree": 11,
             "ps_legalcompliance": 28,
@@ -587,6 +587,7 @@
                 "2016": 4
             },
             "ps_mainmenu": {
+                "2026": 1,
                 "2025": 2,
                 "2023": 3,
                 "2022": 1,
@@ -1026,10 +1027,10 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 18963,
+            "merged_pull_requests": 18968,
             "merged_pull_requests_by_version": {
-                "9.3": 46,
-                "9.2": 284,
+                "9.3": 47,
+                "9.2": 286,
                 "9.1": 301,
                 "9.0": 1322,
                 "8.2": 50,
@@ -1047,7 +1048,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 1384,
+                "2026": 1389,
                 "2025": 1585,
                 "2024": 1672,
                 "2023": 1791,
@@ -1063,10 +1064,10 @@
                 "2013": 24
             },
             "pull_requests_percent": 64.28,
-            "contributions": 91649,
+            "contributions": 91656,
             "contributions_by_version": {
-                "9.3": 675,
-                "9.2": 1890,
+                "9.3": 678,
+                "9.2": 1892,
                 "9.1": 3253,
                 "9.0": 6183,
                 "8.2": 105,
@@ -1084,7 +1085,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 7667,
+                "2026": 7674,
                 "2025": 6778,
                 "2024": 7345,
                 "2023": 7982,
@@ -1102,7 +1103,7 @@
             "contributions_percent": 71.37,
             "repositories": {
                 "PrestaShop-backward_compatibility": 1,
-                "PrestaShop": 9748,
+                "PrestaShop": 9751,
                 "PrestaShop-modules": 30,
                 "PrestaShop-webservice-lib": 8,
                 "PrestaShop-norm-validator": 1,
@@ -1157,7 +1158,7 @@
                 "ps_banner": 35,
                 "ps_featuredproducts": 22,
                 "ps_imageslider": 34,
-                "ps_mainmenu": 32,
+                "ps_mainmenu": 33,
                 "ps_customersignin": 25,
                 "ps_categorytree": 30,
                 "ps_legalcompliance": 22,
@@ -1267,7 +1268,7 @@
                 "bootstrap-compatibility-layer": 10,
                 "prestashop-flashlight": 128,
                 "ws-client": 5,
-                "ps_apiresources": 131,
+                "ps_apiresources": 132,
                 "ui-testing-library": 548,
                 "SeamlessUpgradeToolbox": 28,
                 "Prestashop-BO-themes-package": 3,
@@ -1279,7 +1280,7 @@
                     "2013": 1
                 },
                 "PrestaShop": {
-                    "2026": 465,
+                    "2026": 468,
                     "2025": 486,
                     "2024": 625,
                     "2023": 914,
@@ -1749,7 +1750,7 @@
                     "2016": 7
                 },
                 "ps_mainmenu": {
-                    "2026": 1,
+                    "2026": 2,
                     "2025": 2,
                     "2023": 2,
                     "2022": 1,
@@ -2470,7 +2471,7 @@
                     "2023": 2
                 },
                 "ps_apiresources": {
-                    "2026": 64,
+                    "2026": 65,
                     "2025": 30,
                     "2024": 31,
                     "2023": 6
@@ -3354,7 +3355,7 @@
                 "2020": 35,
                 "2019": 4
             },
-            "contributions_percent": 3.76,
+            "contributions_percent": 3.75,
             "repositories": {
                 "PrestaShop": 406,
                 "dashactivity": 4,
@@ -6737,6 +6738,56 @@
             "employees": []
         },
         {
+            "name": "Mintfull Agency",
+            "slug": "mintfull-agency",
+            "rank": 22,
+            "rank_contributions": 18,
+            "rank_pull_requests": 22,
+            "merged_pull_requests": 5,
+            "merged_pull_requests_by_version": [],
+            "merged_pull_requests_by_year": {
+                "2026": 5
+            },
+            "pull_requests_percent": 0.02,
+            "contributions": 29,
+            "contributions_by_version": [],
+            "contributions_by_year": {
+                "2026": 29
+            },
+            "contributions_percent": 0.02,
+            "repositories": {
+                "blockwishlist": 1,
+                "traces": 1,
+                "TopContributors": 1,
+                "test-scenarios": 1,
+                "ga.tests.ui.pr": 1
+            },
+            "repositories_by_year": {
+                "blockwishlist": {
+                    "2026": 1
+                },
+                "traces": {
+                    "2026": 1
+                },
+                "TopContributors": {
+                    "2026": 1
+                },
+                "test-scenarios": {
+                    "2026": 1
+                },
+                "ga.tests.ui.pr": {
+                    "2026": 1
+                }
+            },
+            "avatar_url": "https:\/\/mintfull.agency\/app\/themes\/mintfull\/resources\/img\/icons\/icon-270.png",
+            "html_url": "https:\/\/mintfull.agency",
+            "github_url": null,
+            "contributors": [
+                "Progi1984"
+            ],
+            "employees": []
+        },
+        {
             "name": "Novius",
             "slug": "novius",
             "rank": 22,
@@ -7093,48 +7144,6 @@
             "github_url": null,
             "contributors": [
                 "metineren"
-            ],
-            "employees": []
-        },
-        {
-            "name": "Mintfull Agency",
-            "slug": "mintfull-agency",
-            "rank": 24,
-            "rank_contributions": 18,
-            "rank_pull_requests": 24,
-            "merged_pull_requests": 3,
-            "merged_pull_requests_by_version": [],
-            "merged_pull_requests_by_year": {
-                "2026": 3
-            },
-            "pull_requests_percent": 0.01,
-            "contributions": 27,
-            "contributions_by_version": [],
-            "contributions_by_year": {
-                "2026": 27
-            },
-            "contributions_percent": 0.02,
-            "repositories": {
-                "blockwishlist": 1,
-                "traces": 1,
-                "TopContributors": 1
-            },
-            "repositories_by_year": {
-                "blockwishlist": {
-                    "2026": 1
-                },
-                "traces": {
-                    "2026": 1
-                },
-                "TopContributors": {
-                    "2026": 1
-                }
-            },
-            "avatar_url": "https:\/\/mintfull.agency\/app\/themes\/mintfull\/resources\/img\/icons\/icon-270.png",
-            "html_url": "https:\/\/mintfull.agency",
-            "github_url": null,
-            "contributors": [
-                "Progi1984"
             ],
             "employees": []
         },
