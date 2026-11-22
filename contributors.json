@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11515,
+        "contributions": 11516,
         "repositories": {
             "PrestaShop": 4729,
             "PrestaShop-modules": 31,
@@ -119,7 +119,7 @@
             "example-modules": 6,
             "ps_qualityassurance": 1,
             ".github": 7,
-            "test-scenarios": 1121,
+            "test-scenarios": 1122,
             "user-documentation-it": 2,
             "user-documentation-landing": 3,
             "user-documentation-en": 1,
@@ -161,7 +161,7 @@
                 }
             },
             "documentation": {
-                "total": 1345,
+                "total": 1346,
                 "repositories": {
                     "docs": 144,
                     "user-documentation-landing": 3,
@@ -169,7 +169,7 @@
                     "user-documentation-it": 2,
                     "user-documentation-v8-en": 1,
                     "functional-documentation": 2,
-                    "test-scenarios": 1121,
+                    "test-scenarios": 1122,
                     "example-modules": 6,
                     "open-source": 38,
                     "example_module_mailtheme": 4,
@@ -20999,7 +20999,7 @@
         "blog": "https:\/\/www.silbersaiten.de\/",
         "location": "Belarus, Brest",
         "bio": null,
-        "email_domain": "",
+        "email_domain": "gmail.com",
         "contributions": 14,
         "repositories": {
             "PrestaShop": 13,
@@ -52292,5 +52292,5 @@
             }
         }
     },
-    "updatedAt": "2026-11-21 06:09:30"
+    "updatedAt": "2026-11-22 06:09:14"
 }

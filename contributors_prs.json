@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11515,
+        "contributions": 11516,
         "repositories": {
             "PrestaShop": 1214,
             "PrestaShop-modules": 2,
@@ -1358,9 +1358,9 @@
                 "2024": 160
             }
         },
-        "reviews": 7416,
+        "reviews": 7418,
         "reviewsByYear": {
-            "2026": 905,
+            "2026": 907,
             "2025": 801,
             "2024": 703,
             "2023": 509,
@@ -16145,9 +16145,9 @@
                 "2025": 9
             }
         },
-        "reviews": 646,
+        "reviews": 647,
         "reviewsByYear": {
-            "2026": 352,
+            "2026": 353,
             "2025": 293,
             "2023": 1
         },
@@ -16161,9 +16161,9 @@
             "2020": 1,
             "2019": 5
         },
-        "pullRequestsOpened": 373,
+        "pullRequestsOpened": 374,
         "pullRequestsOpenedByYear": {
-            "2026": 172,
+            "2026": 173,
             "2025": 137,
             "2024": 35,
             "2023": 23,
@@ -30235,17 +30235,17 @@
                 "2022": 1
             }
         },
-        "reviews": 81,
+        "reviews": 82,
         "reviewsByYear": {
-            "2026": 17,
+            "2026": 18,
             "2025": 1,
             "2024": 8,
             "2023": 1,
             "2022": 54
         },
-        "issuesOpened": 9,
+        "issuesOpened": 10,
         "issuesOpenedByYear": {
-            "2026": 1,
+            "2026": 2,
             "2025": 1,
             "2022": 5,
             "2020": 2
@@ -38662,9 +38662,9 @@
                 "2023": 1
             }
         },
-        "reviews": 272,
+        "reviews": 275,
         "reviewsByYear": {
-            "2026": 272
+            "2026": 275
         },
         "issuesOpened": 5,
         "issuesOpenedByYear": {
@@ -52839,7 +52839,7 @@
         "blog": "https:\/\/www.silbersaiten.de\/",
         "location": "Belarus, Brest",
         "bio": null,
-        "email_domain": "",
+        "email_domain": "gmail.com",
         "contributions": 14,
         "repositories": {
             "PrestaShop": 5,
@@ -104275,5 +104275,5 @@
             "2025": 1
         }
     },
-    "updatedAt": "2026-11-21T06:27:58+00:00"
+    "updatedAt": "2026-11-22T06:26:42+00:00"
 }
