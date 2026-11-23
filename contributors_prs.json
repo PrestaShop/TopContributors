@@ -10,7 +10,7 @@
         "location": "Rennes, France",
         "bio": null,
         "email_domain": "gmail.com",
-        "contributions": 11516,
+        "contributions": 11517,
         "repositories": {
             "PrestaShop": 1214,
             "PrestaShop-modules": 2,
@@ -5595,9 +5595,9 @@
                 "2025": 1
             }
         },
-        "reviews": 1511,
+        "reviews": 1513,
         "reviewsByYear": {
-            "2026": 385,
+            "2026": 387,
             "2025": 337,
             "2024": 310,
             "2023": 331,
@@ -16145,9 +16145,9 @@
                 "2025": 9
             }
         },
-        "reviews": 647,
+        "reviews": 653,
         "reviewsByYear": {
-            "2026": 353,
+            "2026": 359,
             "2025": 293,
             "2023": 1
         },
@@ -25311,7 +25311,7 @@
         "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1536672?v=4",
         "html_url": "https:\/\/github.com\/cdesiles",
         "name": "Cl\u00e9ment D\u00e9siles",
-        "company": "Fairly",
+        "company": "Click&Boat",
         "blog": "https:\/\/clementdesiles.fr",
         "location": "Strasbourg",
         "bio": null,
@@ -26688,9 +26688,9 @@
                 "2025": 1
             }
         },
-        "reviews": 345,
+        "reviews": 346,
         "reviewsByYear": {
-            "2026": 57,
+            "2026": 58,
             "2025": 79,
             "2024": 147,
             "2023": 62
@@ -38662,18 +38662,18 @@
                 "2023": 1
             }
         },
-        "reviews": 275,
+        "reviews": 278,
         "reviewsByYear": {
-            "2026": 275
+            "2026": 278
         },
         "issuesOpened": 5,
         "issuesOpenedByYear": {
             "2026": 3,
             "2023": 2
         },
-        "pullRequestsOpened": 98,
+        "pullRequestsOpened": 101,
         "pullRequestsOpenedByYear": {
-            "2026": 94,
+            "2026": 97,
             "2023": 4
         }
     },
@@ -104275,5 +104275,5 @@
             "2025": 1
         }
     },
-    "updatedAt": "2026-11-22T06:26:42+00:00"
+    "updatedAt": "2026-11-23T06:36:15+00:00"
 }
