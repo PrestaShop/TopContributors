@@ -5,10 +5,10 @@
         "rank": 0,
         "rank_contributions": 0,
         "rank_pull_requests": 0,
-        "merged_pull_requests": 7458,
+        "merged_pull_requests": 7460,
         "merged_pull_requests_by_version": {
             "9.3": 25,
-            "9.2": 73,
+            "9.2": 75,
             "9.1": 31,
             "9.0": 117,
             "8.2": 10,
@@ -26,7 +26,7 @@
             "1.6.1": 273
         },
         "merged_pull_requests_by_year": {
-            "2026": 272,
+            "2026": 274,
             "2025": 97,
             "2024": 154,
             "2023": 447,
@@ -42,11 +42,11 @@
             "2013": 525,
             "2012": 32
         },
-        "pull_requests_percent": 25.23,
-        "contributions": 27839,
+        "pull_requests_percent": 25.22,
+        "contributions": 27842,
         "contributions_by_version": {
             "9.3": 36,
-            "9.2": 177,
+            "9.2": 180,
             "9.1": 55,
             "9.0": 864,
             "8.2": 17,
@@ -64,7 +64,7 @@
             "1.6.1": 337
         },
         "contributions_by_year": {
-            "2026": 652,
+            "2026": 655,
             "2025": 210,
             "2024": 395,
             "2023": 1955,
@@ -80,9 +80,9 @@
             "2013": 1031,
             "2012": 56
         },
-        "contributions_percent": 21.66,
+        "contributions_percent": 21.65,
         "repositories": {
-            "PrestaShop": 4928,
+            "PrestaShop": 4930,
             "PrestaShop-modules": 257,
             "PrestaShop-webservice-lib": 33,
             "PrestaShop-norm-validator": 2,
@@ -220,7 +220,7 @@
         },
         "repositories_by_year": {
             "PrestaShop": {
-                "2026": 117,
+                "2026": 119,
                 "2025": 35,
                 "2024": 44,
                 "2023": 155,
@@ -1026,7 +1026,7 @@
             "rank": 1,
             "rank_contributions": 1,
             "rank_pull_requests": 1,
-            "merged_pull_requests": 18986,
+            "merged_pull_requests": 18995,
             "merged_pull_requests_by_version": {
                 "9.3": 52,
                 "9.2": 291,
@@ -1047,7 +1047,7 @@
                 "1.6.1": 358
             },
             "merged_pull_requests_by_year": {
-                "2026": 1407,
+                "2026": 1416,
                 "2025": 1585,
                 "2024": 1672,
                 "2023": 1791,
@@ -1062,8 +1062,8 @@
                 "2014": 391,
                 "2013": 24
             },
-            "pull_requests_percent": 64.22,
-            "contributions": 91720,
+            "pull_requests_percent": 64.23,
+            "contributions": 91751,
             "contributions_by_version": {
                 "9.3": 727,
                 "9.2": 1897,
@@ -1084,7 +1084,7 @@
                 "1.6.1": 485
             },
             "contributions_by_year": {
-                "2026": 7738,
+                "2026": 7769,
                 "2025": 6778,
                 "2024": 7345,
                 "2023": 7982,
@@ -1099,7 +1099,7 @@
                 "2014": 786,
                 "2013": 36
             },
-            "contributions_percent": 71.35,
+            "contributions_percent": 71.36,
             "repositories": {
                 "PrestaShop-backward_compatibility": 1,
                 "PrestaShop": 9761,
@@ -1267,11 +1267,11 @@
                 "bootstrap-compatibility-layer": 10,
                 "prestashop-flashlight": 128,
                 "ws-client": 5,
-                "ps_apiresources": 134,
-                "ui-testing-library": 549,
+                "ps_apiresources": 136,
+                "ui-testing-library": 550,
                 "SeamlessUpgradeToolbox": 28,
                 "Prestashop-BO-themes-package": 3,
-                "ps_onepagecheckout": 52,
+                "ps_onepagecheckout": 58,
                 "skills": 6
             },
             "repositories_by_year": {
@@ -2470,13 +2470,13 @@
                     "2023": 2
                 },
                 "ps_apiresources": {
-                    "2026": 67,
+                    "2026": 69,
                     "2025": 30,
                     "2024": 31,
                     "2023": 6
                 },
                 "ui-testing-library": {
-                    "2026": 104,
+                    "2026": 105,
                     "2025": 217,
                     "2024": 228
                 },
@@ -2488,7 +2488,7 @@
                     "2024": 3
                 },
                 "ps_onepagecheckout": {
-                    "2026": 52
+                    "2026": 58
                 },
                 "skills": {
                     "2026": 6
@@ -7787,6 +7787,55 @@
             "employees": []
         },
         {
+            "name": "ohmyweb!",
+            "slug": "ohmyweb",
+            "rank": 34,
+            "rank_contributions": 34,
+            "rank_pull_requests": 25,
+            "merged_pull_requests": 3,
+            "merged_pull_requests_by_version": {
+                "9.2": 1,
+                "9.0": 1
+            },
+            "merged_pull_requests_by_year": {
+                "2026": 1,
+                "2025": 1,
+                "2023": 1
+            },
+            "pull_requests_percent": 0.01,
+            "contributions": 3,
+            "contributions_by_version": {
+                "9.2": 1,
+                "9.0": 1
+            },
+            "contributions_by_year": {
+                "2026": 1,
+                "2025": 1,
+                "2023": 1
+            },
+            "contributions_percent": 0,
+            "repositories": {
+                "PrestaShop": 2,
+                "autoload": 1
+            },
+            "repositories_by_year": {
+                "PrestaShop": {
+                    "2026": 1,
+                    "2025": 1
+                },
+                "autoload": {
+                    "2023": 1
+                }
+            },
+            "avatar_url": "",
+            "html_url": "https:\/\/www.ohmyweb.fr",
+            "github_url": null,
+            "contributors": [
+                "SebBareyre"
+            ],
+            "employees": []
+        },
+        {
             "name": "Profileo",
             "slug": "profileo",
             "rank": 34,
@@ -8130,50 +8179,6 @@
             "github_url": null,
             "contributors": [
                 "innamhunzai"
-            ],
-            "employees": []
-        },
-        {
-            "name": "ohmyweb!",
-            "slug": "ohmyweb",
-            "rank": 35,
-            "rank_contributions": 35,
-            "rank_pull_requests": 26,
-            "merged_pull_requests": 2,
-            "merged_pull_requests_by_version": {
-                "9.0": 1
-            },
-            "merged_pull_requests_by_year": {
-                "2025": 1,
-                "2023": 1
-            },
-            "pull_requests_percent": 0.01,
-            "contributions": 2,
-            "contributions_by_version": {
-                "9.0": 1
-            },
-            "contributions_by_year": {
-                "2025": 1,
-                "2023": 1
-            },
-            "contributions_percent": 0,
-            "repositories": {
-                "PrestaShop": 1,
-                "autoload": 1
-            },
-            "repositories_by_year": {
-                "PrestaShop": {
-                    "2025": 1
-                },
-                "autoload": {
-                    "2023": 1
-                }
-            },
-            "avatar_url": "",
-            "html_url": "https:\/\/www.ohmyweb.fr",
-            "github_url": null,
-            "contributors": [
-                "SebBareyre"
             ],
             "employees": []
         },
